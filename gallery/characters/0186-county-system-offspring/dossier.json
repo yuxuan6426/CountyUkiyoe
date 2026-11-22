@@ -1,0 +1,661 @@
+{
+  "name": "县城体制内家庭子女",
+  "nature": "原型/复合群像，非单一具名自然人。由第273、382、305、286、233、182、105等一般化文案叠加，无姓名、无连续人生时间线；“编二代”等近邻称谓未明示等同。角色核心是县城体制内家庭子女/体制世家子女：父母有编、家庭体面，子女路径指向考编；另有“边二代”压抑版本。",
+  "overview": "该角色由多篇县城文案叠加而成：父母有编、收入稳定、家庭体面，孩子无论成绩好坏最终多被引向考编；家庭可在学历补救、全职备考、车房彩礼、婚恋筛选和体制内经验上提供扶持。标准版本强调有编与无编不通婚，生活目标是稳定、体面、低风险，入编后父母备好房车，与带编异性结婚后六口人收入宽裕。另一版本称其作为“边二代”内心压抑，能看到花花世界但不敢涉足。已入编状态与“全职备考几年进入县城体制”的路径并列，原文未给统一时间点。适合按出处理解其叙述设定。",
+  "identity": [
+    {
+      "claim": "父母有编，家庭被描述为县城体制世家；子女自身以带编为目标或已带编。",
+      "evidence": [
+        {
+          "index": 382,
+          "url": "https://www.douyin.com/video/7346900005896113445"
+        },
+        {
+          "index": 305,
+          "url": "https://www.douyin.com/video/7482393384854883641"
+        }
+      ]
+    },
+    {
+      "claim": "家庭不算大富大贵，但绝对体面，穿衣打扮到谈吐举止带体制味/“边味”。",
+      "evidence": [
+        {
+          "index": 305,
+          "url": "https://www.douyin.com/video/7482393384854883641"
+        }
+      ]
+    },
+    {
+      "claim": "子女职业路径高度指向考编，成绩好坏结果相同。",
+      "evidence": [
+        {
+          "index": 382,
+          "url": "https://www.douyin.com/video/7346900005896113445"
+        },
+        {
+          "index": 305,
+          "url": "https://www.douyin.com/video/7482393384854883641"
+        }
+      ]
+    },
+    {
+      "claim": "父母在县城体制内多年，月月进账两三万，能攒百八十万；子女是独生式“宝贝疙瘩”。",
+      "evidence": [
+        {
+          "index": 305,
+          "url": "https://www.douyin.com/video/7482393384854883641"
+        }
+      ]
+    },
+    {
+      "claim": "入编后父母已备好房子车子；本人工资只有5000左右也可开BBA、穿大牌。",
+      "evidence": [
+        {
+          "index": 286,
+          "url": "https://www.douyin.com/video/7503950426107088165"
+        }
+      ]
+    },
+    {
+      "claim": "婚配倾向同样带编对象，双方父母有退休金，六口人月入四五万。",
+      "evidence": [
+        {
+          "index": 286,
+          "url": "https://www.douyin.com/video/7503950426107088165"
+        }
+      ]
+    }
+  ],
+  "traits": [
+    {
+      "claim": "核心动机是稳定、体面、延续父母体制内优势，成为父母人生的pro版本。",
+      "kind": "动机",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 286,
+          "url": "https://www.douyin.com/video/7503950426107088165"
+        },
+        {
+          "index": 382,
+          "url": "https://www.douyin.com/video/7346900005896113445"
+        }
+      ]
+    },
+    {
+      "claim": "婚姻上强调编制匹配，没编免谈、不通婚。",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 382,
+          "url": "https://www.douyin.com/video/7346900005896113445"
+        }
+      ]
+    },
+    {
+      "claim": "生活压力小，能躺平，因为家庭有积蓄和退休金托底。",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 305,
+          "url": "https://www.douyin.com/video/7482393384854883641"
+        },
+        {
+          "index": 286,
+          "url": "https://www.douyin.com/video/7503950426107088165"
+        }
+      ]
+    },
+    {
+      "claim": "对子女的学历要求可通过非统招路径补救，关键是入编。",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 273,
+          "url": "https://www.douyin.com/video/7513049778029153575"
+        }
+      ]
+    },
+    {
+      "claim": "依赖父母资源人脉和退休资金，用于职业、婚恋和持续生活支持。",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 273,
+          "url": "https://www.douyin.com/video/7513049778029153575"
+        },
+        {
+          "index": 233,
+          "url": "https://www.douyin.com/video/7565399420146683193"
+        }
+      ]
+    },
+    {
+      "claim": "另一版本称其内心压抑：能看到花花世界但不敢涉足。",
+      "kind": "矛盾",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 182,
+          "url": "https://www.douyin.com/video/7598559726875593984"
+        },
+        {
+          "index": 105,
+          "url": "https://www.douyin.com/video/7649231017782122737"
+        }
+      ]
+    },
+    {
+      "claim": "父母有编，家庭被描述为县城体制世家；子女自身以带编为目标或已带编。",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "家庭不算大富大贵，但绝对体面，穿衣打扮到谈吐举止带体制味/“边味”。",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "子女职业路径高度指向考编，成绩好坏结果相同。",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "成绩差可通过专科、专升本、函授/自考补救，再全职备考进入县城体制。",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "父母在县城体制内多年，月月进账两三万，能攒百八十万；子女是独生式“宝贝疙瘩”。",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "入编后父母已备好房子车子；本人工资只有5000左右也可开BBA、穿大牌。",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "婚配倾向同样带编对象，双方父母有退休金，六口人月入四五万。",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "生活目标是稳定、体面、低风险，与带编异性组成六口人收入宽裕的家庭。",
+      "kind": "欲望",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "一版被写成能躺平、生活压力小；另一版用“边二代”称其内心非常压抑，看到花花世界但从未敢涉足，原文未统一。",
+      "kind": "矛盾",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "一版称其已经“自己带编”；另一版给出“全职备考几年进入县城体制”的备考路径，原文未给统一时间点。",
+      "kind": "矛盾",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "旧线索以“县城体制内家庭子女/体制世家子女”称呼；全库另有“编二代/边二代”叙述，原文未明示二者完全等同。",
+      "kind": "矛盾",
+      "certainty": "文本推断",
+      "evidence": []
+    }
+  ],
+  "life_domains": [
+    {
+      "domain": "家庭",
+      "claim": "父母有编，独生式扶持，买车买房彩礼，逢年过节给红包金镯子。",
+      "evidence": [
+        {
+          "index": 233,
+          "url": "https://www.douyin.com/video/7565399420146683193"
+        },
+        {
+          "index": 286,
+          "url": "https://www.douyin.com/video/7503950426107088165"
+        }
+      ]
+    },
+    {
+      "domain": "职业",
+      "claim": "职业路径集中在考编/入编，父母体制内资源人脉可在关键节点发挥优势。",
+      "evidence": [
+        {
+          "index": 273,
+          "url": "https://www.douyin.com/video/7513049778029153575"
+        },
+        {
+          "index": 382,
+          "url": "https://www.douyin.com/video/7346900005896113445"
+        }
+      ]
+    },
+    {
+      "domain": "金钱",
+      "claim": "本人工资不高，但家庭月入和积蓄托底，六口人收入宽裕。",
+      "evidence": [
+        {
+          "index": 305,
+          "url": "https://www.douyin.com/video/7482393384854883641"
+        },
+        {
+          "index": 286,
+          "url": "https://www.douyin.com/video/7503950426107088165"
+        }
+      ]
+    },
+    {
+      "domain": "婚恋",
+      "claim": "只找带编对象，没编免谈；与带编异性结婚后双方父母都有退休金。",
+      "evidence": [
+        {
+          "index": 382,
+          "url": "https://www.douyin.com/video/7346900005896113445"
+        },
+        {
+          "index": 286,
+          "url": "https://www.douyin.com/video/7503950426107088165"
+        }
+      ]
+    },
+    {
+      "domain": "消费",
+      "claim": "文本顶级形态中，子女工资5000也可开BBA、浑身大牌，消费水平由家庭托举。",
+      "evidence": [
+        {
+          "index": 286,
+          "url": "https://www.douyin.com/video/7503950426107088165"
+        }
+      ]
+    },
+    {
+      "domain": "社交/权力",
+      "claim": "家庭谈吐带“边味”，处于体制圈层；父母资源人脉构成代际优势。",
+      "evidence": [
+        {
+          "index": 305,
+          "url": "https://www.douyin.com/video/7482393384854883641"
+        },
+        {
+          "index": 273,
+          "url": "https://www.douyin.com/video/7513049778029153575"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "event_id": "E001",
+      "title": "学历补救与入编路径",
+      "description": "文本描述体制内家庭孩子即使成绩差，也可考专科、专升本、函授/自考混本科，再通过招聘考试、全职备考几年进入县城体制。",
+      "temporal": "原文用“然后”“再”表明先后；无日期",
+      "chronology_basis": "明示",
+      "evidence": [
+        {
+          "index": 273,
+          "url": "https://www.douyin.com/video/7513049778029153575"
+        }
+      ]
+    },
+    {
+      "event_id": "E002",
+      "title": "父母备好入编后与结婚时的资产",
+      "description": "父母在子女入编后已把房子车子买好；结婚时大概率备好全款车房，彩礼也由父母出。",
+      "temporal": "原文称“入编之后”“结婚的时候”；顺序明示",
+      "chronology_basis": "明示",
+      "evidence": [
+        {
+          "index": 286,
+          "url": "https://www.douyin.com/video/7503950426107088165"
+        },
+        {
+          "index": 233,
+          "url": "https://www.douyin.com/video/7565399420146683193"
+        }
+      ]
+    },
+    {
+      "event_id": "E003",
+      "title": "婚恋筛选：只找带编",
+      "description": "这种家庭出身的子女找对象只找带编的，没编一律免谈，观念中无编与有编不通婚。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 382,
+          "url": "https://www.douyin.com/video/7346900005896113445"
+        }
+      ]
+    },
+    {
+      "event_id": "E004",
+      "title": "父母体制资源与退休资金发挥",
+      "description": "父母利用县城体制内资源人脉给孩子提供优势；找对象时父母的退休资金也成为条件优势。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 273,
+          "url": "https://www.douyin.com/video/7513049778029153575"
+        }
+      ]
+    },
+    {
+      "event_id": "E005",
+      "title": "躺平低压力生活",
+      "description": "父母在体制内多年积累百八十万，一个宝贝疙瘩，子女因此被认为能躺平。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 305,
+          "url": "https://www.douyin.com/video/7482393384854883641"
+        }
+      ]
+    },
+    {
+      "event_id": "E006",
+      "title": "顶级形态：与带编异性结婚",
+      "description": "文本描述其与另一个带编异性结婚，双方父母有退休金，六口人月入四五万，钱根本花不了。",
+      "temporal": "原文称“然后找到……结婚”；明示先后",
+      "chronology_basis": "明示",
+      "evidence": [
+        {
+          "index": 286,
+          "url": "https://www.douyin.com/video/7503950426107088165"
+        }
+      ]
+    },
+    {
+      "event_id": "E007",
+      "title": "压抑版本",
+      "description": "另有文本用“边二代”指称并称其内心非常压抑，看到花花世界也不敢涉足。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 182,
+          "url": "https://www.douyin.com/video/7598559726875593984"
+        },
+        {
+          "index": 105,
+          "url": "https://www.douyin.com/video/7649231017782122737"
+        }
+      ]
+    }
+  ],
+  "storylines": [
+    {
+      "title": "体制世家子女的标准路径",
+      "event_ids": [
+        "E001",
+        "E002",
+        "E004",
+        "E003",
+        "E005",
+        "E006"
+      ],
+      "narrative": "从父母有编、家庭体面的体制世家开始，孩子无论成绩好坏都被引向考编；成绩差则通过专科、专升本、函授/自考等路径混本科，再全职备考进入县城体制。入编后父母已备好房子车子，结婚时备好车房彩礼；父母体制资源、人脉和退休资金继续在职业与婚恋中发力。婚配同样只找带编对象，最终可形成双方父母有退休金、六口人月入四五万的稳定生活。冲突在于：这套路径高度依赖家庭托举，文本未给出失败或例外。",
+      "unresolved": "是否所有体制内家庭子女都能入编、都能获得全款车房、都能找到带编对象，原文没有交代。",
+      "evidence": [
+        {
+          "index": 273,
+          "url": "https://www.douyin.com/video/7513049778029153575"
+        },
+        {
+          "index": 286,
+          "url": "https://www.douyin.com/video/7503950426107088165"
+        },
+        {
+          "index": 233,
+          "url": "https://www.douyin.com/video/7565399420146683193"
+        },
+        {
+          "index": 382,
+          "url": "https://www.douyin.com/video/7346900005896113445"
+        },
+        {
+          "index": 305,
+          "url": "https://www.douyin.com/video/7482393384854883641"
+        }
+      ]
+    },
+    {
+      "title": "编二代/边二代的压抑版本",
+      "event_ids": [
+        "E007"
+      ],
+      "narrative": "另一路文本用“边二代”指称相近群体，称其内心非常压抑：物质和家庭路径被安排好，能看到花花世界但不敢涉足，靠极端爱好撑着。该版本与“体制世家子女能躺平”的叙述并列，原文未说明是否为同一批人。",
+      "unresolved": "“边二代/编二代”与“县城体制世家子女”是否完全等同，文本没有明确。",
+      "evidence": [
+        {
+          "index": 182,
+          "url": "https://www.douyin.com/video/7598559726875593984"
+        },
+        {
+          "index": 105,
+          "url": "https://www.douyin.com/video/7649231017782122737"
+        }
+      ]
+    }
+  ],
+  "relationships": [
+    {
+      "target": "县城体制内父母/老两口",
+      "relation": "子女与父母；父母提供全款车房、彩礼、备考条件、资源人脉和退休资金扶持",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 233,
+          "url": "https://www.douyin.com/video/7565399420146683193"
+        },
+        {
+          "index": 305,
+          "url": "https://www.douyin.com/video/7482393384854883641"
+        }
+      ]
+    },
+    {
+      "target": "带编异性",
+      "relation": "婚恋对象；只找带编，双方父母有退休金",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 382,
+          "url": "https://www.douyin.com/video/7346900005896113445"
+        },
+        {
+          "index": 286,
+          "url": "https://www.douyin.com/video/7503950426107088165"
+        }
+      ]
+    },
+    {
+      "target": "没编的人",
+      "relation": "不通婚/免谈",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 382,
+          "url": "https://www.douyin.com/video/7346900005896113445"
+        }
+      ]
+    },
+    {
+      "target": "普通家庭孩子/985211毕业打工者",
+      "relation": "对比对象；文本称体制内家庭资源人脉可给孩子别人十年追不上的优势",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 273,
+          "url": "https://www.douyin.com/video/7513049778029153575"
+        }
+      ]
+    },
+    {
+      "target": "编二代/边二代（原文用字）",
+      "relation": "近邻称谓；部分文本称其压抑，未明示与县城体制世家子女完全等同",
+      "certainty": "文本推断",
+      "evidence": [
+        {
+          "index": 182,
+          "url": "https://www.douyin.com/video/7598559726875593984"
+        },
+        {
+          "index": 105,
+          "url": "https://www.douyin.com/video/7649231017782122737"
+        }
+      ]
+    }
+  ],
+  "speech_habits": [
+    {
+      "claim": "原文没有该角色本人的直接引语；只描述家庭谈吐举止带“边味”/体制味。",
+      "evidence": [
+        {
+          "index": 305,
+          "url": "https://www.douyin.com/video/7482393384854883641"
+        }
+      ]
+    }
+  ],
+  "contradictions": [
+    {
+      "issue": "体制内家庭子女是躺平幸福还是内心压抑",
+      "versions": [
+        {
+          "claim": "体制世家子女被描述为能躺平、生活压力小",
+          "evidence": [
+            {
+              "index": 305,
+              "url": "https://www.douyin.com/video/7482393384854883641"
+            }
+          ]
+        },
+        {
+          "claim": "另有文本用“边二代”指称并称其内心非常压抑",
+          "evidence": [
+            {
+              "index": 182,
+              "url": "https://www.douyin.com/video/7598559726875593984"
+            }
+          ]
+        }
+      ],
+      "resolution": "并列保留：一篇强调躺平托底，一篇强调压抑，原文未统一。"
+    },
+    {
+      "issue": "子女是否已经入编",
+      "versions": [
+        {
+          "claim": "已入编状态：“这种人不仅自己带编，父母也都有编”",
+          "evidence": [
+            {
+              "index": 382,
+              "url": "https://www.douyin.com/video/7346900005896113445"
+            }
+          ]
+        },
+        {
+          "claim": "备考路径：“再让孩子通过招聘考试，全职备考几年进入县城体制”",
+          "evidence": [
+            {
+              "index": 273,
+              "url": "https://www.douyin.com/video/7513049778029153575"
+            }
+          ]
+        }
+      ],
+      "resolution": "分别代表已入编状态与备考路径，原文未给统一时间点。"
+    },
+    {
+      "issue": "“编二代/边二代”与“体制世家子女”是否同一角色",
+      "versions": [
+        {
+          "claim": "旧线索以“县城体制内家庭子女/体制世家子女”称呼",
+          "evidence": [
+            {
+              "index": 382,
+              "url": "https://www.douyin.com/video/7346900005896113445"
+            }
+          ]
+        },
+        {
+          "claim": "全库另有“编二代/边二代”叙述其压抑",
+          "evidence": [
+            {
+              "index": 182,
+              "url": "https://www.douyin.com/video/7598559726875593984"
+            }
+          ]
+        }
+      ],
+      "resolution": "未明示等同，保留并列，不擅自合并。"
+    }
+  ],
+  "gaps": [
+    "缺姓名、性别、具体年龄、个人经历、直接对话。",
+    "缺是否所有家庭都月入两三万、攒百八十万、备好全款车房。",
+    "缺“成绩差也最终有编”的失败或例外情形。",
+    "缺与“编二代”“末代少爷”“假性中产家庭子女”的明确边界。",
+    "缺具体时间线和学校、单位等细节。",
+    "原文未交代其姓名、性别、具体年龄、个人经历和直接对话。",
+    "原文未交代是否所有这类家庭都月入两三万、攒百八十万、备好全款车房。",
+    "原文未交代“成绩差也最终有编”的失败或例外情形。",
+    "原文未交代其与“编二代”“末代少爷”“假性中产家庭子女”的明确边界。",
+    "原文未交代具体时间线以及学校、单位等细节。"
+  ],
+  "creative_expansions": [],
+  "source_coverage": [
+    {
+      "index": 273,
+      "role": "提供父母体制内资源人脉优势、学历补救路径、全职备考进入县城体制、退休资金婚恋优势。",
+      "url": "https://www.douyin.com/video/7513049778029153575"
+    },
+    {
+      "index": 382,
+      "role": "核心定义体制世家子女：自己带编、父母有编、只找带编、没编免谈、成绩好坏都考编、家庭体面、父母月入两三万攒百八十万、宝贝疙瘩、能躺平。",
+      "url": "https://www.douyin.com/video/7346900005896113445"
+    },
+    {
+      "index": 305,
+      "role": "与第382篇高度重复，补充“小县城真正能躺平的人”语境与家庭谈吐带边味。",
+      "url": "https://www.douyin.com/video/7482393384854883641"
+    },
+    {
+      "index": 286,
+      "role": "补充顶级形态：父母入编后买房车、与带编异性结婚、六口人月入四五万、开BBA大牌。",
+      "url": "https://www.douyin.com/video/7503950426107088165"
+    },
+    {
+      "index": 233,
+      "role": "补充父母体制内对子女婚嫁、车房彩礼和生活花销的托举，以及编制给下一代。",
+      "url": "https://www.douyin.com/video/7565399420146683193"
+    },
+    {
+      "index": 182,
+      "role": "补充“边二代”内心压抑版本。",
+      "url": "https://www.douyin.com/video/7598559726875593984"
+    },
+    {
+      "index": 105,
+      "role": "补充“边二代”看到花花世界但不敢涉足的压抑叙述。",
+      "url": "https://www.douyin.com/video/7649231017782122737"
+    }
+  ]
+}

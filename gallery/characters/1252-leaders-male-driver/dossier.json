@@ -1,0 +1,569 @@
+{
+  "name": "县城领导的男司机",
+  "nature": "单篇角色/县城原型。仅第13篇明确塑造，是县城伪中产家庭出身的领导男司机，与“县城王漫妮”婚恋惨案组合中的男方；文本以职业位置、人情输送、权力错觉和婚恋下坡预判来刻画，不对应现实人物。编纂说明：限于第13篇，姓名、年龄、具体单位与结局未交代。",
+  "overview": "县城领导的男司机是第13篇集中塑造的婚恋角色：来自县城伪中产家庭，学历能力有限且不想努力，靠父母资源与门路成为领导司机。工资不高，却因位置关键被人巴结，烟酒茶不缺，求项目者也在他身上花钱；长期靠近权力后产生“自己就是权力一部分”的错觉，自我估值高。原文既写他风光体面，又写职业花期短、领导调走或出事就可能失去位置；既写他办不了大事、只能透露领导行踪，又写他使坏能量大、没人敢得罪。婚恋上，他与县城王漫妮见面时互相高估，结婚被视为各自价值最高点；婚后王漫妮颜值气质衰落、司机被外面瑜伽裤吸引，原文判断散伙可能性最大，列为县城婚恋十大惨案之首，但未明示实际离婚、出轨或职业爆雷。",
+  "identity": [
+    {
+      "claim": "性别男，职业是县城领导的男司机",
+      "evidence": [
+        {
+          "index": 13,
+          "url": "https://www.douyin.com/video/7700400421937377939"
+        }
+      ]
+    },
+    {
+      "claim": "出身被描述为县城伪中产家庭，是这种家庭的“最后一舞”",
+      "evidence": [
+        {
+          "index": 13,
+          "url": "https://www.douyin.com/video/7700400421937377939"
+        }
+      ]
+    },
+    {
+      "claim": "学历能力有限且不想努力，靠父母资源和门路进入领导身边位置",
+      "evidence": [
+        {
+          "index": 13,
+          "url": "https://www.douyin.com/video/7700400421937377939"
+        }
+      ]
+    },
+    {
+      "claim": "工资/收入不高",
+      "evidence": [
+        {
+          "index": 13,
+          "url": "https://www.douyin.com/video/7700400421937377939"
+        }
+      ]
+    },
+    {
+      "claim": "职业花期很短，天花板在结婚时已经摆明",
+      "evidence": [
+        {
+          "index": 13,
+          "url": "https://www.douyin.com/video/7700400421937377939"
+        }
+      ]
+    },
+    {
+      "claim": "可能通过非正式渠道获得好处，企业为项目在他身上花钱",
+      "evidence": [
+        {
+          "index": 13,
+          "url": "https://www.douyin.com/video/7700400421937377939"
+        }
+      ]
+    },
+    {
+      "claim": "位置关键，别人会巴结，给领导送礼者会给他捎带",
+      "evidence": [
+        {
+          "index": 13,
+          "url": "https://www.douyin.com/video/7700400421937377939"
+        }
+      ]
+    },
+    {
+      "claim": "帮人办不了大事，顶多透露领导行踪，但使坏能量大，没人敢得罪",
+      "evidence": [
+        {
+          "index": 13,
+          "url": "https://www.douyin.com/video/7700400421937377939"
+        }
+      ]
+    },
+    {
+      "claim": "工作性质是拉领导、见场面、听项目，工作时间不确定",
+      "evidence": [
+        {
+          "index": 13,
+          "url": "https://www.douyin.com/video/7700400421937377939"
+        }
+      ]
+    },
+    {
+      "claim": "追求另一半的颜值和气质",
+      "evidence": [
+        {
+          "index": 13,
+          "url": "https://www.douyin.com/video/7700400421937377939"
+        }
+      ]
+    }
+  ],
+  "traits": [
+    {
+      "claim": "因长期靠近权力而产生身份错觉，感觉自己就是权力的一部分",
+      "kind": "自我形象",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 13,
+          "url": "https://www.douyin.com/video/7700400421937377939"
+        }
+      ]
+    },
+    {
+      "claim": "消费、娱乐、为人处事姿态和看问题角度会受权力场影响",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 13,
+          "url": "https://www.douyin.com/video/7700400421937377939"
+        }
+      ]
+    },
+    {
+      "claim": "自我估值高，认为自己刚好就是最棒的",
+      "kind": "自我形象",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 13,
+          "url": "https://www.douyin.com/video/7700400421937377939"
+        }
+      ]
+    },
+    {
+      "claim": "是县城人情世故价值体系的忠实簇拥，同时又是最大受害者",
+      "kind": "矛盾",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 13,
+          "url": "https://www.douyin.com/video/7700400421937377939"
+        }
+      ]
+    },
+    {
+      "claim": "通过位置获得人情与快钱，但这类钱来得容易，花得不心疼",
+      "kind": "欲望",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 13,
+          "url": "https://www.douyin.com/video/7700400421937377939"
+        }
+      ]
+    },
+    {
+      "claim": "恐惧/危机：一旦不再是领导司机，别人不会再送礼、高看，婚姻前提也会失去",
+      "kind": "恐惧",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 13,
+          "url": "https://www.douyin.com/video/7700400421937377939"
+        }
+      ]
+    },
+    {
+      "claim": "想追求风光体面，但收入与职业稳定性支撑不了长期体面",
+      "kind": "矛盾",
+      "certainty": "文本推断",
+      "evidence": [
+        {
+          "index": 13,
+          "url": "https://www.douyin.com/video/7700400421937377939"
+        }
+      ]
+    },
+    {
+      "claim": "因长期靠近权力而产生“自己就是权力的一部分”的错觉",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "消费、娱乐、为人处事姿态和看待问题的角度会不自觉受权力场影响",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "是县城人情世故价值体系的忠实簇拥，同时又是这套价值体系的最大受害者",
+      "kind": "矛盾",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "通过位置获得人情与快钱，且“轻轻松松捡到的钱，怎么花都不心疼”",
+      "kind": "欲望",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "非常追求另一半的颜值和气质",
+      "kind": "欲望",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "恐惧一旦不再是领导司机，别人不再送礼、高看，婚姻也会失去前提",
+      "kind": "动机",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "办事能力两面并存：办不了啥大事、顶多透露领导行踪；但使坏能量大、谁也不敢得罪",
+      "kind": "矛盾",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "风光体面与收入不高、职业不稳并存：收入不高但风光体面；司机职业花期短，可能被领导调走或不用",
+      "kind": "矛盾",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "婚恋结局只有“十大惨案之首”与“散伙可能性最大”的预判，未明示实际离婚",
+      "kind": "矛盾",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "职业变动是风险预判还是实际发生未定：可能调走就不带你了；你现在搞一个出租车司机，那能一样吗",
+      "kind": "矛盾",
+      "certainty": "文本推断",
+      "evidence": []
+    }
+  ],
+  "life_domains": [
+    {
+      "domain": "职业",
+      "claim": "领导司机，拉领导、见场面、听项目，工作时间不确定；位置关键但办不了大事；职业花期短，可能因领导调走或出事失去岗位",
+      "evidence": [
+        {
+          "index": 13,
+          "url": "https://www.douyin.com/video/7700400421937377939"
+        }
+      ]
+    },
+    {
+      "domain": "金钱",
+      "claim": "工资不高；烟酒茶不缺，企业为项目在他身上花钱；轻松捡来的钱花得不心疼",
+      "evidence": [
+        {
+          "index": 13,
+          "url": "https://www.douyin.com/video/7700400421937377939"
+        }
+      ]
+    },
+    {
+      "domain": "婚恋",
+      "claim": "与县城王漫妮结婚；见面时双方都拉高估值，被视为各自价值最高点；婚后下坡，原文判断散伙可能性最大",
+      "evidence": [
+        {
+          "index": 13,
+          "url": "https://www.douyin.com/video/7700400421937377939"
+        }
+      ]
+    },
+    {
+      "domain": "社交/人情",
+      "claim": "被人巴结，给领导送礼者会给他捎带；谁也不敢得罪他；可透露领导行踪",
+      "evidence": [
+        {
+          "index": 13,
+          "url": "https://www.douyin.com/video/7700400421937377939"
+        }
+      ]
+    },
+    {
+      "domain": "权力",
+      "claim": "靠近权力并产生自己就是权力一部分的错觉，但并非真正拥有权力",
+      "evidence": [
+        {
+          "index": 13,
+          "url": "https://www.douyin.com/video/7700400421937377939"
+        }
+      ]
+    },
+    {
+      "domain": "消费/娱乐",
+      "claim": "消费、娱乐、为人处事姿态受权力场影响",
+      "evidence": [
+        {
+          "index": 13,
+          "url": "https://www.douyin.com/video/7700400421937377939"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "event_id": "E001",
+      "title": "靠父母资源成为领导司机",
+      "description": "因其父母有资源和门路，经九牛二虎之力被送到县城最好的位置，成为领导身边的司机。",
+      "temporal": "原文只给因果，无具体时间",
+      "chronology_basis": "明示",
+      "evidence": [
+        {
+          "index": 13,
+          "url": "https://www.douyin.com/video/7700400421937377939"
+        }
+      ]
+    },
+    {
+      "event_id": "E002",
+      "title": "在司机位置上获得人情和送礼",
+      "description": "别人巴结讨好他，烟酒茶不缺；给领导送礼的人会给他捎带；做企业者为项目也会在他身上花钱。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 13,
+          "url": "https://www.douyin.com/video/7700400421937377939"
+        }
+      ]
+    },
+    {
+      "event_id": "E003",
+      "title": "产生权力错觉并抬高自我估值",
+      "description": "长期靠近权力后，他感觉自己就是权力的一部分；消费、娱乐、姿态和看问题角度受影响，并觉得自己最棒。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 13,
+          "url": "https://www.douyin.com/video/7700400421937377939"
+        }
+      ]
+    },
+    {
+      "event_id": "E004",
+      "title": "与县城王漫妮见面并结婚",
+      "description": "两人见面时都给自己拉高估值，处在各自价值最高点；原文称一旦结婚，必然越看对方越不顺眼。",
+      "temporal": "原文用“一见面”“一旦结婚”表示先后，无具体时间",
+      "chronology_basis": "明示",
+      "evidence": [
+        {
+          "index": 13,
+          "url": "https://www.douyin.com/video/7700400421937377939"
+        }
+      ]
+    },
+    {
+      "event_id": "E005",
+      "title": "婚后下坡与散伙预判",
+      "description": "司机职业花期短，可能不再是领导司机；王漫妮颜值气质衰落；司机被外面瑜伽裤吸引；原文判断二人散伙可能性最大。",
+      "temporal": "为婚后趋势/预判，未明示实际发生",
+      "chronology_basis": "明示",
+      "evidence": [
+        {
+          "index": 13,
+          "url": "https://www.douyin.com/video/7700400421937377939"
+        }
+      ]
+    }
+  ],
+  "storylines": [
+    {
+      "title": "县城王漫妮与领导的男司机的婚恋惨案线",
+      "event_ids": [
+        "E001",
+        "E002",
+        "E003",
+        "E004",
+        "E005"
+      ],
+      "narrative": "男司机靠父母资源和门路进入领导身边工作，位置关键而收入不高，却能收获人情、送礼和快钱，并在长期靠近权力中产生自己就是权力一部分的错觉。县城王漫妮在婚恋市场错峰后遇到他，两人见面时都高估自己，结婚时被视为各自价值最高点。婚后，司机职业花期短，可能因领导调走或出事失去岗位；王漫妮颜值气质随花费减少而衰落；司机追求颜值气质，又被外面瑜伽裤吸引。原文由此判断二人散伙可能性最大，并将其列为县城婚恋十大惨案之首。",
+      "unresolved": "是否实际离婚/散伙、是否实际出轨、领导是否调走或出事、司机是否转为出租车司机、婚后有无子女等均未交代。",
+      "evidence": [
+        {
+          "index": 13,
+          "url": "https://www.douyin.com/video/7700400421937377939"
+        }
+      ]
+    }
+  ],
+  "relationships": [
+    {
+      "target": "县城王漫妮",
+      "relation": "婚恋对象/妻子",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 13,
+          "url": "https://www.douyin.com/video/7700400421937377939"
+        }
+      ]
+    },
+    {
+      "target": "县城领导",
+      "relation": "服务对象/领导",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 13,
+          "url": "https://www.douyin.com/video/7700400421937377939"
+        }
+      ]
+    },
+    {
+      "target": "父母",
+      "relation": "为其提供资源和门路",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 13,
+          "url": "https://www.douyin.com/video/7700400421937377939"
+        }
+      ]
+    },
+    {
+      "target": "做企业的求项目者",
+      "relation": "为项目在他身上花钱/送礼",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 13,
+          "url": "https://www.douyin.com/video/7700400421937377939"
+        }
+      ]
+    },
+    {
+      "target": "给领导送礼的人",
+      "relation": "给司机捎带人情",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 13,
+          "url": "https://www.douyin.com/video/7700400421937377939"
+        }
+      ]
+    },
+    {
+      "target": "县城瑜伽裤",
+      "relation": "被司机注意/潜在吸引对象",
+      "certainty": "文本推断",
+      "evidence": [
+        {
+          "index": 13,
+          "url": "https://www.douyin.com/video/7700400421937377939"
+        }
+      ]
+    }
+  ],
+  "speech_habits": [],
+  "contradictions": [
+    {
+      "issue": "司机办事能力与使坏能量出现两面说法",
+      "versions": [
+        {
+          "claim": "办不了啥大事，顶多告诉一下别人领导的行踪",
+          "evidence": [
+            {
+              "index": 13,
+              "url": "https://www.douyin.com/video/7700400421937377939"
+            }
+          ]
+        },
+        {
+          "claim": "使坏能量大了去了，谁也不敢得罪他",
+          "evidence": [
+            {
+              "index": 13,
+              "url": "https://www.douyin.com/video/7700400421937377939"
+            }
+          ]
+        }
+      ],
+      "resolution": "保留并列，两者是同一位置的两面，不擅自合并。"
+    },
+    {
+      "issue": "司机既被写成风光体面，又被写成收入不高、职业不稳",
+      "versions": [
+        {
+          "claim": "虽然收入不高，但必然是风光体面，被人高看一眼",
+          "evidence": [
+            {
+              "index": 13,
+              "url": "https://www.douyin.com/video/7700400421937377939"
+            }
+          ]
+        },
+        {
+          "claim": "司机这个活属于花期非常短的职业，可能被领导调走或不用",
+          "evidence": [
+            {
+              "index": 13,
+              "url": "https://www.douyin.com/video/7700400421937377939"
+            }
+          ]
+        }
+      ],
+      "resolution": "保留并列，风光来自位置与人情，不等于收入与职业稳定。"
+    },
+    {
+      "issue": "婚恋结局只有惨案与散伙预判，没有实际结果",
+      "versions": [
+        {
+          "claim": "被列为县城婚恋市场十大惨案之首",
+          "evidence": [
+            {
+              "index": 13,
+              "url": "https://www.douyin.com/video/7700400421937377939"
+            }
+          ]
+        },
+        {
+          "claim": "原文只说散伙可能性最大，未明示实际离婚",
+          "evidence": [
+            {
+              "index": 13,
+              "url": "https://www.douyin.com/video/7700400421937377939"
+            }
+          ]
+        }
+      ],
+      "resolution": "保留并列，不把预判当已发生事实。"
+    },
+    {
+      "issue": "职业变动是风险预判还是实际发生，原文未定",
+      "versions": [
+        {
+          "claim": "可能人家调走就不带你了，可能忽然因为一个事就不用你了",
+          "evidence": [
+            {
+              "index": 13,
+              "url": "https://www.douyin.com/video/7700400421937377939"
+            }
+          ]
+        },
+        {
+          "claim": "你现在搞一个出租车司机，那能一样吗",
+          "evidence": [
+            {
+              "index": 13,
+              "url": "https://www.douyin.com/video/7700400421937377939"
+            }
+          ]
+        }
+      ],
+      "resolution": "保留为文本中的风险和假设，不补写实际转岗。"
+    }
+  ],
+  "gaps": [
+    "姓名、年龄、具体单位、所服务的领导身份均未交代。",
+    "与王漫妮相识、结婚的具体时间、婚礼、婚后生活细节未交代。",
+    "是否实际收受金钱、金额、具体项目未交代。",
+    "是否实际出轨、婚姻是否散伙未交代。",
+    "领导是否调走或出事、司机是否失业或转岗未交代。",
+    "有无子女、家庭财政、居住等未交代。",
+    "无直接引语，说话习惯无法归纳。"
+  ],
+  "creative_expansions": [],
+  "source_coverage": [
+    {
+      "index": 13,
+      "role": "唯一明确塑造该角色的文档，提供职业、家庭背景、人情位置、与王漫妮婚恋组合及散伙预判。",
+      "url": "https://www.douyin.com/video/7700400421937377939"
+    }
+  ]
+}

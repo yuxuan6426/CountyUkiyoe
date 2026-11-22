@@ -1,0 +1,681 @@
+{
+  "name": "躺鞭零零后",
+  "nature": "县城原型/复合群像；文案中亦作“躺编00后”“躺边00后”“躺平00后”等变体，编纂说明：限于多篇文案的角色设定，不当作现实人物连续传记。",
+  "overview": "文案中的“躺鞭零零后”与“躺编00后”“躺边00后”“躺平00后”等变体，指县城刚上岸、躺在编制上的00后原型。典型设定为本地、未婚、有编，没车没房没贷款，没孩子没宠物，早8晚5有社保，工作丢不了；上班摸鱼、下班跑路、不应酬，不怕领导，不想上进，擅防守，不想恋爱结婚。一篇把它列为县城最幸福三种人之一，另一篇则说它不如葱姜蒜开悟、只是抱着编制喘气；婚恋上，一篇写它拒斥恋爱结婚，另一篇写它被熟人撮合给带鞭铁娘子、因条件匹配忽略价值观，婚后冲突离婚。文本未交代姓名、单位、收入等。",
+  "identity": [
+    {
+      "claim": "00后，有编制，并且是躺在编制上的人。",
+      "evidence": [
+        {
+          "index": 170,
+          "url": "https://www.douyin.com/video/7606986587697099185"
+        }
+      ]
+    },
+    {
+      "claim": "编制内刚上岸的躺编00后。",
+      "evidence": [
+        {
+          "index": 104,
+          "url": "https://www.douyin.com/video/7648106609897426191"
+        }
+      ]
+    },
+    {
+      "claim": "小县城编制环境中的角色，幸福前提之一是本地。",
+      "evidence": [
+        {
+          "index": 113,
+          "url": "https://www.douyin.com/video/7644796017133896933"
+        }
+      ]
+    },
+    {
+      "claim": "没车没房没贷款，没老婆没孩子没宠物。",
+      "evidence": [
+        {
+          "index": 170,
+          "url": "https://www.douyin.com/video/7606986587697099185"
+        }
+      ]
+    },
+    {
+      "claim": "有社保，工作丢不了。",
+      "evidence": [
+        {
+          "index": 135,
+          "url": "https://www.douyin.com/video/7628280226711129350"
+        },
+        {
+          "index": 168,
+          "url": "https://www.douyin.com/video/7609198062229764005"
+        }
+      ]
+    },
+    {
+      "claim": "未婚是其被描述为幸福/低负担状态的前提。",
+      "evidence": [
+        {
+          "index": 113,
+          "url": "https://www.douyin.com/video/7644796017133896933"
+        },
+        {
+          "index": 168,
+          "url": "https://www.douyin.com/video/7609198062229764005"
+        }
+      ]
+    },
+    {
+      "claim": "上班晚、下班早，工作和生活互不打扰。",
+      "evidence": [
+        {
+          "index": 168,
+          "url": "https://www.douyin.com/video/7609198062229764005"
+        }
+      ]
+    }
+  ],
+  "traits": [
+    {
+      "claim": "看透人情世故，不参与应酬，上班摸鱼，下班跑路，直接摆烂，心静自在。",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 104,
+          "url": "https://www.douyin.com/video/7648106609897426191"
+        }
+      ]
+    },
+    {
+      "claim": "擅长防守，被形容为魔法攻击无效、物理攻击免疫。",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 170,
+          "url": "https://www.douyin.com/video/7606986587697099185"
+        }
+      ]
+    },
+    {
+      "claim": "不想上进，不想恋爱，不想结婚。",
+      "kind": "欲望/动机",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 170,
+          "url": "https://www.douyin.com/video/7606986587697099185"
+        }
+      ]
+    },
+    {
+      "claim": "不怕领导也不怕老社保，思想不上进，脾气还有点屌。",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 168,
+          "url": "https://www.douyin.com/video/7609198062229764005"
+        }
+      ]
+    },
+    {
+      "claim": "其躺平依赖编制和稳定收入，并非真正完全开悟。",
+      "kind": "矛盾",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 135,
+          "url": "https://www.douyin.com/video/7628280226711129350"
+        }
+      ]
+    },
+    {
+      "claim": "想幸福还需要能享受独处，有爱好和让自己快乐的能力。",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 113,
+          "url": "https://www.douyin.com/video/7644796017133896933"
+        }
+      ]
+    },
+    {
+      "claim": "相亲时容易只谈条件，忽略性格特点和价值追求，为婚后冲突埋雷。",
+      "kind": "矛盾",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 122,
+          "url": "https://www.douyin.com/video/7640860283352163429"
+        }
+      ]
+    },
+    {
+      "claim": "婚后冲突集中在家务和育儿态度差异上。",
+      "kind": "矛盾",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 122,
+          "url": "https://www.douyin.com/video/7640860283352163429"
+        }
+      ]
+    },
+    {
+      "claim": "不爱找瑜伽裤妹妹，发工资后倾向于去捏脚。",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 168,
+          "url": "https://www.douyin.com/video/7609198062229764005"
+        }
+      ]
+    }
+  ],
+  "life_domains": [
+    {
+      "domain": "职业/编制",
+      "claim": "在县城编制内工作，早8晚5有社保，工作丢不了，不怕领导，上班摸鱼、下班跑路、不应酬。",
+      "evidence": [
+        {
+          "index": 104,
+          "url": "https://www.douyin.com/video/7648106609897426191"
+        },
+        {
+          "index": 135,
+          "url": "https://www.douyin.com/video/7628280226711129350"
+        },
+        {
+          "index": 168,
+          "url": "https://www.douyin.com/video/7609198062229764005"
+        }
+      ]
+    },
+    {
+      "domain": "金钱/资产",
+      "claim": "没房贷车贷，有社保，但没车没房没贷款。",
+      "evidence": [
+        {
+          "index": 168,
+          "url": "https://www.douyin.com/video/7609198062229764005"
+        },
+        {
+          "index": 170,
+          "url": "https://www.douyin.com/video/7606986587697099185"
+        }
+      ]
+    },
+    {
+      "domain": "婚恋",
+      "claim": "未婚、无孩子、无宠物，低负担；不想恋爱结婚；但会被熟人撮合给带鞭铁娘子，婚后因价值观差异崩盘。",
+      "evidence": [
+        {
+          "index": 113,
+          "url": "https://www.douyin.com/video/7644796017133896933"
+        },
+        {
+          "index": 170,
+          "url": "https://www.douyin.com/video/7606986587697099185"
+        },
+        {
+          "index": 122,
+          "url": "https://www.douyin.com/video/7640860283352163429"
+        }
+      ]
+    },
+    {
+      "domain": "社交/单位",
+      "claim": "工作生活互不打扰，不参与单位应酬；小工贼出现后，环境被带起，躺平受冲击。",
+      "evidence": [
+        {
+          "index": 168,
+          "url": "https://www.douyin.com/video/7609198062229764005"
+        }
+      ]
+    },
+    {
+      "domain": "消费/娱乐",
+      "claim": "啤酒龙虾小烧烤、洗脚、发工资第二天捏脚；不爱找瑜伽裤妹妹。",
+      "evidence": [
+        {
+          "index": 135,
+          "url": "https://www.douyin.com/video/7628280226711129350"
+        },
+        {
+          "index": 168,
+          "url": "https://www.douyin.com/video/7609198062229764005"
+        }
+      ]
+    },
+    {
+      "domain": "精神/爱好",
+      "claim": "被描述为人手一本《瓦尔登湖》，天天研究怎么躺平。",
+      "evidence": [
+        {
+          "index": 168,
+          "url": "https://www.douyin.com/video/7609198062229764005"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "event_id": "E001",
+      "title": "进入县城编制并开始摆烂",
+      "description": "作为刚上岸的躺编00后进入编制，看透人情世故，上班摸鱼、下班跑路，谁叫应酬都不去，直接摆烂。",
+      "temporal": "顺序不明；原文以“刚上岸”标记阶段",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 104,
+          "url": "https://www.douyin.com/video/7648106609897426191"
+        }
+      ]
+    },
+    {
+      "event_id": "E002",
+      "title": "被熟人撮合与带鞭铁娘子相亲",
+      "description": "因同处县城相亲鄙视链的相近段位，二人容易经过熟人介绍接触；相亲主要看彩礼、车子、房子等条件，忽略性格特点和价值追求。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 122,
+          "url": "https://www.douyin.com/video/7640860283352163429"
+        }
+      ]
+    },
+    {
+      "event_id": "E003",
+      "title": "婚后价值观冲突并走向离婚",
+      "description": "结婚后，二人在家务、育儿等生活态度上差异巨大，天天干仗，最后精疲力竭、遍体鳞伤，带着失望离婚。",
+      "temporal": "原文有“一旦结婚之后”“最后”的先后",
+      "chronology_basis": "明示",
+      "evidence": [
+        {
+          "index": 122,
+          "url": "https://www.douyin.com/video/7640860283352163429"
+        }
+      ]
+    },
+    {
+      "event_id": "E004",
+      "title": "小工贼出现，破坏躺平环境",
+      "description": "县城小工贼出现后，领导尚未说加班他自己干到后半夜，单位节奏被带起，躺边00后想躺也躺不平。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 168,
+          "url": "https://www.douyin.com/video/7609198062229764005"
+        }
+      ]
+    },
+    {
+      "event_id": "E005",
+      "title": "被阵营化并被当反面典型批评",
+      "description": "小工贼与单位其他人形成阵营后，躺边00后开会时被当反面典型，天天被指着鼻子批评。",
+      "temporal": "顺序不明；可视为E004之后的结果",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 168,
+          "url": "https://www.douyin.com/video/7609198062229764005"
+        }
+      ]
+    },
+    {
+      "event_id": "E006",
+      "title": "在县城拿捏关系中处于防守位",
+      "description": "作为老社保最严厉的父亲，躺编00后擅防守、没车没房没贷款、没老婆孩子宠物，工作丢不了又不想上进，不想恋爱结婚，因而难以被拿捏。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 170,
+          "url": "https://www.douyin.com/video/7606986587697099185"
+        }
+      ]
+    },
+    {
+      "event_id": "E007",
+      "title": "被拿来与葱姜蒜比较幸福",
+      "description": "另一篇文案认为真正最幸福的是县城葱姜蒜，躺编00后只悟了一部分，仍未完全开悟，只是抱着编制才敢喘气。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 135,
+          "url": "https://www.douyin.com/video/7628280226711129350"
+        }
+      ]
+    },
+    {
+      "event_id": "E008",
+      "title": "被列为县城最幸福三种人之一的条件",
+      "description": "躺边00后被列为县城活得最幸福的三种人之一，但需要本地、未婚、能享受独处三个前提。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 113,
+          "url": "https://www.douyin.com/video/7644796017133896933"
+        }
+      ]
+    }
+  ],
+  "storylines": [
+    {
+      "title": "带鞭铁娘子与躺鞭零零后的婚恋崩盘线",
+      "event_ids": [
+        "E002",
+        "E003"
+      ],
+      "narrative": "县城相亲鄙视链把条件相近的带鞭铁娘子和躺鞭零零后撮合到一起。相亲主要看彩礼、车子、房子等条件，性格特点和价值追求容易被忽略。结婚之后，家务和育儿态度差异暴露，天天干仗，最后精疲力竭、遍体鳞伤，带着失望离婚。",
+      "unresolved": "二人具体姓名、单位、彩礼数额、是否有孩子、离婚后状态均未交代。",
+      "evidence": [
+        {
+          "index": 122,
+          "url": "https://www.douyin.com/video/7640860283352163429"
+        }
+      ]
+    },
+    {
+      "title": "编制躺平与防守型低欲望线",
+      "event_ids": [
+        "E001",
+        "E006",
+        "E008"
+      ],
+      "narrative": "刚上岸进入县城编制后，躺编00后上班摸鱼、下班跑路、不应酬，早8晚5有社保，工作丢不了；没车没房没贷款，没老婆孩子宠物，一人吃饱全家不饿。它不想上进，也不想恋爱结婚，因此擅防守、难以拿捏。另一篇又把它列为县城最幸福三种人之一，但前提是本地、未婚、能享受独处。",
+      "unresolved": "具体单位、收入、家庭扶持、外貌和话术均无材料。",
+      "evidence": [
+        {
+          "index": 104,
+          "url": "https://www.douyin.com/video/7648106609897426191"
+        },
+        {
+          "index": 170,
+          "url": "https://www.douyin.com/video/7606986587697099185"
+        },
+        {
+          "index": 113,
+          "url": "https://www.douyin.com/video/7644796017133896933"
+        }
+      ]
+    },
+    {
+      "title": "小工贼冲击躺平环境线",
+      "event_ids": [
+        "E004",
+        "E005"
+      ],
+      "narrative": "原本单位节奏适合躺平，但县城小工贼出现后，主动加班、带起竞争，领导开始抓管理、要成绩。躺边00后随即躺不平，被阵营化，开会时被当反面典型批评。",
+      "unresolved": "躺边00后最终是否妥协、离职、晋升或被同化，文本没有交代。",
+      "evidence": [
+        {
+          "index": 168,
+          "url": "https://www.douyin.com/video/7609198062229764005"
+        }
+      ]
+    },
+    {
+      "title": "幸福评价的并列线",
+      "event_ids": [
+        "E007",
+        "E008"
+      ],
+      "narrative": "一篇文案把躺边00后列入县城最幸福三种人，认为其编制稳定、生活低负担；另一篇则说真正最幸福的是葱姜蒜，躺编00后只是悟了一部分、没完全悟，仍依赖编制和稳定收入。两种评价在文本中并列存在。",
+      "unresolved": "哪种评价更接近角色真实状态，文本没有统一。",
+      "evidence": [
+        {
+          "index": 113,
+          "url": "https://www.douyin.com/video/7644796017133896933"
+        },
+        {
+          "index": 135,
+          "url": "https://www.douyin.com/video/7628280226711129350"
+        }
+      ]
+    }
+  ],
+  "relationships": [
+    {
+      "target": "县城带鞭铁娘子",
+      "relation": "被熟人撮合的婚恋组合；条件相近但价值观不同，婚后易因家务、育儿等冲突走向离婚。",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 122,
+          "url": "https://www.douyin.com/video/7640860283352163429"
+        }
+      ]
+    },
+    {
+      "target": "县城小工贼/小公贼",
+      "relation": "小工贼是躺边00后最严厉的父亲；小工贼出现会破坏其躺平环境，使其躺不平并被当反面典型。",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 168,
+          "url": "https://www.douyin.com/video/7609198062229764005"
+        }
+      ]
+    },
+    {
+      "target": "县城老社保",
+      "relation": "躺编00后是县城老社保最严厉的父亲；其擅防守，且不想恋爱结婚，老社保难以拿捏。",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 170,
+          "url": "https://www.douyin.com/video/7606986587697099185"
+        }
+      ]
+    },
+    {
+      "target": "县城瑜伽裤",
+      "relation": "地位被拿来与瑜伽裤相比；瑜伽裤擅进攻，躺编00后擅防守；躺编00后不想恋爱结婚，因此崩不动。",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 170,
+          "url": "https://www.douyin.com/video/7606986587697099185"
+        }
+      ]
+    },
+    {
+      "target": "县城葱姜蒜",
+      "relation": "对比对象；躺编00后被视为只悟了一部分、没完全开悟，不如葱姜蒜幸福，只是抱着编制才敢喘气。",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 135,
+          "url": "https://www.douyin.com/video/7628280226711129350"
+        }
+      ]
+    },
+    {
+      "target": "县城编二代",
+      "relation": "同属县城编制内的两类人之一；躺编00后是刚上岸、摆烂不应酬的一类，编二代是另一类。",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 104,
+          "url": "https://www.douyin.com/video/7648106609897426191"
+        }
+      ]
+    }
+  ],
+  "speech_habits": [],
+  "contradictions": [
+    {
+      "issue": "角色名称在文案中有多种写法",
+      "versions": [
+        {
+          "claim": "写作“躺鞭零零后”",
+          "evidence": [
+            {
+              "index": 122,
+              "url": "https://www.douyin.com/video/7640860283352163429"
+            }
+          ]
+        },
+        {
+          "claim": "写作“躺编00后”",
+          "evidence": [
+            {
+              "index": 104,
+              "url": "https://www.douyin.com/video/7648106609897426191"
+            }
+          ]
+        },
+        {
+          "claim": "写作“躺边00后”",
+          "evidence": [
+            {
+              "index": 113,
+              "url": "https://www.douyin.com/video/7644796017133896933"
+            }
+          ]
+        },
+        {
+          "claim": "写作“躺平00后”",
+          "evidence": [
+            {
+              "index": 135,
+              "url": "https://www.douyin.com/video/7628280226711129350"
+            }
+          ]
+        }
+      ],
+      "resolution": "保留并列，视为文案变体/同一原型的不同称呼；不强行认定为现实自然人的唯一姓名。"
+    },
+    {
+      "issue": "是否属于县城最幸福的人",
+      "versions": [
+        {
+          "claim": "被列入县城活得最幸福的三种人之一，但需本地、未婚、能享受独处",
+          "evidence": [
+            {
+              "index": 113,
+              "url": "https://www.douyin.com/video/7644796017133896933"
+            }
+          ]
+        },
+        {
+          "claim": "真正最幸福的是葱姜蒜，躺编00后只悟了一部分，没完全开悟",
+          "evidence": [
+            {
+              "index": 135,
+              "url": "https://www.douyin.com/video/7628280226711129350"
+            }
+          ]
+        }
+      ],
+      "resolution": "两种评价并列保留，不擅自合并为统一结论。"
+    },
+    {
+      "issue": "婚恋状态是未婚低负担还是进入相亲婚姻",
+      "versions": [
+        {
+          "claim": "幸福前提之一是未婚",
+          "evidence": [
+            {
+              "index": 113,
+              "url": "https://www.douyin.com/video/7644796017133896933"
+            }
+          ]
+        },
+        {
+          "claim": "会被熟人撮合给带鞭铁娘子并结婚，最终离婚",
+          "evidence": [
+            {
+              "index": 122,
+              "url": "https://www.douyin.com/video/7640860283352163429"
+            }
+          ]
+        },
+        {
+          "claim": "压根不想恋爱、不想结婚",
+          "evidence": [
+            {
+              "index": 170,
+              "url": "https://www.douyin.com/video/7606986587697099185"
+            }
+          ]
+        }
+      ],
+      "resolution": "保留并列：不同文案分别写其未婚低负担、拒斥婚恋，以及被撮合成婚后的崩盘可能；不认定为同一个人连续经历。"
+    },
+    {
+      "issue": "躺平能否持续",
+      "versions": [
+        {
+          "claim": "上班摸鱼、下班跑路、不怕领导，心静自在",
+          "evidence": [
+            {
+              "index": 104,
+              "url": "https://www.douyin.com/video/7648106609897426191"
+            }
+          ]
+        },
+        {
+          "claim": "小工贼一来就躺不平，被当反面典型批评",
+          "evidence": [
+            {
+              "index": 168,
+              "url": "https://www.douyin.com/video/7609198062229764005"
+            }
+          ]
+        }
+      ],
+      "resolution": "按文本情境并列：无小工贼时躺平，小工贼出现后躺平受冲击。"
+    }
+  ],
+  "gaps": [
+    "具体姓名、性别、真实年龄、所在单位、职务、收入均未交代。",
+    "没车没房没贷款是家庭条件、个人选择还是阶段状态，未说明。",
+    "与带鞭铁娘子婚姻线中，是否所有此类角色都会结婚、离婚，文本只是组合预测。",
+    "小工贼冲击后，躺边00后是否妥协、离职、晋升或被同化，未交代。",
+    "直接台词、说话习惯、外貌、穿搭没有材料。",
+    "“躺鞭零零后”“躺编00后”“躺边00后”“躺平00后”是否严格指同一设定，文本未明示统一关系。"
+  ],
+  "creative_expansions": [],
+  "source_coverage": [
+    {
+      "index": 104,
+      "role": "提供编制内两类人设定：刚上岸躺编00后上班摸鱼、下班跑路、不应酬；并与编二代对比。",
+      "url": "https://www.douyin.com/video/7648106609897426191"
+    },
+    {
+      "index": 113,
+      "role": "提供躺边00后为县城最幸福三种人之一，以及本地、未婚、能享受独处三个前提。",
+      "url": "https://www.douyin.com/video/7644796017133896933"
+    },
+    {
+      "index": 122,
+      "role": "提供核心婚姻线：带鞭铁娘子与躺鞭零零后经熟人撮合，忽略价值观，婚后冲突离婚。",
+      "url": "https://www.douyin.com/video/7640860283352163429"
+    },
+    {
+      "index": 135,
+      "role": "提供躺平/躺编00后早8晚5有社保、不怕领导、周末洗脚吃烧烤，但未完全开悟、依赖编制。",
+      "url": "https://www.douyin.com/video/7628280226711129350"
+    },
+    {
+      "index": 168,
+      "role": "提供躺边00后低负担生活、工作状态、消费娱乐、瓦尔登湖，以及小工贼出现后躺不平。",
+      "url": "https://www.douyin.com/video/7609198062229764005"
+    },
+    {
+      "index": 170,
+      "role": "提供躺编00后定义、地位、防守型特征、没车没房没贷款、无婚恋子女，以及与老社保、瑜伽裤等关系。",
+      "url": "https://www.douyin.com/video/7606986587697099185"
+    }
+  ]
+}

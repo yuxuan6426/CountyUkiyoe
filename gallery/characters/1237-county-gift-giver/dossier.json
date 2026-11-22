@@ -1,0 +1,478 @@
+{
+  "name": "县城送礼人",
+  "nature": "单篇角色/原型。由序号50文案以第二人称“你”塑造的县城送礼者群像，非具名自然人，无姓名、年龄、职业、收礼对象与结果，全部证据仅此一篇。",
+  "overview": "县城送礼人是中秋送礼场景中的第二人称原型：在县城熟人社会里既要维护人情、撑起面子，又被工资与下月房贷卡住预算。硬送“毛五剑”送不起，几十块杂牌又嫌寒碜，处“往上够不着、往下不甘心，中间全是坑”的两难。他同时怕三件事：怕熟人当面说“人来就行了”背后却记三年、逢人宣传；怕多花钱、买到假货、为花哨礼盒买单而酒质拉胯；怕酒桌开瓶后同桌面面相觑、第二天排队要解药，送礼送成大型社死。文本给出的出路是找有根有魂有说法、价格踏实、拎出去有面子、打开有故事且不肉疼的酒，并以赖世家作为推介选项。原文未交代他最终买什么、是否送出、收礼人与同桌人的真实评价，赖世家是否被实际选用亦未交代。",
+  "identity": [
+    {
+      "claim": "被设定为县城熟人社会中需要送礼的普通人，有工资，并承担房贷压力。",
+      "evidence": [
+        {
+          "index": 50,
+          "url": "https://www.douyin.com/video/7680758145426457573"
+        }
+      ]
+    },
+    {
+      "claim": "送礼场景为中秋，送礼选择包括高价名酒与几十块钱的杂牌酒。",
+      "evidence": [
+        {
+          "index": 50,
+          "url": "https://www.douyin.com/video/7680758145426457573"
+        }
+      ]
+    },
+    {
+      "claim": "其送礼行为处于县城熟人社会的评价与背地传播之中。",
+      "evidence": [
+        {
+          "index": 50,
+          "url": "https://www.douyin.com/video/7680758145426457573"
+        }
+      ]
+    }
+  ],
+  "traits": [
+    {
+      "claim": "核心动机是既要省钱，又要把礼送到对方心坎、显示自己有路子。",
+      "kind": "动机",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 50,
+          "url": "https://www.douyin.com/video/7680758145426457573"
+        }
+      ]
+    },
+    {
+      "claim": "恐惧被熟人社会背地记恨、宣传，导致没面子、抬不起头。",
+      "kind": "恐惧",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 50,
+          "url": "https://www.douyin.com/video/7680758145426457573"
+        }
+      ]
+    },
+    {
+      "claim": "在价格与体面之间陷入矛盾：高送不起，低嫌寒碜。",
+      "kind": "矛盾",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 50,
+          "url": "https://www.douyin.com/video/7680758145426457573"
+        }
+      ]
+    },
+    {
+      "claim": "恐惧买到假货、包装溢价、酒质拉胯，导致礼物失去实际价值。",
+      "kind": "恐惧",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 50,
+          "url": "https://www.douyin.com/video/7680758145426457573"
+        }
+      ]
+    },
+    {
+      "claim": "恐惧酒桌开瓶后被同桌人嫌弃，形成大型社死。",
+      "kind": "恐惧",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 50,
+          "url": "https://www.douyin.com/video/7680758145426457573"
+        }
+      ]
+    },
+    {
+      "claim": "选礼标准转向有来历、有说法、价格踏实、经得起扒的酒。",
+      "kind": "动机",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 50,
+          "url": "https://www.douyin.com/video/7680758145426457573"
+        }
+      ]
+    },
+    {
+      "claim": "不想掏空钱包，又想掏人心窝",
+      "kind": "欲望",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "递上去让对方眉毛一挑，认为“这个你有路子啊”，把礼送到心坎里",
+      "kind": "欲望",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "在县城熟人社会通过中秋送礼维护人情与面子",
+      "kind": "动机",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "硬送毛五剑工资撑不住、还要还房贷；送几十块杂牌自己都嫌寒碜",
+      "kind": "矛盾",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "怕包装大于酒本身，又要求拎出去有面子、打开有故事、经得起扒",
+      "kind": "矛盾",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "预算受工资与房贷双重约束，送礼前先算账",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "送礼标准是“有根有魂有说法、价格踏实、出身够硬、资质够全”",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "熟人当面说“人来就行了”，背地却可能记三年、逢人替他宣传",
+      "kind": "矛盾",
+      "certainty": "文本推断",
+      "evidence": []
+    }
+  ],
+  "life_domains": [
+    {
+      "domain": "人情/社交",
+      "claim": "在县城熟人社会中通过中秋送礼维护人情，并承受旁人的口头客套与背后评价。",
+      "evidence": [
+        {
+          "index": 50,
+          "url": "https://www.douyin.com/video/7680758145426457573"
+        }
+      ]
+    },
+    {
+      "domain": "金钱/消费",
+      "claim": "预算受工资和房贷制约，却又不愿在礼品上显得寒碜，担心多花钱、假货与包装溢价。",
+      "evidence": [
+        {
+          "index": 50,
+          "url": "https://www.douyin.com/video/7680758145426457573"
+        }
+      ]
+    },
+    {
+      "domain": "酒桌/面子",
+      "claim": "所送酒会在酒桌上被开瓶品尝，送礼人害怕同桌人评价不佳，导致社死。",
+      "evidence": [
+        {
+          "index": 50,
+          "url": "https://www.douyin.com/video/7680758145426457573"
+        }
+      ]
+    },
+    {
+      "domain": "家庭",
+      "claim": "原文以房贷压力说明送礼预算的现实约束，显示其家庭经济负担。",
+      "evidence": [
+        {
+          "index": 50,
+          "url": "https://www.douyin.com/video/7680758145426457573"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "event_id": "E001",
+      "title": "中秋送礼预算与体面的两难",
+      "description": "送礼人考虑硬送毛五剑等高价名酒，但工资与下月房贷承受不起；转而想送几十块杂牌酒，又自觉寒碜。",
+      "temporal": "原文仅明示中秋，未明示先后",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 50,
+          "url": "https://www.douyin.com/video/7680758145426457573"
+        }
+      ]
+    },
+    {
+      "event_id": "E002",
+      "title": "寻找价格踏实又有说法的礼品",
+      "description": "文本提出送礼要“不掏空钱包又掏人心窝”，要找有根有魂有说法、价格踏实的东西。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 50,
+          "url": "https://www.douyin.com/video/7680758145426457573"
+        }
+      ]
+    },
+    {
+      "event_id": "E003",
+      "title": "面对熟人社会口头客套与背后评价",
+      "description": "送礼人处于县城熟人社会中，别人嘴上说人来就行，背地里却可能记三年并替其宣传。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 50,
+          "url": "https://www.douyin.com/video/7680758145426457573"
+        }
+      ]
+    },
+    {
+      "event_id": "E004",
+      "title": "担心酒桌开瓶后社死",
+      "description": "送礼人害怕所送酒在酒桌上刚倒上就遭同桌人面面相觑，第二天被追问解药，成为大型社死现场。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 50,
+          "url": "https://www.douyin.com/video/7680758145426457573"
+        }
+      ]
+    },
+    {
+      "event_id": "E005",
+      "title": "文案将赖世家推介为送礼选项",
+      "description": "文案把赖世家酒作为符合“有根有魂有说法、价格踏实、经得起扒”等选礼标准的选项加以推介。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 50,
+          "url": "https://www.douyin.com/video/7680758145426457573"
+        }
+      ]
+    }
+  ],
+  "storylines": [
+    {
+      "title": "县城中秋送礼的两难与选酒推介",
+      "event_ids": [
+        "E001",
+        "E002",
+        "E003",
+        "E004",
+        "E005"
+      ],
+      "narrative": "开始是中秋送礼，送礼人面临预算与面子的两难：硬送高价名酒会挤压工资与房贷，送几十块杂牌又嫌寒碜。发展下去，他又怕熟人社会背地记三年、逢人宣传，也怕酒桌开瓶后同桌嫌弃，形成社死。冲突集中在价格、体面、人情评价和酒质之间。文本给出的结果性建议是找有根有魂有说法、价格踏实、拎出去有面子、打开有故事且不肉疼的东西，并以赖世家酒作为推介选项。",
+      "unresolved": "原文没有交代送礼人最终买了什么、是否送出、收礼人和同桌人的真实评价，也没有交代赖世家是否被角色实际选用。",
+      "evidence": [
+        {
+          "index": 50,
+          "url": "https://www.douyin.com/video/7680758145426457573"
+        }
+      ]
+    }
+  ],
+  "relationships": [
+    {
+      "target": "对方（收礼人）",
+      "relation": "向其递送礼品，期待对方认为“你有路子”、把礼送到心坎。",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 50,
+          "url": "https://www.douyin.com/video/7680758145426457573"
+        }
+      ]
+    },
+    {
+      "target": "县城熟人社会中的旁人",
+      "relation": "当面客套、背地记三年并宣传，构成送礼人的压力来源。",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 50,
+          "url": "https://www.douyin.com/video/7680758145426457573"
+        }
+      ]
+    },
+    {
+      "target": "酒桌上的同桌人",
+      "relation": "所送酒的开瓶品尝者，送礼人害怕其面面相觑和追问解药。",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 50,
+          "url": "https://www.douyin.com/video/7680758145426457573"
+        }
+      ]
+    },
+    {
+      "target": "赖世家",
+      "relation": "文案推介的送礼酒品牌与选项。",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 50,
+          "url": "https://www.douyin.com/video/7680758145426457573"
+        }
+      ]
+    }
+  ],
+  "speech_habits": [
+    {
+      "claim": "以第二人称算账式反问表现送礼人的内心权衡。",
+      "evidence": [
+        {
+          "index": 50,
+          "url": "https://www.douyin.com/video/7680758145426457573"
+        }
+      ]
+    },
+    {
+      "claim": "把送礼诉求压缩为“不掏空钱包又掏人心窝”。",
+      "evidence": [
+        {
+          "index": 50,
+          "url": "https://www.douyin.com/video/7680758145426457573"
+        }
+      ]
+    },
+    {
+      "claim": "以“有根有魂有说法”“价格踏实”“有面子”“有故事”作为选礼话术。",
+      "evidence": [
+        {
+          "index": 50,
+          "url": "https://www.douyin.com/video/7680758145426457573"
+        }
+      ]
+    },
+    {
+      "claim": "用熟人社会口头客套与背后评价的对照话术制造压力。",
+      "evidence": [
+        {
+          "index": 50,
+          "url": "https://www.douyin.com/video/7680758145426457573"
+        }
+      ]
+    },
+    {
+      "claim": "用“你有路子”“送到心坎里”表示礼物被认可的效果。",
+      "evidence": [
+        {
+          "index": 50,
+          "url": "https://www.douyin.com/video/7680758145426457573"
+        }
+      ]
+    }
+  ],
+  "contradictions": [
+    {
+      "issue": "送礼价格与体面的两难",
+      "versions": [
+        {
+          "claim": "硬送毛五剑等高价名酒，但工资与房贷承受不起。",
+          "evidence": [
+            {
+              "index": 50,
+              "url": "https://www.douyin.com/video/7680758145426457573"
+            }
+          ]
+        },
+        {
+          "claim": "送几十块杂牌酒，自己又嫌寒碜。",
+          "evidence": [
+            {
+              "index": 50,
+              "url": "https://www.douyin.com/video/7680758145426457573"
+            }
+          ]
+        },
+        {
+          "claim": "找有根有魂有说法且价格踏实的第三条路。",
+          "evidence": [
+            {
+              "index": 50,
+              "url": "https://www.douyin.com/video/7680758145426457573"
+            }
+          ]
+        }
+      ],
+      "resolution": "原文并列呈现三种选择，最终倾向第三种并推介赖世家，但未交代送礼人实际购买与结果。"
+    },
+    {
+      "issue": "熟人社会当面客套与背后评价相反",
+      "versions": [
+        {
+          "claim": "当面表示“人来就行了”。",
+          "evidence": [
+            {
+              "index": 50,
+              "url": "https://www.douyin.com/video/7680758145426457573"
+            }
+          ]
+        },
+        {
+          "claim": "背地可能记三年、逢人宣传。",
+          "evidence": [
+            {
+              "index": 50,
+              "url": "https://www.douyin.com/video/7680758145426457573"
+            }
+          ]
+        }
+      ],
+      "resolution": "原文同时保留，未说明是否所有场合都如此。"
+    },
+    {
+      "issue": "酒质与包装/面子的取向",
+      "versions": [
+        {
+          "claim": "怕假货、怕包装大于酒质、怕酒质拉胯。",
+          "evidence": [
+            {
+              "index": 50,
+              "url": "https://www.douyin.com/video/7680758145426457573"
+            }
+          ]
+        },
+        {
+          "claim": "又要求拎出去有面子、打开有故事、经得起扒。",
+          "evidence": [
+            {
+              "index": 50,
+              "url": "https://www.douyin.com/video/7680758145426457573"
+            }
+          ]
+        }
+      ],
+      "resolution": "原文把二者并列为选礼顾虑和标准，未给出统一保证。"
+    }
+  ],
+  "gaps": [
+    "未交代送礼人的姓名、年龄、职业、具体收入与房贷数额。",
+    "未交代具体收礼对象的身份及其与送礼人的关系。",
+    "未交代最终购买何酒、是否送出、收礼人与同桌人的真实评价。",
+    "未交代赖世家是否被角色实际选用。",
+    "未交代县城具体地域与中秋年份。",
+    "未交代熟人社会旁人、酒桌同桌人的具体身份。",
+    "未交代送礼人的姓名、年龄、职业、具体收入与房贷数额",
+    "未交代具体收礼对象的身份及其与送礼人的关系",
+    "未交代最终购买何酒、是否送出、收礼人与同桌人的真实评价",
+    "未交代赖世家是否被角色实际选用",
+    "未交代县城具体地域与中秋年份",
+    "未交代熟人社会旁人、酒桌同桌人的具体身份",
+    "未交代送礼人的外貌、穿着与家庭其他成员"
+  ],
+  "creative_expansions": [],
+  "source_coverage": [
+    {
+      "index": 50,
+      "role": "该篇以中秋送礼为场景，塑造“县城送礼人”的预算、面子、人情压力与选酒标准，并推介赖世家酒；是本角色唯一直接证据来源。",
+      "url": "https://www.douyin.com/video/7680758145426457573"
+    }
+  ]
+}

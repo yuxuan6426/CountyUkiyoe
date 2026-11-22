@@ -1,0 +1,360 @@
+{
+  "name": "刘大爷",
+  "nature": "具名叙事角色，身份为“村南头养牛的刘大爷”，在返乡装富叙事中承担村头围观、附和夸赞、被安排进免费旅游团的功能位；多篇文案中作为同一类村头围观群众出现，非连续传记。",
+  "overview": "刘大爷是县城返乡装富叙事里的村头围观者。原文称他“村南头养牛的刘大爷”，年长，牙齿仅剩两颗门牙。看到返乡者开奥迪进村，他嘴巴合不上，仅有的两颗门牙对着车行注目礼，并附和“那可不咋的嘞，这四个圈嘞，奥迪哎”。另一篇中，返乡者穿藏蓝色暗纹西装亮相，王大娘夸比开四个圈的帅，刘大爷也附和“就是就是，一看这就是个东菜啊”。另有一套装富方案设想把他和王大娘、王寡妇一起接上不花钱的旅游团，途中被带去卖药、卖茶、卖翡翠，并预测他会给王寡妇买9800元的翡翠手镯；此为叙述者设想，原文未实写其参加或购买。全名、年龄、家庭及与王寡妇的具体关系均未交代。",
+  "identity": [
+    {
+      "claim": "村南头养牛的年长男性，被称为刘大爷。",
+      "evidence": [
+        {
+          "index": 191,
+          "url": "https://www.douyin.com/video/7592653564976106762"
+        }
+      ]
+    },
+    {
+      "claim": "牙齿仅剩两颗门牙。",
+      "evidence": [
+        {
+          "index": 191,
+          "url": "https://www.douyin.com/video/7592653564976106762"
+        }
+      ]
+    },
+    {
+      "claim": "被叙述者列入村里没去过海边的老头老太太之列，可被旅游团接走。",
+      "evidence": [
+        {
+          "index": 191,
+          "url": "https://www.douyin.com/video/7592653564976106762"
+        }
+      ]
+    }
+  ],
+  "traits": [
+    {
+      "claim": "看到豪车会合不拢嘴，对车行注目礼。",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 191,
+          "url": "https://www.douyin.com/video/7592653564976106762"
+        }
+      ]
+    },
+    {
+      "claim": "会附和夸赞，配合村头围观气氛。",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 187,
+          "url": "https://www.douyin.com/video/7595620503361015049"
+        },
+        {
+          "index": 191,
+          "url": "https://www.douyin.com/video/7592653564976106762"
+        }
+      ]
+    },
+    {
+      "claim": "认得奥迪车标，用“四个圈”代指。",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 191,
+          "url": "https://www.douyin.com/video/7592653564976106762"
+        }
+      ]
+    },
+    {
+      "claim": "容易被免费旅游购物团诱导，被设想为会花9800元给王寡妇买翡翠手镯。",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": [
+        {
+          "index": 191,
+          "url": "https://www.douyin.com/video/7592653564976106762"
+        }
+      ]
+    },
+    {
+      "claim": "看到豪车会合不拢嘴，仅有的两颗门牙对着车行注目礼。",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "会附和夸赞，配合村头围观气氛，用“就是就是”“那可不咋的嘞”接话。",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "用“东菜”等乡土说法夸人，被夸对象是穿定制西装亮相的返乡者。",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "被叙述者列为村里没去过海边的老头老太太之一，可被旅游团接走。",
+      "kind": "动机",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "被设想为容易被免费旅游购物团忽悠、会花9800元给王寡妇买翡翠手镯，但原文没有实写其参加或购买。",
+      "kind": "矛盾",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "在村南头养牛。",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    }
+  ],
+  "life_domains": [
+    {
+      "domain": "职业/经济",
+      "claim": "在村南头养牛。",
+      "evidence": [
+        {
+          "index": 191,
+          "url": "https://www.douyin.com/video/7592653564976106762"
+        }
+      ]
+    },
+    {
+      "domain": "社交/消费",
+      "claim": "处于村头围观群众的社交场景，对返乡者的车、打扮进行围观和评价。",
+      "evidence": [
+        {
+          "index": 191,
+          "url": "https://www.douyin.com/video/7592653564976106762"
+        }
+      ]
+    },
+    {
+      "domain": "社交/消费",
+      "claim": "被叙述者设想为旅游购物团的潜在消费对象，可能在翡翠店花钱。",
+      "evidence": [
+        {
+          "index": 191,
+          "url": "https://www.douyin.com/video/7592653564976106762"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "event_id": "E001",
+      "title": "村口围观返乡者的奥迪车",
+      "description": "返乡者开奥迪进村，刘大爷在村头围观，嘴巴合不上，仅有的两颗门牙对着车行注目礼，并附和夸赞。",
+      "temporal": "原文未明示具体时间，发生在返乡者开车进村时。",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 191,
+          "url": "https://www.douyin.com/video/7592653564976106762"
+        }
+      ]
+    },
+    {
+      "event_id": "E002",
+      "title": "附和夸赞来客像“东菜”",
+      "description": "返乡者穿定制西装亮相，王大娘夸其比开四个圈的帅，刘大爷附和说一看就是“东菜”。",
+      "temporal": "与E001可能同属返乡装富叙事，顺序不明。",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 187,
+          "url": "https://www.douyin.com/video/7595620503361015049"
+        }
+      ]
+    },
+    {
+      "event_id": "E003",
+      "title": "被叙述者设想参加免费旅游团并买翡翠",
+      "description": "叙述者提议租考斯特把王大娘、刘大爷、王寡妇等接去免费旅游，途中经历卖药、卖茶、卖翡翠，并预测刘大爷会给王寡妇买9800元的翡翠手镯。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 191,
+          "url": "https://www.douyin.com/video/7592653564976106762"
+        }
+      ]
+    }
+  ],
+  "storylines": [
+    {
+      "title": "返乡装富叙事中的村头围观者",
+      "event_ids": [
+        "E001",
+        "E002"
+      ],
+      "narrative": "返乡者开车、穿西装回村，刘大爷作为村头围观群众，看到豪车合不拢嘴、行注目礼，并附和夸赞，构成装富排面的反馈方。原文没有交代他是否真懂车价，只呈现其反应。",
+      "unresolved": "刘大爷与返乡者的具体关系、他是否真看懂车价、在村中的实际影响力均未交代。",
+      "evidence": [
+        {
+          "index": 191,
+          "url": "https://www.douyin.com/video/7592653564976106762"
+        }
+      ]
+    },
+    {
+      "title": "被安排进免费旅游购物团的潜在消费对象",
+      "event_ids": [
+        "E003"
+      ],
+      "narrative": "叙述者设计装富方案时，把刘大爷等村里老人接上参加免费旅游团，途中被带去卖药、卖茶、卖翡翠；叙述者预测刘大爷会给王寡妇买9800元的翡翠手镯。这是叙述者的设想与调侃，不是已发生的实写。",
+      "unresolved": "刘大爷是否真的参加旅游团、是否真的购买翡翠、与王寡妇是否有感情关系，原文均未交代。",
+      "evidence": [
+        {
+          "index": 191,
+          "url": "https://www.douyin.com/video/7592653564976106762"
+        }
+      ]
+    }
+  ],
+  "relationships": [
+    {
+      "target": "王寡妇",
+      "relation": "同村人；被叙述者调侃可能为其购买翡翠手镯。",
+      "certainty": "文本推断",
+      "evidence": [
+        {
+          "index": 191,
+          "url": "https://www.douyin.com/video/7592653564976106762"
+        }
+      ]
+    },
+    {
+      "target": "王大娘",
+      "relation": "同村人，同场围观，并一同被叙述者设想接上旅游团。",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 187,
+          "url": "https://www.douyin.com/video/7595620503361015049"
+        },
+        {
+          "index": 191,
+          "url": "https://www.douyin.com/video/7592653564976106762"
+        }
+      ]
+    },
+    {
+      "target": "回村装富的返乡者",
+      "relation": "围观者和夸赞者。",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 191,
+          "url": "https://www.douyin.com/video/7592653564976106762"
+        }
+      ]
+    },
+    {
+      "target": "免费旅游团/购物团人员",
+      "relation": "被叙述者设想的被推销对象。",
+      "certainty": "文本推断",
+      "evidence": [
+        {
+          "index": 191,
+          "url": "https://www.douyin.com/video/7592653564976106762"
+        }
+      ]
+    }
+  ],
+  "speech_habits": [
+    {
+      "claim": "用方言感叹词和语气词附和，如“那可不咋的嘞”“就是就是”。",
+      "evidence": [
+        {
+          "index": 191,
+          "url": "https://www.douyin.com/video/7592653564976106762"
+        },
+        {
+          "index": 187,
+          "url": "https://www.douyin.com/video/7595620503361015049"
+        }
+      ]
+    },
+    {
+      "claim": "用“四个圈”代指奥迪，用“东菜”等乡土说法夸人。",
+      "evidence": [
+        {
+          "index": 191,
+          "url": "https://www.douyin.com/video/7592653564976106762"
+        },
+        {
+          "index": 187,
+          "url": "https://www.douyin.com/video/7595620503361015049"
+        }
+      ]
+    }
+  ],
+  "contradictions": [
+    {
+      "issue": "刘大爷是否真的参加旅游团并给王寡妇买翡翠手镯？",
+      "versions": [
+        {
+          "claim": "187/189的叙述者以调侃口吻预测他会给王寡妇买9800元翡翠手镯。",
+          "evidence": [
+            {
+              "index": 191,
+              "url": "https://www.douyin.com/video/7592653564976106762"
+            }
+          ]
+        },
+        {
+          "claim": "原文没有实写刘大爷参加旅游团或购买翡翠，属于装逼方案中的设想。",
+          "evidence": [
+            {
+              "index": 191,
+              "url": "https://www.douyin.com/video/7592653564976106762"
+            }
+          ]
+        }
+      ],
+      "resolution": "保留为叙述者设想/预测，不作为已发生事实。"
+    }
+  ],
+  "gaps": [
+    "全名、年龄、家庭情况。",
+    "与王寡妇的具体关系，是否有情感或经济往来。",
+    "是否实际参加过旅游团、是否真的买过翡翠手镯。",
+    "在村中的实际身份地位、经济状况。",
+    "是否只有“刘大爷”这一个称呼，是否有其他别名。",
+    "是否真看懂车价，还是只认得“四个圈”这一外观特征。",
+    "与返乡者（叙述者）的具体关系与相识程度。"
+  ],
+  "creative_expansions": [],
+  "source_coverage": [
+    {
+      "index": 186,
+      "role": "仅提及刘大爷名字，作为可能说“草包”的村里评价者，补充其村头舆论参与者身份。",
+      "url": "https://www.douyin.com/video/7596206846759701823"
+    },
+    {
+      "index": 187,
+      "role": "核心材料：提供刘大爷养牛、牙齿仅剩两颗、看奥迪行注目礼、附和夸赞、被设想买翡翠等。",
+      "url": "https://www.douyin.com/video/7595620503361015049"
+    },
+    {
+      "index": 189,
+      "role": "补充材料：将刘大爷列入免费旅游团接走对象，并预测其给王寡妇买9800元翡翠手镯。",
+      "url": "https://www.douyin.com/video/7594878480269987123"
+    },
+    {
+      "index": 191,
+      "role": "重复材料：与187类似，提供看奥迪、买翡翠的同类描述。",
+      "url": "https://www.douyin.com/video/7592653564976106762"
+    }
+  ]
+}

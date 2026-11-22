@@ -1,0 +1,476 @@
+{
+  "name": "县城未婚女孩",
+  "nature": "复合群像/单篇泛称原型。仅#51集中描述为县城相亲市场上待嫁的未婚女性群体，另有#10一句“彩礼看诚意”的话术佐证；不是具名自然人，原文未给姓名、年龄、职业与经历，不能与“最优解女孩”“县城王漫妮”“大龄剩女”等角色合并。",
+  "overview": "文本把“县城未婚女孩”放在县城相亲议价场景里：男方本人学历、工作、长相不再排第一，排第一的是男方家庭能给多少经济扶持——能否全款买房、能否开上BBA、能掏多少彩礼。文本设置农村编衣带与父母能给全款车房外加38万8彩礼的县城末代少爷二选一，断言几乎所有女孩都选末代少爷，理由是父母二三十年积蓄的托举能让人少奋斗20年、先甜为敬。同时又留下并行说法：编二代才是相亲市场的王炸、编一代只是入门款；婚姻“看似感情问题，实际上是经济问题”，但钱只是必要不充分条件，有了钱也不一定能维持感情。另处一句“嘴上都说这个彩礼是看看诚意”，与该群体的话术相关但主语是“很多人”。全文无实名个体、无样本、无选择结果。",
+  "identity": [
+    {
+      "claim": "在县城相亲市场上选择人生伴侣的未婚女性群体",
+      "evidence": [
+        {
+          "index": 51,
+          "url": "https://www.douyin.com/video/7680388351061973361"
+        }
+      ]
+    },
+    {
+      "claim": "被文本设定为在编一代与末代少爷等选项之间做选择的择偶方",
+      "evidence": [
+        {
+          "index": 51,
+          "url": "https://www.douyin.com/video/7680388351061973361"
+        }
+      ]
+    },
+    {
+      "claim": "不是具体自然人，而是被“几乎所有的女孩”概括的群像",
+      "evidence": [
+        {
+          "index": 51,
+          "url": "https://www.douyin.com/video/7680388351061973361"
+        }
+      ]
+    }
+  ],
+  "traits": [
+    {
+      "claim": "择偶时男方自身学历、工作、长相不再是第一位",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 51,
+          "url": "https://www.douyin.com/video/7680388351061973361"
+        }
+      ]
+    },
+    {
+      "claim": "第一位看男方家庭能提供多少经济扶持",
+      "kind": "动机",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 51,
+          "url": "https://www.douyin.com/video/7680388351061973361"
+        }
+      ]
+    },
+    {
+      "claim": "要求可量化的全款买房、BBA和彩礼",
+      "kind": "欲望",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 51,
+          "url": "https://www.douyin.com/video/7680388351061973361"
+        }
+      ]
+    },
+    {
+      "claim": "在婚姻选择中被描述为倾向先享受十年而非先吃苦十年",
+      "kind": "动机",
+      "certainty": "文本推断",
+      "evidence": [
+        {
+          "index": 51,
+          "url": "https://www.douyin.com/video/7680388351061973361"
+        }
+      ]
+    },
+    {
+      "claim": "对男方的感情被说成取决于男方有多少钱",
+      "kind": "矛盾",
+      "certainty": "文本推断",
+      "evidence": [
+        {
+          "index": 51,
+          "url": "https://www.douyin.com/video/7680388351061973361"
+        }
+      ]
+    },
+    {
+      "claim": "被描述为想要大结果、想嫁A8A9",
+      "kind": "欲望",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 51,
+          "url": "https://www.douyin.com/video/7680388351061973361"
+        }
+      ]
+    },
+    {
+      "claim": "会把彩礼说成看诚意",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 10,
+          "url": "https://www.douyin.com/video/7703063868465985509"
+        }
+      ]
+    },
+    {
+      "claim": "第一位看男方家庭到底能提供多少经济扶持",
+      "kind": "动机",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "要求可量化的全款买房、BBA与彩礼数额",
+      "kind": "欲望",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "被描述为倾向先享受十年而非先吃苦十年",
+      "kind": "动机",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "被转述为想要“大结果”、要嫁A8A9",
+      "kind": "欲望",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "会把彩礼说成“看诚意”",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "对男方的感情被说成取决于男方有多少钱，但文本同时承认钱不是充分条件",
+      "kind": "矛盾",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "条件被量化为全款房、BBA与彩礼数额",
+      "kind": "欲望",
+      "certainty": "文本推断",
+      "evidence": [
+        {
+          "index": 51,
+          "url": "https://www.douyin.com/video/7680388351061973361"
+        }
+      ]
+    },
+    {
+      "claim": "被描述为在“先吃苦十年”与“先享受十年”间取后者",
+      "kind": "动机",
+      "certainty": "文本推断",
+      "evidence": [
+        {
+          "index": 51,
+          "url": "https://www.douyin.com/video/7680388351061973361"
+        }
+      ]
+    },
+    {
+      "claim": "彩礼被说成“看诚意”",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": [
+        {
+          "index": 10,
+          "url": "https://www.douyin.com/video/7703063868465985509"
+        }
+      ]
+    }
+  ],
+  "life_domains": [
+    {
+      "domain": "婚恋",
+      "claim": "结婚选择被文本描述为首先比较男方家庭经济扶持，而不是先谈感情",
+      "evidence": [
+        {
+          "index": 51,
+          "url": "https://www.douyin.com/video/7680388351061973361"
+        }
+      ]
+    },
+    {
+      "domain": "金钱",
+      "claim": "父母二三十年的积蓄被视为能决定婚姻选择的重要力量",
+      "evidence": [
+        {
+          "index": 51,
+          "url": "https://www.douyin.com/video/7680388351061973361"
+        }
+      ]
+    },
+    {
+      "domain": "家庭",
+      "claim": "择偶时会比较对方父母能否备好全款车房、38万8彩礼",
+      "evidence": [
+        {
+          "index": 51,
+          "url": "https://www.douyin.com/video/7680388351061973361"
+        }
+      ]
+    },
+    {
+      "domain": "面子/消费",
+      "claim": "车与BBA被列入择偶条件的可见指标",
+      "evidence": [
+        {
+          "index": 51,
+          "url": "https://www.douyin.com/video/7680388351061973361"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "event_id": "E001",
+      "title": "按家庭经济扶持排序择偶",
+      "description": "在县城相亲市场上，一个女生选择人生伴侣时，男方本人学历、工作、长相不再排第一位，排第一位的是男方家庭能提供多少经济扶持，包括全款买房、开BBA、彩礼数额。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 51,
+          "url": "https://www.douyin.com/video/7680388351061973361"
+        }
+      ]
+    },
+    {
+      "event_id": "E002",
+      "title": "编一代与末代少爷二选一",
+      "description": "文本设置一个假想选择：农村编衣带与父母能给全款车房外加38万彩礼的县城末代少爷之间，让未婚女孩选，文本断言几乎所有的女孩都会选末代少爷。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 51,
+          "url": "https://www.douyin.com/video/7680388351061973361"
+        }
+      ]
+    },
+    {
+      "event_id": "E003",
+      "title": "以父母托举和少奋斗20年为选择理由",
+      "description": "文本解释这种选择的原因是父母二三十年积蓄的扶持可让新婚夫妻少奋斗20年；末代少爷本人工作学历拿不上台面也可被家庭条件弥补。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 51,
+          "url": "https://www.douyin.com/video/7680388351061973361"
+        }
+      ]
+    },
+    {
+      "event_id": "E004",
+      "title": "把婚姻理解为经济问题",
+      "description": "文本称结婚时所有人都理性了，婚姻看似感情问题，实际上是经济问题；先苦不一定后甜，先甜确实相当甜。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 51,
+          "url": "https://www.douyin.com/video/7680388351061973361"
+        }
+      ]
+    }
+  ],
+  "storylines": [
+    {
+      "title": "县城未婚女孩在相亲市场上的经济化择偶线",
+      "event_ids": [
+        "E001",
+        "E002",
+        "E003",
+        "E004"
+      ],
+      "narrative": "在县城相亲市场里，未婚女孩选择人生伴侣时，男方自身条件不再排第一，家庭能提供多少经济扶持成为第一标准。文本让一个农村编衣带与一个父母能给全款车房和38万8彩礼的县城末代少爷作比较，断言几乎所有女孩都会选末代少爷。理由被归结为父母二三十年积蓄的托举能让新婚夫妻少奋斗20年，且先甜为敬；由此文本进一步把婚姻说成经济问题，把感情说成取决于男方有多少钱。",
+      "unresolved": "原文没有交代具体女孩的姓名、年龄、职业、家庭、实际选择过程，也没有交代选末代少爷之后的婚姻结果；没有给出统计数据和真实样本。",
+      "evidence": [
+        {
+          "index": 51,
+          "url": "https://www.douyin.com/video/7680388351061973361"
+        }
+      ]
+    }
+  ],
+  "relationships": [
+    {
+      "target": "县城末代少爷",
+      "relation": "相亲择偶对象，被文本断言为几乎都会被优先选择",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 51,
+          "url": "https://www.douyin.com/video/7680388351061973361"
+        }
+      ]
+    },
+    {
+      "target": "农村的编衣带",
+      "relation": "相亲中的对照选择对象，文本暗示通常落选",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 51,
+          "url": "https://www.douyin.com/video/7680388351061973361"
+        }
+      ]
+    },
+    {
+      "target": "编二代",
+      "relation": "被文本称为相亲市场的王炸，属于更被看重的择偶对象",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 51,
+          "url": "https://www.douyin.com/video/7680388351061973361"
+        }
+      ]
+    },
+    {
+      "target": "A8A9",
+      "relation": "网上很多女孩想要嫁的大结果对象",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 51,
+          "url": "https://www.douyin.com/video/7680388351061973361"
+        }
+      ]
+    },
+    {
+      "target": "纯情男大、小黄毛",
+      "relation": "恋爱阶段可能选择的对象，但到结婚时被经济理性替代",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 51,
+          "url": "https://www.douyin.com/video/7680388351061973361"
+        }
+      ]
+    }
+  ],
+  "speech_habits": [
+    {
+      "claim": "把彩礼要求包装成“看诚意”",
+      "evidence": [
+        {
+          "index": 10,
+          "url": "https://www.douyin.com/video/7703063868465985509"
+        }
+      ]
+    },
+    {
+      "claim": "择偶意向被转述为要“大结果”、要嫁A8A9",
+      "evidence": [
+        {
+          "index": 51,
+          "url": "https://www.douyin.com/video/7680388351061973361"
+        }
+      ]
+    },
+    {
+      "claim": "用“先甜为敬”概括自己的婚姻选择",
+      "evidence": [
+        {
+          "index": 51,
+          "url": "https://www.douyin.com/video/7680388351061973361"
+        }
+      ]
+    }
+  ],
+  "contradictions": [
+    {
+      "issue": "“几乎所有女孩都选末代少爷”是统计事实还是假设推演",
+      "versions": [
+        {
+          "claim": "文本先让读者随便找县城未婚女孩做假想选择",
+          "evidence": [
+            {
+              "index": 51,
+              "url": "https://www.douyin.com/video/7680388351061973361"
+            }
+          ]
+        },
+        {
+          "claim": "随后断言几乎所有的女孩都会选末代少爷",
+          "evidence": [
+            {
+              "index": 51,
+              "url": "https://www.douyin.com/video/7680388351061973361"
+            }
+          ]
+        }
+      ],
+      "resolution": "保留并列：这是作者的概括性断言和假想推演，文本未给出样本、统计或个体实名案例。"
+    },
+    {
+      "issue": "择偶最高等级究竟是编二代还是末代少爷",
+      "versions": [
+        {
+          "claim": "编二代被称作相亲市场的王炸，编一代只是入门款",
+          "evidence": [
+            {
+              "index": 51,
+              "url": "https://www.douyin.com/video/7680388351061973361"
+            }
+          ]
+        },
+        {
+          "claim": "在实际二选一场面中，末代少爷被断言几乎必被选择",
+          "evidence": [
+            {
+              "index": 51,
+              "url": "https://www.douyin.com/video/7680388351061973361"
+            }
+          ]
+        }
+      ],
+      "resolution": "保留并列：文本没有直接让编二代与末代少爷正面对比，两种说法可同时存在。"
+    },
+    {
+      "issue": "婚姻是经济问题，但有钱是否一定能维持感情",
+      "versions": [
+        {
+          "claim": "婚姻看似感情问题，实际上是经济问题",
+          "evidence": [
+            {
+              "index": 51,
+              "url": "https://www.douyin.com/video/7680388351061973361"
+            }
+          ]
+        },
+        {
+          "claim": "有了钱也不一定能维持住感情",
+          "evidence": [
+            {
+              "index": 51,
+              "url": "https://www.douyin.com/video/7680388351061973361"
+            }
+          ]
+        }
+      ],
+      "resolution": "保留并列：文本既强调经济是必要条件，又承认经济不是充分条件。"
+    }
+  ],
+  "gaps": [
+    "具体年龄、职业、学历、收入、家庭背景均未写明。",
+    "没有给出任何一个实名个体的完整经历和原话。",
+    "没有说明该群体在不同县域、不同家庭条件中的差异。",
+    "没有交代选择末代少爷之后的婚姻结果。",
+    "是否与“最优解女孩”“县城王漫妮”“大龄剩女”等角色属于同一群体，原文未明示。",
+    "没有实际统计数据支撑“几乎所有的女孩”这一断言。",
+    "未交代“县城未婚女孩”与“县城相亲女性”“县城未婚姑娘”等泛称群体是否为同一批人。",
+    "“彩礼看诚意”一句的主语是“很多人”，原文未说明说这话的是否就是该群体本身。",
+    "原文未描写该群体的外貌、穿着、言行细节与具体相亲现场。"
+  ],
+  "creative_expansions": [],
+  "source_coverage": [
+    {
+      "index": 51,
+      "role": "集中提供“县城未婚女孩”在相亲市场上优先看男方家庭经济扶持、在编一代与末代少爷之间选择末代少爷的泛称群像材料；另仅用于核对旧卡提到的“几乎所有的女孩”“就是要嫁A8A9的”等表述。",
+      "url": "https://www.douyin.com/video/7680388351061973361"
+    }
+  ]
+}

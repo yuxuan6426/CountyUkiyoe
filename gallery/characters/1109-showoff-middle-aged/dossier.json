@@ -1,0 +1,575 @@
+{
+  "name": "县城炫耀型中年人",
+  "nature": "县城原型、单篇角色。仅第81篇提供材料，原文将其作为县城中年群体的概括形象：人到中年必须拉满排面，经济拮据、背房贷甚至快吃不上饭，却在衣服、车、彩礼、婚礼、朋友圈和亲属资源上持续炫耀。旧卡别名均出自该篇，不能补写成具名自然人或连续传记。",
+  "overview": "县城炫耀型中年人是第81篇“人到中年必须要有排面”的概括形象。文本一面写他背着房贷、快吃不上饭，一面写他穿始祖鸟/萨洛蒙/迪桑特、开BBA/理想/问界/特斯拉，彩礼摆38万8、贷款办婚礼；聊天必称小舅子开迈巴赫、二哥开霍希，承诺“有事打电话”，跟朋友同事凡尔赛大平层、物业费和保洁，朋友圈晒丽思卡尔顿、宝格丽、阿那亚。另一面，父母家炒菜舍不得放肉、老棉服穿五年、电动车挡风被漏海绵、雨披掉漆。原文把动机归于县城爱找优越感的人多，越没排面越被打压；因此在家吃清水面条可以，出门不能被踩在头上。原文未交代姓名、性别、职业、收入与结局。",
+  "identity": [
+    {
+      "claim": "属于县城中年人，原文称爱虚荣、好面子的全都是中年人",
+      "evidence": [
+        {
+          "index": 81,
+          "url": "https://www.douyin.com/video/7661955942992465162"
+        }
+      ]
+    },
+    {
+      "claim": "经济压力大，背着房贷，甚至被描述为快吃不上饭",
+      "evidence": [
+        {
+          "index": 81,
+          "url": "https://www.douyin.com/video/7661955942992465162"
+        }
+      ]
+    },
+    {
+      "claim": "其排面标准包括穿始祖鸟、萨洛蒙、迪桑特，开BBA、理想、问界、特斯拉",
+      "evidence": [
+        {
+          "index": 81,
+          "url": "https://www.douyin.com/video/7661955942992465162"
+        }
+      ]
+    },
+    {
+      "claim": "其排面标准还包括高额彩礼和贷款办风光婚礼",
+      "evidence": [
+        {
+          "index": 81,
+          "url": "https://www.douyin.com/video/7661955942992465162"
+        }
+      ]
+    },
+    {
+      "claim": "原文未明示该角色性别、职业、收入和具体所在地",
+      "evidence": [
+        {
+          "index": 81,
+          "url": "https://www.douyin.com/video/7661955942992465162"
+        }
+      ]
+    }
+  ],
+  "traits": [
+    {
+      "claim": "把排面放在优先位置",
+      "kind": "动机",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 81,
+          "url": "https://www.douyin.com/video/7661955942992465162"
+        }
+      ]
+    },
+    {
+      "claim": "爱炫耀亲属资源，借小舅子、二哥的豪车抬高自己",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 81,
+          "url": "https://www.douyin.com/video/7661955942992465162"
+        }
+      ]
+    },
+    {
+      "claim": "喜欢展示自己能办事、有人脉",
+      "kind": "自我形象",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 81,
+          "url": "https://www.douyin.com/video/7661955942992465162"
+        }
+      ]
+    },
+    {
+      "claim": "在熟人社交中维持不哭穷、凡尔赛富裕生活的形象",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 81,
+          "url": "https://www.douyin.com/video/7661955942992465162"
+        }
+      ]
+    },
+    {
+      "claim": "害怕没排面后被打压、被笑话、陷入内耗",
+      "kind": "恐惧",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 81,
+          "url": "https://www.douyin.com/video/7661955942992465162"
+        }
+      ]
+    },
+    {
+      "claim": "陷入自我怀疑，把拉满排面当作应对方式",
+      "kind": "矛盾",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 81,
+          "url": "https://www.douyin.com/video/7661955942992465162"
+        }
+      ]
+    },
+    {
+      "claim": "在家可以吃清水面条，出门却绝不能被别人踩在头上",
+      "kind": "矛盾",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 81,
+          "url": "https://www.douyin.com/video/7661955942992465162"
+        }
+      ]
+    },
+    {
+      "claim": "其经济拮据与外部炫耀并存",
+      "kind": "矛盾",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 81,
+          "url": "https://www.douyin.com/video/7661955942992465162"
+        }
+      ]
+    },
+    {
+      "claim": "人到中年必须把排面拉满，以应对自我怀疑。",
+      "kind": "动机",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "聊天张口必称小舅子开迈巴赫、二哥开霍希。",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "用“你有什么事给我打电话，我给你解决”展示人脉和办事能力。",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "在朋友圈不哭穷，凡尔赛大平层、物业费和专门保洁。",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "通过始祖鸟、萨洛蒙、迪桑特、BBA、理想、问界、特斯拉等符号维持排面。",
+      "kind": "欲望",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "把38万8彩礼和贷款办风光婚礼列为排面标准。",
+      "kind": "欲望",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "自己快吃不上饭、背房贷喘不过气，却持续炫耀亲属豪车与高端朋友圈。",
+      "kind": "矛盾",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "父母家炒菜舍不得放肉、老棉服穿五年，与角色外部高消费展示并存。",
+      "kind": "矛盾",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "在家吃清水面条可以，出门必须不能让别人踩在头上。",
+      "kind": "矛盾",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "害怕没排面后被打压、被笑话、陷入内耗。",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    }
+  ],
+  "life_domains": [
+    {
+      "domain": "消费/面子",
+      "claim": "把衣服、车、婚礼、朋友圈当作排面战场",
+      "evidence": [
+        {
+          "index": 81,
+          "url": "https://www.douyin.com/video/7661955942992465162"
+        }
+      ]
+    },
+    {
+      "domain": "金钱/负债",
+      "claim": "背负房贷、经济压力大，却继续维持富裕外观",
+      "evidence": [
+        {
+          "index": 81,
+          "url": "https://www.douyin.com/video/7661955942992465162"
+        }
+      ]
+    },
+    {
+      "domain": "社交/朋友圈",
+      "claim": "跟朋友同事凡尔赛大平层、物业费和请保洁",
+      "evidence": [
+        {
+          "index": 81,
+          "url": "https://www.douyin.com/video/7661955942992465162"
+        }
+      ]
+    },
+    {
+      "domain": "家庭/父母",
+      "claim": "父母家庭生活节俭，与其外部高消费形象并置",
+      "evidence": [
+        {
+          "index": 81,
+          "url": "https://www.douyin.com/video/7661955942992465162"
+        }
+      ]
+    },
+    {
+      "domain": "婚恋/婚礼",
+      "claim": "把高额彩礼和风光婚礼列为排面标准",
+      "evidence": [
+        {
+          "index": 81,
+          "url": "https://www.douyin.com/video/7661955942992465162"
+        }
+      ]
+    },
+    {
+      "domain": "评价体系",
+      "claim": "活在县城熟人社会的比较和笑话机制中",
+      "evidence": [
+        {
+          "index": 81,
+          "url": "https://www.douyin.com/video/7661955942992465162"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "event_id": "E001",
+      "title": "中年人把排面拉满",
+      "description": "文本提出人到中年最容易自我怀疑，因此必须先把排面拉满，衣服、车、婚礼等外部符号不能落后。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 81,
+          "url": "https://www.douyin.com/video/7661955942992465162"
+        }
+      ]
+    },
+    {
+      "event_id": "E002",
+      "title": "聊天时搬出亲属豪车并承诺办事",
+      "description": "该角色与别人聊天时张口就说小舅子开迈巴赫、二哥开霍希，并说有事给自己打电话，自己给解决。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 81,
+          "url": "https://www.douyin.com/video/7661955942992465162"
+        }
+      ]
+    },
+    {
+      "event_id": "E003",
+      "title": "在朋友圈维持不哭穷和高端消费形象",
+      "description": "该角色背着房贷也不在朋友圈哭穷，继续凡尔赛大平层、物业费和专门保洁，并晒丽思卡尔顿、宝格丽、阿那亚等场景。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 81,
+          "url": "https://www.douyin.com/video/7661955942992465162"
+        }
+      ]
+    },
+    {
+      "event_id": "E004",
+      "title": "父母家庭继续节俭生活",
+      "description": "与其外部排面并存，父母家中炒菜舍不得放肉，老棉服对付五年，电动车挡风被漏海绵，雨披晒掉漆。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 81,
+          "url": "https://www.douyin.com/video/7661955942992465162"
+        }
+      ]
+    },
+    {
+      "event_id": "E005",
+      "title": "县城笑话机制构成压力",
+      "description": "县城娱乐活动匮乏，笑话别人成为重要社交内容；老年人以不能让人笑话为执念，也喜欢笑话别人。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 81,
+          "url": "https://www.douyin.com/video/7661955942992465162"
+        }
+      ]
+    }
+  ],
+  "storylines": [
+    {
+      "title": "县城中年人的排面工程",
+      "event_ids": [
+        "E001",
+        "E002",
+        "E003",
+        "E004",
+        "E005"
+      ],
+      "narrative": "文本从“人到中年以后必须要有排面”开始，说明中年人最容易自我怀疑，所以不能保守，必须先把排面拉满。接着列出排面标准：衣服、车、彩礼、婚礼都要风光，不能让人瞧不起。该角色即使自己快吃不上饭、背着房贷喘不过气，也不在朋友圈哭穷，还跟朋友同事凡尔赛大平层和保洁；聊天时搬出小舅子开迈巴赫、二哥开霍希，并承诺有事能解决。朋友圈里则晒丽思卡尔顿、宝格丽、阿那亚等高档场景。与此同时，父母家里炒菜舍不得放肉、老棉服穿五年、电动车挡风被漏海绵、雨披晒掉漆。文本给出的原因是县城爱找优越感的人太多，越没排面越会被打压、被笑话、陷入内耗，因此在家吃清水面条可以，出门必须不能被别人踩在头上。原文没有交代具体结果。",
+      "unresolved": "未交代该角色的姓名、年龄细项、性别、职业、收入、具体负债、朋友圈高档消费是否真实、是否被识破、后续生活结果。",
+      "evidence": [
+        {
+          "index": 81,
+          "url": "https://www.douyin.com/video/7661955942992465162"
+        }
+      ]
+    }
+  ],
+  "relationships": [
+    {
+      "target": "小舅子",
+      "relation": "姻亲/亲属；其迈巴赫被该角色用作炫耀资本",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 81,
+          "url": "https://www.douyin.com/video/7661955942992465162"
+        }
+      ]
+    },
+    {
+      "target": "二哥",
+      "relation": "亲属；其霍希被该角色用作炫耀资本",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 81,
+          "url": "https://www.douyin.com/video/7661955942992465162"
+        }
+      ]
+    },
+    {
+      "target": "朋友、同事",
+      "relation": "社交对象；该角色向他们凡尔赛大平层、物业费和请保洁",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 81,
+          "url": "https://www.douyin.com/video/7661955942992465162"
+        }
+      ]
+    },
+    {
+      "target": "老爹老妈",
+      "relation": "父母/家庭；其家庭生活节俭与角色外部排面形成对照",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 81,
+          "url": "https://www.douyin.com/video/7661955942992465162"
+        }
+      ]
+    },
+    {
+      "target": "县城老年人",
+      "relation": "同处县城评价体系；老年人以不能让人笑话为执念，并喜欢笑话别人",
+      "certainty": "文本推断",
+      "evidence": [
+        {
+          "index": 81,
+          "url": "https://www.douyin.com/video/7661955942992465162"
+        }
+      ]
+    },
+    {
+      "target": "县城评价者/爱找优越感的人",
+      "relation": "构成该角色必须拉满排面的社交压力来源",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 81,
+          "url": "https://www.douyin.com/video/7661955942992465162"
+        }
+      ]
+    }
+  ],
+  "speech_habits": [
+    {
+      "claim": "张口搬出亲属豪车",
+      "evidence": [
+        {
+          "index": 81,
+          "url": "https://www.douyin.com/video/7661955942992465162"
+        }
+      ]
+    },
+    {
+      "claim": "用“有事找我”展示人脉和解决能力",
+      "evidence": [
+        {
+          "index": 81,
+          "url": "https://www.douyin.com/video/7661955942992465162"
+        }
+      ]
+    },
+    {
+      "claim": "凡尔赛大平层、物业费和专门保洁",
+      "evidence": [
+        {
+          "index": 81,
+          "url": "https://www.douyin.com/video/7661955942992465162"
+        }
+      ]
+    },
+    {
+      "claim": "朋友圈采用高档酒店、下午茶、无边泳池等消费叙事",
+      "evidence": [
+        {
+          "index": 81,
+          "url": "https://www.douyin.com/video/7661955942992465162"
+        }
+      ]
+    }
+  ],
+  "contradictions": [
+    {
+      "issue": "经济拮据与炫耀亲属豪车、高端朋友圈并存",
+      "versions": [
+        {
+          "claim": "自己都快吃不上饭、背着房贷喘不过气",
+          "evidence": [
+            {
+              "index": 81,
+              "url": "https://www.douyin.com/video/7661955942992465162"
+            }
+          ]
+        },
+        {
+          "claim": "聊天搬出迈巴赫、霍希，朋友圈晒丽思卡尔顿、宝格丽、阿那亚",
+          "evidence": [
+            {
+              "index": 81,
+              "url": "https://www.douyin.com/video/7661955942992465162"
+            }
+          ]
+        }
+      ],
+      "resolution": "保留并列，不擅自解释其真实性或合并为单一经济状况。"
+    },
+    {
+      "issue": "父母家庭节俭与角色外部高消费展示并存",
+      "versions": [
+        {
+          "claim": "父母炒菜舍不得放肉、老棉服穿五年、电动车挡风被和雨披破旧",
+          "evidence": [
+            {
+              "index": 81,
+              "url": "https://www.douyin.com/video/7661955942992465162"
+            }
+          ]
+        },
+        {
+          "claim": "角色朋友圈仍展示高档消费场景",
+          "evidence": [
+            {
+              "index": 81,
+              "url": "https://www.douyin.com/video/7661955942992465162"
+            }
+          ]
+        }
+      ],
+      "resolution": "保留并列，原文未说明二者是否同一家庭账本。"
+    },
+    {
+      "issue": "在家清水面条与出门排面拉满并存",
+      "versions": [
+        {
+          "claim": "在家吃清水面条没关系",
+          "evidence": [
+            {
+              "index": 81,
+              "url": "https://www.douyin.com/video/7661955942992465162"
+            }
+          ]
+        },
+        {
+          "claim": "出门必须不能让别人踩在头上",
+          "evidence": [
+            {
+              "index": 81,
+              "url": "https://www.douyin.com/video/7661955942992465162"
+            }
+          ]
+        }
+      ],
+      "resolution": "保留并列，这是原文明示的角色生活策略，不视为逻辑矛盾需消解。"
+    },
+    {
+      "issue": "角色性别、职业、收入与朋友圈真实性未明",
+      "versions": [
+        {
+          "claim": "原文只称中年人和选手，未明示性别、职业和具体收入",
+          "evidence": [
+            {
+              "index": 81,
+              "url": "https://www.douyin.com/video/7661955942992465162"
+            }
+          ]
+        },
+        {
+          "claim": "朋友圈高档消费是否真实发生未明",
+          "evidence": [
+            {
+              "index": 81,
+              "url": "https://www.douyin.com/video/7661955942992465162"
+            }
+          ]
+        }
+      ],
+      "resolution": "保留空白，不补写原文没有的设定。"
+    }
+  ],
+  "gaps": [
+    "该角色姓名、具体年龄、性别未明。",
+    "职业、收入、单位或生意类型未明。",
+    "房贷数额、负债总额和还款状态未明。",
+    "朋友圈高档消费是真实经历、转发、想象还是文案包装未明。",
+    "其父母是否与其同住、是否由其供养未明。",
+    "婚姻状态、是否有子女、彩礼婚礼是否本人经历未明。",
+    "小舅子、二哥是真实亲属还是谈资均未交代更多细节。",
+    "是否因没排面被别人打压或笑话的具体事件未写。",
+    "其最终是否维持住排面、是否被拆穿、后续结果未写。",
+    "原文未给出该角色与朋友同事的具体互动场景和对话。 "
+  ],
+  "creative_expansions": [],
+  "source_coverage": [
+    {
+      "index": 81,
+      "role": "唯一直接定义该角色的材料：提供中年好面子、经济拮据、炫耀亲属豪车、朋友圈凡尔赛、父母节俭、县城笑话机制与排面动机等核心证据。",
+      "url": "https://www.douyin.com/video/7661955942992465162"
+    }
+  ]
+}

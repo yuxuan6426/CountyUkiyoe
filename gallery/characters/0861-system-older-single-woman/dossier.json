@@ -1,0 +1,603 @@
+{
+  "name": "县城体制内大龄剩女",
+  "nature": "原型/复合群像，非单一自然人。核心是县城婚恋市场筛选后被剩下的“体制内大龄剩女”群体标签：有编制、条件被称县城第一梯队，却不降择偶要求，靠父母人脉广撒网找人介绍。另有大龄剩女泛称与教师、护士、银行女三大重灾区两条补充线，均未落到个体生平。",
+  "overview": "版本一（#203）：a男娶b女层层向下后，最后剩下农村大龄剩男与县城体制内大龄剩女，两者是最不会搞对象与最难搞的一对，无机会在相亲市场碰面；该群体不降要求，发力方向是广撒网、疯狂找人介绍，父母一辈子人脉全押上；出嫁时父母流泪，像考编上岸一样终于送走。版本二（#128）：县城70%以上大龄剩女来自教师、护士、银行女，成因分别是特殊圈层致自我认知失准、特殊经历致性格缺陷、特殊环境致异性资源匮乏。版本三（泛称#231/#383/#419/#523）：年龄越大要求越苛刻、开局问房车彩礼，死撑价格等待高价买者、可能砸在手里，要求对方最短短板长于自己最长长板，只有骗子才能满足、易被杀猪盘收割。",
+  "identity": [
+    {
+      "claim": "被明确列为县城婚恋市场筛选后剩下的群体之一：县城体制内的大龄剩女。",
+      "evidence": [
+        {
+          "index": 203,
+          "url": "https://www.douyin.com/video/7585173030377131316"
+        }
+      ]
+    },
+    {
+      "claim": "与农村大龄剩男并列，被视为婚恋市场上“最难搞的一帮女人”。",
+      "evidence": [
+        {
+          "index": 203,
+          "url": "https://www.douyin.com/video/7585173030377131316"
+        }
+      ]
+    },
+    {
+      "claim": "县城大龄剩女被称最集中在教师、护士、银行女三个职业群体。",
+      "evidence": [
+        {
+          "index": 128,
+          "url": "https://www.douyin.com/video/7634402011164740910"
+        }
+      ]
+    },
+    {
+      "claim": "在泛称材料中，大龄剩女可被概括为自身条件一般或要求特别高。",
+      "evidence": [
+        {
+          "index": 523,
+          "url": "https://www.douyin.com/video/7220985330827169081"
+        }
+      ]
+    }
+  ],
+  "traits": [
+    {
+      "claim": "不降低择偶要求；若降要求就不会剩下。",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 203,
+          "url": "https://www.douyin.com/video/7585173030377131316"
+        }
+      ]
+    },
+    {
+      "claim": "婚配发力方向是广撒网，疯狂找人介绍对象。",
+      "kind": "动机",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 203,
+          "url": "https://www.douyin.com/video/7585173030377131316"
+        }
+      ]
+    },
+    {
+      "claim": "高度依赖父母的人脉资源去解决婚配问题。",
+      "kind": "动机",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 203,
+          "url": "https://www.douyin.com/video/7585173030377131316"
+        }
+      ]
+    },
+    {
+      "claim": "对外卷式提高对方要求，而非对自己提高要求。",
+      "kind": "矛盾",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 141,
+          "url": "https://www.douyin.com/video/7625514071126756623"
+        }
+      ]
+    },
+    {
+      "claim": "年龄增长后更看不上旧标准对象，要求更苛刻。",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": [
+        {
+          "index": 231,
+          "url": "https://www.douyin.com/video/7566662956328950650"
+        }
+      ]
+    },
+    {
+      "claim": "泛称材料称其会把年龄增长算作沉没成本，因而更强调物质条件。",
+      "kind": "动机",
+      "certainty": "文本推断",
+      "evidence": [
+        {
+          "index": 231,
+          "url": "https://www.douyin.com/video/7566662956328950650"
+        }
+      ]
+    },
+    {
+      "claim": "择偶标准可被概括为：对方最短的短板也要比自己的长板更长。",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": [
+        {
+          "index": 419,
+          "url": "https://www.douyin.com/video/7308391967673683254"
+        }
+      ]
+    },
+    {
+      "claim": "泛称材料称其明知有价无市，仍死撑价格等待高价买者。",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": [
+        {
+          "index": 383,
+          "url": "https://www.douyin.com/video/7344689922873249033"
+        }
+      ]
+    },
+    {
+      "claim": "泛称材料称其容易被杀猪盘收割，因为只有骗子才能满足择偶要求。",
+      "kind": "恐惧",
+      "certainty": "文本推断",
+      "evidence": [
+        {
+          "index": 523,
+          "url": "https://www.douyin.com/video/7220985330827169081"
+        }
+      ]
+    },
+    {
+      "claim": "银行女等职业圈层被称容易导致自我认知失准，久了对钱失去概念。",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 128,
+          "url": "https://www.douyin.com/video/7634402011164740910"
+        }
+      ]
+    },
+    {
+      "claim": "不降低择偶要求，若降要求就不会剩下。",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "依赖父母一辈子攒下的人脉资源投入婚配。",
+      "kind": "动机",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "对外重拳出击、提高对别人的要求，而非提高自己。",
+      "kind": "矛盾",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "把年龄增长算作沉没成本，因而更强调房、车、彩礼等物质条件。",
+      "kind": "动机",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "要求对方最短的短板也要比自己的长板更长。",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "明知有价无市仍死撑价格，等待可能出现的高价买者。",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "泛称材料称只有骗子才能满足其择偶要求，因而易被杀猪盘收割。",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "教师、护士、银行女等特殊圈层易导致自我认知失准，银行女久了会对钱失去概念。",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    }
+  ],
+  "life_domains": [
+    {
+      "domain": "婚恋/相亲",
+      "claim": "在县城相亲市场被留下，要求不降，广撒网，频繁请人介绍。",
+      "evidence": [
+        {
+          "index": 203,
+          "url": "https://www.douyin.com/video/7585173030377131316"
+        }
+      ]
+    },
+    {
+      "domain": "家庭/亲属",
+      "claim": "父母资源和人脉被大量投入其婚配；出嫁被父母视作终于送走。",
+      "evidence": [
+        {
+          "index": 203,
+          "url": "https://www.douyin.com/video/7585173030377131316"
+        }
+      ]
+    },
+    {
+      "domain": "职业/阶层",
+      "claim": "县城大龄剩女被称最集中在教师、护士、银行女；原因包括自我认知、性格、异性资源三类问题。",
+      "evidence": [
+        {
+          "index": 128,
+          "url": "https://www.douyin.com/video/7634402011164740910"
+        }
+      ]
+    },
+    {
+      "domain": "社会评价/婚配结构",
+      "claim": "与农村大龄剩男被认为没有机会在相亲市场碰面。",
+      "evidence": [
+        {
+          "index": 144,
+          "url": "https://www.douyin.com/video/7623454368314002723"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "event_id": "E001",
+      "title": "被列为县城婚恋市场筛选后的剩余群体",
+      "description": "在县城婚恋市场崩盘论述中，经过筛选后剩下农村大龄剩男与县城体制内大龄剩女，二者被认为没有机会在相亲市场碰面。",
+      "temporal": "原文明确论述顺序：筛选后最后剩下",
+      "chronology_basis": "明示",
+      "evidence": [
+        {
+          "index": 203,
+          "url": "https://www.douyin.com/video/7585173030377131316"
+        },
+        {
+          "index": 144,
+          "url": "https://www.douyin.com/video/7623454368314002723"
+        }
+      ]
+    },
+    {
+      "event_id": "E002",
+      "title": "不降要求并广撒网找人介绍",
+      "description": "该群体不降低择偶要求，发力方向是广撒网，疯狂找人介绍对象，并动用父母一辈子人脉。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 203,
+          "url": "https://www.douyin.com/video/7585173030377131316"
+        }
+      ]
+    },
+    {
+      "event_id": "E003",
+      "title": "出嫁时父母如考编上岸般送走",
+      "description": "文本描述其最终出嫁时，父母流泪并非心疼闺女出嫁，而像考编上岸一样终于送走。",
+      "temporal": "原文描述的结果阶段",
+      "chronology_basis": "明示",
+      "evidence": [
+        {
+          "index": 203,
+          "url": "https://www.douyin.com/video/7585173030377131316"
+        }
+      ]
+    },
+    {
+      "event_id": "E004",
+      "title": "年龄增长后要求更苛刻",
+      "description": "泛称大龄剩女材料称，年龄越大要求越苛刻，相亲开局问房、车、彩礼。",
+      "temporal": "原文明确：年龄增长后",
+      "chronology_basis": "明示",
+      "evidence": [
+        {
+          "index": 231,
+          "url": "https://www.douyin.com/video/7566662956328950650"
+        }
+      ]
+    },
+    {
+      "event_id": "E005",
+      "title": "死撑价格等待高价买者",
+      "description": "泛称材料将其类比楼市，称其不直接降价抛售，而是死撑价格，等待可能出现的高价买者。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 383,
+          "url": "https://www.douyin.com/video/7344689922873249033"
+        }
+      ]
+    },
+    {
+      "event_id": "E006",
+      "title": "被归入大龄剩女三大重灾区",
+      "description": "县城大龄剩女被称70%以上来自教师、护士、银行女，并分别对应自我认知失准、性格缺陷、异性资源匮乏。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 128,
+          "url": "https://www.douyin.com/video/7634402011164740910"
+        }
+      ]
+    }
+  ],
+  "storylines": [
+    {
+      "title": "县城婚恋市场崩盘后的剩余群体线",
+      "event_ids": [
+        "E001",
+        "E002",
+        "E003"
+      ],
+      "narrative": "在县城婚恋市场崩盘的论述里，条件筛选和鄙视链导致最后剩下农村大龄剩男与县城体制内大龄剩女，二者没有机会在相亲市场碰面。该群体不会降低要求，而是广撒网、疯狂找人介绍，父母一辈子人脉也被投入其中。文本设想的结局是，出嫁时父母流泪，像考编上岸一样终于把人送走。",
+      "unresolved": "个体是否最终出嫁、要求是否变化、父母人脉具体如何运作，原文未交代。",
+      "evidence": [
+        {
+          "index": 203,
+          "url": "https://www.douyin.com/video/7585173030377131316"
+        },
+        {
+          "index": 144,
+          "url": "https://www.douyin.com/video/7623454368314002723"
+        }
+      ]
+    },
+    {
+      "title": "职业重灾区线",
+      "event_ids": [
+        "E006"
+      ],
+      "narrative": "另一篇把县城大龄剩女重灾区归为教师、护士、银行女，并解释为特殊圈层造成自我认知失准、特殊经历造成性格缺陷、特殊环境造成异性资源匮乏。银行女被称久了会对钱失去概念。",
+      "unresolved": "三者内部差异、个人经历和具体婚配结果均未展开。",
+      "evidence": [
+        {
+          "index": 128,
+          "url": "https://www.douyin.com/video/7634402011164740910"
+        }
+      ]
+    },
+    {
+      "title": "泛称大龄剩女的择偶困境线",
+      "event_ids": [
+        "E004",
+        "E005"
+      ],
+      "narrative": "全库泛称“大龄剩女”的材料补充称：其年龄越大要求越苛刻，会把年龄增长算作沉没成本；面对有价无市仍死撑价格，等待高价买者；结局可能砸在手里，也可能被杀猪盘收割。",
+      "unresolved": "这些泛称未限定“县城体制内”，是否与目标角色完全重合，文本未明。",
+      "evidence": [
+        {
+          "index": 231,
+          "url": "https://www.douyin.com/video/7566662956328950650"
+        },
+        {
+          "index": 383,
+          "url": "https://www.douyin.com/video/7344689922873249033"
+        }
+      ]
+    }
+  ],
+  "relationships": [
+    {
+      "target": "农村大龄剩男",
+      "relation": "被并列为县城婚恋市场剩余群体，且被认为没有机会在相亲市场碰面。",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 203,
+          "url": "https://www.douyin.com/video/7585173030377131316"
+        },
+        {
+          "index": 144,
+          "url": "https://www.douyin.com/video/7623454368314002723"
+        }
+      ]
+    },
+    {
+      "target": "父母/爹妈",
+      "relation": "婚配依赖父母资源大战与人脉介绍；出嫁时父母被描述为如愿送走。",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 203,
+          "url": "https://www.douyin.com/video/7585173030377131316"
+        }
+      ]
+    },
+    {
+      "target": "县城王漫妮",
+      "relation": "在被称大龄剩女重灾区的论述中并置，但文本未说二者等同。",
+      "certainty": "文本推断",
+      "evidence": [
+        {
+          "index": 128,
+          "url": "https://www.douyin.com/video/7634402011164740910"
+        }
+      ]
+    },
+    {
+      "target": "杀猪盘/骗子",
+      "relation": "泛称材料称大龄剩女会被杀猪盘收割，只有骗子才能满足其择偶要求。",
+      "certainty": "文本推断",
+      "evidence": [
+        {
+          "index": 523,
+          "url": "https://www.douyin.com/video/7220985330827169081"
+        }
+      ]
+    },
+    {
+      "target": "高价买者",
+      "relation": "泛称材料称其死撑价格，等待可能出现的高价买者。",
+      "certainty": "文本推断",
+      "evidence": [
+        {
+          "index": 383,
+          "url": "https://www.douyin.com/video/7344689922873249033"
+        }
+      ]
+    }
+  ],
+  "speech_habits": [
+    {
+      "claim": "泛称材料写其相亲开局会问房、车、彩礼等物质条件。",
+      "evidence": [
+        {
+          "index": 231,
+          "url": "https://www.douyin.com/video/7566662956328950650"
+        }
+      ]
+    }
+  ],
+  "contradictions": [
+    {
+      "issue": "角色边界：是“县城体制内大龄剩女”，还是泛称“大龄剩女”？",
+      "versions": [
+        {
+          "claim": "版本A：明确限定为县城体制内的大龄剩女。",
+          "evidence": [
+            {
+              "index": 203,
+              "url": "https://www.douyin.com/video/7585173030377131316"
+            }
+          ]
+        },
+        {
+          "claim": "版本B：多篇只写“大龄剩女”，未限定县城与体制内。",
+          "evidence": [
+            {
+              "index": 523,
+              "url": "https://www.douyin.com/video/7220985330827169081"
+            }
+          ]
+        }
+      ],
+      "resolution": "保留并列，不擅自把泛称材料全部并入县城体制内限定。"
+    },
+    {
+      "issue": "职业范围：是否只包括教师、护士、银行女？",
+      "versions": [
+        {
+          "claim": "版本A：只称县城体制内大龄剩女，未列职业。",
+          "evidence": [
+            {
+              "index": 203,
+              "url": "https://www.douyin.com/video/7585173030377131316"
+            }
+          ]
+        },
+        {
+          "claim": "版本B：称70%以上来自教师、护士、银行女。",
+          "evidence": [
+            {
+              "index": 128,
+              "url": "https://www.douyin.com/video/7634402011164740910"
+            }
+          ]
+        }
+      ],
+      "resolution": "并列呈现；70%以上是概括说法，原文未给精确名单。"
+    },
+    {
+      "issue": "结局：出嫁送走、砸在手里，还是被杀猪盘收割？",
+      "versions": [
+        {
+          "claim": "版本A：最终出嫁，父母像考编上岸一样送走。",
+          "evidence": [
+            {
+              "index": 203,
+              "url": "https://www.douyin.com/video/7585173030377131316"
+            }
+          ]
+        },
+        {
+          "claim": "版本B：绝大多数最后会像农村大龄剩男一样砸在手里。",
+          "evidence": [
+            {
+              "index": 383,
+              "url": "https://www.douyin.com/video/7344689922873249033"
+            }
+          ]
+        },
+        {
+          "claim": "版本C：会被杀猪盘收割，只有骗子才能满足择偶要求。",
+          "evidence": [
+            {
+              "index": 523,
+              "url": "https://www.douyin.com/video/7220985330827169081"
+            }
+          ]
+        }
+      ],
+      "resolution": "不同材料给出不同结局判断，保留并列。"
+    },
+    {
+      "issue": "择偶要求：嘴上不高，实际很高？",
+      "versions": [
+        {
+          "claim": "版本A：不降低要求，年龄越大要求越苛刻。",
+          "evidence": [
+            {
+              "index": 231,
+              "url": "https://www.douyin.com/video/7566662956328950650"
+            }
+          ]
+        },
+        {
+          "claim": "版本B：要求对方最短的短板也要比自己的长板更长。",
+          "evidence": [
+            {
+              "index": 419,
+              "url": "https://www.douyin.com/video/7308391967673683254"
+            }
+          ]
+        }
+      ],
+      "resolution": "两版都指向高要求，但未给出统一标准。"
+    }
+  ],
+  "gaps": [
+    "该群体没有具体姓名、年龄、个人职业、收入、家庭背景。",
+    "203只作群体判断，未提供个体案例、对话或行动细节。",
+    "教师、护士、银行女是否全部属于“县城体制内”，原文未完全界定。",
+    "全库泛称“大龄剩女”的材料与“县城体制内大龄剩女”是否同一原型，文本未明。",
+    "她们最终是否降低要求、是否结婚、婚后状态，原文未交代。"
+  ],
+  "creative_expansions": [],
+  "source_coverage": [
+    {
+      "index": 203,
+      "role": "核心材料：提出“县城体制内的大龄剩女”，描述其不降要求、广撒网、父母资源大战、出嫁如考编上岸、与农村大龄剩男无法碰面。",
+      "url": "https://www.douyin.com/video/7585173030377131316"
+    },
+    {
+      "index": 128,
+      "role": "补充材料：称县城大龄剩女最集中在教师、护士、银行女，并解释三类职业成因。",
+      "url": "https://www.douyin.com/video/7634402011164740910"
+    },
+    {
+      "index": 231,
+      "role": "泛称补充：称大龄剩女年龄越大要求越苛刻，相亲开局问房车彩礼。",
+      "url": "https://www.douyin.com/video/7566662956328950650"
+    },
+    {
+      "index": 383,
+      "role": "泛称补充：用房市类比大龄剩女有价无市、死撑价格、等待高价买者、可能砸在手里。",
+      "url": "https://www.douyin.com/video/7344689922873249033"
+    },
+    {
+      "index": 523,
+      "role": "泛称补充：称大龄剩女会被杀猪盘收割，只有骗子才能满足其择偶要求。",
+      "url": "https://www.douyin.com/video/7220985330827169081"
+    },
+    {
+      "index": 419,
+      "role": "泛称补充：称其择偶要求是对方最短的短板也要比自己的长板更长。",
+      "url": "https://www.douyin.com/video/7308391967673683254"
+    }
+  ]
+}

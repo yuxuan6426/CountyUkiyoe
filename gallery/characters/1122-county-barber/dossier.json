@@ -1,0 +1,971 @@
+{
+  "name": "县城理发师",
+  "nature": "原型/复合群像/具名叙事角色及编纂说明：序号260直接定义“县城理发师”原型；全库中该原型最常以叙述者初中同学“陆国富”具名出现，并被称托尼老师、维达沙宣、Lucas等。材料多为讽刺性观察，呈现文案中的人物形象，不可把不同文档强行拼成连续人生。",
+  "overview": "县城理发师是文本中被夸张为县城最有排面、最权威的职业原型：步行街或CBD开理发店，小程序预约，88元起，对只剪不烫染顾客冷淡，边剪边贬低上一位理发师并催办卡。最具体具名实例是叙述者初中同学陆国富：初中辍学，纹龙画虎染黄毛，从18岁干十几年，被称维达沙宣、小吴彦祖、Lucas、托尼老师。文本一面写月入1万2、2万多甚至几万，开大奔或奔驰C200L，穿始祖鸟、萨洛蒙；一面写加不起95号油、骑电动车、袜子2块、裤衩9块9、洗头膏兑水、兜里100块没有、话费靠人充、借钱加油和买单反。婚恋社交反复出现韩春花/克里斯汀娜官宣、露营、分手，一天加30多女性、约离异少妇、朋友圈emo。这些多为不同篇目讽刺段子，时间、真伪、资产与关系状态有版本冲突。",
+  "identity": [
+    {
+      "claim": "县城理发师：在县城步行街或CBD开理发店，初中辍学，从18岁干十几年",
+      "evidence": [
+        {
+          "index": 260,
+          "url": "https://www.douyin.com/video/7529863722328755506"
+        },
+        {
+          "index": 29,
+          "url": "https://www.douyin.com/video/7690463808767185337"
+        }
+      ]
+    },
+    {
+      "claim": "收费高：文本称理发时薪88元，在县城很难找到同等时薪工作",
+      "evidence": [
+        {
+          "index": 260,
+          "url": "https://www.douyin.com/video/7529863722328755506"
+        }
+      ]
+    },
+    {
+      "claim": "收入有多个版本：月入1万2、2万多、几万不等",
+      "evidence": [
+        {
+          "index": 47,
+          "url": "https://www.douyin.com/video/7682638122002711013"
+        },
+        {
+          "index": 29,
+          "url": "https://www.douyin.com/video/7690463808767185337"
+        },
+        {
+          "index": 253,
+          "url": "https://www.douyin.com/video/7537305087186603290"
+        }
+      ]
+    },
+    {
+      "claim": "具名实例：陆国富，别名托尼老师、县城发型设计界维达沙宣、小吴彦祖、英文名Lucas",
+      "evidence": [
+        {
+          "index": 251,
+          "url": "https://www.douyin.com/video/7538604024363371826"
+        },
+        {
+          "index": 253,
+          "url": "https://www.douyin.com/video/7537305087186603290"
+        },
+        {
+          "index": 204,
+          "url": "https://www.douyin.com/video/7584857647883701544"
+        }
+      ]
+    },
+    {
+      "claim": "社会地位被叙述为县城顶级，胜过公务员、事业编、医生、教师、律师",
+      "evidence": [
+        {
+          "index": 260,
+          "url": "https://www.douyin.com/video/7529863722328755506"
+        }
+      ]
+    }
+  ],
+  "traits": [
+    {
+      "claim": "高收费且姿态高冷，对顾客用眼神和价格施压",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 260,
+          "url": "https://www.douyin.com/video/7529863722328755506"
+        }
+      ]
+    },
+    {
+      "claim": "过度自信，剪得普通却自信展示成果",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 260,
+          "url": "https://www.douyin.com/video/7529863722328755506"
+        }
+      ]
+    },
+    {
+      "claim": "擅长推销办卡，搭话超过三句就催办卡",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 260,
+          "url": "https://www.douyin.com/video/7529863722328755506"
+        }
+      ]
+    },
+    {
+      "claim": "习惯贬低上一位给自己顾客剪发的人",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 260,
+          "url": "https://www.douyin.com/video/7529863722328755506"
+        }
+      ]
+    },
+    {
+      "claim": "好面子、靠符号消费表演有钱，但现金流紧张",
+      "kind": "矛盾",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 18,
+          "url": "https://www.douyin.com/video/7697428218999098639"
+        },
+        {
+          "index": 45,
+          "url": "https://www.douyin.com/video/7683421956008557434"
+        }
+      ]
+    },
+    {
+      "claim": "欲望和社交外放，频繁加女性、约离异少妇，同时爱在朋友圈演深情",
+      "kind": "欲望",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 221,
+          "url": "https://www.douyin.com/video/7573729054419864868"
+        }
+      ]
+    },
+    {
+      "claim": "喜欢吹牛画饼，声称要投资开新店让人当店长",
+      "kind": "动机",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 45,
+          "url": "https://www.douyin.com/video/7683421956008557434"
+        }
+      ]
+    },
+    {
+      "claim": "婚恋上有攀比心，看到别人找00后女大学生就上头",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 58,
+          "url": "https://www.douyin.com/video/7675210634724074213"
+        }
+      ]
+    },
+    {
+      "claim": "高收费且姿态高冷，对顾客用眼神和价格施压。",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "过度自信，剪得普通却自信展示成果。",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "擅长推销办卡，搭话超过三句就催办卡。",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "习惯贬低上一位给自己顾客剪发的人。",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "好面子、靠符号消费表演有钱，但现金流紧张：一面是大奔、始祖鸟、萨洛蒙，一面是2元袜子、9块9裤衩、兜里100块没有、话费靠人充。",
+      "kind": "矛盾",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "欲望和社交外放，频繁加女性、约离异少妇，同时爱在朋友圈演深情。",
+      "kind": "欲望",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "喜欢吹牛画饼，声称要投资开新店让人当店长。",
+      "kind": "动机",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "婚恋上有攀比心，看到别人找00后女大学生就上头。",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "陆国富到底有钱没钱：版本A月入2万多、开大奔、开奔驰C200；版本B借钱加油、话费靠人充、兜里100块没有。并列保留，不合并。",
+      "kind": "矛盾",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "座驾版本不一：版本A刚提大奔；版本B奔驰C200L，后因油贵骑电动车；版本C二手泡水奔驰C。是否同一辆车、置换顺序未交代。",
+      "kind": "矛盾",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "理发师职业地位与技术评价冲突：版本A县城最权威、胜过公务员事业编；版本B剪得普通却自信，顾客特别想骂他。",
+      "kind": "矛盾",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "职业去向：版本A未来十年估计还会在县城理发；版本B吹嘘投资开新店但没钱；版本C花40万开按摩店。是否同一阶段未明示。",
+      "kind": "矛盾",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "关系状态：版本A提奔驰C200后与韩春花官宣、后分手；版本B带女朋友克里斯汀娜露营。韩春花/克里斯汀娜称呼关系与状态先后不明。",
+      "kind": "矛盾",
+      "certainty": "文本推断",
+      "evidence": []
+    }
+  ],
+  "life_domains": [
+    {
+      "domain": "职业",
+      "claim": "理发店要求小程序预约；不做预约直接到店可能不被搭理；只剪不染烫会被轻视",
+      "evidence": [
+        {
+          "index": 260,
+          "url": "https://www.douyin.com/video/7529863722328755506"
+        }
+      ]
+    },
+    {
+      "domain": "金钱",
+      "claim": "收入不低但常被写成现金流窘迫，借钱加油、话费靠人充、加不起95号油",
+      "evidence": [
+        {
+          "index": 18,
+          "url": "https://www.douyin.com/video/7697428218999098639"
+        },
+        {
+          "index": 251,
+          "url": "https://www.douyin.com/video/7538604024363371826"
+        }
+      ]
+    },
+    {
+      "domain": "消费",
+      "claim": "消费符号以车、大牌外套、鞋、香水为主，但真假与新旧混乱",
+      "evidence": [
+        {
+          "index": 204,
+          "url": "https://www.douyin.com/video/7584857647883701544"
+        },
+        {
+          "index": 253,
+          "url": "https://www.douyin.com/video/7537305087186603290"
+        }
+      ]
+    },
+    {
+      "domain": "婚恋",
+      "claim": "与美甲店主理人韩春花/克里斯汀娜反复出现，官宣、露营、分手等版本并存",
+      "evidence": [
+        {
+          "index": 251,
+          "url": "https://www.douyin.com/video/7538604024363371826"
+        },
+        {
+          "index": 140,
+          "url": "https://www.douyin.com/video/7626426845415689512"
+        }
+      ]
+    },
+    {
+      "domain": "社交",
+      "claim": "常与赵铁柱一起混迹红浪漫等场所，并让朋友替他圆场",
+      "evidence": [
+        {
+          "index": 108,
+          "url": "https://www.douyin.com/video/7648176182773731813"
+        },
+        {
+          "index": 126,
+          "url": "https://www.douyin.com/video/7637424592269282661"
+        }
+      ]
+    },
+    {
+      "domain": "权力/排面",
+      "claim": "在县城熟人网络中有“理发找他”的民间地位，但权威感多来自文本夸张",
+      "evidence": [
+        {
+          "index": 173,
+          "url": "https://www.douyin.com/video/7605066774983331081"
+        },
+        {
+          "index": 145,
+          "url": "https://www.douyin.com/video/7623070673635691791"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "event_id": "E001",
+      "title": "县城理发师被写成最权威职业",
+      "description": "叙述者称县城里最有排面、最权威的工作是理发师，胜过公务员、事业编、医生、教师、律师；理发要预约，收费88元，服务高冷。",
+      "temporal": "原文未明示具体时间；单篇论述",
+      "chronology_basis": "明示",
+      "evidence": [
+        {
+          "index": 260,
+          "url": "https://www.douyin.com/video/7529863722328755506"
+        }
+      ]
+    },
+    {
+      "event_id": "E002",
+      "title": "陆国富开理发店并提大奔",
+      "description": "陆国富初中辍学，在县城CBD步行街开理发店，纹龙画虎染黄毛，从18岁干十几年，一个月赚2万多，后来提了大奔。",
+      "temporal": "原文称从18岁干到现在十几年，后提大奔；相对先后明示",
+      "chronology_basis": "明示",
+      "evidence": [
+        {
+          "index": 29,
+          "url": "https://www.douyin.com/video/7690463808767185337"
+        }
+      ]
+    },
+    {
+      "event_id": "E003",
+      "title": "陆国富买奔驰C200L与韩春花官宣后分手",
+      "description": "陆国富提奔驰C200后，美甲店主理人韩春花与他官宣恋爱；后来他因加不起95号油改骑电动车，韩春花因电动车烫屁股不愿穿长裤而分手。",
+      "temporal": "提车后官宣，之后分手；原文明确先后",
+      "chronology_basis": "明示",
+      "evidence": [
+        {
+          "index": 251,
+          "url": "https://www.douyin.com/video/7538604024363371826"
+        }
+      ]
+    },
+    {
+      "event_id": "E004",
+      "title": "吹嘘投资开新店但兜里没钱",
+      "description": "陆国富对瑜伽裤妹妹说自己要投资开新店，让人来当店长，实际上兜里100块钱都没有，话费由叙述者充。",
+      "temporal": "原文未明示具体时间",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 45,
+          "url": "https://www.douyin.com/video/7683421956008557434"
+        }
+      ]
+    },
+    {
+      "event_id": "E005",
+      "title": "带克里斯汀娜露营并借钱买瑜伽裤和微单",
+      "description": "陆国富带女朋友克里斯汀娜露营，向叙述者借1000块，给克里斯汀娜买露露瑜伽裤，自己买微单拍照，一天拍600来张照片。",
+      "temporal": "原文未明示具体时间",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 140,
+          "url": "https://www.douyin.com/video/7626426845415689512"
+        }
+      ]
+    },
+    {
+      "event_id": "E006",
+      "title": "红浪漫与赵铁柱同去并自称复习英语",
+      "description": "陆国富和赵铁柱整天一块去红浪漫，陆国富非说音乐老师都是赵铁柱点的，自己在复习英语考研词汇。",
+      "temporal": "原文未明示具体时间",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 108,
+          "url": "https://www.douyin.com/video/7648176182773731813"
+        }
+      ]
+    },
+    {
+      "event_id": "E007",
+      "title": "从理发店到开按摩店",
+      "description": "文本称陆国富这两年干理发店赚点小钱，谈婚论嫁时钱不够被女友嘲讽，随后分手，花40万在县城开按摩店。",
+      "temporal": "原文称“这两年”“谈婚论嫁时”“后来”；文档内先后",
+      "chronology_basis": "明示",
+      "evidence": [
+        {
+          "index": 189,
+          "url": "https://www.douyin.com/video/7594878480269987123"
+        }
+      ]
+    },
+    {
+      "event_id": "E008",
+      "title": "理发店日常加女性、约离异少妇、发emo文案",
+      "description": "陆国富开理发店，一天加30多个女性联系方式，光离异少妇一天约俩，约完还在朋友圈发emo文案，自称走不出来。",
+      "temporal": "原文未明示具体时间",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 221,
+          "url": "https://www.douyin.com/video/7573729054419864868"
+        }
+      ]
+    },
+    {
+      "event_id": "E009",
+      "title": "“洗脚丫裤衩”与借2000买单反",
+      "description": "陆国富认识美甲店主理人韩春花后，脚丫裤衩全是给人家洗，借叙述者2000块钱买单反给韩春花拍照，至今没还。",
+      "temporal": "认识韩春花之后；借2000至今未还",
+      "chronology_basis": "明示",
+      "evidence": [
+        {
+          "index": 126,
+          "url": "https://www.douyin.com/video/7637424592269282661"
+        }
+      ]
+    },
+    {
+      "event_id": "E010",
+      "title": "请姑娘吃饭不亲嘴就要求AA",
+      "description": "陆国富请姑娘吃饭，只要人家不跟他亲嘴，他就反过来说自己本来不喜欢这个女的，还要求女方把饭钱A了。",
+      "temporal": "原文未明示具体时间",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 61,
+          "url": "https://www.douyin.com/video/7673802651855671739"
+        }
+      ]
+    },
+    {
+      "event_id": "E011",
+      "title": "外形包装：小辫、Lucas、内增高、香水",
+      "description": "陆国富做发型像耿斯汉，扎小辫，英文名Lucas，穿内增高靴，喷1000多香水像喷杀虫剂，开二手泡水奔驰C吸引来理发的老嫂子。",
+      "temporal": "原文未明示具体时间",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 204,
+          "url": "https://www.douyin.com/video/7584857647883701544"
+        }
+      ]
+    }
+  ],
+  "storylines": [
+    {
+      "title": "县城理发师的高收费高姿态服务线",
+      "event_ids": [
+        "E001"
+      ],
+      "narrative": "起点是叙述者把县城理发师抬为最权威职业，收费88元、需要小程序预约。发展是顾客到店要按程序，只剪发不染烫会被轻视；剪发过程中理发师过度自信，给顾客戴眼镜展示成果。冲突是理发师一边贬低上一位给他剪头的人，一边催办卡；顾客想骂又张不开嘴。原文没有给出顾客是否办卡、技术是否真正过关的结果。",
+      "unresolved": "顾客最终是否办卡、理发师技术是否客观更好、88元定价是否普遍成立，原文均未交代。",
+      "evidence": [
+        {
+          "index": 260,
+          "url": "https://www.douyin.com/video/7529863722328755506"
+        }
+      ]
+    },
+    {
+      "title": "陆国富的排面与资金窘迫反复横跳线",
+      "event_ids": [
+        "E002",
+        "E003",
+        "E004",
+        "E005",
+        "E009",
+        "E010",
+        "E011"
+      ],
+      "narrative": "文本先写陆国富从18岁干理发十几年，月赚2万多，提大奔；又写他买奔驰C200L与韩春花官宣，之后加不起95号油骑电动车、分手。与此并行的是：他穿始祖鸟、萨洛蒙、喷千元香水、开二手泡水奔驰C，却穿2块袜子、9块9裤衩、洗头膏兑水、借钱加油；对瑜伽裤妹妹吹嘘开新店，兜里100块都没有。关系上也反复出现给韩春花洗脚丫裤衩、借2000买单反、带克里斯汀娜露营借钱买露露瑜伽裤。开始、发展、冲突都很密集，但不同文档没有统一结局。",
+      "unresolved": "大奔与奔驰C200L、二手泡水奔驰C是否同一辆车；韩春花与克里斯汀娜是否同一段关系中的同一称呼；各事件相对先后，原文未统一。",
+      "evidence": [
+        {
+          "index": 29,
+          "url": "https://www.douyin.com/video/7690463808767185337"
+        },
+        {
+          "index": 251,
+          "url": "https://www.douyin.com/video/7538604024363371826"
+        },
+        {
+          "index": 45,
+          "url": "https://www.douyin.com/video/7683421956008557434"
+        }
+      ]
+    },
+    {
+      "title": "与美甲店主理人韩春花/克里斯汀娜的关系线",
+      "event_ids": [
+        "E003",
+        "E005",
+        "E009"
+      ],
+      "narrative": "陆国富的女友/女朋友被写成美甲店主理人韩春花，网名或艺名克里斯汀娜。文本写他提奔驰C200后与韩春花官宣，后来因加不起油骑电动车而分手；又写他带克里斯汀娜露营、借钱买露露瑜伽裤和微单；还写他给韩春花洗脚丫裤衩、借2000买单反拍照未还。关系中有炫耀、讨好、经济窘迫与分手，但没有稳定结局。",
+      "unresolved": "韩春花与克里斯汀娜的称呼关系、分手后是否复合、单反钱是否归还，原文未给出明确结果。",
+      "evidence": [
+        {
+          "index": 251,
+          "url": "https://www.douyin.com/video/7538604024363371826"
+        },
+        {
+          "index": 140,
+          "url": "https://www.douyin.com/video/7626426845415689512"
+        },
+        {
+          "index": 126,
+          "url": "https://www.douyin.com/video/7637424592269282661"
+        }
+      ]
+    },
+    {
+      "title": "职业转向与吹牛线",
+      "event_ids": [
+        "E004",
+        "E007"
+      ],
+      "narrative": "陆国富一边在理发店维持排面，一边对瑜伽裤妹妹吹嘘要投资开新店、让人当店长，实际兜里没钱。另一篇又写他这两年干理发店赚点小钱，分手后花40万在县城开按摩店。开新店、开按摩店与继续理发之间没有统一时间线。",
+      "unresolved": "他到底开的是理发新店还是按摩店；40万资金来源；是否继续做理发师，原文没有闭环。",
+      "evidence": [
+        {
+          "index": 45,
+          "url": "https://www.douyin.com/video/7683421956008557434"
+        },
+        {
+          "index": 189,
+          "url": "https://www.douyin.com/video/7594878480269987123"
+        }
+      ]
+    }
+  ],
+  "relationships": [
+    {
+      "target": "陆国富",
+      "relation": "同一原型的具名叙事角色：文本中明确以陆国富指代理发师、托尼老师、维达沙宣",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 58,
+          "url": "https://www.douyin.com/video/7675210634724074213"
+        },
+        {
+          "index": 251,
+          "url": "https://www.douyin.com/video/7538604024363371826"
+        },
+        {
+          "index": 253,
+          "url": "https://www.douyin.com/video/7537305087186603290"
+        }
+      ]
+    },
+    {
+      "target": "韩春花/克里斯汀娜",
+      "relation": "女友/前女友，美甲店主理人；也有露营、洗脚丫裤衩、买单反等互动",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 251,
+          "url": "https://www.douyin.com/video/7538604024363371826"
+        },
+        {
+          "index": 140,
+          "url": "https://www.douyin.com/video/7626426845415689512"
+        }
+      ]
+    },
+    {
+      "target": "赵铁柱",
+      "relation": "初中同学/一起混红浪漫的朋友；陆国富把点音乐老师的事推给赵铁柱",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 108,
+          "url": "https://www.douyin.com/video/7648176182773731813"
+        }
+      ]
+    },
+    {
+      "target": "我/叙述者",
+      "relation": "初中同学与朋友；被借钱加油、被欠2000、被要求充话费",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 18,
+          "url": "https://www.douyin.com/video/7697428218999098639"
+        },
+        {
+          "index": 45,
+          "url": "https://www.douyin.com/video/7683421956008557434"
+        },
+        {
+          "index": 126,
+          "url": "https://www.douyin.com/video/7637424592269282661"
+        }
+      ]
+    },
+    {
+      "target": "顾客",
+      "relation": "服务提供者与消费者；被高冷对待、被推销办卡、被展示剪发成果",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 260,
+          "url": "https://www.douyin.com/video/7529863722328755506"
+        }
+      ]
+    },
+    {
+      "target": "上一位理发师/同行",
+      "relation": "被贬低、被用来抬高自己的对象",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 260,
+          "url": "https://www.douyin.com/video/7529863722328755506"
+        }
+      ]
+    },
+    {
+      "target": "老嫂子/离异少妇/瑜伽裤妹妹",
+      "relation": "被搭讪、被吹嘘、被吸引的异性对象",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 204,
+          "url": "https://www.douyin.com/video/7584857647883701544"
+        },
+        {
+          "index": 221,
+          "url": "https://www.douyin.com/video/7573729054419864868"
+        },
+        {
+          "index": 45,
+          "url": "https://www.douyin.com/video/7683421956008557434"
+        }
+      ]
+    }
+  ],
+  "speech_habits": [
+    {
+      "claim": "用高傲反问开场，制造“你先试试我的厉害”的压迫感",
+      "evidence": [
+        {
+          "index": 260,
+          "url": "https://www.douyin.com/video/7529863722328755506"
+        }
+      ]
+    },
+    {
+      "claim": "剪完后自信展示，让顾客戴眼镜看成果",
+      "evidence": [
+        {
+          "index": 260,
+          "url": "https://www.douyin.com/video/7529863722328755506"
+        }
+      ]
+    },
+    {
+      "claim": "贬低上一位理发师时用具体细节挑毛病",
+      "evidence": [
+        {
+          "index": 260,
+          "url": "https://www.douyin.com/video/7529863722328755506"
+        }
+      ]
+    },
+    {
+      "claim": "催办卡是核心话术，搭话超过三句即切入",
+      "evidence": [
+        {
+          "index": 260,
+          "url": "https://www.douyin.com/video/7529863722328755506"
+        }
+      ]
+    },
+    {
+      "claim": "对只剪发顾客用“坐会吧”式冷处理",
+      "evidence": [
+        {
+          "index": 260,
+          "url": "https://www.douyin.com/video/7529863722328755506"
+        }
+      ]
+    },
+    {
+      "claim": "吹牛画饼时直接许愿新店和店长身份",
+      "evidence": [
+        {
+          "index": 45,
+          "url": "https://www.douyin.com/video/7683421956008557434"
+        }
+      ]
+    },
+    {
+      "claim": "朋友圈悲伤话术与线下情感行为形成反差",
+      "evidence": [
+        {
+          "index": 221,
+          "url": "https://www.douyin.com/video/7573729054419864868"
+        }
+      ]
+    }
+  ],
+  "contradictions": [
+    {
+      "issue": "陆国富到底有钱没钱：月入2万多、开大奔、开奔驰C200，与借钱加油、话费靠人充、兜里100块没有并存",
+      "versions": [
+        {
+          "claim": "收入不低、提大奔",
+          "evidence": [
+            {
+              "index": 29,
+              "url": "https://www.douyin.com/video/7690463808767185337"
+            }
+          ]
+        },
+        {
+          "claim": "现金流窘迫、借钱加油、话费靠人充",
+          "evidence": [
+            {
+              "index": 18,
+              "url": "https://www.douyin.com/video/7697428218999098639"
+            },
+            {
+              "index": 45,
+              "url": "https://www.douyin.com/video/7683421956008557434"
+            }
+          ]
+        }
+      ],
+      "resolution": "保留并列，不擅自合并。文本中的消费排面与现金流窘迫可能属于不同叙述版本或不同时期，原文未给统一解释。"
+    },
+    {
+      "issue": "座驾版本不一：大奔、奔驰C200L、二手泡水奔驰C",
+      "versions": [
+        {
+          "claim": "刚提大奔",
+          "evidence": [
+            {
+              "index": 29,
+              "url": "https://www.douyin.com/video/7690463808767185337"
+            }
+          ]
+        },
+        {
+          "claim": "奔驰C200L，后因油贵骑电动车",
+          "evidence": [
+            {
+              "index": 251,
+              "url": "https://www.douyin.com/video/7538604024363371826"
+            }
+          ]
+        },
+        {
+          "claim": "二手的泡水奔驰C",
+          "evidence": [
+            {
+              "index": 204,
+              "url": "https://www.douyin.com/video/7584857647883701544"
+            }
+          ]
+        }
+      ],
+      "resolution": "并列保留。是否同一辆车、是否先后换车，原文没有说明。"
+    },
+    {
+      "issue": "理发师职业地位与实际技术评价冲突",
+      "versions": [
+        {
+          "claim": "县城最权威、最有排面、胜过公务员事业编",
+          "evidence": [
+            {
+              "index": 260,
+              "url": "https://www.douyin.com/video/7529863722328755506"
+            }
+          ]
+        },
+        {
+          "claim": "剪得普通却自信，顾客特别想骂他",
+          "evidence": [
+            {
+              "index": 260,
+              "url": "https://www.douyin.com/video/7529863722328755506"
+            }
+          ]
+        }
+      ],
+      "resolution": "并列保留。权威来自叙述者夸张与县城社交感受，不等于技术客观评价。"
+    },
+    {
+      "issue": "职业去向：继续理发、吹嘘开新店、开按摩店并存",
+      "versions": [
+        {
+          "claim": "未来十年估计还会在县城理发",
+          "evidence": [
+            {
+              "index": 145,
+              "url": "https://www.douyin.com/video/7623070673635691791"
+            }
+          ]
+        },
+        {
+          "claim": "吹嘘投资开新店但没钱",
+          "evidence": [
+            {
+              "index": 45,
+              "url": "https://www.douyin.com/video/7683421956008557434"
+            }
+          ]
+        },
+        {
+          "claim": "花40万在县城开按摩店",
+          "evidence": [
+            {
+              "index": 189,
+              "url": "https://www.douyin.com/video/7594878480269987123"
+            }
+          ]
+        }
+      ],
+      "resolution": "并列保留。开新店、按摩店与继续理发是否同一阶段，原文未明示。"
+    },
+    {
+      "issue": "关系状态：韩春花官宣后分手，克里斯汀娜又被称女朋友",
+      "versions": [
+        {
+          "claim": "提奔驰C200后与韩春花官宣，后分手",
+          "evidence": [
+            {
+              "index": 251,
+              "url": "https://www.douyin.com/video/7538604024363371826"
+            }
+          ]
+        },
+        {
+          "claim": "带女朋友克里斯汀娜露营",
+          "evidence": [
+            {
+              "index": 140,
+              "url": "https://www.douyin.com/video/7626426845415689512"
+            }
+          ]
+        }
+      ],
+      "resolution": "保留并列。251称克里斯汀娜本名韩春花，但“官宣后分手”与“仍是女朋友”的状态先后不明。"
+    }
+  ],
+  "gaps": [
+    "除陆国富外，是否还有其他具名县城理发师实例，文本未给出。",
+    "理发师真实技术水平如何，文本只有顾客想骂与自信展示，没有客观结果。",
+    "88元收费是否所有理发店统一，文本说一条街一个价，但无更细证据。",
+    "大奔、奔驰C200L、二手泡水奔驰C是否为同一辆车，以及置换顺序，原文未交代。",
+    "开新店、开按摩店是否落实、盈利与否，原文未闭环。",
+    "韩春花/克里斯汀娜与陆国富的最终关系、单反钱和200元话费是否归还，原文未交代。",
+    "各文档之间的真实时间先后不明，不能作为连续人生时间线。"
+  ],
+  "creative_expansions": [],
+  "source_coverage": [
+    {
+      "index": 260,
+      "role": "核心篇：直接定义县城理发师原型，提供预约、88元、高冷、自信、贬低同行、催办卡等证据",
+      "url": "https://www.douyin.com/video/7529863722328755506"
+    },
+    {
+      "index": 29,
+      "role": "提供陆国富开理发店、初中辍学、从18岁干十几年、月入2万多、提大奔",
+      "url": "https://www.douyin.com/video/7690463808767185337"
+    },
+    {
+      "index": 47,
+      "role": "提供陆国富理发月入1万2的收入版本",
+      "url": "https://www.douyin.com/video/7682638122002711013"
+    },
+    {
+      "index": 145,
+      "role": "提供陆国富从初中毕业在县城理发并长期留下的判断",
+      "url": "https://www.douyin.com/video/7623070673635691791"
+    },
+    {
+      "index": 173,
+      "role": "提供“理发找陆国富”的县城民间熟人认知",
+      "url": "https://www.douyin.com/video/7605066774983331081"
+    },
+    {
+      "index": 18,
+      "role": "提供大奔、始祖鸟、萨洛蒙与袜子、裤衩、洗头膏、借钱加油的反差",
+      "url": "https://www.douyin.com/video/7697428218999098639"
+    },
+    {
+      "index": 251,
+      "role": "提供奔驰C200L、韩春花官宣、加不起95油、骑电动车、分手等关系与消费材料",
+      "url": "https://www.douyin.com/video/7538604024363371826"
+    },
+    {
+      "index": 253,
+      "role": "提供维达沙宣、小吴彦祖、一天过手姑娘不少于30、月入几万、骑电动车与女友吹了",
+      "url": "https://www.douyin.com/video/7537305087186603290"
+    },
+    {
+      "index": 204,
+      "role": "提供小辫Lucas、内增高、千元香水、二手泡水奔驰C、迷老嫂子",
+      "url": "https://www.douyin.com/video/7584857647883701544"
+    },
+    {
+      "index": 221,
+      "role": "提供一天加30多个女性、约离异少妇、朋友圈emo文案",
+      "url": "https://www.douyin.com/video/7573729054419864868"
+    },
+    {
+      "index": 45,
+      "role": "提供吹嘘开新店、兜里100块没有、话费靠叙述者充",
+      "url": "https://www.douyin.com/video/7683421956008557434"
+    },
+    {
+      "index": 140,
+      "role": "提供带克里斯汀娜露营、借1000买露露瑜伽裤和微单",
+      "url": "https://www.douyin.com/video/7626426845415689512"
+    },
+    {
+      "index": 126,
+      "role": "提供认识韩春花、给韩春花洗脚丫裤衩、借2000买单反未还",
+      "url": "https://www.douyin.com/video/7637424592269282661"
+    },
+    {
+      "index": 108,
+      "role": "提供与赵铁柱去红浪漫、自称复习英语考研词汇",
+      "url": "https://www.douyin.com/video/7648176182773731813"
+    },
+    {
+      "index": 61,
+      "role": "提供请姑娘吃饭不亲嘴就要求AA",
+      "url": "https://www.douyin.com/video/7673802651855671739"
+    },
+    {
+      "index": 58,
+      "role": "提供看见别人找00后女大学生后上头，要找05后研究生",
+      "url": "https://www.douyin.com/video/7675210634724074213"
+    },
+    {
+      "index": 189,
+      "role": "提供干理发店赚小钱、分手后花40万开按摩店的另一个职业版本",
+      "url": "https://www.douyin.com/video/7594878480269987123"
+    }
+  ]
+}

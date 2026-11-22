@@ -1,0 +1,897 @@
+{
+  "name": "红浪漫音乐老师",
+  "nature": "原型/复合群像。指县城娱乐/商K场所“红浪漫”中被称为“音乐老师”的女性从业者群体，核心是提供情绪价值、承接客人情绪并让花钱者被捧高；多篇文案反复调用，呈现各篇作品中的角色设定。",
+  "overview": "红浪漫音乐老师是县城红浪漫场景中的女性服务者群像。原文明示其在红浪漫工作，被称音乐老师，工作内容是承接客人情绪、把花钱者捧高，且多为外地人；与客人可随来随走、不必交换姓名与联系方式。收入口径并存：有“一晚能赚2000”“一个月赚好几万”，也有按点记账“一小时400元、共2400元”的说法；并被列为可能购买30万元新车的人。她们与好大哥、葱姜蒜等消费客群发生关系：好大哥撑起红浪漫营收，葱姜蒜可能扫码付小费；下班后又被描述为找小奶狗约会并把收入一大半花在小男友身上。文本还以她们的收入反衬女文青，并把00后、穿紫貂染蓝毛、小皮靴的版本当作回村撑场可调用角色。以上均为群像式、段子式叙述，非同一人完整传记。",
+  "identity": [
+    {
+      "claim": "在红浪漫工作的女性从业者，身份被称为音乐老师",
+      "evidence": [
+        {
+          "index": 166,
+          "url": "https://www.douyin.com/video/7611363917939428662"
+        }
+      ]
+    },
+    {
+      "claim": "工作场景与红浪漫这一娱乐消费场所绑定，红浪漫有营收且好大哥是主要消费力量",
+      "evidence": [
+        {
+          "index": 166,
+          "url": "https://www.douyin.com/video/7611363917939428662"
+        }
+      ]
+    },
+    {
+      "claim": "多为外地人",
+      "evidence": [
+        {
+          "index": 166,
+          "url": "https://www.douyin.com/video/7611363917939428662"
+        }
+      ]
+    },
+    {
+      "claim": "存在按点/按小时计费的服务形式",
+      "evidence": [
+        {
+          "index": 191,
+          "url": "https://www.douyin.com/video/7592653564976106762"
+        }
+      ]
+    },
+    {
+      "claim": "收入被描述为较高：一晚能赚2000，一个月赚好几万",
+      "evidence": [
+        {
+          "index": 113,
+          "url": "https://www.douyin.com/video/7644796017133896933"
+        },
+        {
+          "index": 178,
+          "url": "https://www.douyin.com/video/7601345616412708146"
+        }
+      ]
+    },
+    {
+      "claim": "被列为可能购买30万元新车的人",
+      "evidence": [
+        {
+          "index": 131,
+          "url": "https://www.douyin.com/video/7631235496923925760"
+        }
+      ]
+    },
+    {
+      "claim": "有00后从业者，且被描述为穿紫貂、染蓝毛、小皮靴、走路虎虎生风",
+      "evidence": [
+        {
+          "index": 189,
+          "url": "https://www.douyin.com/video/7594878480269987123"
+        }
+      ]
+    },
+    {
+      "claim": "存在十多年仍有没换面孔的长期从业者",
+      "evidence": [
+        {
+          "index": 145,
+          "url": "https://www.douyin.com/video/7623070673635691791"
+        }
+      ]
+    }
+  ],
+  "traits": [
+    {
+      "claim": "提供情绪价值，能承接客人情绪",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 166,
+          "url": "https://www.douyin.com/video/7611363917939428662"
+        }
+      ]
+    },
+    {
+      "claim": "与客人保持低责任、低身份交换的关系",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 166,
+          "url": "https://www.douyin.com/video/7611363917939428662"
+        }
+      ]
+    },
+    {
+      "claim": "工作中承受委屈，情绪悲观",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 113,
+          "url": "https://www.douyin.com/video/7644796017133896933"
+        },
+        {
+          "index": 175,
+          "url": "https://www.douyin.com/video/7602851304486079786"
+        }
+      ]
+    },
+    {
+      "claim": "下班后用收入找小奶狗约会，把赚到的钱一大半花在小男友身上",
+      "kind": "动机",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 175,
+          "url": "https://www.douyin.com/video/7602851304486079786"
+        }
+      ]
+    },
+    {
+      "claim": "被描述为妩媚，并主动讨好油腻男性",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 175,
+          "url": "https://www.douyin.com/video/7602851304486079786"
+        }
+      ]
+    },
+    {
+      "claim": "收入高与仍然悲观形成并置",
+      "kind": "矛盾",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 113,
+          "url": "https://www.douyin.com/video/7644796017133896933"
+        }
+      ]
+    },
+    {
+      "claim": "被叙述者当作撑场陪同资源，按时计费调用",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 189,
+          "url": "https://www.douyin.com/video/7594878480269987123"
+        },
+        {
+          "index": 191,
+          "url": "https://www.douyin.com/video/7592653564976106762"
+        }
+      ]
+    },
+    {
+      "claim": "说话被描述为小声而让人头脑懵懵",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 189,
+          "url": "https://www.douyin.com/video/7594878480269987123"
+        }
+      ]
+    },
+    {
+      "claim": "在收入对照中被用来反衬县城女文青",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 178,
+          "url": "https://www.douyin.com/video/7601345616412708146"
+        }
+      ]
+    },
+    {
+      "claim": "在红浪漫工作，被称音乐老师，工作核心是提供服务并承接客人情绪",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "提供情绪价值，能让花钱者在场内被捧高，“你花了钱，你就是爷”",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "与客人保持低责任、低身份交换关系：随来随走，不必知道名字，不必加联系方式",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "多为外地人，在红浪漫上班",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "工作中承受委屈，被描述为赚钱时吃了太多委屈，情绪悲观",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "被描述为一个比一个妩媚，主动讨好各种油腻男性",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "说话被描述为小声，让人头脑懵懵",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "被叙述者当作撑场陪同资源，可按点计费调用",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "下班后找小奶狗约会，把赚到的钱一大半花在小男友身上",
+      "kind": "欲望",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "花钱顺气：因赚钱时受委屈，想把钱花出去把气顺过来",
+      "kind": "动机",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "收入被描述为高（一晚2000、月入好几万），却同时被描述为悲观",
+      "kind": "矛盾",
+      "certainty": "文本推断",
+      "evidence": []
+    }
+  ],
+  "life_domains": [
+    {
+      "domain": "职业",
+      "claim": "在红浪漫工作，被视为一种工作，核心内容是提供服务并承接客人情绪",
+      "evidence": [
+        {
+          "index": 166,
+          "url": "https://www.douyin.com/video/7611363917939428662"
+        }
+      ]
+    },
+    {
+      "domain": "职业",
+      "claim": "存在按点记账、按小时收费的服务形式",
+      "evidence": [
+        {
+          "index": 191,
+          "url": "https://www.douyin.com/video/7592653564976106762"
+        }
+      ]
+    },
+    {
+      "domain": "金钱",
+      "claim": "收入被描述为较高，并伴随一晚2000、月入好几万等说法",
+      "evidence": [
+        {
+          "index": 113,
+          "url": "https://www.douyin.com/video/7644796017133896933"
+        },
+        {
+          "index": 178,
+          "url": "https://www.douyin.com/video/7601345616412708146"
+        }
+      ]
+    },
+    {
+      "domain": "金钱",
+      "claim": "被列入可能购买30万元新车的人群",
+      "evidence": [
+        {
+          "index": 131,
+          "url": "https://www.douyin.com/video/7631235496923925760"
+        }
+      ]
+    },
+    {
+      "domain": "消费与社交",
+      "claim": "在商K场景中被葱姜蒜扫码付小费，形成收入与消费反差",
+      "evidence": [
+        {
+          "index": 112,
+          "url": "https://www.douyin.com/video/7645948649662434612"
+        }
+      ]
+    },
+    {
+      "domain": "婚恋/情感",
+      "claim": "下班后找小奶狗约会，并把收入一大半花在小男友身上",
+      "evidence": [
+        {
+          "index": 175,
+          "url": "https://www.douyin.com/video/7602851304486079786"
+        }
+      ]
+    },
+    {
+      "domain": "消费与排场",
+      "claim": "被叙述者当作回村过年撑场面的可调用陪同角色",
+      "evidence": [
+        {
+          "index": 189,
+          "url": "https://www.douyin.com/video/7594878480269987123"
+        },
+        {
+          "index": 191,
+          "url": "https://www.douyin.com/video/7592653564976106762"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "event_id": "E001",
+      "title": "在红浪漫工作并提供情绪价值",
+      "description": "原文将红浪漫音乐老师界定为一种工作，工作内容包括承接客人情绪，让花钱者在场时被捧高。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 166,
+          "url": "https://www.douyin.com/video/7611363917939428662"
+        }
+      ]
+    },
+    {
+      "event_id": "E002",
+      "title": "按点记账、按小时计费",
+      "description": "在回村过年装排面的方案中，红浪漫音乐老师被写成可以按点记账，一小时400元，共2400元。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 191,
+          "url": "https://www.douyin.com/video/7592653564976106762"
+        }
+      ]
+    },
+    {
+      "event_id": "E003",
+      "title": "收入被描述为一晚2000、月入好几万",
+      "description": "文本以红浪漫音乐老师收入较高作为例证，同时说她仍悲观，也被说成一个月赚好几万。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 113,
+          "url": "https://www.douyin.com/video/7644796017133896933"
+        },
+        {
+          "index": 178,
+          "url": "https://www.douyin.com/video/7601345616412708146"
+        }
+      ]
+    },
+    {
+      "event_id": "E004",
+      "title": "下班后找小奶狗约会并花掉收入",
+      "description": "原文明示很多红浪漫当音乐老师的人下班后找小奶狗约会，赚到的钱一大半花在小男友身上；文本把这一行为与工作时受委屈、需要顺气联系起来。",
+      "temporal": "原文明确：下班之后",
+      "chronology_basis": "明示",
+      "evidence": [
+        {
+          "index": 175,
+          "url": "https://www.douyin.com/video/7602851304486079786"
+        }
+      ]
+    },
+    {
+      "event_id": "E005",
+      "title": "与客人形成陌生化、低责任消费关系",
+      "description": "原文称红浪漫音乐老师与客人之间可以随来随走，不必知道名字，也不必加联系方式，出门后谁都不认识谁。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 166,
+          "url": "https://www.douyin.com/video/7611363917939428662"
+        }
+      ]
+    },
+    {
+      "event_id": "E006",
+      "title": "在商K场景中收葱姜蒜扫码付的小费",
+      "description": "文本以葱姜蒜在酒精刺激下，用碎屏老安卓机给红浪漫音乐老师镶钻苹果17 Pro Max扫码付小费，展现消费与收入反差。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 112,
+          "url": "https://www.douyin.com/video/7645948649662434612"
+        }
+      ]
+    },
+    {
+      "event_id": "E007",
+      "title": "被提议从红浪漫找00后音乐老师陪同撑场",
+      "description": "在回村过年装排面的方案中，叙述者提议加500预算，从红浪漫找00后音乐老师，穿紫貂、染蓝毛、穿小皮靴，用来增加排面。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 189,
+          "url": "https://www.douyin.com/video/7594878480269987123"
+        }
+      ]
+    },
+    {
+      "event_id": "E008",
+      "title": "被纳入按时计费的陪同方案",
+      "description": "在预算8000回村过年的方案里，红浪漫音乐老师被写成可以按点记账，一人一小时400元，一共2400元。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 191,
+          "url": "https://www.douyin.com/video/7592653564976106762"
+        }
+      ]
+    },
+    {
+      "event_id": "E009",
+      "title": "被列为可能购买30万元新车的人",
+      "description": "在讨论30万元车是否有排面时，原文称能买这种车的人里包括县城小布尔乔亚和红浪漫的音乐老师。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 131,
+          "url": "https://www.douyin.com/video/7631235496923925760"
+        }
+      ]
+    },
+    {
+      "event_id": "E010",
+      "title": "长期存在于红浪漫，十多年仍有没换的面孔",
+      "description": "原文以红浪漫那帮音乐老师十多年了、还有没换的面孔，说明这一角色群体在县城长时间存在。",
+      "temporal": "原文明确：十多年",
+      "chronology_basis": "明示",
+      "evidence": [
+        {
+          "index": 145,
+          "url": "https://www.douyin.com/video/7623070673635691791"
+        }
+      ]
+    },
+    {
+      "event_id": "E011",
+      "title": "作为女文青的收入对照",
+      "description": "文本用“红浪漫音乐老师一个月赚好几万”来反衬女文青，称女文青回头一看不如她。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 178,
+          "url": "https://www.douyin.com/video/7601345616412708146"
+        }
+      ]
+    },
+    {
+      "event_id": "E012",
+      "title": "收入高但仍被描述为悲观",
+      "description": "原文在讨论县城幸福感时，把一晚能赚2000的红浪漫音乐老师列为仍然悲观的例子。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 113,
+          "url": "https://www.douyin.com/video/7644796017133896933"
+        }
+      ]
+    }
+  ],
+  "storylines": [
+    {
+      "title": "职业情绪劳动与下班后的情感补偿线",
+      "event_ids": [
+        "E001",
+        "E002",
+        "E003",
+        "E005",
+        "E012",
+        "E004"
+      ],
+      "narrative": "红浪漫音乐老师被写成在红浪漫工作的女性从业者，工作内容是提供服务并承接客人情绪，让花钱者被捧高。她也有按点记账、按小时400元的计费说法，并有一晚2000、一个月好几万等收入表述。与此同时，文本说她仍然悲观，赚钱时吃了太多委屈。下班之后，她找小奶狗约会，并把赚到的钱一大半花在小男友身上，以此顺气。",
+      "unresolved": "原文没有交代她是谁、为何悲观、委屈具体来自什么，也没有说明这些收入与计费口径是否属于同一个人。",
+      "evidence": [
+        {
+          "index": 166,
+          "url": "https://www.douyin.com/video/7611363917939428662"
+        },
+        {
+          "index": 191,
+          "url": "https://www.douyin.com/video/7592653564976106762"
+        },
+        {
+          "index": 113,
+          "url": "https://www.douyin.com/video/7644796017133896933"
+        },
+        {
+          "index": 178,
+          "url": "https://www.douyin.com/video/7601345616412708146"
+        },
+        {
+          "index": 175,
+          "url": "https://www.douyin.com/video/7602851304486079786"
+        }
+      ]
+    },
+    {
+      "title": "县城排场与消费陪同线",
+      "event_ids": [
+        "E006",
+        "E007",
+        "E008"
+      ],
+      "narrative": "在县城消费和回村装排面的叙述里，红浪漫音乐老师被当作醒目的消费/陪同角色使用。葱姜蒜在商K消费时可能用碎屏老安卓机给她扫码付小费；回村过年方案中，叙述者提议从红浪漫找一个00后音乐老师，穿紫貂、染蓝毛、穿小皮靴，按点记账一小时400元，用于撑场。",
+      "unresolved": "原文没有交代她是否实际参与这些回村撑场方案、报酬如何分配、她是否自愿或如何被安排。",
+      "evidence": [
+        {
+          "index": 112,
+          "url": "https://www.douyin.com/video/7645948649662434612"
+        },
+        {
+          "index": 189,
+          "url": "https://www.douyin.com/video/7594878480269987123"
+        },
+        {
+          "index": 191,
+          "url": "https://www.douyin.com/video/7592653564976106762"
+        }
+      ]
+    },
+    {
+      "title": "收入对照与县城阶层位置线",
+      "event_ids": [
+        "E009",
+        "E010",
+        "E011"
+      ],
+      "narrative": "文本把红浪漫音乐老师放进县城收入与排面的比较中：她被列为可能购买30万元新车的人，被说成一个月赚好几万，并与女文青形成收入对照。同时，原文说她十多年仍有没换的面孔，显示这一角色在县城长期存在。",
+      "unresolved": "原文没有交代她是否真的买车、财富是否积累下来、婚恋结果如何，也没有说明“十多年没换面孔”是否指同一批人。",
+      "evidence": [
+        {
+          "index": 131,
+          "url": "https://www.douyin.com/video/7631235496923925760"
+        },
+        {
+          "index": 145,
+          "url": "https://www.douyin.com/video/7623070673635691791"
+        },
+        {
+          "index": 178,
+          "url": "https://www.douyin.com/video/7601345616412708146"
+        }
+      ]
+    }
+  ],
+  "relationships": [
+    {
+      "target": "县城好大哥",
+      "relation": "好大哥是红浪漫消费主力，撑起红浪漫营收；音乐老师为其提供消费服务和情绪价值",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 166,
+          "url": "https://www.douyin.com/video/7611363917939428662"
+        }
+      ]
+    },
+    {
+      "target": "县城葱姜蒜",
+      "relation": "葱姜蒜在商K消费时向她扫码付小费",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 112,
+          "url": "https://www.douyin.com/video/7645948649662434612"
+        }
+      ]
+    },
+    {
+      "target": "小男友/小奶狗",
+      "relation": "下班后约会，并把赚到的钱一大半花在对方身上",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 175,
+          "url": "https://www.douyin.com/video/7602851304486079786"
+        }
+      ]
+    },
+    {
+      "target": "县城女文青",
+      "relation": "收入对照对象，女文青被反衬为不如红浪漫音乐老师",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 178,
+          "url": "https://www.douyin.com/video/7601345616412708146"
+        }
+      ]
+    },
+    {
+      "target": "预算3000回村过年的人/预算8000回村过年的人",
+      "relation": "被叙述者提议从红浪漫请来陪同撑场，按点计费调用",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 189,
+          "url": "https://www.douyin.com/video/7594878480269987123"
+        },
+        {
+          "index": 191,
+          "url": "https://www.douyin.com/video/7592653564976106762"
+        }
+      ]
+    },
+    {
+      "target": "写手一条城（叙述者）",
+      "relation": "在文案中被其提议调用，作为回村撑场或消费排面的角色",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 189,
+          "url": "https://www.douyin.com/video/7594878480269987123"
+        },
+        {
+          "index": 191,
+          "url": "https://www.douyin.com/video/7592653564976106762"
+        }
+      ]
+    },
+    {
+      "target": "县城小布尔乔亚",
+      "relation": "在30万元新车排面举例中并列出现",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 131,
+          "url": "https://www.douyin.com/video/7631235496923925760"
+        }
+      ]
+    }
+  ],
+  "speech_habits": [
+    {
+      "claim": "服务中把客人捧高，体现“花钱就是爷”的接待话术/态度",
+      "evidence": [
+        {
+          "index": 166,
+          "url": "https://www.douyin.com/video/7611363917939428662"
+        }
+      ]
+    },
+    {
+      "claim": "能吞下客人情绪，承接委屈",
+      "evidence": [
+        {
+          "index": 166,
+          "url": "https://www.douyin.com/video/7611363917939428662"
+        }
+      ]
+    },
+    {
+      "claim": "不强调个人身份，姓名和联系方式都不必交换",
+      "evidence": [
+        {
+          "index": 166,
+          "url": "https://www.douyin.com/video/7611363917939428662"
+        }
+      ]
+    },
+    {
+      "claim": "被描述为说话小声，让人头脑懵懵",
+      "evidence": [
+        {
+          "index": 189,
+          "url": "https://www.douyin.com/video/7594878480269987123"
+        }
+      ]
+    },
+    {
+      "claim": "主动讨好油腻男性",
+      "evidence": [
+        {
+          "index": 175,
+          "url": "https://www.douyin.com/video/7602851304486079786"
+        }
+      ]
+    },
+    {
+      "claim": "与客人的关系可随来随走，不维持长期联系",
+      "evidence": [
+        {
+          "index": 166,
+          "url": "https://www.douyin.com/video/7611363917939428662"
+        }
+      ]
+    }
+  ],
+  "contradictions": [
+    {
+      "issue": "收入与计费口径不一致",
+      "versions": [
+        {
+          "claim": "一晚能赚2000",
+          "evidence": [
+            {
+              "index": 113,
+              "url": "https://www.douyin.com/video/7644796017133896933"
+            }
+          ]
+        },
+        {
+          "claim": "按点记账，一小时400元，一共2400元",
+          "evidence": [
+            {
+              "index": 191,
+              "url": "https://www.douyin.com/video/7592653564976106762"
+            }
+          ]
+        },
+        {
+          "claim": "一个月赚好几万",
+          "evidence": [
+            {
+              "index": 178,
+              "url": "https://www.douyin.com/video/7601345616412708146"
+            }
+          ]
+        }
+      ],
+      "resolution": "保留并列，不擅自合并；原文没有说明这些数字是同一人、同一时期、不同服务类型还是广告式夸张。"
+    },
+    {
+      "issue": "服务关系既是亲密式情绪服务，又是陌生化低责任关系",
+      "versions": [
+        {
+          "claim": "让客人感到“花钱就是爷”，被捧得高高的",
+          "evidence": [
+            {
+              "index": 166,
+              "url": "https://www.douyin.com/video/7611363917939428662"
+            }
+          ]
+        },
+        {
+          "claim": "可以不知道名字、不加联系方式，出门后谁都不认识谁",
+          "evidence": [
+            {
+              "index": 166,
+              "url": "https://www.douyin.com/video/7611363917939428662"
+            }
+          ]
+        }
+      ],
+      "resolution": "保留并列；文本同时给出亲密式情绪劳动和陌生化交易规则，未说明边界。"
+    },
+    {
+      "issue": "对客服务与下班后情感消费的并列",
+      "versions": [
+        {
+          "claim": "主动讨好各种油腻男性",
+          "evidence": [
+            {
+              "index": 175,
+              "url": "https://www.douyin.com/video/7602851304486079786"
+            }
+          ]
+        },
+        {
+          "claim": "下班后找小奶狗约会，把钱花在小男友身上",
+          "evidence": [
+            {
+              "index": 175,
+              "url": "https://www.douyin.com/video/7602851304486079786"
+            }
+          ]
+        }
+      ],
+      "resolution": "保留并列；原文把对客服务与下班后恋爱消费写成不同场景，未说明是否互相矛盾。"
+    },
+    {
+      "issue": "职业身份与可被调用陪同角色的边界未明",
+      "versions": [
+        {
+          "claim": "红浪漫音乐老师是一种工作",
+          "evidence": [
+            {
+              "index": 166,
+              "url": "https://www.douyin.com/video/7611363917939428662"
+            }
+          ]
+        },
+        {
+          "claim": "被叙述者提议从红浪漫找00后音乐老师来陪同撑场，按时计费",
+          "evidence": [
+            {
+              "index": 189,
+              "url": "https://www.douyin.com/video/7594878480269987123"
+            },
+            {
+              "index": 191,
+              "url": "https://www.douyin.com/video/7592653564976106762"
+            }
+          ]
+        }
+      ],
+      "resolution": "保留并列；文案既是职业群像描述，也把该角色当作可调用的陪同资源，是否同一人、服务边界为何，原文未交代。"
+    }
+  ],
+  "gaps": [
+    "真实姓名、年龄、籍贯、教育背景、家庭情况未交代",
+    "婚史、是否有固定伴侣、与小男友/小奶狗的具体关系细节未交代",
+    "劳动关系、收入分成、工作内容是否仅音乐与陪伴未交代",
+    "悲观和委屈的具体原因未交代",
+    "“一晚2000”“一小时400”“一个月好几万”是否指同一人或同一时期未交代",
+    "是否实际参与回村撑场方案、是否实际购买30万元新车未交代",
+    "红浪漫的具体地点、场所性质、是否真实存在未交代",
+    "多篇文案中的红浪漫音乐老师是否指向同一人，还是群像/类型化角色，原文无法确认"
+  ],
+  "creative_expansions": [],
+  "source_coverage": [
+    {
+      "index": 112,
+      "role": "提供葱姜蒜在商K消费、用碎屏老安卓机给红浪漫音乐老师镶钻苹果17 Pro Max扫码付小费的场景，体现收入与消费反差。",
+      "url": "https://www.douyin.com/video/7645948649662434612"
+    },
+    {
+      "index": 113,
+      "role": "提供“一晚赚2000”和“悲观”的表述，说明收入高与情绪状态并置。",
+      "url": "https://www.douyin.com/video/7644796017133896933"
+    },
+    {
+      "index": 131,
+      "role": "提供红浪漫音乐老师被列为可能购买30万元新车的人，进入县城排面讨论。",
+      "url": "https://www.douyin.com/video/7631235496923925760"
+    },
+    {
+      "index": 145,
+      "role": "提供“十多年了，还有没换的面孔”的长期存在材料。",
+      "url": "https://www.douyin.com/video/7623070673635691791"
+    },
+    {
+      "index": 166,
+      "role": "提供核心职业材料：在红浪漫工作、提供情绪价值、承接客人情绪、陌生人式低责任关系、外地人、好大哥撑起红浪漫营收。",
+      "url": "https://www.douyin.com/video/7611363917939428662"
+    },
+    {
+      "index": 175,
+      "role": "提供下班后找小奶狗约会、收入一大半给小男友、主动讨好油腻男性、赚钱时受委屈的材料。",
+      "url": "https://www.douyin.com/video/7602851304486079786"
+    },
+    {
+      "index": 178,
+      "role": "提供“一个月赚好几万”以及与女文青收入对照的材料。",
+      "url": "https://www.douyin.com/video/7601345616412708146"
+    },
+    {
+      "index": 189,
+      "role": "提供00后音乐老师、穿紫貂染蓝毛、小皮靴、回村撑场陪同的材料。",
+      "url": "https://www.douyin.com/video/7594878480269987123"
+    },
+    {
+      "index": 191,
+      "role": "提供按点记账、一小时400元、共2400元的计费材料。",
+      "url": "https://www.douyin.com/video/7592653564976106762"
+    }
+  ]
+}

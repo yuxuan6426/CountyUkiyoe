@@ -1,0 +1,1296 @@
+{
+  "name": "县城人",
+  "nature": "复合群像/原型。全库中的“县城人”是县城熟人社会里的泛称群体，不是具名自然人；各篇只在“不能让人笑话”“人情与面子绑定”“笑话别人”这套不成文评价体系上重合，不能把不同文案里的具体人物合并为一份连续传记，也不映射现实身份。",
+  "overview": "县城人是县城熟人社会中的泛称群体，核心执念是“不能让人笑话”，日常又以笑话别人、议论别人为娱乐和评价方式。县城不大、关系紧密，人情与面子绑定，办事靠熟人、客套与试探；红白事、婚恋、工作、消费都被放进“会不会被笑话”的考场。工作被概括为带编与不带编两类，编制被当成扛住笑话的身份。生活成本低、工作压力相对小，但人生增量有限，容易焦虑内耗，靠按摩、SPA、美甲、算卦、餐饮等消费疗愈。面子上肯梭哈，里子上极节俭；熟人可互助，落难时也可能被踩一脚；对没有利用价值者平等打压，回流客是重点目标。酒桌是重要的社会价值考场。以上均为泛称群像材料，呈现文案中的人物形象；多篇口吻有同情、讽刺、观察、代言之别，未形成单一立场。\n\n【合并说明】925 县城吃瓜群众：复合群像／非具名叙事角色。主要来自多篇文案对县城熟人社会舆论的概括，常以亲戚朋友、同事发小、街坊四邻、村头情报站、饭店酒局参与者、县城评论员等泛称出现。编纂说明：无固定姓名、年龄、职业，按出处并列呈现，也呈现各篇作品中的角色设定。",
+  "identity": [
+    {
+      "claim": "生活在县城的泛称普通人，文本未限定单一职业、年龄或性别。",
+      "evidence": [
+        {
+          "index": 57,
+          "url": "https://www.douyin.com/video/7675627007129232497"
+        },
+        {
+          "index": 132,
+          "url": "https://www.douyin.com/video/7629184986256441573"
+        }
+      ]
+    },
+    {
+      "claim": "熟人社会成员，关系紧密，日常评价和议论难以避开。",
+      "evidence": [
+        {
+          "index": 86,
+          "url": "https://www.douyin.com/video/7658283175987842344"
+        },
+        {
+          "index": 82,
+          "url": "https://www.douyin.com/video/7657730067652742501"
+        }
+      ]
+    },
+    {
+      "claim": "县城工作被文本概括为带编和不带编两类，编制常被当成免于被笑话的身份。",
+      "evidence": [
+        {
+          "index": 20,
+          "url": "https://www.douyin.com/video/7696047368970595771"
+        },
+        {
+          "index": 86,
+          "url": "https://www.douyin.com/video/7658283175987842344"
+        }
+      ]
+    },
+    {
+      "claim": "部分县城人表面看起来有钱，实际没钱，靠面子经济维持体面。",
+      "evidence": [
+        {
+          "index": 29,
+          "url": "https://www.douyin.com/video/7690463808767185337"
+        },
+        {
+          "index": 16,
+          "url": "https://www.douyin.com/video/7698364522017005989"
+        }
+      ]
+    }
+  ],
+  "traits": [
+    {
+      "claim": "核心执念是不能让人笑话，同时把笑话别人作为日常。",
+      "kind": "恐惧",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 57,
+          "url": "https://www.douyin.com/video/7675627007129232497"
+        },
+        {
+          "index": 86,
+          "url": "https://www.douyin.com/video/7658283175987842344"
+        }
+      ]
+    },
+    {
+      "claim": "重面子、重体面，面子被看得比里子更重要。",
+      "kind": "动机",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 16,
+          "url": "https://www.douyin.com/video/7698364522017005989"
+        },
+        {
+          "index": 285,
+          "url": "https://www.douyin.com/video/7504487348304268604"
+        }
+      ]
+    },
+    {
+      "claim": "熟人社会的人情和面子绑定，办事与交往绕不开人情。",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 82,
+          "url": "https://www.douyin.com/video/7657730067652742501"
+        },
+        {
+          "index": 57,
+          "url": "https://www.douyin.com/video/7675627007129232497"
+        }
+      ]
+    },
+    {
+      "claim": "消费上明面肯花钱、私下极节俭，苦难不对外说。",
+      "kind": "矛盾",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 18,
+          "url": "https://www.douyin.com/video/7697428218999098639"
+        }
+      ]
+    },
+    {
+      "claim": "生活成本低、压力相对小，但人生增量有限，容易陷入自卑、焦虑和绝望。",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 95,
+          "url": "https://www.douyin.com/video/7654110415563083042"
+        }
+      ]
+    },
+    {
+      "claim": "对没有利用价值的人会平等打压，回流客是重点目标。",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 110,
+          "url": "https://www.douyin.com/video/7647055860899856881"
+        }
+      ]
+    },
+    {
+      "claim": "表面和睦、称兄道弟，落难时可能不帮忙甚至踩一脚。",
+      "kind": "矛盾",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 132,
+          "url": "https://www.douyin.com/video/7629184986256441573"
+        }
+      ]
+    },
+    {
+      "claim": "物质消费之外，县城人把按摩、SPA、美甲、算卦、餐饮等当作心理疗愈。",
+      "kind": "动机",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 95,
+          "url": "https://www.douyin.com/video/7654110415563083042"
+        }
+      ]
+    },
+    {
+      "claim": "酒桌被当成社会价值考场，酒要选对，还要能坐得住、说场面话。",
+      "kind": "动机",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 285,
+          "url": "https://www.douyin.com/video/7504487348304268604"
+        }
+      ]
+    },
+    {
+      "claim": "正式场合要面子、私下小聚讲实在，酒桌有两副面孔。",
+      "kind": "矛盾",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 82,
+          "url": "https://www.douyin.com/video/7657730067652742501"
+        }
+      ]
+    },
+    {
+      "claim": "核心执念是不能让人笑话，私底下吃再多苦也不重要，外面绝不能让人笑话。",
+      "kind": "动机",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "重面子重体面，面子被看得比里子更重要，县城这地方说白了就俩字面子。",
+      "kind": "动机",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "人情与面子绑在一起，想换人情就得给足面子，办事、红白事、饭局都绕不开人情。",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "日常以笑话别人为娱乐：三五好友吃饭喝酒后开始研究怎么笑话别人，饭店就是县城的情报站。",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "背后评价他人时下结论跳跃，从“不太会来事”聊着聊着就得出“这人不是个东西”。",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "面子上的钱一分不省、别人看不到的钱一分不花、私下吃的苦只字不提。",
+      "kind": "矛盾",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "亲戚会疯狂留饭、撕吧礼物，看似热情；留饭也可能纯客套，带的礼少还会被背后说抠。",
+      "kind": "矛盾",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "生活成本低、工作压力相对小，但人生增量少，“你今天什么样，20年后可能还那样”。",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "按摩、SPA、美甲、算卦、餐饮等消费被当作心理诊所和精神布洛芬，用来止痛、疗愈内心。",
+      "kind": "动机",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "平等打压每一个对他们没有利用价值的人，回流客即便揣着几百万也仍是重点目标。",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "平时抬头不见低头见、喝酒划拳称兄道弟一片和睦，见你落了难不光不帮忙还得踩你一脚。",
+      "kind": "矛盾",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "酒桌是社会价值考场：能坐得住饭局、说得起场面话、喝得了三轮酒，酒还要选对并讲出来路。",
+      "kind": "动机",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "正式场合要面子、名酒撑场面是刚需，私下小聚讲实在，酒桌有两副面孔。",
+      "kind": "矛盾",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "县城工作只分带编和不带编，带编被认为能扛住笑话，是被评价体系反复确认的身份。",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "能接触到的所有高端消费基本是智商税，唯独汽车和手机要买能力范围内最贵的。",
+      "kind": "矛盾",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "把笑话别人当作县城最广泛、最喜闻乐见的娱乐活动。（县城吃瓜群众版）",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 33,
+          "url": "https://www.douyin.com/video/7688294065229685157"
+        },
+        {
+          "index": 57,
+          "url": "https://www.douyin.com/video/7675627007129232497"
+        }
+      ]
+    },
+    {
+      "claim": "有强烈的“不能让人笑话”执念，并以此约束他人。（县城吃瓜群众版）",
+      "kind": "恐惧/动机",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 86,
+          "url": "https://www.douyin.com/video/7658283175987842344"
+        }
+      ]
+    },
+    {
+      "claim": "用关心、惋惜、劝和、可惜等话术包装评判和施压。（县城吃瓜群众版）",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 33,
+          "url": "https://www.douyin.com/video/7688294065229685157"
+        }
+      ]
+    },
+    {
+      "claim": "传播中容易添油加醋、加工演绎、杜撰细节。（县城吃瓜群众版）",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 33,
+          "url": "https://www.douyin.com/video/7688294065229685157"
+        },
+        {
+          "index": 86,
+          "url": "https://www.douyin.com/video/7658283175987842344"
+        }
+      ]
+    },
+    {
+      "claim": "抱团造谣、集体唱衰、统一否定不按模板生活的人。（县城吃瓜群众版）",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 89,
+          "url": "https://www.douyin.com/video/7656438745209507112"
+        }
+      ]
+    },
+    {
+      "claim": "以单一评价体系给人打分：稳定、体面、按部就班。（县城吃瓜群众版）",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 77,
+          "url": "https://www.douyin.com/video/7664527953162788282"
+        }
+      ]
+    },
+    {
+      "claim": "评价标准有时并不固定，可随“怎么笑话你”而变化。（县城吃瓜群众版）",
+      "kind": "矛盾",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 86,
+          "url": "https://www.douyin.com/video/7658283175987842344"
+        }
+      ]
+    },
+    {
+      "claim": "推崇编制、结婚生子、稳定体面，贬低离婚者和非稳定生活。（县城吃瓜群众版）",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 33,
+          "url": "https://www.douyin.com/video/7688294065229685157"
+        },
+        {
+          "index": 86,
+          "url": "https://www.douyin.com/video/7658283175987842344"
+        }
+      ]
+    },
+    {
+      "claim": "对家暴受害者作有罪推定，认为“肯定这个女的有问题”。（县城吃瓜群众版）",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 33,
+          "url": "https://www.douyin.com/video/7688294065229685157"
+        }
+      ]
+    },
+    {
+      "claim": "把笑话别人当作县城最广泛、最喜闻乐见的娱乐活动；亲戚朋友聚在一起八卦、聊花边新闻、说同事朋友经历。（县城吃瓜群众版）",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "一生最大的执念是“不能让人笑话”，私下吃苦受累都不重要，外面绝不能让人笑话。（县城吃瓜群众版）",
+      "kind": "动机",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "用关心、惋惜、劝和、可惜等正面词包装评判，一刀一刀剜人；卖菜大姐压低声音问“听说你家闺女离了呀”，单位领导拍肩提醒“家里的事得处理好”。（县城吃瓜群众版）",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "传播中添油加醋、加工演绎、杜撰细节，原本性格不合被说成性格古怪、被逐出家门。（县城吃瓜群众版）",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "用单一评价体系给人打分：稳定、体面、按部就班；亲戚聚会、邻里闲聊、村口树下、酒席饭桌上随时随地打分。（县城吃瓜群众版）",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "版本一：评价体系霸道而固定，标准就三条——稳定、体面、按部就班。（县城吃瓜群众版）",
+      "kind": "矛盾",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "版本二：这套体系的鄙视链不确定、是变化的，完全看怎么能够笑话你。（县城吃瓜群众版）",
+      "kind": "矛盾",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "推崇编制与结婚生子、稳定体面，认为有了编制就不会让人笑话；离婚则低人一等，离婚的只能找离婚的。（县城吃瓜群众版）",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "对家暴受害者作有罪推定：“肯定这个女的有问题。一个巴掌拍不响，苍蝇不叮无缝蛋。”（县城吃瓜群众版）",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "版本一：留饭与收礼中“有的确实是亲情，确实是热情好客”。（县城吃瓜群众版）",
+      "kind": "矛盾",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "版本二：也有一小部分并非真不想让你带东西，事后端详礼物嫌“就带这么点东西，也就值个百八十块钱，是真抠”，并转头笑话人。（县城吃瓜群众版）",
+      "kind": "矛盾",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "版本一：他们是主动施害者——县城里的人一生就干两件事，笑话别人和不让人笑话。（县城吃瓜群众版）",
+      "kind": "矛盾",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "版本二：他们也被同一评价体系困住——县城变成肖申克监狱，待久了离不开，人这一辈子就是笑话笑话别人，偶尔让人笑话笑话。（县城吃瓜群众版）",
+      "kind": "矛盾",
+      "certainty": "文本推断",
+      "evidence": []
+    }
+  ],
+  "life_domains": [
+    {
+      "domain": "婚恋",
+      "claim": "婚恋被严格纳入‘不能让人笑话’的评价体系，恋爱年龄、结婚和离婚都被议论。",
+      "evidence": [
+        {
+          "index": 86,
+          "url": "https://www.douyin.com/video/7658283175987842344"
+        },
+        {
+          "index": 33,
+          "url": "https://www.douyin.com/video/7688294065229685157"
+        }
+      ]
+    },
+    {
+      "domain": "职业",
+      "claim": "工作体面与编制被高度看重，大厂、创业、跳槽等都可能被笑话。",
+      "evidence": [
+        {
+          "index": 86,
+          "url": "https://www.douyin.com/video/7658283175987842344"
+        },
+        {
+          "index": 20,
+          "url": "https://www.douyin.com/video/7696047368970595771"
+        }
+      ]
+    },
+    {
+      "domain": "金钱/消费",
+      "claim": "高端消费被视为智商税，但面子消费不能省；消费又与心理疗愈绑定。",
+      "evidence": [
+        {
+          "index": 45,
+          "url": "https://www.douyin.com/video/7683421956008557434"
+        },
+        {
+          "index": 18,
+          "url": "https://www.douyin.com/video/7697428218999098639"
+        },
+        {
+          "index": 95,
+          "url": "https://www.douyin.com/video/7654110415563083042"
+        }
+      ]
+    },
+    {
+      "domain": "社交/人情",
+      "claim": "人情与面子互相绑定，办事、红白事、饭局都构成人情往来。",
+      "evidence": [
+        {
+          "index": 82,
+          "url": "https://www.douyin.com/video/7657730067652742501"
+        },
+        {
+          "index": 57,
+          "url": "https://www.douyin.com/video/7675627007129232497"
+        }
+      ]
+    },
+    {
+      "domain": "权力/酒桌",
+      "claim": "酒桌是展示面子和关系网的场合，喝酒被视为社会价值。",
+      "evidence": [
+        {
+          "index": 285,
+          "url": "https://www.douyin.com/video/7504487348304268604"
+        },
+        {
+          "index": 82,
+          "url": "https://www.douyin.com/video/7657730067652742501"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "event_id": "E001",
+      "title": "笑话别人与不让人笑话",
+      "description": "文本把县城人的日常娱乐和评价机制概括为两件事：笑话别人，以及避免自己成为被笑话的对象。",
+      "temporal": "原文未标明具体时间，属常态描述",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 57,
+          "url": "https://www.douyin.com/video/7675627007129232497"
+        },
+        {
+          "index": 86,
+          "url": "https://www.douyin.com/video/7658283175987842344"
+        }
+      ]
+    },
+    {
+      "event_id": "E002",
+      "title": "婚恋被年龄与体面审查",
+      "description": "恋爱年龄被要求卡在20到26岁，超过27岁未搞对象会被议论；离婚者也常被以‘肯定有问题’审视。",
+      "temporal": "原文未标明具体时间，属常态描述",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 86,
+          "url": "https://www.douyin.com/video/7658283175987842344"
+        },
+        {
+          "index": 33,
+          "url": "https://www.douyin.com/video/7688294065229685157"
+        }
+      ]
+    },
+    {
+      "event_id": "E003",
+      "title": "工作选择围绕编制免笑话",
+      "description": "县城评价体系里，带编工作被认为最能扛住笑话，无编、创业、大厂、跳槽等常被贬低。",
+      "temporal": "原文未标明具体时间，属常态描述",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 86,
+          "url": "https://www.douyin.com/video/7658283175987842344"
+        },
+        {
+          "index": 20,
+          "url": "https://www.douyin.com/video/7696047368970595771"
+        }
+      ]
+    },
+    {
+      "event_id": "E004",
+      "title": "消费上的明面梭哈与私下抠搜",
+      "description": "面子上的买车、换手机、婚礼、酒席、穿着要花；别人看不到的钱一分不花；私下吃的苦不说。",
+      "temporal": "原文未标明具体时间，属常态描述",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 18,
+          "url": "https://www.douyin.com/video/7697428218999098639"
+        }
+      ]
+    },
+    {
+      "event_id": "E005",
+      "title": "红白事按到场人数被评价",
+      "description": "红事白事来人少会被笑话为人不行、混得不好；该到的人不到场会被挑理。",
+      "temporal": "原文未标明具体时间，属常态描述",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 57,
+          "url": "https://www.douyin.com/video/7675627007129232497"
+        }
+      ]
+    },
+    {
+      "event_id": "E006",
+      "title": "饭店成为笑话别人的情报站",
+      "description": "县城饭店被视为笑话别人的场所，三五好友吃饭喝酒后开始研究笑话别人。",
+      "temporal": "原文未标明具体时间，属常态描述",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 57,
+          "url": "https://www.douyin.com/video/7675627007129232497"
+        }
+      ]
+    },
+    {
+      "event_id": "E007",
+      "title": "酒局上识酒与讲门道",
+      "description": "县城老江湖在酒桌上不仅喝酒，还要选对酒、讲出来路和门道，以此撑面子和人脉。",
+      "temporal": "原文未标明具体时间，属常态描述",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 285,
+          "url": "https://www.douyin.com/video/7504487348304268604"
+        }
+      ]
+    },
+    {
+      "event_id": "E008",
+      "title": "打压回流客和无利用价值者",
+      "description": "县城不放过打压别人的机会，回流客即便有存款也会被当成大城市混不下去的人。",
+      "temporal": "原文未标明具体时间，属常态描述",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 110,
+          "url": "https://www.douyin.com/video/7647055860899856881"
+        }
+      ]
+    },
+    {
+      "event_id": "E009",
+      "title": "用消费疗愈低增量人生",
+      "description": "县城经济被描述为精神布洛芬：按摩、SPA、美甲、算卦、餐饮、美容等成为心理诊所。",
+      "temporal": "原文未标明具体时间，属常态描述",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 95,
+          "url": "https://www.douyin.com/video/7654110415563083042"
+        }
+      ]
+    },
+    {
+      "event_id": "E010",
+      "title": "客套留饭与带礼试探",
+      "description": "亲戚热情留饭未必真心，客人若分辨不清会被人笑话；带礼后又被推让，也可能被评价礼薄。",
+      "temporal": "原文未标明具体时间，属常态描述",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 57,
+          "url": "https://www.douyin.com/video/7675627007129232497"
+        }
+      ]
+    },
+    {
+      "title": "离婚者成为全县连载的真人连续剧",
+      "desc": "离婚被写成漫长的社会性绞杀，换发型、带孩子逛公园都会被从离婚角度重新解释。",
+      "time": "未交代",
+      "evidence": []
+    },
+    {
+      "title": "高端消费被当智商税而车与手机例外",
+      "desc": "衣服、包、表、家电、烟酒乃至高端小区都可用平替，唯独汽车和手机必须买贵的，用来展示财富等级。",
+      "time": "未交代",
+      "evidence": []
+    },
+    {
+      "title": "离婚成为全县连续剧（县城吃瓜群众版）",
+      "desc": "",
+      "time": "",
+      "evidence": [
+        {
+          "index": 33,
+          "url": "https://www.douyin.com/video/7688294065229685157"
+        }
+      ]
+    },
+    {
+      "title": "口口相传中加工走样（县城吃瓜群众版）",
+      "desc": "",
+      "time": "",
+      "evidence": [
+        {
+          "index": 33,
+          "url": "https://www.douyin.com/video/7688294065229685157"
+        }
+      ]
+    },
+    {
+      "title": "用关心惋惜劝和包装评判（县城吃瓜群众版）",
+      "desc": "",
+      "time": "",
+      "evidence": [
+        {
+          "index": 33,
+          "url": "https://www.douyin.com/video/7688294065229685157"
+        }
+      ]
+    },
+    {
+      "title": "菜市场与单位里的施压（县城吃瓜群众版）",
+      "desc": "",
+      "time": "",
+      "evidence": [
+        {
+          "index": 33,
+          "url": "https://www.douyin.com/video/7688294065229685157"
+        }
+      ]
+    },
+    {
+      "title": "对家暴受害者有罪推定（县城吃瓜群众版）",
+      "desc": "",
+      "time": "",
+      "evidence": [
+        {
+          "index": 33,
+          "url": "https://www.douyin.com/video/7688294065229685157"
+        }
+      ]
+    },
+    {
+      "title": "离婚标签长期跟踪（县城吃瓜群众版）",
+      "desc": "",
+      "time": "",
+      "evidence": [
+        {
+          "index": 33,
+          "url": "https://www.douyin.com/video/7688294065229685157"
+        }
+      ]
+    },
+    {
+      "title": "村头情报站观察笑话别人（县城吃瓜群众版）",
+      "desc": "",
+      "time": "",
+      "evidence": [
+        {
+          "index": 57,
+          "url": "https://www.douyin.com/video/7675627007129232497"
+        }
+      ]
+    },
+    {
+      "title": "饭店成为笑话别人的场所（县城吃瓜群众版）",
+      "desc": "",
+      "time": "",
+      "evidence": [
+        {
+          "index": 57,
+          "url": "https://www.douyin.com/video/7675627007129232497"
+        }
+      ]
+    },
+    {
+      "title": "客套留饭与礼品试探（县城吃瓜群众版）",
+      "desc": "",
+      "time": "",
+      "evidence": [
+        {
+          "index": 57,
+          "url": "https://www.douyin.com/video/7675627007129232497"
+        }
+      ]
+    },
+    {
+      "title": "红白事缺席被当作对抗（县城吃瓜群众版）",
+      "desc": "",
+      "time": "",
+      "evidence": [
+        {
+          "index": 57,
+          "url": "https://www.douyin.com/video/7675627007129232497"
+        }
+      ]
+    },
+    {
+      "title": "过年盘问工资对象房贷车贷（县城吃瓜群众版）",
+      "desc": "",
+      "time": "",
+      "evidence": [
+        {
+          "index": 89,
+          "url": "https://www.douyin.com/video/7656438745209507112"
+        }
+      ]
+    },
+    {
+      "title": "抱团造谣集体唱衰（县城吃瓜群众版）",
+      "desc": "",
+      "time": "",
+      "evidence": [
+        {
+          "index": 89,
+          "url": "https://www.douyin.com/video/7656438745209507112"
+        }
+      ]
+    },
+    {
+      "title": "亲戚聚会酒席上随时打分（县城吃瓜群众版）",
+      "desc": "",
+      "time": "",
+      "evidence": [
+        {
+          "index": 77,
+          "url": "https://www.douyin.com/video/7664527953162788282"
+        }
+      ]
+    },
+    {
+      "title": "对职业和人生选择轮番笑话（县城吃瓜群众版）",
+      "desc": "",
+      "time": "",
+      "evidence": [
+        {
+          "index": 86,
+          "url": "https://www.douyin.com/video/7658283175987842344"
+        }
+      ]
+    },
+    {
+      "title": "老年人消磨时间蛐蛐别人（县城吃瓜群众版）",
+      "desc": "",
+      "time": "",
+      "evidence": [
+        {
+          "index": 81,
+          "url": "https://www.douyin.com/video/7661955942992465162"
+        }
+      ]
+    },
+    {
+      "title": "备考族和回流客被当成笑话材料（县城吃瓜群众版）",
+      "desc": "",
+      "time": "",
+      "evidence": [
+        {
+          "index": 110,
+          "url": "https://www.douyin.com/video/7647055860899856881"
+        }
+      ]
+    }
+  ],
+  "storylines": [
+    {
+      "title": "一辈子不让别人笑话的面子工程",
+      "event_ids": [
+        "E001",
+        "E002",
+        "E003",
+        "E004",
+        "E005",
+        "E006"
+      ],
+      "narrative": "县城人生活在熟人评价中，婚恋要卡年龄、工作要带编、消费要顾面子、红白事要来人，日常还要参与笑话别人。主线不是发财，而是避免被议论、被戳脊梁骨。",
+      "unresolved": "原文未给出具体个人的最终结局，也未说明所有县城人是否都遵循这套标准。",
+      "evidence": [
+        {
+          "index": 86,
+          "url": "https://www.douyin.com/video/7658283175987842344"
+        },
+        {
+          "index": 57,
+          "url": "https://www.douyin.com/video/7675627007129232497"
+        }
+      ]
+    },
+    {
+      "title": "人情、客套与落难时的翻脸",
+      "event_ids": [
+        "E010",
+        "E006",
+        "E008"
+      ],
+      "narrative": "县城人办事靠人情，交往中充满客套和试探；平时饭局称兄道弟，一旦有人落难或没有利用价值，就可能被打压、旁观甚至踩一脚。",
+      "unresolved": "原文没有给出统一规则，也承认存在互相帮忙的一面；具体谁帮谁、谁踩谁，缺个人化情节。",
+      "evidence": [
+        {
+          "index": 82,
+          "url": "https://www.douyin.com/video/7657730067652742501"
+        },
+        {
+          "index": 132,
+          "url": "https://www.douyin.com/video/7629184986256441573"
+        }
+      ]
+    },
+    {
+      "title": "低增量人生与精神布洛芬",
+      "event_ids": [
+        "E009"
+      ],
+      "narrative": "县城生存成本低、工作压力相对小，但人生增量少，今天什么样二十年后可能还那样。人们因此转向按摩、SPA、美甲、算卦、餐饮等消费，疗愈自卑、焦虑和绝望。",
+      "unresolved": "原文未说明这种疗愈是否真正解决问题，也未给出改善路径。",
+      "evidence": [
+        {
+          "index": 95,
+          "url": "https://www.douyin.com/video/7654110415563083042"
+        }
+      ]
+    },
+    {
+      "title": "酒桌上的社会价值考场",
+      "event_ids": [
+        "E007"
+      ],
+      "narrative": "县城酒桌被写成考场：能不能坐得住、说得起场面话、喝得了三轮酒，关系到社会价值；酒还要选对、讲出来路，才算有面子。",
+      "unresolved": "原文未交代失败者会怎样，也未给出可复制的具体标准。",
+      "evidence": [
+        {
+          "index": 285,
+          "url": "https://www.douyin.com/video/7504487348304268604"
+        }
+      ]
+    }
+  ],
+  "relationships": [
+    {
+      "target": "街坊四邻、亲戚朋友、同事、发小",
+      "relation": "县城人在意其评价，怕被其嚼舌根、戳脊梁骨、背后蛐蛐。",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 86,
+          "url": "https://www.douyin.com/video/7658283175987842344"
+        }
+      ]
+    },
+    {
+      "target": "县城回流客",
+      "relation": "被县城人平等打压，尤其被说成大城市混不下去才回来。",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 110,
+          "url": "https://www.douyin.com/video/7647055860899856881"
+        }
+      ]
+    },
+    {
+      "target": "赖家人、赖天鹏",
+      "relation": "作为县城熟人社会中的旁观者，在其落难时可能不帮忙还踩一脚。",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 132,
+          "url": "https://www.douyin.com/video/7629184986256441573"
+        }
+      ]
+    },
+    {
+      "target": "饭店里的三五好友",
+      "relation": "一起吃饭喝酒，并研究怎么笑话别人。",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 57,
+          "url": "https://www.douyin.com/video/7675627007129232497"
+        }
+      ]
+    },
+    {
+      "target": "酒桌上的同席者",
+      "relation": "通过酒、场面话和敬酒表现彼此的社会价值与面子。",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 285,
+          "url": "https://www.douyin.com/video/7504487348304268604"
+        }
+      ]
+    },
+    {
+      "text": "县城离婚者（县城吃瓜群众版）"
+    },
+    {
+      "text": "卖菜大姐（县城吃瓜群众版）"
+    },
+    {
+      "text": "县城单位领导（县城吃瓜群众版）"
+    },
+    {
+      "text": "村头情报站老头老太太（县城吃瓜群众版）"
+    },
+    {
+      "text": "亲戚朋友、同事、发小（县城吃瓜群众版）"
+    },
+    {
+      "text": "县城评论员（县城吃瓜群众版）"
+    },
+    {
+      "text": "县城饭店/酒局（县城吃瓜群众版）"
+    },
+    {
+      "text": "县城备考族（县城吃瓜群众版）"
+    },
+    {
+      "text": "县城回流客（县城吃瓜群众版）"
+    },
+    {
+      "text": "县城有编者（县城吃瓜群众版）"
+    }
+  ],
+  "speech_habits": [
+    {
+      "claim": "热情挽留、推让礼物，很多是客套和试探，不能当真。",
+      "evidence": [
+        {
+          "index": 57,
+          "url": "https://www.douyin.com/video/7675627007129232497"
+        }
+      ]
+    },
+    {
+      "claim": "背后评价他人时跳跃下结论，可能从不会来事直接说成‘不是个东西’。",
+      "evidence": [
+        {
+          "index": 57,
+          "url": "https://www.douyin.com/video/7675627007129232497"
+        }
+      ]
+    },
+    {
+      "claim": "酒桌上讲究场面话、敬酒和座次规矩，用话与酒撑面子。",
+      "evidence": [
+        {
+          "index": 285,
+          "url": "https://www.douyin.com/video/7504487348304268604"
+        },
+        {
+          "index": 82,
+          "url": "https://www.douyin.com/video/7657730067652742501"
+        }
+      ]
+    },
+    {
+      "claim": "常用‘哪个单位’‘有没有编制’来评价他人。",
+      "evidence": [
+        {
+          "index": 585,
+          "url": "https://www.douyin.com/video/7099766213445700871"
+        },
+        {
+          "index": 20,
+          "url": "https://www.douyin.com/video/7696047368970595771"
+        }
+      ]
+    },
+    {
+      "claim": "对想装杯的人会打压、抬杠，以否定对方获得谈话优势。",
+      "evidence": [
+        {
+          "index": 135,
+          "url": "https://www.douyin.com/video/7628280226711129350"
+        }
+      ]
+    }
+  ],
+  "contradictions": [
+    {
+      "issue": "表面热情客套与背后笑话、嫌礼薄并存。",
+      "versions": [
+        {
+          "claim": "亲戚会疯狂留饭、撕吧礼物，看似热情。",
+          "evidence": [
+            {
+              "index": 57,
+              "url": "https://www.douyin.com/video/7675627007129232497"
+            }
+          ]
+        },
+        {
+          "claim": "留饭可能纯客套，带礼少会被背后说抠。",
+          "evidence": [
+            {
+              "index": 57,
+              "url": "https://www.douyin.com/video/7675627007129232497"
+            }
+          ]
+        }
+      ],
+      "resolution": "保留并列，不擅自合并或选定"
+    },
+    {
+      "issue": "面子比里子重要，但私下又极度节俭、不肯花钱。",
+      "versions": [
+        {
+          "claim": "面子绝对比里子重要。",
+          "evidence": [
+            {
+              "index": 16,
+              "url": "https://www.douyin.com/video/7698364522017005989"
+            }
+          ]
+        },
+        {
+          "claim": "别人看不到的钱一分不花，私下吃苦不提。",
+          "evidence": [
+            {
+              "index": 18,
+              "url": "https://www.douyin.com/video/7697428218999098639"
+            }
+          ]
+        }
+      ],
+      "resolution": "保留并列，不擅自合并或选定"
+    },
+    {
+      "issue": "熟人社会可依靠人情互助，但落难时又可能被旁观、踩一脚。",
+      "versions": [
+        {
+          "claim": "人情和面子绑定，通过给面子可换人情。",
+          "evidence": [
+            {
+              "index": 82,
+              "url": "https://www.douyin.com/video/7657730067652742501"
+            }
+          ]
+        },
+        {
+          "claim": "真到事上，见人落难不光不帮忙还踩一脚。",
+          "evidence": [
+            {
+              "index": 132,
+              "url": "https://www.douyin.com/video/7629184986256441573"
+            }
+          ]
+        }
+      ],
+      "resolution": "保留并列，不擅自合并或选定"
+    },
+    {
+      "issue": "县城生活成本低、压力小，但很多人郁郁寡欢、焦虑内耗。",
+      "versions": [
+        {
+          "claim": "县城工作压力小，生活成本低，适合回县城。",
+          "evidence": [
+            {
+              "index": 20,
+              "url": "https://www.douyin.com/video/7696047368970595771"
+            }
+          ]
+        },
+        {
+          "claim": "人生增量少，自卑、焦虑、绝望无法通过行动解决。",
+          "evidence": [
+            {
+              "index": 95,
+              "url": "https://www.douyin.com/video/7654110415563083042"
+            }
+          ]
+        }
+      ],
+      "resolution": "保留并列，不擅自合并或选定"
+    },
+    {
+      "issue": "高端消费被称智商税，但正式酒桌又需要名酒撑场面。",
+      "versions": [
+        {
+          "claim": "县城层级能接触到的所有高端消费基本是智商税。",
+          "evidence": [
+            {
+              "index": 45,
+              "url": "https://www.douyin.com/video/7683421956008557434"
+            }
+          ]
+        },
+        {
+          "claim": "正式场合要面子，名酒撑场面是刚需。",
+          "evidence": [
+            {
+              "index": 82,
+              "url": "https://www.douyin.com/video/7657730067652742501"
+            }
+          ]
+        }
+      ],
+      "resolution": "保留并列，不擅自合并或选定"
+    }
+  ],
+  "gaps": [
+    "县城人没有统一的年龄、职业、性别、收入设定，文本只提供泛称群像。",
+    "缺少具体个人的连续生平、家庭结构和完整时间线。",
+    "‘县城人’与好大哥、瑜伽裤、葱姜蒜、老社保等具体角色之间的边界不总是清晰。",
+    "不同文案对县城人的态度有同情、讽刺、观察、代言等多种口吻，未形成单一立场。",
+    "县城人如何分化、是否所有县城人都遵循‘不能让人笑话’的标准，原文未交代。",
+    "原文未交代县城人的统一年龄、职业、性别与收入分布。",
+    "原文未交代某一个县城人的连续生平、家庭结构与完整时间线。",
+    "原文未交代“县城人”与好大哥、瑜伽裤、葱姜蒜、老社保等角色的边界如何划清。",
+    "原文未交代不同文案对县城人的同情、讽刺、观察、代言口吻中哪一种代表作者立场。",
+    "原文未交代县城人如何分化，是否所有县城人都遵循“不能让人笑话”的标准。",
+    "原文未交代恋爱年龄须卡在20~26这一标准的制定者与例外情形。",
+    "原文未交代被打压的回流客后来是否被接纳，或有无反击成功的案例。",
+    "原文未交代精神布洛芬式消费是否真正缓解焦虑，也未给出改善路径。",
+    "没有固定姓名、年龄、职业、性别比例等具体设定。（县城吃瓜群众版）",
+    "没有第一人称自述，全部为博主转述或概括。（县城吃瓜群众版）",
+    "不同篇中的亲戚朋友、县城里的人、评论员、情报站成员可能重叠，但无法证明是同一批人。（县城吃瓜群众版）",
+    "没有交代吃瓜群众自身是否改变，是否存在不参与笑话的例外。（县城吃瓜群众版）",
+    "没有完整交代被传播者的后续命运、法律后果或舆论反转。（县城吃瓜群众版）",
+    "村头情报站、饭店酒局、亲戚聚会之间的具体组织关系不明。（县城吃瓜群众版）"
+  ],
+  "creative_expansions": [],
+  "source_coverage": [
+    {
+      "index": 20,
+      "role": "提供县城工作被概括为带编和不带编、工作压力较小的背景；对‘县城人’泛称的直接刻画有限。",
+      "url": "https://www.douyin.com/video/7696047368970595771"
+    },
+    {
+      "index": 57,
+      "role": "核心材料：笑话别人和不让人笑话、客套留饭、带礼试探、红白事到场人数、饭店情报站。",
+      "url": "https://www.douyin.com/video/7675627007129232497"
+    },
+    {
+      "index": 82,
+      "role": "核心材料：人情与面子绑定、酒桌正式场合与私下小聚的两副面孔。",
+      "url": "https://www.douyin.com/video/7657730067652742501"
+    },
+    {
+      "index": 86,
+      "role": "核心材料：不能让人笑话的执念在婚恋、工作、消费上的具体表现。",
+      "url": "https://www.douyin.com/video/7658283175987842344"
+    },
+    {
+      "index": 95,
+      "role": "核心材料：县城经济作为精神布洛芬，人生增量少，按摩、SPA、美甲、算卦、餐饮承担心理疗愈。",
+      "url": "https://www.douyin.com/video/7654110415563083042"
+    },
+    {
+      "index": 110,
+      "role": "核心材料：县城平等打压无利用价值者，回流客是重点目标。",
+      "url": "https://www.douyin.com/video/7647055860899856881"
+    },
+    {
+      "index": 132,
+      "role": "核心材料：熟人社会表面和睦、称兄道弟，落难时可能踩一脚。",
+      "url": "https://www.douyin.com/video/7629184986256441573"
+    },
+    {
+      "index": 285,
+      "role": "核心材料：县城面子社会、酒桌作为社会价值考场、识酒与讲门道。",
+      "url": "https://www.douyin.com/video/7504487348304268604"
+    },
+    {
+      "index": 16,
+      "role": "补充材料：面子比里子重要。",
+      "url": "https://www.douyin.com/video/7698364522017005989"
+    },
+    {
+      "index": 18,
+      "role": "补充材料：面子钱不省、非面子钱不花、私下苦不提的消费原则。",
+      "url": "https://www.douyin.com/video/7697428218999098639"
+    },
+    {
+      "index": 29,
+      "role": "补充材料：县城看起来有钱的人其实往往没什么钱。",
+      "url": "https://www.douyin.com/video/7690463808767185337"
+    },
+    {
+      "index": 33,
+      "role": "补充材料：县城离婚被描述为社会性绞杀，用于婚恋被评价的侧面。",
+      "url": "https://www.douyin.com/video/7688294065229685157"
+    },
+    {
+      "index": 45,
+      "role": "补充材料：县城层级能接触到的所有高端消费基本是智商税。",
+      "url": "https://www.douyin.com/video/7683421956008557434"
+    }
+  ]
+}

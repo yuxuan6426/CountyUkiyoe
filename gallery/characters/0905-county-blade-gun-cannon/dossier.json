@@ -1,0 +1,674 @@
+{
+  "name": "县城刀枪炮",
+  "nature": "原型/复合群像。不是单一自然人，而是《县城浮世绘》中反复出现的县城角色标签：无姓名、年龄、家庭与连续生平。核心材料第63篇把它放进“活在自己舒适区”的人生哲学，点名“你是县城刀枪炮，你就干二手车贩”；其余篇目多为角色分类、并列与近似标签提及。它以自信张扬、讲究排场、不受管束为标识，只能按县城生态群像整理，不能当人物传记。",
+  "overview": "县城刀枪炮被写成县城的角色标签与群像。第63篇给它匹配二手车贩的职业示例，描述其出场摇头晃脑、镇定自若，以大金链子、外八字步、折叠屏、墨镜维持带派；拒做端茶倒水、汇报材料，“这辈子就不会在别人手底下干”；即使没有存款、全是负债也不改派头。多版本并存：职业上，一面点名二手车贩，一面说各行各业、收入很低的工作里都有这种带派的人；经济上，负债与排场并置，原文不判其真假贫富；与龙虎豹的关系上，有时合称“刀枪炮龙虎豹”，有时又分出“穿箭头子的刀枪炮”与“穿鸡骨架子的龙虎豹”，原文未定论。第61篇把它排在“县城最幸福的人”之外，第80篇称刀枪炮龙虎豹在县城聚集，第153篇把它列为瑜伽裤可能“崩”的穿搭对象。",
+  "identity": [
+    {
+      "claim": "文本中的县城角色标签/群像，不是具名自然人的连续传记。",
+      "evidence": [
+        {
+          "index": 63,
+          "url": "https://www.douyin.com/video/7672967248591803237"
+        },
+        {
+          "index": 61,
+          "url": "https://www.douyin.com/video/7673802651855671739"
+        },
+        {
+          "index": 80,
+          "url": "https://www.douyin.com/video/7662329144269387365"
+        },
+        {
+          "index": 153,
+          "url": "https://www.douyin.com/video/7618857294381468937"
+        }
+      ]
+    },
+    {
+      "claim": "被文本匹配的职业示例是二手车贩。",
+      "evidence": [
+        {
+          "index": 63,
+          "url": "https://www.douyin.com/video/7672967248591803237"
+        }
+      ]
+    },
+    {
+      "claim": "外在符号包括大金链子、外八字步、折叠屏手机、墨镜；在穿搭分类中被称为“穿箭头子的刀枪炮”。",
+      "evidence": [
+        {
+          "index": 63,
+          "url": "https://www.douyin.com/video/7672967248591803237"
+        },
+        {
+          "index": 153,
+          "url": "https://www.douyin.com/video/7618857294381468937"
+        }
+      ]
+    },
+    {
+      "claim": "经济状态被描述为没有存款、全是负债，但外在排场不减。",
+      "evidence": [
+        {
+          "index": 63,
+          "url": "https://www.douyin.com/video/7672967248591803237"
+        }
+      ]
+    },
+    {
+      "claim": "社交姿态被描述为摇头晃脑、镇定自若，且不在别人手底下干，拒绝端茶倒水和汇报材料。",
+      "evidence": [
+        {
+          "index": 63,
+          "url": "https://www.douyin.com/video/7672967248591803237"
+        }
+      ]
+    }
+  ],
+  "traits": [
+    {
+      "claim": "自信张扬、外露带派。",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 63,
+          "url": "https://www.douyin.com/video/7672967248591803237"
+        }
+      ]
+    },
+    {
+      "claim": "排斥受人管束，不服职场支配。",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 63,
+          "url": "https://www.douyin.com/video/7672967248591803237"
+        }
+      ]
+    },
+    {
+      "claim": "讲究外在排场和身份符号。",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 63,
+          "url": "https://www.douyin.com/video/7672967248591803237"
+        }
+      ]
+    },
+    {
+      "claim": "把某种工作状态视为舒适区，做得“得劲”“爽”。",
+      "kind": "动机",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 63,
+          "url": "https://www.douyin.com/video/7672967248591803237"
+        }
+      ]
+    },
+    {
+      "claim": "即使负债、落难，也维持带派姿态。",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 63,
+          "url": "https://www.douyin.com/video/7672967248591803237"
+        }
+      ]
+    },
+    {
+      "claim": "在“县城最幸福的人”讨论中被明确排除。",
+      "kind": "矛盾",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 61,
+          "url": "https://www.douyin.com/video/7673802651855671739"
+        }
+      ]
+    },
+    {
+      "claim": "被瑜伽裤话题列为可能“崩”的穿搭角色之一。",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 153,
+          "url": "https://www.douyin.com/video/7618857294381468937"
+        }
+      ]
+    },
+    {
+      "claim": "自信张扬、外露带派，出场摇头晃脑、镇定自若，“墨镜一戴，谁都不爱”。",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "排斥受人管束、不服职场支配，让他端茶倒水给鞭腿，让他汇报材料给电炮，“这辈子就不会在别人手底下干”。",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "讲究外在排场与身份符号：大金链子、外八字步、折叠屏打开联系买卖、扣上展示人脉。",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "把某种工作状态当作舒适区，干那个工作“得劲”“爽”。",
+      "kind": "动机",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "即使负债、落难，也维持带派姿态，“甭管他负债多少万”。",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "被瑜伽裤话题列为可能“崩”的穿搭角色之一（“穿箭头子的刀枪炮”）。",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "在#80被描述为在县城聚集的群体之一（“什么刀枪炮龙虎。虎豹都在这里聚集”）。",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    }
+  ],
+  "life_domains": [
+    {
+      "domain": "职业",
+      "claim": "文本把“县城刀枪炮”与“干二手车贩”直接匹配。",
+      "evidence": [
+        {
+          "index": 63,
+          "url": "https://www.douyin.com/video/7672967248591803237"
+        }
+      ]
+    },
+    {
+      "domain": "金钱/消费",
+      "claim": "被描述为没有存款、全是负债，却仍有大金链子、折叠屏、墨镜等排场符号。",
+      "evidence": [
+        {
+          "index": 63,
+          "url": "https://www.douyin.com/video/7672967248591803237"
+        }
+      ]
+    },
+    {
+      "domain": "社交/工作",
+      "claim": "不服从端茶倒水、汇报材料等职场角色安排。",
+      "evidence": [
+        {
+          "index": 63,
+          "url": "https://www.douyin.com/video/7672967248591803237"
+        }
+      ]
+    },
+    {
+      "domain": "穿搭/身份符号",
+      "claim": "“穿箭头子的刀枪炮”是其被识别的一种穿搭分类。",
+      "evidence": [
+        {
+          "index": 153,
+          "url": "https://www.douyin.com/video/7618857294381468937"
+        }
+      ]
+    },
+    {
+      "domain": "权力/县城分类",
+      "claim": "在县城角色分类中与婆罗门、假大哥真富少、边二代龙虎豹并列出现。",
+      "evidence": [
+        {
+          "index": 61,
+          "url": "https://www.douyin.com/video/7673802651855671739"
+        }
+      ]
+    },
+    {
+      "domain": "婚恋/异性关系",
+      "claim": "在县城瑜伽裤“喜欢崩哪个角色”的提问中被列为一类对象。",
+      "evidence": [
+        {
+          "index": 153,
+          "url": "https://www.douyin.com/video/7618857294381468937"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "event_id": "E001",
+      "title": "被点名匹配二手车贩职业",
+      "description": "原文在讲县城葱姜蒜幸福人生哲学时，举例“你是县城刀枪炮，你就干二手车贩”，把其舒适区与二手车买卖绑定。",
+      "temporal": "无原文时间顺序，属并列举例",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 63,
+          "url": "https://www.douyin.com/video/7672967248591803237"
+        }
+      ]
+    },
+    {
+      "event_id": "E002",
+      "title": "出场姿态：摇头晃脑、镇定自若",
+      "description": "原文把“刀枪炮龙虎豹”与“假二代伪富少”并列，称其出场摇头晃脑、镇定自若。",
+      "temporal": "无原文时间顺序，属并列描述",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 63,
+          "url": "https://www.douyin.com/video/7672967248591803237"
+        }
+      ]
+    },
+    {
+      "event_id": "E003",
+      "title": "拒绝职场服从",
+      "description": "原文说这类人不会在别人手底下干，让他端茶倒水会给鞭腿，让他汇报材料会给电炮。",
+      "temporal": "无原文时间顺序，属行为概括",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 63,
+          "url": "https://www.douyin.com/video/7672967248591803237"
+        }
+      ]
+    },
+    {
+      "event_id": "E004",
+      "title": "负债也保持带派",
+      "description": "原文说其大金链子、外八字步、折叠屏、墨镜，虽然没有存款全是负债，也“十分的带派”。",
+      "temporal": "无原文时间顺序，属状态描述",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 63,
+          "url": "https://www.douyin.com/video/7672967248591803237"
+        }
+      ]
+    },
+    {
+      "event_id": "E005",
+      "title": "被列为不是县城最幸福的人",
+      "description": "原文说县城里活得最幸福的人不是婆罗门刀枪炮、假大哥真富少、边二代龙虎豹。",
+      "temporal": "无原文时间顺序，属分类判断",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 61,
+          "url": "https://www.douyin.com/video/7673802651855671739"
+        }
+      ]
+    },
+    {
+      "event_id": "E006",
+      "title": "被描述为在县城聚集的群体之一",
+      "description": "原文讨论“穷乡僻壤出刁民”时，说刀枪炮龙虎豹都在这里聚集。",
+      "temporal": "无原文时间顺序，属群体描述",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 80,
+          "url": "https://www.douyin.com/video/7662329144269387365"
+        }
+      ]
+    },
+    {
+      "event_id": "E007",
+      "title": "在瑜伽裤话题中被列为一类对象",
+      "description": "原文问县城瑜伽裤喜欢崩哪个角色，举“穿箭头子的刀枪炮”与“穿鸡骨架子的龙虎豹”。",
+      "temporal": "无原文时间顺序，属提问式分类",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 153,
+          "url": "https://www.douyin.com/video/7618857294381468937"
+        }
+      ]
+    },
+    {
+      "event_id": "E008",
+      "title": "近似标签“当地龙虎豹”被好大哥假装",
+      "description": "原文说县城好大哥开破揽胜“假装自己是当地龙虎豹”，该形象与刀枪炮常被并置讨论。",
+      "temporal": "无原文时间顺序，属近似标签提及",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 34,
+          "url": "https://www.douyin.com/video/7687901194417659557"
+        }
+      ]
+    },
+    {
+      "event_id": "E009",
+      "title": "近似标签“县城龙虎豹”被葱姜蒜硬装",
+      "description": "原文说县城葱姜蒜纹个身，硬装县城龙虎豹。",
+      "temporal": "无原文时间顺序，属近似标签提及",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 4,
+          "url": "https://www.douyin.com/video/7706364212042608997"
+        }
+      ]
+    }
+  ],
+  "storylines": [
+    {
+      "title": "刀枪炮的舒适区与带派生存哲学",
+      "event_ids": [
+        "E001",
+        "E002",
+        "E003",
+        "E004"
+      ],
+      "narrative": "文本把刀枪炮放进“人就得活在自己的舒适区”的哲学里：点名其干二手车贩；描述其出场摇头晃脑、镇定自若；不服从端茶倒水、汇报材料；以金链子、外八字步、折叠屏、墨镜维持排场，即便没有存款全是负债也保持带派。没有开始、发展、冲突和结果，只是角色归纳。",
+      "unresolved": "没有具体人物、时间、地点和后续事件。",
+      "evidence": [
+        {
+          "index": 63,
+          "url": "https://www.douyin.com/video/7672967248591803237"
+        }
+      ]
+    },
+    {
+      "title": "作为县城生态分类标签的刀枪炮",
+      "event_ids": [
+        "E005",
+        "E006",
+        "E007"
+      ],
+      "narrative": "在多篇县城角色讨论中，刀枪炮被当作分类标签：它被排除在“最幸福的人”之外；被描述为在县城聚集的群体之一；又被瑜伽裤话题列为可能“崩”的穿搭角色之一。文本没有展开这些关系的具体经过。",
+      "unresolved": "与其他角色的具体互动、是否同一群体、真实生活状态均未交代。",
+      "evidence": [
+        {
+          "index": 61,
+          "url": "https://www.douyin.com/video/7673802651855671739"
+        },
+        {
+          "index": 80,
+          "url": "https://www.douyin.com/video/7662329144269387365"
+        },
+        {
+          "index": 153,
+          "url": "https://www.douyin.com/video/7618857294381468937"
+        }
+      ]
+    },
+    {
+      "title": "与龙虎豹等近似标签的并置",
+      "event_ids": [
+        "E008",
+        "E009"
+      ],
+      "narrative": "文本还出现“当地龙虎豹”“县城龙虎豹”等近似标签，分别被县城好大哥假装、被县城葱姜蒜硬装；而刀枪炮有时与龙虎豹合称，有时又被穿搭区分。",
+      "unresolved": "刀枪炮与龙虎豹是否同一群体，原文未定论。",
+      "evidence": [
+        {
+          "index": 34,
+          "url": "https://www.douyin.com/video/7687901194417659557"
+        },
+        {
+          "index": 4,
+          "url": "https://www.douyin.com/video/7706364212042608997"
+        }
+      ]
+    }
+  ],
+  "relationships": [
+    {
+      "target": "龙虎豹",
+      "relation": "常并列出现，有时合称“刀枪炮龙虎豹”，有时被区分成不同穿搭角色。",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 63,
+          "url": "https://www.douyin.com/video/7672967248591803237"
+        },
+        {
+          "index": 80,
+          "url": "https://www.douyin.com/video/7662329144269387365"
+        },
+        {
+          "index": 153,
+          "url": "https://www.douyin.com/video/7618857294381468937"
+        }
+      ]
+    },
+    {
+      "target": "假二代伪富少",
+      "relation": "在出场姿态描述中并列。",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 63,
+          "url": "https://www.douyin.com/video/7672967248591803237"
+        }
+      ]
+    },
+    {
+      "target": "县城葱姜蒜",
+      "relation": "在讨论葱姜蒜幸福哲学时，刀枪炮被用作舒适区举例对象。",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 63,
+          "url": "https://www.douyin.com/video/7672967248591803237"
+        }
+      ]
+    },
+    {
+      "target": "带鞭铁娘子、县城老社保、末代少爷",
+      "relation": "同为“活在舒适区”人生哲学中的并列举例角色。",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 63,
+          "url": "https://www.douyin.com/video/7672967248591803237"
+        }
+      ]
+    },
+    {
+      "target": "县城瑜伽裤",
+      "relation": "被列为瑜伽裤可能“崩”的穿搭对象之一。",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 153,
+          "url": "https://www.douyin.com/video/7618857294381468937"
+        }
+      ]
+    },
+    {
+      "target": "县城婆罗门",
+      "relation": "在“最幸福的人”句中被并列否定。",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 61,
+          "url": "https://www.douyin.com/video/7673802651855671739"
+        }
+      ]
+    },
+    {
+      "target": "边二代",
+      "relation": "在“最幸福的人”句中以“边二代龙虎豹”形式并列出现。",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 61,
+          "url": "https://www.douyin.com/video/7673802651855671739"
+        }
+      ]
+    }
+  ],
+  "speech_habits": [
+    {
+      "claim": "文本没有给出刀枪炮的直接台词，主要用行为、穿搭和姿态表现。",
+      "evidence": [
+        {
+          "index": 63,
+          "url": "https://www.douyin.com/video/7672967248591803237"
+        }
+      ]
+    },
+    {
+      "claim": "以折叠屏手机开合象征联系买卖、展示人脉。",
+      "evidence": [
+        {
+          "index": 63,
+          "url": "https://www.douyin.com/video/7672967248591803237"
+        }
+      ]
+    },
+    {
+      "claim": "态度表达被概括为“墨镜一戴，谁都不爱，十分的带派”。",
+      "evidence": [
+        {
+          "index": 63,
+          "url": "https://www.douyin.com/video/7672967248591803237"
+        }
+      ]
+    }
+  ],
+  "contradictions": [
+    {
+      "issue": "刀枪炮与龙虎豹是否同一群体",
+      "versions": [
+        {
+          "claim": "合称/并列：文本把二者写作“刀枪炮龙虎豹”。",
+          "evidence": [
+            {
+              "index": 63,
+              "url": "https://www.douyin.com/video/7672967248591803237"
+            },
+            {
+              "index": 80,
+              "url": "https://www.douyin.com/video/7662329144269387365"
+            }
+          ]
+        },
+        {
+          "claim": "区分：文本又把“穿箭头子的刀枪炮”和“穿鸡骨架子的龙虎豹”分别提问；另一处把“婆罗门刀枪炮”和“边二代龙虎豹”并列。",
+          "evidence": [
+            {
+              "index": 153,
+              "url": "https://www.douyin.com/video/7618857294381468937"
+            },
+            {
+              "index": 61,
+              "url": "https://www.douyin.com/video/7673802651855671739"
+            }
+          ]
+        }
+      ],
+      "resolution": "保留并列，不擅自合并或选定；可能是相邻、可合称的群像标签，也可能有区分。"
+    },
+    {
+      "issue": "二手车贩是否为唯一职业",
+      "versions": [
+        {
+          "claim": "文本点名“你是县城刀枪炮，你就干二手车贩”。",
+          "evidence": [
+            {
+              "index": 63,
+              "url": "https://www.douyin.com/video/7672967248591803237"
+            }
+          ]
+        },
+        {
+          "claim": "文本又说各行各业、收入很低的工作里都有这种带派的人。",
+          "evidence": [
+            {
+              "index": 63,
+              "url": "https://www.douyin.com/video/7672967248591803237"
+            }
+          ]
+        }
+      ],
+      "resolution": "保留并列：二手车贩是文本匹配的职业示例，不一定是唯一职业。"
+    },
+    {
+      "issue": "经济状况与排场是否一致",
+      "versions": [
+        {
+          "claim": "没有存款、全是负债。",
+          "evidence": [
+            {
+              "index": 63,
+              "url": "https://www.douyin.com/video/7672967248591803237"
+            }
+          ]
+        },
+        {
+          "claim": "外在仍有大金链子、折叠屏、墨镜等排场符号。",
+          "evidence": [
+            {
+              "index": 63,
+              "url": "https://www.douyin.com/video/7672967248591803237"
+            }
+          ]
+        }
+      ],
+      "resolution": "保留并列：文本同时呈现负债与排场，不据此认定为真实富裕或真实贫穷。"
+    }
+  ],
+  "gaps": [
+    "无真实姓名、年龄、家庭、籍贯、职业履历。",
+    "无完整生平或连续故事线。",
+    "无具体收入、资产、债务数额和业务内容。",
+    "刀枪炮与龙虎豹等近似标签是否同一群体，原文未定论。",
+    "无具体对话、婚恋实例和事件结局。",
+    "无与其他县城角色的具体互动记录。",
+    "无文本对其自称、他称和内部规则的进一步说明。",
+    "“穿箭头子的刀枪炮”中“箭头子”具体所指，原文未解释。",
+    "“当地龙虎豹”“县城龙虎豹”与刀枪炮是否同群，原文未判定。"
+  ],
+  "creative_expansions": [],
+  "source_coverage": [
+    {
+      "index": 4,
+      "role": "提供近似标签“县城龙虎豹”：县城葱姜蒜纹身硬装。",
+      "url": "https://www.douyin.com/video/7706364212042608997"
+    },
+    {
+      "index": 34,
+      "role": "提供近似标签“当地龙虎豹”：县城好大哥开破揽胜假装。",
+      "url": "https://www.douyin.com/video/7687901194417659557"
+    },
+    {
+      "index": 61,
+      "role": "将“刀枪炮”列入县城角色分类，说明其不是文本所说的最幸福的人。",
+      "url": "https://www.douyin.com/video/7673802651855671739"
+    },
+    {
+      "index": 63,
+      "role": "核心材料：职业示例、出场姿态、行为反应、穿搭符号、负债带派。",
+      "url": "https://www.douyin.com/video/7672967248591803237"
+    },
+    {
+      "index": 80,
+      "role": "把“刀枪炮龙虎豹”作为在县城聚集的群体描述。",
+      "url": "https://www.douyin.com/video/7662329144269387365"
+    },
+    {
+      "index": 153,
+      "role": "把“穿箭头子的刀枪炮”列为瑜伽裤可能崩的角色，并与龙虎豹区分。",
+      "url": "https://www.douyin.com/video/7618857294381468937"
+    }
+  ]
+}

@@ -1,0 +1,901 @@
+{
+  "name": "县城末代少爷",
+  "nature": "原型/复合群像，不是单一自然人。由类型分析、婚恋组合、避雷清单与评论性提及拼合而成：被写成县城假性中产家庭养出的男性角色，家庭条件有迷惑性，本人学历、工作与赚钱能力是死穴。原文多为概括判断与假设推演，无姓名、年龄、单位与连续时间线，只能作类型形象使用。",
+  "overview": "末代少爷是县城假性中产家庭养出的男性类型：父母备全款车房、二三十万乃至38万彩礼，还能安排劳务派遣或临时工岗位，相亲中因此压过编一代，几乎女孩都选他；但在“最不值得链接的三种男性”里他列第一，因所有好看条件都是父母转移支付，本人学历、工作、收入是死穴。他缺上进心与胜负欲，在县城挂机躺平，不怎么会赚钱却挺会花钱，把旅游、演唱会、滑雪这类消费端经历当世面。婚恋有两种并存版本：娶带编铁娘子是价值观方法论相反、天天拧巴；娶县城王漫妮则父母断供后三年颓势、五年崩盘，本人逃避摆烂撸网贷。教育职业也有两说：大专双非、澳洲留子英国水硕后失业或全职备考，或劳务派遣、临时工、野鸡大学。原文称他可能成为假性中产家庭的“家运终结者”。",
+  "identity": [
+    {
+      "claim": "出身县城假性中产家庭，被明确归为“县城末代少爷”这一角色类型。",
+      "evidence": [
+        {
+          "index": 83,
+          "url": "https://www.douyin.com/video/7660367990240985253"
+        }
+      ]
+    },
+    {
+      "claim": "家庭条件具有迷惑性，父母可为其提供全款车房和高额彩礼。",
+      "evidence": [
+        {
+          "index": 51,
+          "url": "https://www.douyin.com/video/7680388351061973361"
+        },
+        {
+          "index": 54,
+          "url": "https://www.douyin.com/video/7677265836126499813"
+        },
+        {
+          "index": 59,
+          "url": "https://www.douyin.com/video/7674841224112803429"
+        }
+      ]
+    },
+    {
+      "claim": "个人学历和工作常拿不上台面，原文列举劳务派遣、临时工、野鸡大学等。",
+      "evidence": [
+        {
+          "index": 51,
+          "url": "https://www.douyin.com/video/7680388351061973361"
+        },
+        {
+          "index": 123,
+          "url": "https://www.douyin.com/video/7640400726720878513"
+        }
+      ]
+    },
+    {
+      "claim": "职业上可对应家里安排的劳务派遣岗位。",
+      "evidence": [
+        {
+          "index": 63,
+          "url": "https://www.douyin.com/video/7672967248591803237"
+        }
+      ]
+    },
+    {
+      "claim": "个人赚钱能力与消费能力不匹配。",
+      "evidence": [
+        {
+          "index": 59,
+          "url": "https://www.douyin.com/video/7674841224112803429"
+        }
+      ]
+    }
+  ],
+  "traits": [
+    {
+      "claim": "依赖父母供养，看似不错的条件多由父母转移支付。",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 123,
+          "url": "https://www.douyin.com/video/7640400726720878513"
+        },
+        {
+          "index": 83,
+          "url": "https://www.douyin.com/video/7660367990240985253"
+        }
+      ]
+    },
+    {
+      "claim": "缺乏上进心与胜负欲，倾向在县城挂机躺平。",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 54,
+          "url": "https://www.douyin.com/video/7677265836126499813"
+        }
+      ]
+    },
+    {
+      "claim": "缺乏意志力和执行力，遇到压力容易逃避摆烂。",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 123,
+          "url": "https://www.douyin.com/video/7640400726720878513"
+        }
+      ]
+    },
+    {
+      "claim": "价值观破碎、逻辑不完整，常由短视频式内容拼凑。",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 83,
+          "url": "https://www.douyin.com/video/7660367990240985253"
+        }
+      ]
+    },
+    {
+      "claim": "把消费端经历当作见世面，不理解生产经营端。",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 83,
+          "url": "https://www.douyin.com/video/7660367990240985253"
+        }
+      ]
+    },
+    {
+      "claim": "婚恋观上把婚姻理解为一次性投资，认为婚后对方应吃苦和摆清身份。",
+      "kind": "动机",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 59,
+          "url": "https://www.douyin.com/video/7674841224112803429"
+        }
+      ]
+    },
+    {
+      "claim": "不认为自己娶到对方是占便宜，反而认为家庭已仁至义尽。",
+      "kind": "自我形象",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 59,
+          "url": "https://www.douyin.com/video/7674841224112803429"
+        }
+      ]
+    },
+    {
+      "claim": "父母断供或经济压力出现时，会被视为崩盘的开始。",
+      "kind": "恐惧",
+      "certainty": "文本推断",
+      "evidence": [
+        {
+          "index": 123,
+          "url": "https://www.douyin.com/video/7640400726720878513"
+        },
+        {
+          "index": 59,
+          "url": "https://www.douyin.com/video/7674841224112803429"
+        }
+      ]
+    },
+    {
+      "claim": "对伴侣的比较和督促不以为然，常以不回应或反问消解。",
+      "kind": "矛盾",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 54,
+          "url": "https://www.douyin.com/video/7677265836126499813"
+        }
+      ]
+    },
+    {
+      "claim": "可能耗尽家庭积累，使假性中产家庭被打回原形。",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 83,
+          "url": "https://www.douyin.com/video/7660367990240985253"
+        }
+      ]
+    },
+    {
+      "claim": "依赖父母供养，看似不错的条件“全部是他父母转移支付出来的”，自己“只会花钱，不会赚钱”。",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "缺乏上进心与胜负欲，家里条件再好也不水学历、不考编、不做生意，“准备在县城挂机一辈子”。",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "不具备意志力和执行力，父母年迈后一遇经济压力就“逃避、摆烂、撸网贷”。",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "价值观被说成“破碎的、逻辑是不完整的”，由“青春没有售价，硬座直达拉萨”一类短视频文案拼凑。",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "只认消费端世面：旅游、演唱会、滑雪都去过，却不知民宿怎么备案、引流、控成本，“他根本就没有生产端的”。",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "不认为自己娶对方是占便宜，“他绝对不会认为自己是赚了便宜”，反觉得家里满配车房彩礼已仁至义尽。",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "可能耗尽家庭积累，“这个末代少爷可以成为假性中产家庭的家运终结者”，使家庭被打回原形。",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "把婚姻当一次性投资：婚前要求全满足，婚后便认为对方“应该摆清自己的身份”，该正儿八经吃苦过日子。",
+      "kind": "动机",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "真正的压力源是父母断供与自身经济压力，“这就是末代少爷崩盘的开始”，此后只剩逃避路径。",
+      "kind": "动机",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "面对伴侣的比较与督促不接招：对方说同学提副科，他回“他提副科关你什么事”；对方说闺蜜换车，他回“我看你又想接瓜子的广告了吧”。",
+      "kind": "矛盾",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "职业与学历存在并列版本：一版是“劳务派遣，就是临时工，就是野鸡大学”；另一版是“不是大专就是双非，不是澳洲留子就是英国水硕”，回国后失业或在家全职备考。",
+      "kind": "矛盾",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "家庭经济存在并列版本：一版能出全款车房加38万8彩礼、被视为相亲王炸；另一版是刚有点小钱的假性中产，被留学、买房、买车、彩礼把家底掏空。",
+      "kind": "矛盾",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "婚姻结局存在并列版本：与王漫妮是断供后“三年内开始出现颓势、五年内基本崩盘”，与带编铁娘子则是天天拧巴互相消耗，原文未明示离婚。",
+      "kind": "矛盾",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "生存策略存在张力：葱姜蒜哲学劝他顺势让家里找劳务派遣活、“怎么舒服怎么来”；避雷清单则称其崩盘与摆烂撸网贷是必然。",
+      "kind": "矛盾",
+      "certainty": "文本推断",
+      "evidence": []
+    }
+  ],
+  "life_domains": [
+    {
+      "domain": "家庭",
+      "claim": "原生家庭被描述为假性中产，父母为其备婚、备车房，婚后还可能继续扶持；一旦停止供给，小家易崩。",
+      "evidence": [
+        {
+          "index": 83,
+          "url": "https://www.douyin.com/video/7660367990240985253"
+        },
+        {
+          "index": 59,
+          "url": "https://www.douyin.com/video/7674841224112803429"
+        }
+      ]
+    },
+    {
+      "domain": "职业",
+      "claim": "其职业可被家里安排为劳务派遣或临时工，个人工作收入是死穴。",
+      "evidence": [
+        {
+          "index": 63,
+          "url": "https://www.douyin.com/video/7672967248591803237"
+        },
+        {
+          "index": 51,
+          "url": "https://www.douyin.com/video/7680388351061973361"
+        }
+      ]
+    },
+    {
+      "domain": "金钱",
+      "claim": "不怎么赚钱却挺会花钱，经济压力下可能撸网贷。",
+      "evidence": [
+        {
+          "index": 59,
+          "url": "https://www.douyin.com/video/7674841224112803429"
+        }
+      ]
+    },
+    {
+      "domain": "教育",
+      "claim": "教育结果被概括为大专、双非、澳洲留子或英国水硕，回国后可能找不到工作或全职备考。",
+      "evidence": [
+        {
+          "index": 83,
+          "url": "https://www.douyin.com/video/7660367990240985253"
+        }
+      ]
+    },
+    {
+      "domain": "婚恋",
+      "claim": "可作为相亲/婚配对象，与县城带编铁娘子、县城王漫妮等组成婚姻，但组合常被描述为拧巴或易崩。",
+      "evidence": [
+        {
+          "index": 54,
+          "url": "https://www.douyin.com/video/7677265836126499813"
+        },
+        {
+          "index": 59,
+          "url": "https://www.douyin.com/video/7674841224112803429"
+        }
+      ]
+    },
+    {
+      "domain": "消费",
+      "claim": "消费、旅游、演唱会、滑雪等被说成见世面或拓宽社交，却不理解对应经营门道。",
+      "evidence": [
+        {
+          "index": 83,
+          "url": "https://www.douyin.com/video/7660367990240985253"
+        }
+      ]
+    },
+    {
+      "domain": "社交评价",
+      "claim": "在相亲市场中被认为家庭条件有吸引力，但在避雷清单中被列为最不值得链接的男性第一类。",
+      "evidence": [
+        {
+          "index": 51,
+          "url": "https://www.douyin.com/video/7680388351061973361"
+        },
+        {
+          "index": 123,
+          "url": "https://www.douyin.com/video/7640400726720878513"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "event_id": "E001",
+      "title": "假性中产家庭养出末代少爷",
+      "description": "原文将县城假性中产家庭视为最容易养出县城末代少爷的家庭类型，末代少爷由此作为一类子女出现。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 83,
+          "url": "https://www.douyin.com/video/7660367990240985253"
+        }
+      ]
+    },
+    {
+      "event_id": "E002",
+      "title": "教育投入高但结果与就业不理想",
+      "description": "原文称这类人最后不是大专就是双非，不是澳洲留子就是英国水硕，回国后找不到工作、当牛马或在家全职备考。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 83,
+          "url": "https://www.douyin.com/video/7660367990240985253"
+        }
+      ]
+    },
+    {
+      "event_id": "E003",
+      "title": "父母为其准备全款车房和彩礼完成婚姻配置",
+      "description": "在婚恋讨论中，末代少爷被描述为父母能出全款车房、二三十万或38万彩礼的男性。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 51,
+          "url": "https://www.douyin.com/video/7680388351061973361"
+        },
+        {
+          "index": 54,
+          "url": "https://www.douyin.com/video/7677265836126499813"
+        },
+        {
+          "index": 59,
+          "url": "https://www.douyin.com/video/7674841224112803429"
+        }
+      ]
+    },
+    {
+      "event_id": "E004",
+      "title": "家里安排劳务派遣工作",
+      "description": "文本建议末代少爷让家里给找个劳务派遣的活去干，显示其职业路径可由家庭安排。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 63,
+          "url": "https://www.douyin.com/video/7672967248591803237"
+        }
+      ]
+    },
+    {
+      "event_id": "E005",
+      "title": "与县城带编铁娘子组成拧巴婚姻",
+      "description": "末代少爷娶带编铁娘子后，因价值观和方法论不同，被描述为天天拧巴、互相折磨。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 54,
+          "url": "https://www.douyin.com/video/7677265836126499813"
+        }
+      ]
+    },
+    {
+      "event_id": "E006",
+      "title": "与县城王漫妮结婚后父母断供导致崩盘",
+      "description": "原文称王漫妮嫁给末代少爷后，若父母婚后断供，小家三年内出现颓势，五年内基本崩盘。",
+      "temporal": "原文明确时间：婚后断供则三年内、五年内",
+      "chronology_basis": "明示",
+      "evidence": [
+        {
+          "index": 59,
+          "url": "https://www.douyin.com/video/7674841224112803429"
+        }
+      ]
+    },
+    {
+      "event_id": "E007",
+      "title": "经济承压后逃避摆烂或撸网贷",
+      "description": "父母断供或出现经济压力后，末代少爷被描述为逃避、摆烂、撸网贷。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 59,
+          "url": "https://www.douyin.com/video/7674841224112803429"
+        },
+        {
+          "index": 123,
+          "url": "https://www.douyin.com/video/7640400726720878513"
+        }
+      ]
+    },
+    {
+      "event_id": "E008",
+      "title": "被列入最不值得链接的男性第一类",
+      "description": "在“最不值得链接的三种男性”中，县城末代少爷被列为第一类，理由是其家庭条件有迷惑性但个人工作收入是死穴。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 123,
+          "url": "https://www.douyin.com/video/7640400726720878513"
+        }
+      ]
+    },
+    {
+      "event_id": "E009",
+      "title": "在相亲选择中被女孩优先选中",
+      "description": "原文设置农村编一代与有全款车房和38万彩礼的末代少爷二选一，称几乎所有女孩都会选末代少爷。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 51,
+          "url": "https://www.douyin.com/video/7680388351061973361"
+        }
+      ]
+    },
+    {
+      "event_id": "E010",
+      "title": "被葱姜蒜式生存哲学建议顺势而为",
+      "description": "在葱姜蒜人生哲学中，末代少爷被建议让家里找个劳务派遣活去干，怎么舒服怎么来。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 63,
+          "url": "https://www.douyin.com/video/7672967248591803237"
+        }
+      ]
+    },
+    {
+      "event_id": "E011",
+      "title": "以旅游、演唱会、滑雪等消费端活动为见世面",
+      "description": "原文称末代少爷会以旅游见世面、听演唱会陶冶情操、滑雪拓宽社交等理由消费，但不理解生产经营端。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 83,
+          "url": "https://www.douyin.com/video/7660367990240985253"
+        }
+      ]
+    },
+    {
+      "event_id": "E012",
+      "title": "父母年迈后遇经济压力即崩盘开始",
+      "description": "原文称末代少爷父母年迈之后，一旦他遇到困难和经济压力，就是崩盘的开始。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 123,
+          "url": "https://www.douyin.com/video/7640400726720878513"
+        }
+      ]
+    },
+    {
+      "event_id": "E013",
+      "title": "成为假性中产家庭的家运终结者",
+      "description": "原文称末代少爷可成为假性中产家庭的家运终结者，从他这一代开始，中产家庭被打回原形。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 83,
+          "url": "https://www.douyin.com/video/7660367990240985253"
+        }
+      ]
+    },
+    {
+      "event_id": "E014",
+      "title": "婚恋评论中被嫌事业无成绩、不上进",
+      "description": "在关于县城婚恋的评论中，末代少爷被指出会被伴侣嫌弃事业上没成绩、不上进。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 78,
+          "url": "https://www.douyin.com/video/7663411268536138234"
+        }
+      ]
+    }
+  ],
+  "storylines": [
+    {
+      "title": "假性中产家庭养出末代少爷并走向家运回落",
+      "event_ids": [
+        "E001",
+        "E002",
+        "E011",
+        "E012",
+        "E013"
+      ],
+      "narrative": "故事开始于县城假性中产家庭，这种家庭最容易养出末代少爷。家庭为其提供优渥条件，但他教育结果与就业不理想，只会花钱不会赚钱，并以旅游、演唱会、滑雪等消费端活动当作见世面。父母年迈后，一旦遇到经济压力，就是其崩盘的开始；最终他可能成为假性中产家庭的家运终结者，使家庭被打回原形。原文没有交代具体时间、父母资产规模和他个人最终结局。",
+      "unresolved": "具体如何一步步耗尽家底、父母断供后的最终生活状态、是否真的必然打回原形，原文均未展开。",
+      "evidence": [
+        {
+          "index": 83,
+          "url": "https://www.douyin.com/video/7660367990240985253"
+        },
+        {
+          "index": 123,
+          "url": "https://www.douyin.com/video/7640400726720878513"
+        }
+      ]
+    },
+    {
+      "title": "满配车房彩礼的婚配与断供崩盘",
+      "event_ids": [
+        "E003",
+        "E006",
+        "E007"
+      ],
+      "narrative": "末代少爷在婚恋中常被描述为父母能出全款车房和高额彩礼。若他与县城王漫妮结婚，父母婚后一旦断供，小家三年内出现颓势、五年内基本崩盘；本人经济承压后还可能逃避、摆烂、撸网贷。原文未说明该婚姻是否最终离婚以及具体财产分割。",
+      "unresolved": "断供后是否必然离婚、是否生育子女、双方具体经济安排均未交代。",
+      "evidence": [
+        {
+          "index": 51,
+          "url": "https://www.douyin.com/video/7680388351061973361"
+        },
+        {
+          "index": 54,
+          "url": "https://www.douyin.com/video/7677265836126499813"
+        },
+        {
+          "index": 59,
+          "url": "https://www.douyin.com/video/7674841224112803429"
+        },
+        {
+          "index": 123,
+          "url": "https://www.douyin.com/video/7640400726720878513"
+        }
+      ]
+    },
+    {
+      "title": "与带编铁娘子的拧巴婚姻",
+      "event_ids": [
+        "E003",
+        "E005",
+        "E010",
+        "E014"
+      ],
+      "narrative": "末代少爷娶带编铁娘子后，两人的价值观与方法论不同：一个觉得闲着是犯罪，一个觉得瞎忙是浪费，因此天天拧巴、互相折磨。评论还指出，嫁给末代少爷的人会嫌他事业上没成绩、不上进。原文没有给出这段婚姻的最终结果。",
+      "unresolved": "是否离婚、是否长期维持、家庭内部如何收场，原文未交代。",
+      "evidence": [
+        {
+          "index": 51,
+          "url": "https://www.douyin.com/video/7680388351061973361"
+        },
+        {
+          "index": 54,
+          "url": "https://www.douyin.com/video/7677265836126499813"
+        },
+        {
+          "index": 59,
+          "url": "https://www.douyin.com/video/7674841224112803429"
+        },
+        {
+          "index": 63,
+          "url": "https://www.douyin.com/video/7672967248591803237"
+        },
+        {
+          "index": 78,
+          "url": "https://www.douyin.com/video/7663411268536138234"
+        }
+      ]
+    },
+    {
+      "title": "相亲市场中的迷惑性与避雷位置",
+      "event_ids": [
+        "E008",
+        "E009"
+      ],
+      "narrative": "在县城相亲市场，末代少爷因父母能提供全款车房和38万彩礼，常被认为比农村编一代更有吸引力，几乎所有女孩都会选他；但在最不值得链接的男性名单中，他又被列为第一类，因为家庭条件具有迷惑性，而个人工作和收入是最大死穴。原文没有给出具体相亲成败细节。",
+      "unresolved": "具体相亲个案、择偶后生活变化、被避雷后的实际影响，原文未交代。",
+      "evidence": [
+        {
+          "index": 123,
+          "url": "https://www.douyin.com/video/7640400726720878513"
+        },
+        {
+          "index": 51,
+          "url": "https://www.douyin.com/video/7680388351061973361"
+        }
+      ]
+    }
+  ],
+  "relationships": [
+    {
+      "target": "父母/假性中产家庭",
+      "relation": "父母为其提供全款车房、彩礼、工作安排和婚后扶持；若断供，则小家易崩。",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 83,
+          "url": "https://www.douyin.com/video/7660367990240985253"
+        },
+        {
+          "index": 7,
+          "url": "https://www.douyin.com/video/7705279705377332089"
+        }
+      ]
+    },
+    {
+      "target": "县城带编铁娘子",
+      "relation": "婚姻组合，被描述为价值观和方法论不同，天天拧巴、互相折磨。",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 54,
+          "url": "https://www.douyin.com/video/7677265836126499813"
+        }
+      ]
+    },
+    {
+      "target": "县城王漫妮",
+      "relation": "婚姻组合，被描述为末代少爷父母断供后三年颓势、五年崩盘。",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 59,
+          "url": "https://www.douyin.com/video/7674841224112803429"
+        }
+      ]
+    },
+    {
+      "target": "农村的编衣带",
+      "relation": "相亲选择中的对照对象，女孩可能更倾向于选择有全款车房和38万彩礼的末代少爷。",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 51,
+          "url": "https://www.douyin.com/video/7680388351061973361"
+        }
+      ]
+    },
+    {
+      "target": "县城葱姜蒜",
+      "relation": "文本将末代少爷与葱姜蒜式生存哲学并置，建议其让家里找劳务派遣活，怎么舒服怎么来。",
+      "certainty": "文本推断",
+      "evidence": [
+        {
+          "index": 63,
+          "url": "https://www.douyin.com/video/7672967248591803237"
+        }
+      ]
+    }
+  ],
+  "speech_habits": [
+    {
+      "claim": "面对妻子的比较和督促，常以反问或不屑回应。",
+      "evidence": [
+        {
+          "index": 54,
+          "url": "https://www.douyin.com/video/7677265836126499813"
+        }
+      ]
+    },
+    {
+      "claim": "会用短视频式文案为自己的消费和生活方式提供说法。",
+      "evidence": [
+        {
+          "index": 83,
+          "url": "https://www.douyin.com/video/7660367990240985253"
+        }
+      ]
+    },
+    {
+      "claim": "在婚姻认知上会强调对方应摆清身份、服从一次性投资的家庭逻辑。",
+      "evidence": [
+        {
+          "index": 59,
+          "url": "https://www.douyin.com/video/7674841224112803429"
+        }
+      ]
+    }
+  ],
+  "contradictions": [
+    {
+      "issue": "末代少爷的具体职业与教育情况存在不同版本。",
+      "versions": [
+        {
+          "claim": "版本一：对应劳务派遣、临时工、野鸡大学。",
+          "evidence": [
+            {
+              "index": 51,
+              "url": "https://www.douyin.com/video/7680388351061973361"
+            },
+            {
+              "index": 63,
+              "url": "https://www.douyin.com/video/7672967248591803237"
+            }
+          ]
+        },
+        {
+          "claim": "版本二：可能为澳洲留子、英国水硕，回国后找不到工作或在家全职备考。",
+          "evidence": [
+            {
+              "index": 83,
+              "url": "https://www.douyin.com/video/7660367990240985253"
+            }
+          ]
+        }
+      ],
+      "resolution": "保留并列，按出处并列呈现。"
+    },
+    {
+      "issue": "家庭经济状况既有“能满配车房彩礼”的版本，也有“假性中产、会被耗空”的版本。",
+      "versions": [
+        {
+          "claim": "版本一：父母能给全款车房和38万彩礼，属于相亲市场中的王炸条件。",
+          "evidence": [
+            {
+              "index": 51,
+              "url": "https://www.douyin.com/video/7680388351061973361"
+            },
+            {
+              "index": 54,
+              "url": "https://www.douyin.com/video/7677265836126499813"
+            }
+          ]
+        },
+        {
+          "claim": "版本二：家庭是假性中产，末代少爷会成为家运终结者，使家庭被打回原形。",
+          "evidence": [
+            {
+              "index": 83,
+              "url": "https://www.douyin.com/video/7660367990240985253"
+            }
+          ]
+        }
+      ],
+      "resolution": "保留并列：婚配时条件看似充足，长期则可能被消耗至回落。"
+    },
+    {
+      "issue": "断供后的婚姻结局在不同组合中并不一致。",
+      "versions": [
+        {
+          "claim": "与王漫妮组合：父母断供后三年颓势、五年崩盘，常愤愤不平互相抱怨。",
+          "evidence": [
+            {
+              "index": 59,
+              "url": "https://www.douyin.com/video/7674841224112803429"
+            }
+          ]
+        },
+        {
+          "claim": "与带编铁娘子组合：被描述为天天拧巴、互相消耗，但未明示离婚。",
+          "evidence": [
+            {
+              "index": 54,
+              "url": "https://www.douyin.com/video/7677265836126499813"
+            }
+          ]
+        }
+      ],
+      "resolution": "保留并列，不将不同婚姻组合的结局统一。"
+    },
+    {
+      "issue": "末代少爷是否被建议“顺势躺平”与是否必然崩盘之间存在张力。",
+      "versions": [
+        {
+          "claim": "葱姜蒜哲学中建议他让家里找劳务派遣活，怎么舒服怎么来。",
+          "evidence": [
+            {
+              "index": 63,
+              "url": "https://www.douyin.com/video/7672967248591803237"
+            }
+          ]
+        },
+        {
+          "claim": "避雷与婚恋材料称其父母年迈后遇到经济压力就是崩盘开始，并可能逃避摆烂撸网贷。",
+          "evidence": [
+            {
+              "index": 123,
+              "url": "https://www.douyin.com/video/7640400726720878513"
+            }
+          ]
+        }
+      ],
+      "resolution": "保留并列：作为短期舒适策略被建议，与长期断供后的崩盘风险同时存在。"
+    }
+  ],
+  "gaps": [
+    "原文未明示“县城末代少爷”的具体姓名、年龄、单位岗位和长期时间线。",
+    "原文未明示其父母的具体职业、收入、资产规模及是否真能持续供养。",
+    "原文未交代父母断供后是否必然离婚、是否有子女、财产如何分配。",
+    "原文未给出末代少爷第一人称自述，多为他人观察和类型概括。",
+    "原文未给出其与县城王漫妮、带编铁娘子之外的具体关系细节。",
+    "原文未说明其留学国家、专业、消费金额、旅游地点等具体信息。",
+    "原文未交代他属于三类假性中产家庭（老社保、小生意、地头蛇）中的哪一类，只并列列出。",
+    "原文未交代“挂机躺平”持续多久、是否有过任何一段正式工作经历。",
+    "原文未交代他本人对外貌、身高、穿着的具体设定，仅有“长相、打扮、谈吐一般也都不错”一句概括。"
+  ],
+  "creative_expansions": [],
+  "source_coverage": [
+    {
+      "index": 51,
+      "role": "提供末代少爷作为相亲市场对照角色的设定：父母能出全款车房和38万彩礼，女孩几乎都会选他，同时提到劳务派遣、临时工、野鸡大学。",
+      "url": "https://www.douyin.com/video/7680388351061973361"
+    },
+    {
+      "index": 54,
+      "role": "提供末代少爷与带编铁娘子婚姻组合：价值观、方法论不同，天天拧巴，互相折磨，并有对妻子比较不回应的行为细节。",
+      "url": "https://www.douyin.com/video/7677265836126499813"
+    },
+    {
+      "index": 59,
+      "role": "提供末代少爷与县城王漫妮婚姻组合：父母断供后的三年、五年崩盘，撸网贷，把婚姻当一次性投资等核心信息。",
+      "url": "https://www.douyin.com/video/7674841224112803429"
+    },
+    {
+      "index": 63,
+      "role": "在葱姜蒜生存哲学中提及末代少爷应让家里安排劳务派遣工作，作为顺势而为的示例。",
+      "url": "https://www.douyin.com/video/7672967248591803237"
+    },
+    {
+      "index": 78,
+      "role": "评论性提及嫁给县城末代少爷会嫌他事业没成绩、不上进。",
+      "url": "https://www.douyin.com/video/7663411268536138234"
+    },
+    {
+      "index": 83,
+      "role": "核心材料：解释假性中产家庭如何养出末代少爷，涵盖教育、消费、见世面、啃老、家运终结者等。",
+      "url": "https://www.douyin.com/video/7660367990240985253"
+    },
+    {
+      "index": 123,
+      "role": "避雷清单材料：将末代少爷列为最不值得链接的男性第一类，强调家庭条件迷惑性与个人工作收入死穴。",
+      "url": "https://www.douyin.com/video/7640400726720878513"
+    }
+  ]
+}

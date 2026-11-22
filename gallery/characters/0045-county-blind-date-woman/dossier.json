@@ -1,0 +1,625 @@
+{
+  "name": "县城相亲女性",
+  "nature": "复合群像/文本原型。指文案中县城相亲场景里被概括的一类女性，不是具名自然人；“女的”“这个女的”“女孩”“女生”“大龄剩女”等称呼在不同篇目不保证指向同一批人。其行为与动机多由博主代为解读或假设，无第一人称自述；材料只提供群像切片，不能拼成统一传记，也呈现各篇作品中的角色设定。",
+  "overview": "该角色是文案中反复出现的县城相亲女性复合群像，无统一姓名、年龄、职业。版本一：见面后表现高冷随性、回消息慢，只以“先接触接触、先了解了解”维持关系，男方想放弃时又经父母或媒人传话“女孩害羞内向”，被解读为抢先拒绝以自保、并借机自抬身价。版本二：以车辆判断男方实力，开十万八万代步车被大多数女生嫌弃，开E300则“第一反应是跟他处一下试试”，甚至抢着付饭钱，同时会提出30万彩礼加五金一钻。版本三：只展示穿搭护肤与吃喝玩乐的消费能力、绝口不提赚钱能力，反被男方判定不匹配而撤退；但相处后得知车是贷款买的，80%以上女性又会接受。版本四：追问是否一直租房、房租涨了怎么办，并把房子到单位距离、房贷、车价、父母退休金、编制与行业逐项比对；大龄者被称不会降低要求，而是广撒网。各版本均为不同篇目的假设与群像概括，不可合成一条连续行为线。",
+  "identity": [
+    {
+      "claim": "在县城相亲场景中被概括的女性群体，并非单一自然人",
+      "evidence": [
+        {
+          "index": 22,
+          "url": "https://www.douyin.com/video/7695263136462685881"
+        },
+        {
+          "index": 45,
+          "url": "https://www.douyin.com/video/7683421956008557434"
+        },
+        {
+          "index": 144,
+          "url": "https://www.douyin.com/video/7623454368314002723"
+        }
+      ]
+    },
+    {
+      "claim": "被描述为相亲时会关注男方车辆、住房、彩礼、父母退休金等现实条件",
+      "evidence": [
+        {
+          "index": 45,
+          "url": "https://www.douyin.com/video/7683421956008557434"
+        },
+        {
+          "index": 203,
+          "url": "https://www.douyin.com/video/7585173030377131316"
+        }
+      ]
+    }
+  ],
+  "traits": [
+    {
+      "claim": "初见时态度保留、回复慢，以“先接触了解”维持关系",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 22,
+          "url": "https://www.douyin.com/video/7695263136462685881"
+        }
+      ]
+    },
+    {
+      "claim": "被解读为掌握交往节奏、避免先被拒绝",
+      "kind": "动机",
+      "certainty": "文本推断",
+      "evidence": [
+        {
+          "index": 22,
+          "url": "https://www.douyin.com/video/7695263136462685881"
+        }
+      ]
+    },
+    {
+      "claim": "被描述为期待恋爱中的想象空间和未来增量",
+      "kind": "欲望",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 66,
+          "url": "https://www.douyin.com/video/7671935403851204281"
+        }
+      ]
+    },
+    {
+      "claim": "被认为会根据车辆等财富符号判断男方实力并决定是否接触",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": [
+        {
+          "index": 45,
+          "url": "https://www.douyin.com/video/7683421956008557434"
+        },
+        {
+          "index": 152,
+          "url": "https://www.douyin.com/video/7619373505947241734"
+        }
+      ]
+    },
+    {
+      "claim": "被描述为会提出彩礼、五金等要求",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 45,
+          "url": "https://www.douyin.com/video/7683421956008557434"
+        },
+        {
+          "index": 203,
+          "url": "https://www.douyin.com/video/7585173030377131316"
+        }
+      ]
+    },
+    {
+      "claim": "重视住房、租金与通勤便利，可能把住房到单位距离纳入择偶条件",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 95,
+          "url": "https://www.douyin.com/video/7654110415563083042"
+        },
+        {
+          "index": 203,
+          "url": "https://www.douyin.com/video/7585173030377131316"
+        }
+      ]
+    },
+    {
+      "claim": "在婚姻选择上被描述为卡条件细、顾及体制内外和行业差异",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 203,
+          "url": "https://www.douyin.com/video/7585173030377131316"
+        }
+      ]
+    },
+    {
+      "claim": "被描述为只展示消费能力，却不展示赚钱能力，从而在相亲中被男方淘汰",
+      "kind": "矛盾",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 66,
+          "url": "https://www.douyin.com/video/7671935403851204281"
+        }
+      ]
+    },
+    {
+      "claim": "初见时态度保留、回复慢，以“先接触接触”“先了解了解”维持关系，男方想放弃时可能经父母或媒人传递继续接触的意思",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "被解读为掌握交往节奏、在被人拒绝之前先拒绝别人，并借“勉强接触”的姿态自抬身价（文本推断）",
+      "kind": "动机",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "被描述为期待恋爱中的想象空间和未来增量，而不是把底牌一次亮清",
+      "kind": "欲望",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "被认为会根据车辆等财富符号判断男方实力并决定是否接触：代步车被嫌弃，E300被先处一下试试，贷款上E300饭钱都可能被抢着掏（文本推断）",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "被描述为会提出30万彩礼外加五金一钻，且卡彩礼数额",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "重视住房、租金与通勤便利，会追问是否一直租房、房东涨房租怎么办，并把住房到单位的距离纳入择偶条件",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "在婚姻选择上被描述为卡条件细，顾及体制内外与行业差异，“卡的相当死，卡的相当细”",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "只展示消费能力却不展示赚钱能力，会被男方判定不匹配而直接pass",
+      "kind": "矛盾",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "一处被写成婚前必提30万彩礼加五金一钻，另一处又被写成相处后得知车是贷款买的、80%以上女性会接受，两个版本并列",
+      "kind": "矛盾",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "被描述为大龄相亲女性不降低要求，转而广撒网寻找",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": [
+        {
+          "index": 203,
+          "url": "https://www.douyin.com/video/7585173030377131316"
+        }
+      ]
+    }
+  ],
+  "life_domains": [
+    {
+      "domain": "婚恋",
+      "claim": "在相亲中评估对方条件，并以保留、延迟回复、通过父母或媒人传话等方式调节关系节奏",
+      "evidence": [
+        {
+          "index": 22,
+          "url": "https://www.douyin.com/video/7695263136462685881"
+        },
+        {
+          "index": 39,
+          "url": "https://www.douyin.com/video/7685960177698368890"
+        }
+      ]
+    },
+    {
+      "domain": "金钱/消费",
+      "claim": "车辆、彩礼、五金、住房被描述为相亲中的重要条件",
+      "evidence": [
+        {
+          "index": 45,
+          "url": "https://www.douyin.com/video/7683421956008557434"
+        },
+        {
+          "index": 203,
+          "url": "https://www.douyin.com/video/7585173030377131316"
+        }
+      ]
+    },
+    {
+      "domain": "家庭/居住",
+      "claim": "会追问长期租房安排、房租上涨风险和住房通勤便利",
+      "evidence": [
+        {
+          "index": 95,
+          "url": "https://www.douyin.com/video/7654110415563083042"
+        },
+        {
+          "index": 203,
+          "url": "https://www.douyin.com/video/7585173030377131316"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "event_id": "E001",
+      "title": "相亲初见：女方以高冷保留姿态接触",
+      "description": "文案描述相亲见面后，女方表现无所谓、高冷、随性，不明确拒绝，回消息慢，也不会主动推进，而是说先接触了解看看；男方若放弃，女方可能通过父母或媒人传递继续接触的意思。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 22,
+          "url": "https://www.douyin.com/video/7695263136462685881"
+        }
+      ]
+    },
+    {
+      "event_id": "E002",
+      "title": "以车判断相亲对象：代步车被嫌弃，开E300被尝试接触",
+      "description": "文案称，开10万8万代步车去相亲会被大多数女生嫌弃；开E300去县城相亲，则被描述为基本不会被看不上，即使最后没成，也会先被尝试接触。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 45,
+          "url": "https://www.douyin.com/video/7683421956008557434"
+        }
+      ]
+    },
+    {
+      "event_id": "E003",
+      "title": "提出彩礼与五金一钻要求",
+      "description": "文案称即使女方愿意与开代步车的男方处一下，也会提出30万彩礼外加五金一钻，使男方剩不下钱。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 45,
+          "url": "https://www.douyin.com/video/7683421956008557434"
+        }
+      ]
+    },
+    {
+      "event_id": "E004",
+      "title": "只展示消费能力而绝口不提赚钱能力，被男方pass",
+      "description": "文案描述相亲中有一类女生只展示穿搭、护肤、吃喝玩乐等消费能力，不提及赚钱能力；男方会判断其消费能力与赚钱能力不匹配，选择撤退。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 66,
+          "url": "https://www.douyin.com/video/7671935403851204281"
+        }
+      ]
+    },
+    {
+      "event_id": "E005",
+      "title": "追问租房与涨租风险",
+      "description": "在县城相亲谈及住房时，女方被描述为追问对方是否一直租房、一家三口租房租金多少、房东涨房租怎么办。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 95,
+          "url": "https://www.douyin.com/video/7654110415563083042"
+        }
+      ]
+    },
+    {
+      "event_id": "E006",
+      "title": "把住房与上班距离纳入择偶条件",
+      "description": "文案称县城相亲会细卡住房到上班地点的距离，理由是距离足够近就不用买车。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 203,
+          "url": "https://www.douyin.com/video/7585173030377131316"
+        }
+      ]
+    },
+    {
+      "event_id": "E007",
+      "title": "假设场景：开比亚迪海鸥被拒，开奔驰E300被请饭",
+      "description": "在小贵妇相关文案的假设中，兜里有100万但开比亚迪海鸥去相亲，还没见面就被拒绝；兜里没钱却贷款上奔驰E300去相亲，饭钱都被女方抢着掏。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 152,
+          "url": "https://www.douyin.com/video/7619373505947241734"
+        }
+      ]
+    },
+    {
+      "event_id": "E008",
+      "title": "大龄相亲女性不降低要求，宁可继续寻找",
+      "description": "文案称县城大龄剩女不会降低要求，而是继续在有限选项里寻找，宁可撑着等待可能的高价买者。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 203,
+          "url": "https://www.douyin.com/video/7585173030377131316"
+        }
+      ]
+    },
+    {
+      "title": "女老师谈开保时捷对象引发未婚女老师保时捷对标",
+      "desc": "女老师谈开保时捷对象，不出两个月全县未婚女老师找对象内心设定都要保时捷",
+      "time": "不出一个月至两个月",
+      "evidence": [
+        {
+          "index": 144,
+          "url": "https://www.douyin.com/video/7623454368314002723"
+        }
+      ]
+    },
+    {
+      "title": "贷款买车后暴露车贷仍被多数女性接受",
+      "desc": "男性贷款买不错的车相亲，相处后暴露车贷，80%以上女性因相处加分而接受",
+      "time": "未交代",
+      "evidence": [
+        {
+          "index": 66,
+          "url": "https://www.douyin.com/video/7671935403851204281"
+        }
+      ]
+    }
+  ],
+  "storylines": [
+    {
+      "title": "县城相亲中的条件审视与关系节奏",
+      "event_ids": [
+        "E001",
+        "E002",
+        "E003",
+        "E005",
+        "E006",
+        "E008"
+      ],
+      "narrative": "在文案拼出的县城相亲图景里，女方起初可能以高冷、保留、回消息慢的方式维持关系，不先给出确定答复；随后，车辆、彩礼、住房、通勤距离、父母退休金、编制等条件被逐项放入比较。开代步车可能被嫌弃，开E300可能被先尝试接触；相处之后还可能提出彩礼和五金要求，或追问租房与涨租风险。若年龄增长，部分被描述为大龄相亲女性的人不会降低要求，而是继续广撒网。文本没有给出这些行为发生的确切先后，也没有交代具体哪一批女性最终进入婚姻。",
+      "unresolved": "这些描述中哪些是同一批女性的连续行为、哪些只是不同篇目的假设或群像概括，原文没有交代；她们的姓名、年龄、职业、最终婚恋结果也未交代。",
+      "evidence": [
+        {
+          "index": 22,
+          "url": "https://www.douyin.com/video/7695263136462685881"
+        },
+        {
+          "index": 45,
+          "url": "https://www.douyin.com/video/7683421956008557434"
+        },
+        {
+          "index": 95,
+          "url": "https://www.douyin.com/video/7654110415563083042"
+        },
+        {
+          "index": 203,
+          "url": "https://www.douyin.com/video/7585173030377131316"
+        }
+      ]
+    }
+  ],
+  "relationships": [
+    {
+      "target": "县城相亲男性",
+      "relation": "相亲对象；被女方评估车辆、住房、彩礼、通勤与编制等条件，也可能因过早暴露困难被拒绝",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 66,
+          "url": "https://www.douyin.com/video/7671935403851204281"
+        },
+        {
+          "index": 203,
+          "url": "https://www.douyin.com/video/7585173030377131316"
+        }
+      ]
+    },
+    {
+      "target": "父母或媒人",
+      "relation": "相亲沟通的中间人；女方可能通过父母或媒人向男方传递继续接触的意思",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 22,
+          "url": "https://www.douyin.com/video/7695263136462685881"
+        },
+        {
+          "index": 39,
+          "url": "https://www.douyin.com/video/7685960177698368890"
+        }
+      ]
+    },
+    {
+      "target": "写手一条城（博主本人）",
+      "relation": "被描述、被分析的对象；其动机与策略多由博主代为解读",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 22,
+          "url": "https://www.douyin.com/video/7695263136462685881"
+        },
+        {
+          "index": 122,
+          "url": "https://www.douyin.com/video/7640860283352163429"
+        }
+      ]
+    },
+    {
+      "target": "县城小贵妇",
+      "relation": "在152的假设场景中被借用来说明县城对财富符号的看重，但并非同一角色",
+      "certainty": "文本推断",
+      "evidence": [
+        {
+          "index": 152,
+          "url": "https://www.douyin.com/video/7619373505947241734"
+        }
+      ]
+    },
+    {
+      "claim": "县城一名女老师谈开保时捷对象，消息传开后成为其他未婚女老师的对标",
+      "target": "女老师",
+      "relation": "同类参照/攀比信息源",
+      "evidence": [
+        {
+          "index": 144,
+          "url": "https://www.douyin.com/video/7623454368314002723"
+        }
+      ]
+    }
+  ],
+  "speech_habits": [
+    {
+      "claim": "以“先接触接触”“先了解了解”等模糊话术延迟关系确认",
+      "evidence": [
+        {
+          "index": 22,
+          "url": "https://www.douyin.com/video/7695263136462685881"
+        }
+      ]
+    },
+    {
+      "claim": "直接追问住房安排与租金风险",
+      "evidence": [
+        {
+          "index": 95,
+          "url": "https://www.douyin.com/video/7654110415563083042"
+        }
+      ]
+    },
+    {
+      "claim": "在相亲条件中被描述为逐项询问或比对房、车、彩礼、父母退休金",
+      "evidence": [
+        {
+          "index": 203,
+          "url": "https://www.douyin.com/video/7585173030377131316"
+        }
+      ]
+    }
+  ],
+  "contradictions": [
+    {
+      "issue": "初见态度与后续主动程度不一致",
+      "versions": [
+        {
+          "claim": "被描述为高冷、随性、回消息慢、不主动推进",
+          "evidence": [
+            {
+              "index": 22,
+              "url": "https://www.douyin.com/video/7695263136462685881"
+            }
+          ]
+        },
+        {
+          "claim": "被描述为看见好车就可能主动尝试接触，甚至抢着付饭钱",
+          "evidence": [
+            {
+              "index": 45,
+              "url": "https://www.douyin.com/video/7683421956008557434"
+            },
+            {
+              "index": 152,
+              "url": "https://www.douyin.com/video/7619373505947241734"
+            }
+          ]
+        }
+      ],
+      "resolution": "保留并列：不同篇目里的“相亲女性”并非同一批人，文本只提供群像切片，按出处并列呈现。"
+    },
+    {
+      "issue": "对彩礼与婚后经济要求是否可变",
+      "versions": [
+        {
+          "claim": "会要求30万彩礼外加五金一钻",
+          "evidence": [
+            {
+              "index": 45,
+              "url": "https://www.douyin.com/video/7683421956008557434"
+            }
+          ]
+        },
+        {
+          "claim": "男方贷款买车后暴露车贷，80%以上女性会接受",
+          "evidence": [
+            {
+              "index": 66,
+              "url": "https://www.douyin.com/video/7671935403851204281"
+            }
+          ]
+        }
+      ],
+      "resolution": "保留并列：一处讲婚前彩礼要求，一处讲相处后对车贷的接受，文本没有说明是否为同一对象或同一阶段。"
+    },
+    {
+      "issue": "被男方淘汰的女生类型与要求高的女生类型并置",
+      "versions": [
+        {
+          "claim": "只展示消费能力、不提赚钱能力的女生会被男方直接pass",
+          "evidence": [
+            {
+              "index": 66,
+              "url": "https://www.douyin.com/video/7671935403851204281"
+            }
+          ]
+        },
+        {
+          "claim": "被描述为会提出彩礼、车房等要求的女生",
+          "evidence": [
+            {
+              "index": 45,
+              "url": "https://www.douyin.com/video/7683421956008557434"
+            }
+          ]
+        }
+      ],
+      "resolution": "保留并列：前者是从男方筛选视角描述的被pass类型，后者是从女方要求视角描述的类型，不能强行归为同一类人。"
+    }
+  ],
+  "gaps": [
+    "没有具体姓名、年龄、职业分布和家庭背景",
+    "不同篇目中的“女的”“女生”“女孩”“大龄剩女”是否为同一批人或同一原型，原文未交代",
+    "缺少她们本人的第一人称叙述，相关动机多为博主解读或假设",
+    "没有交代这些相亲行为之后的婚恋结果",
+    "没有说明彩礼、住房、车辆等要求在现实中是否被接受或妥协"
+  ],
+  "creative_expansions": [],
+  "source_coverage": [
+    {
+      "index": 22,
+      "role": "提供相亲初见时女方高冷保留、回消息慢、通过父母或媒人传话等材料",
+      "url": "https://www.douyin.com/video/7695263136462685881"
+    },
+    {
+      "index": 45,
+      "role": "提供女方根据车辆判断男方、开E300被尝试接触、提出30万彩礼和五金一钻等材料",
+      "url": "https://www.douyin.com/video/7683421956008557434"
+    },
+    {
+      "index": 66,
+      "role": "提供女方期待想象空间与增量预期、只展示消费能力被pass、相处后可能接受车贷等材料",
+      "url": "https://www.douyin.com/video/7671935403851204281"
+    },
+    {
+      "index": 95,
+      "role": "提供相亲追问长期租房、租金与涨租风险等材料",
+      "url": "https://www.douyin.com/video/7654110415563083042"
+    },
+    {
+      "index": 152,
+      "role": "提供假设场景中开比亚迪海鸥被拒、开奔驰E300被请饭的财富符号反应材料",
+      "url": "https://www.douyin.com/video/7619373505947241734"
+    },
+    {
+      "index": 203,
+      "role": "提供县城相亲卡住房面积、房贷、车价、父母退休金、通勤距离、编制与大龄剩女不降要求等材料",
+      "url": "https://www.douyin.com/video/7585173030377131316"
+    }
+  ]
+}

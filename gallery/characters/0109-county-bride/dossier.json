@@ -1,0 +1,613 @@
+{
+  "name": "县城新娘",
+  "nature": "跨篇复合原型/群像角色，非单一自然人。三篇文本中的“新娘/女生/女的/一对新人中的女方”均出现在县城订婚、出嫁、婚纱照、婚礼宣誓与婚宴叙事中，原文未明示为同一人；只作婚礼语境下的文案角色处理，各段叙述按出处并列呈现。",
+  "overview": "“县城新娘”在三篇文本中不是具名人物，而是围绕县城婚礼的复合原型。67篇版本里，她穿租来的不合身礼服、垫海绵、拖大裙摆拍婚纱照，婚礼被说成“普通人cosplay富人的一个行为艺术”，散场后与新人一起面对3000房贷和300块短袖的争吵。196篇版本里，她站在自建房门口，娘家人拉横幅称“我们永远是你最强大的娘家人”，订婚发彩礼五金照片、结婚做嫁妆牌写“彩礼全部带回”，文本同时质疑这套阵仗给不了底气。320篇版本里，她出场镜头排练数十遍，灯光打在身上，十指相扣、泪眼婆娑答“我愿意”，而同一篇又强调“两个人的条件在结婚”、彩礼少2万就站不到一起。三版并存，姓名、年龄、职业、内心与结局均未交代。",
+  "identity": [
+    {
+      "claim": "文本中的女方/新娘/一对新人中的一方，处在县城订婚、出嫁、婚礼、婚宴等仪式语境中",
+      "evidence": [
+        {
+          "index": 67,
+          "url": "https://www.douyin.com/video/7671494057278303865"
+        },
+        {
+          "index": 196,
+          "url": "https://www.douyin.com/video/7588930580520160527"
+        },
+        {
+          "index": 320,
+          "url": "https://www.douyin.com/video/7468700430642482483"
+        }
+      ]
+    },
+    {
+      "claim": "婚礼被描述为普通人cosplay富人的行为艺术，双方家庭掏出十几万甚至几十万",
+      "evidence": [
+        {
+          "index": 67,
+          "url": "https://www.douyin.com/video/7671494057278303865"
+        }
+      ]
+    },
+    {
+      "claim": "婚纱照或婚礼礼服常不合身、夸张，需要临时修饰和强行穿戴",
+      "evidence": [
+        {
+          "index": 67,
+          "url": "https://www.douyin.com/video/7671494057278303865"
+        }
+      ]
+    },
+    {
+      "claim": "婚事与彩礼、嫁妆、改口费、车房等经济条件绑定",
+      "evidence": [
+        {
+          "index": 196,
+          "url": "https://www.douyin.com/video/7588930580520160527"
+        },
+        {
+          "index": 320,
+          "url": "https://www.douyin.com/video/7468700430642482483"
+        }
+      ]
+    }
+  ],
+  "traits": [
+    {
+      "claim": "重视婚礼出场的仪式感和镜头效果，出场镜头会被反复排练",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 320,
+          "url": "https://www.douyin.com/video/7468700430642482483"
+        }
+      ]
+    },
+    {
+      "claim": "婚纱照造型夸张，礼服、大裙摆和高跟鞋造成行动困难",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 67,
+          "url": "https://www.douyin.com/video/7671494057278303865"
+        }
+      ]
+    },
+    {
+      "claim": "出嫁时被娘家人簇拥，连同横幅口号一起构成仪式表演",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 196,
+          "url": "https://www.douyin.com/video/7588930580520160527"
+        }
+      ]
+    },
+    {
+      "claim": "订婚和结婚环节会公开摆出、拍摄彩礼与嫁妆数额",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 196,
+          "url": "https://www.douyin.com/video/7588930580520160527"
+        }
+      ]
+    },
+    {
+      "claim": "婚礼上以泪眼婆娑的姿态完成忠诚和婚姻誓言",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 320,
+          "url": "https://www.douyin.com/video/7468700430642482483"
+        }
+      ]
+    },
+    {
+      "claim": "婚后仍被放入房贷、日常开支和争吵的经济压力叙事中",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 67,
+          "url": "https://www.douyin.com/video/7671494057278303865"
+        }
+      ]
+    },
+    {
+      "claim": "婚纱照穿租来的礼服，礼服紧到“稍微喘大一口气就能给她拉链崩开”，胸前垫两块大海绵，大裙摆“比我家客厅那窗帘子都大”，走两步费劲、容易摔。",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "重视婚礼出场的仪式感与镜头效果，开门、灯光打到身上的镜头“都得排练好几十遍”。",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "出嫁时站在自建房门口，配BGM、招手，娘家人列队拉横幅“我们永远是你最强大的娘家人”。",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "订婚时配合把彩礼与五金拍照展示，结婚时女方家做牌子写嫁妆，并在第一条写“彩礼全部带回”。",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "婚礼宣誓时十指相扣、四目相对、泪眼婆娑回答“我愿意”，说无论贫穷富贵、健康疾病都忠贞不渝。",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "婚礼落幕后卸妆，进入下个月3000房贷与300块短袖争吵的现实生活。",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "誓言说无论贫穷富贵都不离不弃，同篇又说彩礼少2万、改口费少2000就结不成，婚姻是“两个人的条件在结婚”。",
+      "kind": "矛盾",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "婚礼排场被写成十几万到几十万的“豪门体验卡”，婚后生活被写成房贷和日常开支压力。",
+      "kind": "矛盾",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "娘家人被展示为“最强大”，文本又反问“就这样的，你说他能给你什么底气？”",
+      "kind": "矛盾",
+      "certainty": "文本推断",
+      "evidence": []
+    }
+  ],
+  "life_domains": [
+    {
+      "domain": "婚恋/婚礼",
+      "claim": "主要活动场域是订婚、出嫁、婚纱照、婚礼宣誓和婚宴",
+      "evidence": [
+        {
+          "index": 196,
+          "url": "https://www.douyin.com/video/7588930580520160527"
+        },
+        {
+          "index": 320,
+          "url": "https://www.douyin.com/video/7468700430642482483"
+        }
+      ]
+    },
+    {
+      "domain": "家庭/亲属",
+      "claim": "出嫁时有娘家人簇拥，婚宴上双方父母各自盘算彩礼、房贷和改口费",
+      "evidence": [
+        {
+          "index": 196,
+          "url": "https://www.douyin.com/video/7588930580520160527"
+        },
+        {
+          "index": 67,
+          "url": "https://www.douyin.com/video/7671494057278303865"
+        }
+      ]
+    },
+    {
+      "domain": "金钱/消费",
+      "claim": "彩礼、嫁妆、改口费、婚车、婚宴、房贷等金钱事项贯穿其婚礼叙事",
+      "evidence": [
+        {
+          "index": 196,
+          "url": "https://www.douyin.com/video/7588930580520160527"
+        },
+        {
+          "index": 320,
+          "url": "https://www.douyin.com/video/7468700430642482483"
+        },
+        {
+          "index": 67,
+          "url": "https://www.douyin.com/video/7671494057278303865"
+        }
+      ]
+    },
+    {
+      "domain": "社交/面子",
+      "claim": "婚礼承担向亲友、宾客展示体面和排场的社会功能",
+      "evidence": [
+        {
+          "index": 67,
+          "url": "https://www.douyin.com/video/7671494057278303865"
+        },
+        {
+          "index": 196,
+          "url": "https://www.douyin.com/video/7588930580520160527"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "event_id": "E001",
+      "title": "婚纱照与礼服穿戴",
+      "description": "女生/新娘穿租来的、不合身的礼服，用海绵垫胸，拖大裙摆和高跟鞋行走，行动困难但仍配合拍摄。",
+      "temporal": "顺序不明，仅文本片段",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 67,
+          "url": "https://www.douyin.com/video/7671494057278303865"
+        }
+      ]
+    },
+    {
+      "event_id": "E002",
+      "title": "婚礼出场镜头排练",
+      "description": "新娘穿婚纱出场时，门开、灯光打到身上的镜头要排练很多遍。",
+      "temporal": "顺序不明，仅文本片段",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 320,
+          "url": "https://www.douyin.com/video/7468700430642482483"
+        }
+      ]
+    },
+    {
+      "event_id": "E003",
+      "title": "自建房门口出嫁与娘家人横幅",
+      "description": "新娘站在自建房门口，配上音乐、招手和娘家人列队横幅，完成“最强大娘家人”的仪式场面。",
+      "temporal": "文本描述为出嫁时",
+      "chronology_basis": "明示",
+      "evidence": [
+        {
+          "index": 196,
+          "url": "https://www.douyin.com/video/7588930580520160527"
+        }
+      ]
+    },
+    {
+      "event_id": "E004",
+      "title": "彩礼和嫁妆公开展示",
+      "description": "订婚时把彩礼和五金拍照展示，结婚时女方家也做牌子写嫁妆，并写“彩礼全部带回”等。",
+      "temporal": "文本顺序为订婚到结婚",
+      "chronology_basis": "明示",
+      "evidence": [
+        {
+          "index": 196,
+          "url": "https://www.douyin.com/video/7588930580520160527"
+        }
+      ]
+    },
+    {
+      "event_id": "E005",
+      "title": "婚礼宣誓",
+      "description": "新娘与男方十指相扣、四目相对，在司仪或婚礼流程中回答“我愿意”，宣誓无论贫穷富贵、健康疾病都忠贞不渝。",
+      "temporal": "婚礼环节",
+      "chronology_basis": "明示",
+      "evidence": [
+        {
+          "index": 320,
+          "url": "https://www.douyin.com/video/7468700430642482483"
+        }
+      ]
+    },
+    {
+      "event_id": "E006",
+      "title": "婚宴上的父母盘算",
+      "description": "婚礼现场一对新人投入仪式，双方父母却分别盘算彩礼是否掏多、房子贷款、改口费该掏多少。",
+      "temporal": "婚礼现场",
+      "chronology_basis": "明示",
+      "evidence": [
+        {
+          "index": 67,
+          "url": "https://www.douyin.com/video/7671494057278303865"
+        }
+      ]
+    },
+    {
+      "event_id": "E007",
+      "title": "婚礼结束后的现实生活",
+      "description": "盛大婚礼落幕后，新人卸妆，开始面对下个月3000房贷，并因300块短袖争吵。",
+      "temporal": "文本明示在婚礼结束之后",
+      "chronology_basis": "明示",
+      "evidence": [
+        {
+          "index": 67,
+          "url": "https://www.douyin.com/video/7671494057278303865"
+        }
+      ]
+    }
+  ],
+  "storylines": [
+    {
+      "title": "县城婚礼的一日富人体验",
+      "event_ids": [
+        "E001",
+        "E002",
+        "E005",
+        "E006",
+        "E007"
+      ],
+      "narrative": "从婚纱照到婚礼出场，新娘穿租来的衣服、不合身礼服和大裙摆，配合反复排练的镜头，在灯光中完成“我愿意”的宣誓。婚宴上新人自我投入，双方父母却盘算彩礼、房贷和改口费。婚礼结束后，租来的车和礼服归还，新人卸妆，面对房贷与日常争吵。文本把这一过程定义为普通人cosplay富人的一日体验卡。",
+      "unresolved": "文本没有交代这位新娘的姓名、职业、真实收入、感情基础，以及她婚后是否继续这段婚姻；也没有说明三篇中的新娘是否为同一人。",
+      "evidence": [
+        {
+          "index": 67,
+          "url": "https://www.douyin.com/video/7671494057278303865"
+        },
+        {
+          "index": 320,
+          "url": "https://www.douyin.com/video/7468700430642482483"
+        }
+      ]
+    },
+    {
+      "title": "出嫁、娘家人与彩礼嫁妆展示",
+      "event_ids": [
+        "E003",
+        "E004",
+        "E005"
+      ],
+      "narrative": "订婚时公开展示彩礼和五金照片，结婚时女方家做牌子写嫁妆并写“彩礼全部带回”。出嫁时新娘站在自建房门口，娘家人列队拉横幅，宣称“我们永远是你最强大的娘家人”。随后在婚礼上十指相扣、泪眼婆娑完成宣誓。文本又质疑这种娘家人阵仗能否真正提供底气。",
+      "unresolved": "彩礼与嫁妆最终归谁、是否实际带回、娘家人是否提供实际支持，原文没有明确结果。",
+      "evidence": [
+        {
+          "index": 196,
+          "url": "https://www.douyin.com/video/7588930580520160527"
+        },
+        {
+          "index": 320,
+          "url": "https://www.douyin.com/video/7468700430642482483"
+        }
+      ]
+    },
+    {
+      "title": "誓言与条件的冲突",
+      "event_ids": [
+        "E005",
+        "E006"
+      ],
+      "narrative": "婚礼誓言说无论贫穷富贵、健康疾病都忠贞不渝；但同一批文本指出，彩礼少2万、改口费少2000就可能结不成婚，婚姻被说成“两个人的条件在结婚”，并称男方失业超过一年时女方提出离婚概率超过80%。",
+      "unresolved": "誓言与条件之间的真实取舍、新娘本人的态度，原文没有说明。",
+      "evidence": [
+        {
+          "index": 320,
+          "url": "https://www.douyin.com/video/7468700430642482483"
+        },
+        {
+          "index": 67,
+          "url": "https://www.douyin.com/video/7671494057278303865"
+        }
+      ]
+    }
+  ],
+  "relationships": [
+    {
+      "target": "县城新郎/男方",
+      "relation": "夫妻或订婚对象",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 320,
+          "url": "https://www.douyin.com/video/7468700430642482483"
+        }
+      ]
+    },
+    {
+      "target": "娘家人",
+      "relation": "娘家亲属与出嫁仪式支持者",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 196,
+          "url": "https://www.douyin.com/video/7588930580520160527"
+        }
+      ]
+    },
+    {
+      "target": "双方父母",
+      "relation": "婚礼与婚事协商中的双方家长",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 67,
+          "url": "https://www.douyin.com/video/7671494057278303865"
+        },
+        {
+          "index": 196,
+          "url": "https://www.douyin.com/video/7588930580520160527"
+        }
+      ]
+    },
+    {
+      "target": "婚礼司仪",
+      "relation": "婚礼主持者和流程指导者",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 67,
+          "url": "https://www.douyin.com/video/7671494057278303865"
+        }
+      ]
+    }
+  ],
+  "speech_habits": [
+    {
+      "claim": "婚礼宣誓时使用固定忠诚话术：“我愿意”“无论贫穷富贵、健康疾病”“忠贞不渝”等",
+      "evidence": [
+        {
+          "index": 320,
+          "url": "https://www.douyin.com/video/7468700430642482483"
+        }
+      ]
+    },
+    {
+      "claim": "出嫁场景中通过横幅口号宣称娘家人永远支持",
+      "evidence": [
+        {
+          "index": 196,
+          "url": "https://www.douyin.com/video/7588930580520160527"
+        }
+      ]
+    },
+    {
+      "claim": "嫁妆牌上会写“彩礼全部带回”等展示性话术",
+      "evidence": [
+        {
+          "index": 196,
+          "url": "https://www.douyin.com/video/7588930580520160527"
+        }
+      ]
+    }
+  ],
+  "contradictions": [
+    {
+      "issue": "婚礼誓言说无论贫穷富贵都不离不弃，但文本又强调婚姻由彩礼、改口费等条件决定",
+      "versions": [
+        {
+          "claim": "版本一：新娘宣誓无论贫穷富贵、健康疾病都忠贞不渝",
+          "evidence": [
+            {
+              "index": 320,
+              "url": "https://www.douyin.com/video/7468700430642482483"
+            }
+          ]
+        },
+        {
+          "claim": "版本二：彩礼少2万、改口费少2000就结不成婚，婚姻是条件在结婚",
+          "evidence": [
+            {
+              "index": 320,
+              "url": "https://www.douyin.com/video/7468700430642482483"
+            }
+          ]
+        }
+      ],
+      "resolution": "保留并列：文本同时呈现誓言话术与条件婚姻论，不擅自判定新娘真实态度。"
+    },
+    {
+      "issue": "婚礼排场被描述为盛大、昂贵，但婚后生活被描述为房贷和日常开支压力",
+      "versions": [
+        {
+          "claim": "版本一：租车、租衣、婚宴和彩礼嫁妆构成盛大仪式",
+          "evidence": [
+            {
+              "index": 67,
+              "url": "https://www.douyin.com/video/7671494057278303865"
+            },
+            {
+              "index": 196,
+              "url": "https://www.douyin.com/video/7588930580520160527"
+            }
+          ]
+        },
+        {
+          "claim": "版本二：婚礼后新人卸妆，面对3000房贷和300块短袖争吵",
+          "evidence": [
+            {
+              "index": 67,
+              "url": "https://www.douyin.com/video/7671494057278303865"
+            }
+          ]
+        }
+      ],
+      "resolution": "保留并列：同一文本用“cosplay富人”概括排场，又以婚后经济压力拆解排场。"
+    },
+    {
+      "issue": "娘家人被展示为“最强大”，但文本又质疑其实际作用",
+      "versions": [
+        {
+          "claim": "版本一：娘家人列队拉横幅，称永远是最强大的娘家人",
+          "evidence": [
+            {
+              "index": 196,
+              "url": "https://www.douyin.com/video/7588930580520160527"
+            }
+          ]
+        },
+        {
+          "claim": "版本二：文本质疑娘家人阵容能否真正给新娘底气",
+          "evidence": [
+            {
+              "index": 196,
+              "url": "https://www.douyin.com/video/7588930580520160527"
+            }
+          ]
+        }
+      ],
+      "resolution": "保留并列：口号与实际底气在原文中并存，按出处并列呈现。"
+    },
+    {
+      "issue": "三篇中的“新娘/女生/女方”是否为同一自然人未明",
+      "versions": [
+        {
+          "claim": "版本一：67篇主要写婚纱照与婚礼中的一对新人",
+          "evidence": [
+            {
+              "index": 67,
+              "url": "https://www.douyin.com/video/7671494057278303865"
+            }
+          ]
+        },
+        {
+          "claim": "版本二：196篇主要写订婚彩礼、嫁妆牌、自建房门口出嫁和婚礼宣誓",
+          "evidence": [
+            {
+              "index": 196,
+              "url": "https://www.douyin.com/video/7588930580520160527"
+            }
+          ]
+        },
+        {
+          "claim": "版本三：320篇主要写婚礼出场排练、宣誓话术和条件婚姻评论",
+          "evidence": [
+            {
+              "index": 320,
+              "url": "https://www.douyin.com/video/7468700430642482483"
+            }
+          ]
+        }
+      ],
+      "resolution": "保留并列：只作为跨篇婚礼原型处理，不认定为同一自然人。"
+    }
+  ],
+  "gaps": [
+    "姓名、年龄、职业、学历、收入、家庭背景均未交代。",
+    "三篇中的新娘/女生/女方是否为同一人，原文没有说明。",
+    "新娘本人的内心、真实意愿、对彩礼嫁妆和誓言的态度没有直接呈现。",
+    "彩礼、嫁妆、改口费最终归属和实际使用去向没有交代。",
+    "婚后是否继续婚姻、是否离婚、是否生活改善或恶化，原文没有结果。",
+    "娘家人、双方父母、男方的完整关系与冲突过程没有交代。",
+    "新娘本人的内心、真实意愿、对彩礼嫁妆与誓言的态度没有直接呈现。",
+    "婚后是否继续婚姻、是否离婚、生活改善或恶化，原文没有结果。"
+  ],
+  "creative_expansions": [],
+  "source_coverage": [
+    {
+      "index": 67,
+      "role": "提供婚礼cosplay富人、婚纱照礼服、婚宴现场、双方父母盘算、婚后房贷与争吵等材料。",
+      "url": "https://www.douyin.com/video/7671494057278303865"
+    },
+    {
+      "index": 196,
+      "role": "提供订婚彩礼照片、嫁妆牌、自建房门口出嫁、娘家人横幅、婚礼宣誓和彩礼条件等材料。",
+      "url": "https://www.douyin.com/video/7588930580520160527"
+    },
+    {
+      "index": 320,
+      "role": "提供新娘出场排练、婚礼宣誓话术、婚姻条件化、失业与离婚概率评论等材料。",
+      "url": "https://www.douyin.com/video/7468700430642482483"
+    }
+  ]
+}

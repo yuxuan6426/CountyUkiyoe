@@ -1,0 +1,741 @@
+{
+  "name": "县城情报站观察者",
+  "nature": "原型/复合群像，兼单篇角色。主要证据为序号57，序号33、86为补充；文本未给姓名、年龄、性别、职业，指县城/村头“情报站”里观察、议论、笑话他人的评价者群像。“戴眼镜的县城生态观察者”只是文本类比，不应写成自然人生平。",
+  "overview": "县城情报站观察者指县城与村头“情报站”中的观察、议论、笑话他人者。序号57称全国每个村头都组建了没有明文要求却全国统一的情报站，专门观察和笑话别人；站中每个人被比作“戴眼镜的县城生态观察者”，一天不干正事，只研究怎么笑话别人。县城人被概括为一辈子干两件事：笑话别人和不让人笑话，标准是一套独立、不成文、无法远程教学的评价体系。观察场景包括村头、饭店酒局、亲戚客套留饭、随礼撕吧、红白事到场、离婚、跳槽返乡与消费；被评价者会被拉入对其有利的评价体系数落。待上三五年，人又可能被同化，觉得县城像肖申克监狱、世界是巨大县城。场所上村头与饭店并列，形成上“无明文要求”与“全国统一”并列，整体“每个人”与“有一部分”纯客套并列；作者自称“县城生态观察者”与情报站类比对象是否同一人，原文未明示。",
+  "identity": [
+    {
+      "claim": "属于县城/村头“情报站”的观察者群像；该情报站全国每个村头都有，无明文要求但全国统一，专门观察和笑话别人。",
+      "evidence": [
+        {
+          "index": 57,
+          "url": "https://www.douyin.com/video/7675627007129232497"
+        }
+      ]
+    },
+    {
+      "claim": "被文本类比为“戴眼镜的县城生态观察者”，一天到晚不干正事，研究怎么笑话别人。",
+      "evidence": [
+        {
+          "index": 57,
+          "url": "https://www.douyin.com/video/7675627007129232497"
+        }
+      ]
+    },
+    {
+      "claim": "其生活核心被概括为“笑话别人和不让人笑话”两件事，并依赖一套独立、不成文、无法远程教学的评价体系。",
+      "evidence": [
+        {
+          "index": 57,
+          "url": "https://www.douyin.com/video/7675627007129232497"
+        }
+      ]
+    },
+    {
+      "claim": "并非只存在于村头；县城饭店也被称为县城情报站。",
+      "evidence": [
+        {
+          "index": 57,
+          "url": "https://www.douyin.com/video/7675627007129232497"
+        }
+      ]
+    },
+    {
+      "claim": "补充材料把县城饭店里讨论他人离婚等事的人，与村头情报站的老头老太太视为同类。",
+      "evidence": [
+        {
+          "index": 33,
+          "url": "https://www.douyin.com/video/7688294065229685157"
+        }
+      ]
+    }
+  ],
+  "traits": [
+    {
+      "claim": "热衷观察、议论、笑话别人，并把这当作日常娱乐和情报站功能。",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 57,
+          "url": "https://www.douyin.com/video/7675627007129232497"
+        }
+      ]
+    },
+    {
+      "claim": "不干正事，专门研究怎么笑话别人。",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 57,
+          "url": "https://www.douyin.com/video/7675627007129232497"
+        }
+      ]
+    },
+    {
+      "claim": "拥有独立、不成文、无法远程教学的评价体系，并用它数落他人。",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 57,
+          "url": "https://www.douyin.com/video/7675627007129232497"
+        }
+      ]
+    },
+    {
+      "claim": "通过客套留饭、礼品撕吧等场景试探别人，分辨不清就会被笑话。",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 57,
+          "url": "https://www.douyin.com/video/7675627007129232497"
+        }
+      ]
+    },
+    {
+      "claim": "从红白事到场人数判断一个人“为人不行、混得不好”。",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 57,
+          "url": "https://www.douyin.com/video/7675627007129232497"
+        }
+      ]
+    },
+    {
+      "claim": "评价方式跳跃，可以从不太会来事、没礼貌直接得出结论“这人不是个东西”。",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 57,
+          "url": "https://www.douyin.com/video/7675627007129232497"
+        }
+      ]
+    },
+    {
+      "claim": "既笑话别人，又把“不能让人笑话”当作最大执念，形成双重标准。",
+      "kind": "矛盾",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 57,
+          "url": "https://www.douyin.com/video/7675627007129232497"
+        }
+      ]
+    },
+    {
+      "claim": "在饭店酒局中把笑话别人当作主要娱乐；饭店不让笑话别人会黄。",
+      "kind": "动机",
+      "certainty": "文本推断",
+      "evidence": [
+        {
+          "index": 57,
+          "url": "https://www.douyin.com/video/7675627007129232497"
+        }
+      ]
+    },
+    {
+      "claim": "不干正事，一天到晚专门研究怎么笑话别人。",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "拥有一套独立、不成文、无法远程教学的评价体系，并把人拉进对其有利的体系里评价、数落。",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "用客套留饭、礼品撕吧等场景试探别人，分辨不清就会被背后笑话。",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "从红白事到场人数判断一个人“为人不行、混得不好”，该到不到被视为对抗。",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "评价方式跳跃，能从不太会来事、没礼貌直接得出“这人不是个东西”。",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "在消费上别人看不到的地方极省，容易露脸的地方必须梭哈，核心是不能让人笑话。",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "在饭店酒局中把笑话别人当作主要娱乐；饭店不让笑话别人“不得立马黄了”。",
+      "kind": "动机",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "不干正事，把研究怎么笑话别人当日常",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": [
+        {
+          "index": 57,
+          "url": "https://www.douyin.com/video/7675627007129232497"
+        }
+      ]
+    },
+    {
+      "claim": "手里有一套独立、不成文、无法远程教学的评价标准",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": [
+        {
+          "index": 57,
+          "url": "https://www.douyin.com/video/7675627007129232497"
+        }
+      ]
+    },
+    {
+      "claim": "以红白事到场人数评判人“为人不行、混得不好”",
+      "kind": "行为",
+      "certainty": "文本推断",
+      "evidence": [
+        {
+          "index": 57,
+          "url": "https://www.douyin.com/video/7675627007129232497"
+        }
+      ]
+    },
+    {
+      "claim": "用关心、惋惜、劝和、可惜等词反复剜人",
+      "kind": "话术",
+      "certainty": "文本推断",
+      "evidence": [
+        {
+          "index": 33,
+          "url": "https://www.douyin.com/video/7688294065229685157"
+        }
+      ]
+    }
+  ],
+  "life_domains": [
+    {
+      "domain": "社交/娱乐",
+      "claim": "村头和饭店是情报站式社交娱乐场所，核心活动是观察、议论、笑话别人。",
+      "evidence": [
+        {
+          "index": 57,
+          "url": "https://www.douyin.com/video/7675627007129232497"
+        }
+      ]
+    },
+    {
+      "domain": "人情客套",
+      "claim": "亲戚留饭、送礼撕吧、背后端详礼品价值，都是试探和评价人的场景。",
+      "evidence": [
+        {
+          "index": 57,
+          "url": "https://www.douyin.com/video/7675627007129232497"
+        }
+      ]
+    },
+    {
+      "domain": "红白事",
+      "claim": "红事白事到场人数被当作评判标准；该到不到会被视为对抗，也会被笑话。",
+      "evidence": [
+        {
+          "index": 57,
+          "url": "https://www.douyin.com/video/7675627007129232497"
+        }
+      ]
+    },
+    {
+      "domain": "婚恋/离婚",
+      "claim": "离婚会被当成连续剧反复回放，用关心、惋惜、劝和、可惜等词剜人；单亲妈妈带孩子也会被嘀咕。",
+      "evidence": [
+        {
+          "index": 33,
+          "url": "https://www.douyin.com/video/7688294065229685157"
+        }
+      ]
+    },
+    {
+      "domain": "职业/返乡",
+      "claim": "大城市跳槽被说涨薪快，小县城频繁跳槽被说不安分、眼高手低；回流者被说成大城市混不下去。",
+      "evidence": [
+        {
+          "index": 86,
+          "url": "https://www.douyin.com/video/7658283175987842344"
+        }
+      ]
+    },
+    {
+      "domain": "消费",
+      "claim": "别人看不到的地方省，容易露脸的地方梭哈，核心是不能让人笑话。",
+      "evidence": [
+        {
+          "index": 86,
+          "url": "https://www.douyin.com/video/7658283175987842344"
+        }
+      ]
+    },
+    {
+      "domain": "评价体系",
+      "claim": "被拉入他们有利的评价体系后，只能被评价、数落；连巴菲特离开股市也会在村里被放牛嘲讽。",
+      "evidence": [
+        {
+          "index": 57,
+          "url": "https://www.douyin.com/video/7675627007129232497"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "event_id": "E001",
+      "title": "村头情报站全国统一存在",
+      "description": "文本称全国每个村头都组建了情报站，没有明文要求但全国统一，功能是观察和笑话别人。",
+      "temporal": "原文明确现状",
+      "chronology_basis": "明示",
+      "evidence": [
+        {
+          "index": 57,
+          "url": "https://www.douyin.com/video/7675627007129232497"
+        }
+      ]
+    },
+    {
+      "event_id": "E002",
+      "title": "观察者被类比为戴眼镜的县城生态观察者",
+      "description": "情报站中的每个人被比作戴眼镜的县城生态观察者，一天不干正事，只研究怎么笑话别人。",
+      "temporal": "原文明确现状",
+      "chronology_basis": "明示",
+      "evidence": [
+        {
+          "index": 57,
+          "url": "https://www.douyin.com/video/7675627007129232497"
+        }
+      ]
+    },
+    {
+      "event_id": "E003",
+      "title": "客套留饭测试",
+      "description": "亲戚疯狂留饭，部分人不是真想留，只是客套；若分辨不清坐下吃，会被传为“真留下吃饭，不怕让人笑话”。",
+      "temporal": "原文明确过年场景",
+      "chronology_basis": "明示",
+      "evidence": [
+        {
+          "index": 57,
+          "url": "https://www.douyin.com/video/7675627007129232497"
+        }
+      ]
+    },
+    {
+      "event_id": "E004",
+      "title": "带礼撕吧与背后嫌礼薄",
+      "description": "出门带东西，亲戚撕吧、让带回、往车上装；部分人前脚走后就端详礼物，说只值百八十块、真抠。",
+      "temporal": "原文明确过年出门场景",
+      "chronology_basis": "明示",
+      "evidence": [
+        {
+          "index": 57,
+          "url": "https://www.douyin.com/video/7675627007129232497"
+        }
+      ]
+    },
+    {
+      "event_id": "E005",
+      "title": "红白事到场人数被评判",
+      "description": "红白事叫来人少可被笑话为人不行、混不好；该到必须到；不到场是一种对抗表达。",
+      "temporal": "原文明确红白事场景",
+      "chronology_basis": "明示",
+      "evidence": [
+        {
+          "index": 57,
+          "url": "https://www.douyin.com/video/7675627007129232497"
+        }
+      ]
+    },
+    {
+      "event_id": "E006",
+      "title": "跳跃定性“不是个东西”",
+      "description": "老人聊某人行为，从不太会来事、没礼貌，突然得出“这人不是个东西”。",
+      "temporal": "原文明确闲聊场景",
+      "chronology_basis": "明示",
+      "evidence": [
+        {
+          "index": 57,
+          "url": "https://www.douyin.com/video/7675627007129232497"
+        }
+      ]
+    },
+    {
+      "event_id": "E007",
+      "title": "饭店成为县城情报站",
+      "description": "县城情报站建在饭店；三五好友酒肉后研究笑话别人；不参加这种饭局 get 不到；饭店不让笑话别人会黄。",
+      "temporal": "原文明确现状",
+      "chronology_basis": "明示",
+      "evidence": [
+        {
+          "index": 57,
+          "url": "https://www.douyin.com/video/7675627007129232497"
+        }
+      ]
+    },
+    {
+      "event_id": "E008",
+      "title": "被拉入有利评价体系数落",
+      "description": "外人难以反杀，情报站式评价会把对方拉入对自己有利的评价体系，再评价、数落；巴菲特离开股市在村里也被放牛嘲讽。",
+      "temporal": "原文明确评价逻辑",
+      "chronology_basis": "明示",
+      "evidence": [
+        {
+          "index": 57,
+          "url": "https://www.douyin.com/video/7675627007129232497"
+        }
+      ]
+    },
+    {
+      "event_id": "E009",
+      "title": "待久同化与世界巨大县城",
+      "description": "待三五年，县城变成肖申克监狱，人离不开；在大城市待久也会发现世界本身就是一个巨大的县城。",
+      "temporal": "原文明确“待上三五年”后",
+      "chronology_basis": "明示",
+      "evidence": [
+        {
+          "index": 57,
+          "url": "https://www.douyin.com/video/7675627007129232497"
+        }
+      ]
+    },
+    {
+      "event_id": "E010",
+      "title": "县城饭店讨论者与村头情报站老头老太太同类",
+      "description": "补充材料称，县城饭店里讨论他人离婚等事的人，跟村头情报站的老头老太太没有区别，只是年龄段不同。",
+      "temporal": "原文明确现状",
+      "chronology_basis": "明示",
+      "evidence": [
+        {
+          "index": 33,
+          "url": "https://www.douyin.com/video/7688294065229685157"
+        }
+      ]
+    }
+  ],
+  "storylines": [
+    {
+      "title": "村头情报站如何观察、笑话并评价别人",
+      "event_ids": [
+        "E001",
+        "E002",
+        "E003",
+        "E004",
+        "E005",
+        "E006",
+        "E007",
+        "E008",
+        "E009",
+        "E010"
+      ],
+      "narrative": "开始：文本称全国每个村头都组建了情报站，没有明文要求却全国统一，专门观察和笑话别人；站中每个人被比作戴眼镜的县城生态观察者，不干正事，只研究怎么笑话别人。发展：观察进入过年客套留饭、带礼撕吧、红白事到场、饭店酒局等场景，通过留饭真假、礼品价值、到场人数、闲聊话题来评价别人，并常从小事跳跃到“这人不是个东西”。冲突：被评价者想反杀，却会被拉入对他们有利的评价体系，遭到评价和数落。结果：评价体系持续运作，饭店成为县城情报站；待上三五年，人又可能被同化，觉得县城像肖申克监狱，世界本身也是巨大的县城。原文未交代情报站如何组织、成员是谁、何时形成。",
+      "unresolved": "未交代情报站如何组织、成员身份、固定规则、形成时间、是否所有人参与，以及被评价者是否成功反制。",
+      "evidence": [
+        {
+          "index": 57,
+          "url": "https://www.douyin.com/video/7675627007129232497"
+        },
+        {
+          "index": 33,
+          "url": "https://www.douyin.com/video/7688294065229685157"
+        }
+      ]
+    }
+  ],
+  "relationships": [
+    {
+      "target": "被议论的人/被笑话的人",
+      "relation": "观察、评价、嘲笑、数落",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 57,
+          "url": "https://www.douyin.com/video/7675627007129232497"
+        }
+      ]
+    },
+    {
+      "target": "亲戚",
+      "relation": "客套留饭、撕吧礼品、背后嫌礼薄；也是情报站评价参与者",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 57,
+          "url": "https://www.douyin.com/video/7675627007129232497"
+        }
+      ]
+    },
+    {
+      "target": "村头老人/饭店酒局参与者",
+      "relation": "共同闲聊、笑话别人，构成情报站场景",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 57,
+          "url": "https://www.douyin.com/video/7675627007129232497"
+        },
+        {
+          "index": 33,
+          "url": "https://www.douyin.com/video/7688294065229685157"
+        }
+      ]
+    },
+    {
+      "target": "戴眼镜的县城生态观察者",
+      "relation": "被类比为该情报站中的每个人；同时全库中“县城生态观察者”多为叙述者自称，二者是否同一人未明示",
+      "certainty": "文本推断",
+      "evidence": [
+        {
+          "index": 57,
+          "url": "https://www.douyin.com/video/7675627007129232497"
+        },
+        {
+          "index": 3,
+          "url": "https://www.douyin.com/video/7707802950475527601"
+        }
+      ]
+    },
+    {
+      "target": "被拉入评价体系的“你”",
+      "relation": "被拉入有利评价体系后遭到评价和数落",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 57,
+          "url": "https://www.douyin.com/video/7675627007129232497"
+        }
+      ]
+    },
+    {
+      "claim": "三五好友碰面、酒肉下肚后一起研究笑话别人",
+      "target": "三五好友",
+      "relation": "饭店酒局同伴",
+      "evidence": [
+        {
+          "index": 57,
+          "url": "https://www.douyin.com/video/7675627007129232497"
+        }
+      ]
+    },
+    {
+      "claim": "为了3毛钱跟小贩争得面红耳赤",
+      "target": "小贩",
+      "relation": "买菜讨价还价对象",
+      "evidence": [
+        {
+          "index": 86,
+          "url": "https://www.douyin.com/video/7658283175987842344"
+        }
+      ]
+    },
+    {
+      "claim": "离开股市的巴菲特在村里会被放牛的人嘲讽",
+      "target": "巴菲特、放牛的人",
+      "relation": "被嘲讽",
+      "evidence": [
+        {
+          "index": 57,
+          "url": "https://www.douyin.com/video/7675627007129232497"
+        }
+      ]
+    }
+  ],
+  "speech_habits": [
+    {
+      "claim": "背后评价礼品时会压低声音说人抠门。",
+      "evidence": [
+        {
+          "index": 57,
+          "url": "https://www.douyin.com/video/7675627007129232497"
+        }
+      ]
+    },
+    {
+      "claim": "喜欢用跳跃结论给人定性。",
+      "evidence": [
+        {
+          "index": 57,
+          "url": "https://www.douyin.com/video/7675627007129232497"
+        }
+      ]
+    },
+    {
+      "claim": "会用关心、惋惜、劝和、可惜等词剜人。",
+      "evidence": [
+        {
+          "index": 33,
+          "url": "https://www.douyin.com/video/7688294065229685157"
+        }
+      ]
+    },
+    {
+      "claim": "在饭店酒局中把议论和笑话别人当作主要话题。",
+      "evidence": [
+        {
+          "index": 57,
+          "url": "https://www.douyin.com/video/7675627007129232497"
+        }
+      ]
+    },
+    {
+      "claim": "会从离婚、发型、带孩子等细节持续分析一个人。",
+      "evidence": [
+        {
+          "index": 33,
+          "url": "https://www.douyin.com/video/7688294065229685157"
+        }
+      ]
+    },
+    {
+      "claim": "对频繁跳槽者会给出“不定性、好高骛远、眼高手低”等评价。",
+      "evidence": [
+        {
+          "index": 86,
+          "url": "https://www.douyin.com/video/7658283175987842344"
+        }
+      ]
+    }
+  ],
+  "contradictions": [
+    {
+      "issue": "“县城生态观察者”与“县城情报站观察者”是否同一角色",
+      "versions": [
+        {
+          "claim": "序号57把情报站中的每个人类比为戴眼镜的县城生态观察者。",
+          "evidence": [
+            {
+              "index": 57,
+              "url": "https://www.douyin.com/video/7675627007129232497"
+            }
+          ]
+        },
+        {
+          "claim": "全库中“县城生态观察者”常是叙述者/作者自称，未见原文明确说二者就是同一人。",
+          "evidence": [
+            {
+              "index": 3,
+              "url": "https://www.douyin.com/video/7707802950475527601"
+            }
+          ]
+        }
+      ],
+      "resolution": "保留并列：可将“戴眼镜的县城生态观察者”视为序号57中的类比对象，但不把全库作者自述全部并入该角色。"
+    },
+    {
+      "issue": "情报站的主要场所",
+      "versions": [
+        {
+          "claim": "情报站设在村头。",
+          "evidence": [
+            {
+              "index": 57,
+              "url": "https://www.douyin.com/video/7675627007129232497"
+            }
+          ]
+        },
+        {
+          "claim": "县城情报站建在饭店。",
+          "evidence": [
+            {
+              "index": 57,
+              "url": "https://www.douyin.com/video/7675627007129232497"
+            }
+          ]
+        }
+      ],
+      "resolution": "并列保留：村头与饭店分别代表村头式、县城式情报站场景。"
+    },
+    {
+      "issue": "情报站的自发性和统一性",
+      "versions": [
+        {
+          "claim": "没有明文要求，属于自发形成。",
+          "evidence": [
+            {
+              "index": 57,
+              "url": "https://www.douyin.com/video/7675627007129232497"
+            }
+          ]
+        },
+        {
+          "claim": "却全国统一，专门观察和笑话别人。",
+          "evidence": [
+            {
+              "index": 57,
+              "url": "https://www.douyin.com/video/7675627007129232497"
+            }
+          ]
+        }
+      ],
+      "resolution": "并列保留：原文同时强调无明文与全国统一。"
+    },
+    {
+      "issue": "是否人人如此",
+      "versions": [
+        {
+          "claim": "文本说情报站里每个人都不干正事，研究笑话别人。",
+          "evidence": [
+            {
+              "index": 57,
+              "url": "https://www.douyin.com/video/7675627007129232497"
+            }
+          ]
+        },
+        {
+          "claim": "留饭客套又限定为“有一部分”并非真留。",
+          "evidence": [
+            {
+              "index": 57,
+              "url": "https://www.douyin.com/video/7675627007129232497"
+            }
+          ]
+        }
+      ],
+      "resolution": "并列保留：整体群像与部分个体行为需区分。"
+    }
+  ],
+  "gaps": [
+    "未交代该观察者的姓名、年龄、性别、职业。",
+    "未交代情报站是否有组织者、固定成员、固定规则或活动时间。",
+    "未交代“戴眼镜的县城生态观察者”是否就是作者本人或某个具体人物。",
+    "未交代村头情报站与县城饭店情报站是否为同一套人员。",
+    "未交代被评价者是否成功反制，以及这些笑话是否造成现实后果。",
+    "未交代该群像形成的时间线。",
+    "未交代情报站成员的年龄结构与性别构成。",
+    "未交代饭店是否为情报站的固定据点，以及是否存在经营上的绑定关系。"
+  ],
+  "creative_expansions": [],
+  "source_coverage": [
+    {
+      "index": 57,
+      "role": "主要材料：定义村头/县城情报站、观察和笑话别人、饭店情报站、人情客套、红白事、工作消费评价、世界巨大县城等。",
+      "url": "https://www.douyin.com/video/7675627007129232497"
+    },
+    {
+      "index": 33,
+      "role": "补充材料：将县城饭店讨论者与村头情报站老头老太太视为同类。",
+      "url": "https://www.douyin.com/video/7688294065229685157"
+    },
+    {
+      "index": 3,
+      "role": "别名/自指重叠参考：文本以“县城生态观察者”为叙述者自称，提示该称呼可能兼指作者，但是否等于情报站观察者未明示。",
+      "url": "https://www.douyin.com/video/7707802950475527601"
+    }
+  ]
+}

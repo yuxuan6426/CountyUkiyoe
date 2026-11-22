@@ -1,0 +1,824 @@
+{
+  "name": "县城老骚包",
+  "nature": "县城老骚包是文案中的讽刺性原型与复合群像，不是单一自然人。核心为县城中年男性，部分在体制内做小中层、小科长；外形被反复写成大腹便便、头发稀疏、露趾凉鞋配尼龙袜、腰挂钥匙。其欲望集中在追逐、夸赞、前压年轻女性，界限感弱。不同篇仅把他当关系角色或举例，婚姻、经济状况存在多版本，各段叙述按出处并列呈现。",
+  "overview": "县城老骚包是跨篇复用的县城中年男性原型。常见设定为县城单位/体制内上班，最高小中层、小科长；外形是啤酒肚、地中海、露趾凉鞋配尼龙袜、腰挂钥匙。其欲望是刷擦边视频、夸美女少妇、发暧昧话、半夜约人，在单位对20至45岁女性无差别前压、走量，言语聊骚、动手动脚；策略被概括为向下选择、扩大样本容量、高价占有不如拉拉小手，也表现为抠门、广撒网、不婚或搭子式关系。文本又解释其成因：体制内中年男性收入稳定、生活重复、无晋升、不能裸辞，若爱好和花钱被限制，精力无处释放便压抑扭曲。多版本并存：一说工作收入不差，一说要钱没钱要权没权；一说对婚姻没兴趣，一说有婚姻组合和妻子；一说提钱压先想到老骚包，结论又判给小黄毛。",
+  "identity": [
+    {
+      "claim": "年龄与职业阶层：县城中年男性，部分在体制内上班，最多干到小中层、小科长；有篇称其工作收入不差，有篇称其要钱没钱、要权没权。",
+      "evidence": [
+        {
+          "index": 133,
+          "url": "https://www.douyin.com/video/7630332540896759092"
+        },
+        {
+          "index": 122,
+          "url": "https://www.douyin.com/video/7640860283352163429"
+        }
+      ]
+    },
+    {
+      "claim": "外形设定：啤酒肚、地中海发型、露趾凉鞋配尼龙袜、腰挂钥匙，身上烟臭汗臭脚臭口臭交织。",
+      "evidence": [
+        {
+          "index": 147,
+          "url": "https://www.douyin.com/video/7622336491993320756"
+        },
+        {
+          "index": 122,
+          "url": "https://www.douyin.com/video/7640860283352163429"
+        }
+      ]
+    },
+    {
+      "claim": "婚姻状态在不同文本中不一致：有篇写他迟迟不踏入婚姻、对婚姻没兴趣；有篇又把他放进婚姻组合，并写其妻子。",
+      "evidence": [
+        {
+          "index": 133,
+          "url": "https://www.douyin.com/video/7630332540896759092"
+        },
+        {
+          "index": 122,
+          "url": "https://www.douyin.com/video/7640860283352163429"
+        },
+        {
+          "index": 147,
+          "url": "https://www.douyin.com/video/7622336491993320756"
+        }
+      ]
+    }
+  ],
+  "traits": [
+    {
+      "claim": "核心欲望：满脑子下三滥的事，总想占年轻女性便宜。",
+      "kind": "欲望",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 147,
+          "url": "https://www.douyin.com/video/7622336491993320756"
+        }
+      ]
+    },
+    {
+      "claim": "对异性的追逐方式：擦边视频天天刷，见美女、少妇就夸，发暧昧小词，半夜约人。",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 101,
+          "url": "https://www.douyin.com/video/7651520151568813358"
+        }
+      ]
+    },
+    {
+      "claim": "生存哲学：向上提升不如向下选择，增加付出不如扩大样本容量，高价占有不如拉拉小手。",
+      "kind": "动机",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 133,
+          "url": "https://www.douyin.com/video/7630332540896759092"
+        }
+      ]
+    },
+    {
+      "claim": "恐惧与顾虑：怕前压失败被公开处刑；对行政小贵妇高攀不起，冒昧钱压可能职业生涯画句号。",
+      "kind": "恐惧",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 100,
+          "url": "https://www.douyin.com/video/7652002005212286217"
+        },
+        {
+          "index": 111,
+          "url": "https://www.douyin.com/video/7646644426245645755"
+        }
+      ]
+    },
+    {
+      "claim": "自我形象：把微弱权力和世俗资历当个人魅力；不觉得自己在骚扰别人，甚至觉得自己有魅力。",
+      "kind": "自我形象",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 147,
+          "url": "https://www.douyin.com/video/7622336491993320756"
+        }
+      ]
+    },
+    {
+      "claim": "对同性年轻人打压，对异性年轻人极度渴望，不顾周围看法和个人形象。",
+      "kind": "矛盾",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 147,
+          "url": "https://www.douyin.com/video/7622336491993320756"
+        }
+      ]
+    },
+    {
+      "claim": "给异性花钱抠：发52元还让人省着点花。",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 133,
+          "url": "https://www.douyin.com/video/7630332540896759092"
+        }
+      ]
+    },
+    {
+      "claim": "缺乏自我提升：不创业、不兼职、不健身，大腹便便。",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 133,
+          "url": "https://www.douyin.com/video/7630332540896759092"
+        }
+      ]
+    },
+    {
+      "claim": "压抑成因：体制内中年男性无晋升空间、生活重复、精力无处释放，若爱好和钱受限，容易压抑成老骚包。",
+      "kind": "动机",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 147,
+          "url": "https://www.douyin.com/video/7622336491993320756"
+        }
+      ]
+    },
+    {
+      "claim": "满脑子下三滥的事，总想占年轻女性便宜。",
+      "kind": "欲望",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "擦边视频天天刷，见美女、少妇就夸，发暧昧小词，半夜约人。",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "怕前压失败被公开处刑；对行政小贵妇高攀不起，冒昧钱压可能让职业生涯画句号。",
+      "kind": "动机",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "把微弱权力和世俗资历当个人魅力，不觉得自己在骚扰别人，甚至觉得自己有魅力。",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "对同性年轻人打压、说教，对异性年轻人极度渴望，不顾周围看法和个人形象。",
+      "kind": "矛盾",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "给异性花钱抠，发52元还让人省着点花。",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "不创业、不兼职、不健身，大腹便便。",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "压抑成因：体制内中年男性无晋升空间、生活重复、精力无处释放，若爱好和钱受限，容易压抑扭曲成老骚包。",
+      "kind": "动机",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "经济与实力两说：一说工作收入都不差，一说要钱没钱、要权没权、月薪几千。",
+      "kind": "矛盾",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "婚姻状态两说：一说对婚姻没兴趣、迟迟不婚，一说被放进婚姻组合并写到妻子。",
+      "kind": "矛盾",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "“最会前压”的归属两说：一说提钱压先想到老骚包，文本结论又判给小黄毛。",
+      "kind": "矛盾",
+      "certainty": "文本推断",
+      "evidence": []
+    }
+  ],
+  "life_domains": [
+    {
+      "domain": "职业与权力",
+      "claim": "在县城体制内或单位里上班，部分是小中层小科长；把微弱权力、世俗资历当作个人魅力，并对同性年轻人打压说教。",
+      "evidence": [
+        {
+          "index": 133,
+          "url": "https://www.douyin.com/video/7630332540896759092"
+        },
+        {
+          "index": 147,
+          "url": "https://www.douyin.com/video/7622336491993320756"
+        }
+      ]
+    },
+    {
+      "domain": "婚恋与两性",
+      "claim": "跪舔县城王漫妮，成为其左膀右臂式角色；与县城交际花容易链接并可能进入易崩盘婚姻；婚后仍钱压单位00后；也有不婚、搭子式关系的一面。",
+      "evidence": [
+        {
+          "index": 108,
+          "url": "https://www.douyin.com/video/7648176182773731813"
+        },
+        {
+          "index": 122,
+          "url": "https://www.douyin.com/video/7640860283352163429"
+        },
+        {
+          "index": 133,
+          "url": "https://www.douyin.com/video/7630332540896759092"
+        }
+      ]
+    },
+    {
+      "domain": "金钱与消费",
+      "claim": "经济形象有两说：有篇称工作收入不差，有篇称要钱没钱、要权没权；给异性花钱很抠，发52元还让人省着花。",
+      "evidence": [
+        {
+          "index": 122,
+          "url": "https://www.douyin.com/video/7640860283352163429"
+        },
+        {
+          "index": 133,
+          "url": "https://www.douyin.com/video/7630332540896759092"
+        }
+      ]
+    },
+    {
+      "domain": "社交与酒局",
+      "claim": "吹嘘自己的风光史、人脉、人情世故和生存哲学。",
+      "evidence": [
+        {
+          "index": 147,
+          "url": "https://www.douyin.com/video/7622336491993320756"
+        }
+      ]
+    },
+    {
+      "domain": "心理与压抑",
+      "claim": "体制内中年男性收入稳定、生活重复、无晋升盼头、不能裸辞；若爱好和花钱被限制，精力无处释放，可能压抑扭曲。",
+      "evidence": [
+        {
+          "index": 147,
+          "url": "https://www.douyin.com/video/7622336491993320756"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "event_id": "E001",
+      "title": "夸赞擦边女网红",
+      "description": "老骚包观看擦边视频，在下面给女网红夸赞，甚至把对方夸晕，成为擦边女网红获得情绪价值的重要来源。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 105,
+          "url": "https://www.douyin.com/video/7649231017782122737"
+        },
+        {
+          "index": 101,
+          "url": "https://www.douyin.com/video/7651520151568813358"
+        }
+      ]
+    },
+    {
+      "event_id": "E002",
+      "title": "在单位对20至45岁女性无差别前压",
+      "description": "老骚包在单位对20至45岁女性都前压过，不以精准为目标，而是有枣没枣打一竿子、走量；成功率低，过于激进容易被KO。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 101,
+          "url": "https://www.douyin.com/video/7651520151568813358"
+        }
+      ]
+    },
+    {
+      "event_id": "E003",
+      "title": "深夜私信00后女同事被挂朋友圈",
+      "description": "单位新来00后穿瑜伽裤，老骚包半夜发私信问在干啥，又提出去给她拍照；小姑娘害怕，反手把他挂到朋友圈鞭尸。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 101,
+          "url": "https://www.douyin.com/video/7651520151568813358"
+        }
+      ]
+    },
+    {
+      "event_id": "E004",
+      "title": "单位内言语聊骚与动手动脚",
+      "description": "老骚包在单位对人小姑娘言语聊骚、动手动脚，半夜发信息，找人家谈心，一会上手一会摸头；最后全单位都知道他是这么个货色。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 147,
+          "url": "https://www.douyin.com/video/7622336491993320756"
+        }
+      ]
+    },
+    {
+      "event_id": "E005",
+      "title": "高攀行政小贵妇",
+      "description": "老骚包看行政小贵妇忍不住想钱压，但高攀不起；若冒昧钱压，职业生涯基本画句号。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 111,
+          "url": "https://www.douyin.com/video/7646644426245645755"
+        }
+      ]
+    },
+    {
+      "event_id": "E006",
+      "title": "与交际花形成易崩盘婚姻组合",
+      "description": "老骚包与县城交际花一接触就容易链接，婚后仍各自钱压：老骚包钱压单位00后小姑娘，交际花钱压酒庄刚认识的好大哥。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 122,
+          "url": "https://www.douyin.com/video/7640860283352163429"
+        }
+      ]
+    },
+    {
+      "event_id": "E007",
+      "title": "抠门与扩大样本容量",
+      "description": "老骚包给异性花钱很抠，半夜发52元还让人省着花；但他靠增加样本容量、常年广撒网，认为时间拉长也许能遇到。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 133,
+          "url": "https://www.douyin.com/video/7630332540896759092"
+        }
+      ]
+    },
+    {
+      "event_id": "E008",
+      "title": "不婚与搭子式关系",
+      "description": "老骚包对婚姻没兴趣，迟迟不踏入婚姻；其逻辑是不高价占有，不花钱改变别人人生，而是跟别人当搭子；文案以地陪等短期陪伴行业作为类比。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 133,
+          "url": "https://www.douyin.com/video/7630332540896759092"
+        }
+      ]
+    },
+    {
+      "event_id": "E009",
+      "title": "体制内压抑后扭曲成老骚包",
+      "description": "县城体制内中年男性收入稳定、生活重复、无晋升盼头、不能裸辞；如果不发展爱好、被限制花钱，精力无处释放，容易压抑扭曲成老骚包。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 147,
+          "url": "https://www.douyin.com/video/7622336491993320756"
+        }
+      ]
+    },
+    {
+      "event_id": "E010",
+      "title": "对同性年轻人打压并吹嘘",
+      "description": "老骚包吹嘘风光史、人脉、人情世故、生存哲学；对同性年轻人打压，说他们眼高手低、太年轻、张扬会栽跟头。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 147,
+          "url": "https://www.douyin.com/video/7622336491993320756"
+        }
+      ]
+    },
+    {
+      "event_id": "E011",
+      "title": "被单位00后姑娘反杀",
+      "description": "老骚包因过度潜压被单位00后姑娘反杀，聊天记录被挂到朋友圈、社交媒体上，显得局促、难看、丢人。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 133,
+          "url": "https://www.douyin.com/video/7630332540896759092"
+        }
+      ]
+    }
+  ],
+  "storylines": [
+    {
+      "title": "从压抑到单位越界的老骚包形成线",
+      "event_ids": [
+        "E009",
+        "E004",
+        "E010",
+        "E011"
+      ],
+      "narrative": "县城体制内中年男性收入稳定、生活重复、没有晋升空间，也不能轻易裸辞；如果爱好被限制、花钱被管住，精力无处释放，就容易压抑扭曲成老骚包。成为老骚包后，他在单位对年轻女性言语聊骚、动手动脚、半夜发信息、找人家谈心，对同性年轻人打压，并吹嘘自己的风光史、人脉和生存哲学。原文给出的可见结果是：全单位背后知道他是老色痞，他自己甚至还觉得有魅力；也可能因过度潜压被00后姑娘反杀，聊天记录被挂到朋友圈或社交媒体。",
+      "unresolved": "原文没有交代他是否被单位处理、家庭是否因此破裂、被挂之后是否收手。",
+      "evidence": [
+        {
+          "index": 147,
+          "url": "https://www.douyin.com/video/7622336491993320756"
+        },
+        {
+          "index": 133,
+          "url": "https://www.douyin.com/video/7630332540896759092"
+        }
+      ]
+    },
+    {
+      "title": "前压、广撒网与翻车线",
+      "event_ids": [
+        "E001",
+        "E002",
+        "E003",
+        "E007",
+        "E011"
+      ],
+      "narrative": "老骚包热衷前压，擦边视频天天刷，见美女、少妇就夸，暧昧小词胡乱发，半夜约人；在单位对20至45岁女性都前压，不以精准为目标，而是有枣没枣打一竿子、走量。他的策略是向下选择、扩大样本容量，给异性花钱又抠，发52元还让人省着点花。冲突在于成功率低、过于激进容易被KO；具体翻车是他深夜私信00后女同事后被挂朋友圈鞭尸，以及被单位00后姑娘反杀、聊天记录被挂。",
+      "unresolved": "原文没有交代他在翻车后是否改变行为，也没有给出一条连续事件的全部后续。",
+      "evidence": [
+        {
+          "index": 101,
+          "url": "https://www.douyin.com/video/7651520151568813358"
+        },
+        {
+          "index": 133,
+          "url": "https://www.douyin.com/video/7630332540896759092"
+        }
+      ]
+    },
+    {
+      "title": "与王漫妮、行政小贵妇、交际花的关系线",
+      "event_ids": [
+        "E005",
+        "E006",
+        "E008"
+      ],
+      "narrative": "老骚包跪舔县城王漫妮，被写成她的左膀右臂，却也是其一生之敌，甚至被称为王漫妮最严厉的父亲。他看行政小贵妇会忍不住想钱压，但高攀不起，冒昧钱压可能让职业生涯画句号。他与县城交际花容易链接，可能形成易崩盘婚姻组合，婚后仍各自钱压。另一方面，他又被写成不婚、不占有、只当搭子的人。",
+      "unresolved": "原文没有给出他与王漫妮、行政小贵妇、交际花各自关系的统一结局。",
+      "evidence": [
+        {
+          "index": 108,
+          "url": "https://www.douyin.com/video/7648176182773731813"
+        },
+        {
+          "index": 134,
+          "url": "https://www.douyin.com/video/7629625893589208370"
+        },
+        {
+          "index": 122,
+          "url": "https://www.douyin.com/video/7640860283352163429"
+        }
+      ]
+    },
+    {
+      "title": "给擦边女网红提供情绪价值线",
+      "event_ids": [
+        "E001"
+      ],
+      "narrative": "擦边女网红发擦边视频，老骚包在下面夸赞，甚至把对方夸晕；女网红因此获得情绪价值，很多只有千八百粉丝也继续更新。原文没有交代老骚包由此获得什么。",
+      "unresolved": "老骚包从夸赞中获得什么、是否形成长期互动，原文未交代。",
+      "evidence": [
+        {
+          "index": 105,
+          "url": "https://www.douyin.com/video/7649231017782122737"
+        }
+      ]
+    }
+  ],
+  "relationships": [
+    {
+      "target": "县城王漫妮",
+      "relation": "跪舔她的老骚包；被写成她的左膀右臂，也被称为其一生之敌、最严厉的父亲。",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 108,
+          "url": "https://www.douyin.com/video/7648176182773731813"
+        },
+        {
+          "index": 134,
+          "url": "https://www.douyin.com/video/7629625893589208370"
+        }
+      ]
+    },
+    {
+      "target": "县城行政小贵妇",
+      "relation": "被其吸引，忍不住想钱压，但高攀不起；冒昧钱压可能职业生涯画句号。",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 111,
+          "url": "https://www.douyin.com/video/7646644426245645755"
+        }
+      ]
+    },
+    {
+      "target": "县城交际花",
+      "relation": "容易链接，可能形成易崩盘婚姻组合；婚后仍各自钱压。",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 122,
+          "url": "https://www.douyin.com/video/7640860283352163429"
+        }
+      ]
+    },
+    {
+      "target": "擦边女网红",
+      "relation": "观看其擦边视频并夸赞，甚至把对方夸晕。",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 105,
+          "url": "https://www.douyin.com/video/7649231017782122737"
+        }
+      ]
+    },
+    {
+      "target": "单位00后小姑娘",
+      "relation": "老骚包会钱压单位00后小姑娘，也可能因过度潜压被反杀、聊天记录被挂。",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 122,
+          "url": "https://www.douyin.com/video/7640860283352163429"
+        },
+        {
+          "index": 133,
+          "url": "https://www.douyin.com/video/7630332540896759092"
+        }
+      ]
+    },
+    {
+      "target": "单位年轻女性",
+      "relation": "言语聊骚、动手动脚、半夜发信息、找人家谈心、一会上手一会摸头。",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 147,
+          "url": "https://www.douyin.com/video/7622336491993320756"
+        }
+      ]
+    },
+    {
+      "target": "同性年轻人",
+      "relation": "打压、说教，说他们眼高手低、太年轻、张扬会栽跟头。",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 147,
+          "url": "https://www.douyin.com/video/7622336491993320756"
+        }
+      ]
+    },
+    {
+      "target": "妻子/老婆",
+      "relation": "婚姻在不同篇中状态不一；婚后仍向其他女性示好，并可能拿妻子与他人比较。",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 122,
+          "url": "https://www.douyin.com/video/7640860283352163429"
+        }
+      ]
+    },
+    {
+      "target": "娜娜睡不醒",
+      "relation": "老骚包将妻子与娜娜比较，认为娜娜更顺从、更有吸引力。",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 122,
+          "url": "https://www.douyin.com/video/7640860283352163429"
+        }
+      ]
+    },
+    {
+      "target": "音乐老师、技师",
+      "relation": "文案称若有几百块钱零花，他可去和音乐老师探讨乐理、和技师研究经络，而不至于在单位越界。",
+      "certainty": "文本推断",
+      "evidence": [
+        {
+          "index": 147,
+          "url": "https://www.douyin.com/video/7622336491993320756"
+        }
+      ]
+    }
+  ],
+  "speech_habits": [
+    {
+      "claim": "对异性净说下流的花，暧昧小词胡乱发，半夜约人。",
+      "evidence": [
+        {
+          "index": 122,
+          "url": "https://www.douyin.com/video/7640860283352163429"
+        },
+        {
+          "index": 101,
+          "url": "https://www.douyin.com/video/7651520151568813358"
+        }
+      ]
+    },
+    {
+      "claim": "对同性年轻人打压说教，称其眼高手低、太年轻、张扬会栽跟头。",
+      "evidence": [
+        {
+          "index": 147,
+          "url": "https://www.douyin.com/video/7622336491993320756"
+        }
+      ]
+    },
+    {
+      "claim": "吹嘘风光史、人脉、人情世故和生存哲学。",
+      "evidence": [
+        {
+          "index": 147,
+          "url": "https://www.douyin.com/video/7622336491993320756"
+        }
+      ]
+    },
+    {
+      "claim": "抠门话术：给异性发52元，还让人省着点花。",
+      "evidence": [
+        {
+          "index": 133,
+          "url": "https://www.douyin.com/video/7630332540896759092"
+        }
+      ]
+    },
+    {
+      "claim": "拿妻子与他人比较，说找你还不如找娜娜。",
+      "evidence": [
+        {
+          "index": 122,
+          "url": "https://www.douyin.com/video/7640860283352163429"
+        }
+      ]
+    }
+  ],
+  "contradictions": [
+    {
+      "issue": "县城老骚包的经济状况和实力描述不一致。",
+      "versions": [
+        {
+          "claim": "有篇写他工作收入都不差。",
+          "evidence": [
+            {
+              "index": 122,
+              "url": "https://www.douyin.com/video/7640860283352163429"
+            }
+          ]
+        },
+        {
+          "claim": "有篇写他要钱没钱、要权没权，只有一个月几千块钱工资。",
+          "evidence": [
+            {
+              "index": 133,
+              "url": "https://www.douyin.com/video/7630332540896759092"
+            }
+          ]
+        }
+      ],
+      "resolution": "保留并列，不擅自合并或选定。"
+    },
+    {
+      "issue": "县城老骚包的婚姻状态描述不一致。",
+      "versions": [
+        {
+          "claim": "有篇写他迟迟不踏入婚姻，对婚姻这件事没兴趣。",
+          "evidence": [
+            {
+              "index": 133,
+              "url": "https://www.douyin.com/video/7630332540896759092"
+            }
+          ]
+        },
+        {
+          "claim": "有篇把他放进婚姻组合，并写到他的妻子。",
+          "evidence": [
+            {
+              "index": 122,
+              "url": "https://www.douyin.com/video/7640860283352163429"
+            },
+            {
+              "index": 147,
+              "url": "https://www.douyin.com/video/7622336491993320756"
+            }
+          ]
+        }
+      ],
+      "resolution": "保留并列，视为复合群像中的不同版本，按出处并列呈现。"
+    },
+    {
+      "issue": "老骚包是不是“最会前压”的男性，文本内部有先想到与最终结论的差别。",
+      "versions": [
+        {
+          "claim": "一说到钱压，很多铁铁马上想到老骚包。",
+          "evidence": [
+            {
+              "index": 101,
+              "url": "https://www.douyin.com/video/7651520151568813358"
+            }
+          ]
+        },
+        {
+          "claim": "后文又说当之无愧是小黄毛，老骚包只是有前压风格。",
+          "evidence": [
+            {
+              "index": 101,
+              "url": "https://www.douyin.com/video/7651520151568813358"
+            }
+          ]
+        }
+      ],
+      "resolution": "保留并列：老骚包被作为第一反应对象，但文本结论把“最会前压”判给小黄毛。"
+    }
+  ],
+  "gaps": [
+    "原文没有给出县城老骚包的具体年龄、单位、职务级别、真实收入和存款。",
+    "原文没有交代他是否有子女、是否离异、被00后反杀后是否被处理、婚姻崩盘后的具体结局。",
+    "原文没有给出他与县城王漫妮、行政小贵妇、交际花各自关系的统一结局。",
+    "不同篇中的老骚包是否为同一人无法确认，只能作为复合原型处理。"
+  ],
+  "creative_expansions": [],
+  "source_coverage": [
+    {
+      "index": 100,
+      "role": "提供老骚包怕前压失败被公开处刑的欲望与顾虑。",
+      "url": "https://www.douyin.com/video/7652002005212286217"
+    },
+    {
+      "index": 101,
+      "role": "集中描述老骚包的前压风格、走量策略、单位00后翻车，并讨论其是否最会前压。",
+      "url": "https://www.douyin.com/video/7651520151568813358"
+    },
+    {
+      "index": 105,
+      "role": "提供老骚包夸赞擦边女网红、为其提供情绪价值的情节。",
+      "url": "https://www.douyin.com/video/7649231017782122737"
+    },
+    {
+      "index": 108,
+      "role": "说明老骚包是跪舔县城王漫妮的角色，被列为王漫妮左膀右臂与一生之敌。",
+      "url": "https://www.douyin.com/video/7648176182773731813"
+    },
+    {
+      "index": 111,
+      "role": "说明老骚包对行政小贵妇想钱压但高攀不起，冒昧会危及职业生涯。",
+      "url": "https://www.douyin.com/video/7646644426245645755"
+    },
+    {
+      "index": 122,
+      "role": "提供老骚包与交际花的易崩盘婚姻组合、外形、下流话、婚后各自钱压等情节。",
+      "url": "https://www.douyin.com/video/7640860283352163429"
+    },
+    {
+      "index": 133,
+      "role": "专门以“生存哲学打分”分析老骚包：小中层小科长、向下选择、扩大样本、不婚、抠门、搭子逻辑。",
+      "url": "https://www.douyin.com/video/7630332540896759092"
+    },
+    {
+      "index": 134,
+      "role": "提供“县城王漫妮最严厉的父亲就是县城老骚包”的关系定位。",
+      "url": "https://www.douyin.com/video/7629625893589208370"
+    },
+    {
+      "index": 147,
+      "role": "专门解释老骚包如何被压抑出来，并集中描写外形、单位骚扰、自我美化、对同性年轻人打压。",
+      "url": "https://www.douyin.com/video/7622336491993320756"
+    }
+  ]
+}

@@ -1,0 +1,1134 @@
+{
+  "name": "县城小黄毛",
+  "nature": "复合群像/县城原型。指县城中学历不高、没有正经工作、手头拮据的年轻男性；不同文案把他用于婚恋、面子消费、被老阿姨拿捏、与小太妹互动的场景，并非单一自然人的连续传记，也呈现各篇作品中的角色设定。",
+  "overview": "县城小黄毛是文案反复调用的县城年轻男性原型：学历不高，常被写成初中辍学、没有正经工作，月入三五千、兜里可能不到200元。他时间充裕，能秒回、长聊、随叫随到，凭真的喜欢女人、会哄、群发表白在婚恋市场获得异性青睐，常同时向多人示好、关系切换快。面子上靠一两个月换二手手机、改装9号电动车、假大牌、二手豪车撑场面，并会撸网贷、借钱、花呗分期为女友或瑜伽裤消费。面对老阿姨，他冲动轻信、被夸后高价买杂牌、被诱导借贷卖车，冲突中因不懂法吃亏。另一版本说他装着装着可能“装明白”，用上三折叠、路虎揽胜；又一版本说买二手豪车不出三月断贷、车被收回、倒欠五万饥荒。文本还把他与好大哥、编二代、做题家、骆驼祥子、斯丹康并置，作为婚恋吸引力与物质条件错位的原型。",
+  "identity": [
+    {
+      "claim": "县城年轻男性原型，学历不高，常被描述为初中辍学或没有正经工作。",
+      "evidence": [
+        {
+          "index": 11,
+          "url": "https://www.douyin.com/video/7701990783653882609"
+        },
+        {
+          "index": 136,
+          "url": "https://www.douyin.com/video/7627797057612418338"
+        },
+        {
+          "index": 101,
+          "url": "https://www.douyin.com/video/7651520151568813358"
+        }
+      ]
+    },
+    {
+      "claim": "经济基础薄弱，常手头拮据，月收入约三五千，兜里可能不到200元。",
+      "evidence": [
+        {
+          "index": 101,
+          "url": "https://www.douyin.com/video/7651520151568813358"
+        },
+        {
+          "index": 213,
+          "url": "https://www.douyin.com/video/7578062613863599401"
+        },
+        {
+          "index": 133,
+          "url": "https://www.douyin.com/video/7630332540896759092"
+        }
+      ]
+    },
+    {
+      "claim": "典型外在装束包括纹龙画虎、锅盖头、紧身勒裆裤、9号电动车。",
+      "evidence": [
+        {
+          "index": 101,
+          "url": "https://www.douyin.com/video/7651520151568813358"
+        }
+      ]
+    }
+  ],
+  "traits": [
+    {
+      "claim": "真的喜欢女人，主动围着女人转，哄人开心。",
+      "kind": "欲望",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 11,
+          "url": "https://www.douyin.com/video/7701990783653882609"
+        },
+        {
+          "index": 10,
+          "url": "https://www.douyin.com/video/7703063868465985509"
+        }
+      ]
+    },
+    {
+      "claim": "不仅主动，还会对很多人同时主动，高频群发表白。",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 11,
+          "url": "https://www.douyin.com/video/7701990783653882609"
+        },
+        {
+          "index": 175,
+          "url": "https://www.douyin.com/video/7602851304486079786"
+        }
+      ]
+    },
+    {
+      "claim": "时间充裕，能秒回、长聊、随叫随到。",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 101,
+          "url": "https://www.douyin.com/video/7651520151568813358"
+        },
+        {
+          "index": 175,
+          "url": "https://www.douyin.com/video/7602851304486079786"
+        }
+      ]
+    },
+    {
+      "claim": "擅长提供激情、陪伴、被关注的感觉，而不是稳定理性的婚姻生活。",
+      "kind": "动机",
+      "certainty": "文本推断",
+      "evidence": [
+        {
+          "index": 11,
+          "url": "https://www.douyin.com/video/7701990783653882609"
+        },
+        {
+          "index": 10,
+          "url": "https://www.douyin.com/video/7703063868465985509"
+        }
+      ]
+    },
+    {
+      "claim": "经济薄弱但重面子，靠手机、电动车、假大牌、二手豪车撑场面。",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 45,
+          "url": "https://www.douyin.com/video/7683421956008557434"
+        },
+        {
+          "index": 136,
+          "url": "https://www.douyin.com/video/7627797057612418338"
+        },
+        {
+          "index": 210,
+          "url": "https://www.douyin.com/video/7579264195695267106"
+        }
+      ]
+    },
+    {
+      "claim": "关系切换快，被伴侣不满时迅速转向别人，不内耗。",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 175,
+          "url": "https://www.douyin.com/video/7602851304486079786"
+        },
+        {
+          "index": 239,
+          "url": "https://www.douyin.com/video/7557694507702160682"
+        },
+        {
+          "index": 182,
+          "url": "https://www.douyin.com/video/7598559726875593984"
+        }
+      ]
+    },
+    {
+      "claim": "冲动、轻信、不长记性，容易被老阿姨拿捏。",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 173,
+          "url": "https://www.douyin.com/video/7605066774983331081"
+        },
+        {
+          "index": 171,
+          "url": "https://www.douyin.com/video/7606559660540571557"
+        }
+      ]
+    },
+    {
+      "claim": "痛恨自己浅薄、文化涵养不够，却仍延续游戏撩妹的生活方式。",
+      "kind": "矛盾",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 199,
+          "url": "https://www.douyin.com/video/7586683557188242703"
+        }
+      ]
+    },
+    {
+      "claim": "能打架，但其他事办不成，格局偏小，注意力集中在精神小妹和二手宝马。",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 213,
+          "url": "https://www.douyin.com/video/7578062613863599401"
+        }
+      ]
+    },
+    {
+      "claim": "手机使用频率高，一两个月换机，二手手机是社交门面。",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 45,
+          "url": "https://www.douyin.com/video/7683421956008557434"
+        }
+      ]
+    },
+    {
+      "claim": "追求二手性能车或二手BBA，容易出现贷款断供、车被收回、倒欠饥荒。",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 213,
+          "url": "https://www.douyin.com/video/7578062613863599401"
+        },
+        {
+          "index": 207,
+          "url": "https://www.douyin.com/video/7582623409314549046"
+        }
+      ]
+    },
+    {
+      "claim": "会装杯，文本认为装杯可能让人“装明白”。",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 211,
+          "url": "https://www.douyin.com/video/7578918974604184875"
+        }
+      ]
+    },
+    {
+      "claim": "穿着品牌变化，不再穿耐克、阿迪、彪马。",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 265,
+          "url": "https://www.douyin.com/video/7523245622149860671"
+        }
+      ]
+    },
+    {
+      "claim": "真的喜欢女人，主动围着女人转、会哄、会说漂亮话。",
+      "kind": "欲望",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "不仅主动，还对很多人同时主动，表白能群发46个女的。",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "时间最充裕，能对每个姑娘秒回、一天聊18个钟头、随叫随到。",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "提供激情、陪伴、被关注的感觉，而非稳定理性的婚姻生活。",
+      "kind": "动机",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "经济薄弱但重面子，靠二手手机、改装电动车、假大牌、二手豪车撑场面。",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "关系切换快、不内耗，被删联系方式两天就换人官宣。",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "冲动、轻信、不长记性，容易被老阿姨拿捏，“永远被骗的够呛”。",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "能打架，其他事办不成，脑子里面全是精神小妹和二手宝马。",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "一两个月换一部二手手机，人均两个充电宝，手机是社交门面。",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "追求二手性能车或二手BBA，易贷款断供、车被收回、倒欠饥荒。",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "会装杯，文本称装着装着有时突然“装明白”。",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "典型外在：纹龙画虎、锅盖头、紧身勒裆裤、9号电动车。",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    }
+  ],
+  "life_domains": [
+    {
+      "domain": "婚恋/社交",
+      "claim": "在县城婚恋市场以主动、时间、情绪陪伴吸引小太妹、瑜伽裤等，但关系常不唯一、不长期。",
+      "evidence": [
+        {
+          "index": 10,
+          "url": "https://www.douyin.com/video/7703063868465985509"
+        },
+        {
+          "index": 294,
+          "url": "https://www.douyin.com/video/7492821775407942912"
+        },
+        {
+          "index": 175,
+          "url": "https://www.douyin.com/video/7602851304486079786"
+        }
+      ]
+    },
+    {
+      "domain": "职业/金钱",
+      "claim": "没有正经工作，收入低且不稳定；会撸网贷、借钱、花呗分期，也接受女方经济供养。",
+      "evidence": [
+        {
+          "index": 175,
+          "url": "https://www.douyin.com/video/7602851304486079786"
+        },
+        {
+          "index": 294,
+          "url": "https://www.douyin.com/video/7492821775407942912"
+        }
+      ]
+    },
+    {
+      "domain": "消费/面子",
+      "claim": "用高频换二手手机、改装电动车、假大牌、二手豪车维持排面。",
+      "evidence": [
+        {
+          "index": 136,
+          "url": "https://www.douyin.com/video/7627797057612418338"
+        },
+        {
+          "index": 45,
+          "url": "https://www.douyin.com/video/7683421956008557434"
+        }
+      ]
+    },
+    {
+      "domain": "权力/人情",
+      "claim": "在办事层面能力有限，唯一被认可的是干仗。",
+      "evidence": [
+        {
+          "index": 213,
+          "url": "https://www.douyin.com/video/7578062613863599401"
+        },
+        {
+          "index": 155,
+          "url": "https://www.douyin.com/video/7618117113026268467"
+        }
+      ]
+    },
+    {
+      "domain": "心理/文化",
+      "claim": "被指浅薄、文化不足，内心对此有痛恨。",
+      "evidence": [
+        {
+          "index": 199,
+          "url": "https://www.douyin.com/video/7586683557188242703"
+        },
+        {
+          "index": 116,
+          "url": "https://www.douyin.com/video/7643277690203589923"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "event_id": "E001",
+      "title": "在县城婚恋市场获得异性青睐",
+      "description": "小黄毛因真的喜欢女人、主动、会哄、围女人转，被描述为在婚恋市场上大杀四方；坐上其9号电动车的女人会感觉回到青春。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 10,
+          "url": "https://www.douyin.com/video/7703063868465985509"
+        },
+        {
+          "index": 11,
+          "url": "https://www.douyin.com/video/7701990783653882609"
+        }
+      ]
+    },
+    {
+      "event_id": "E002",
+      "title": "用时间与群发主动扩大追求数量",
+      "description": "小黄毛没有正经工作，时间最充裕，能秒回、长聊、随叫随到，并给46个女的一起表白；门槛是主动和脸皮厚。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 101,
+          "url": "https://www.douyin.com/video/7651520151568813358"
+        },
+        {
+          "index": 175,
+          "url": "https://www.douyin.com/video/7602851304486079786"
+        }
+      ]
+    },
+    {
+      "event_id": "E003",
+      "title": "用二手手机与改装电动车撑门面",
+      "description": "小黄毛一两个月换一部二手手机，人均两个充电宝，骑改装9号电动车；手机和电动车被小太妹、小JK用来判断实力。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 45,
+          "url": "https://www.douyin.com/video/7683421956008557434"
+        },
+        {
+          "index": 210,
+          "url": "https://www.douyin.com/video/7579264195695267106"
+        }
+      ]
+    },
+    {
+      "event_id": "E004",
+      "title": "为女友或瑜伽裤借贷消费",
+      "description": "小黄毛兜里只剩200元也能撸网贷给女友转520，借钱给瑜伽裤买貂，花呗分期买梦特娇，以短期付出兑现吸引力。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 133,
+          "url": "https://www.douyin.com/video/7630332540896759092"
+        },
+        {
+          "index": 294,
+          "url": "https://www.douyin.com/video/7492821775407942912"
+        }
+      ]
+    },
+    {
+      "event_id": "E005",
+      "title": "被老阿姨拿捏并诱导消费借贷",
+      "description": "老阿姨释放可得性、夸赞小黄毛，小黄毛冲动轻信，高价买杂牌衣服；没钱时被诱导撸网贷、卖9号电动车买金镯子，甚至被撺掇偷。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 173,
+          "url": "https://www.douyin.com/video/7605066774983331081"
+        }
+      ]
+    },
+    {
+      "event_id": "E006",
+      "title": "拿捏小太妹并被倒贴",
+      "description": "小太妹能崩葱姜蒜，却遇到小黄毛算天敌；酒吧气氛组、台球厅助教、红浪漫音乐老师赚的钱可能给小黄毛花。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 175,
+          "url": "https://www.douyin.com/video/7602851304486079786"
+        }
+      ]
+    },
+    {
+      "event_id": "E007",
+      "title": "购买二手豪车后断贷被收车",
+      "description": "小黄毛羡慕二手五六E，找二手车贩子买性能小钢炮或老款车，工资撑不起贷款，不出三月还不上，车被收回并倒欠饥荒。",
+      "temporal": "有原文明确‘不出3月’先后",
+      "chronology_basis": "明示",
+      "evidence": [
+        {
+          "index": 207,
+          "url": "https://www.douyin.com/video/7582623409314549046"
+        },
+        {
+          "index": 213,
+          "url": "https://www.douyin.com/video/7578062613863599401"
+        }
+      ]
+    },
+    {
+      "event_id": "E008",
+      "title": "与老阿姨发生冲突时吃亏",
+      "description": "小黄毛骑电动车与开剁椒鱼头的老阿姨剐蹭，明明被撞却被骂哭；因撸网贷不敢报警，最后被要求赔2000。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 173,
+          "url": "https://www.douyin.com/video/7605066774983331081"
+        }
+      ]
+    },
+    {
+      "event_id": "E009",
+      "title": "被标签为能打架却办不成事",
+      "description": "文案认为小黄毛唯一能帮人办的事是干仗，其他事办不成；年龄小、兜里没钱，钱花在苹果手机和改装电动车上。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 213,
+          "url": "https://www.douyin.com/video/7578062613863599401"
+        }
+      ]
+    },
+    {
+      "event_id": "E010",
+      "title": "装杯可能让人‘装明白’",
+      "description": "文案把好大哥和小黄毛并列为喜欢装杯的人，并称装着装着可能突然装明白，用上三折叠、开路虎揽胜、搂瑜伽裤。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 211,
+          "url": "https://www.douyin.com/video/7578918974604184875"
+        }
+      ]
+    },
+    {
+      "event_id": "E011",
+      "title": "冬天电动车难以继续拿捏厚黑丝",
+      "description": "冬天厚黑丝出现，小黄毛即使改装9号电动车也难以拿捏，因为后座冷、装备门槛上升。",
+      "temporal": "按季节顺序",
+      "chronology_basis": "明示",
+      "evidence": [
+        {
+          "index": 210,
+          "url": "https://www.douyin.com/video/7579264195695267106"
+        }
+      ]
+    },
+    {
+      "event_id": "E012",
+      "title": "被设定为斯丹康的发展形态",
+      "description": "文本明确小JK发展下去是小太妹，斯丹康发展下去是小黄毛；两者拿捏逻辑相同，靠装逼、假大牌、9号电动车吸引更年轻的小JK。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 136,
+          "url": "https://www.douyin.com/video/7627797057612418338"
+        }
+      ]
+    },
+    {
+      "title": "装杯可能让人“装明白”",
+      "desc": "与好大哥并列被称装着装着突然装明白，用上三折叠、开路虎揽胜、搂瑜伽裤",
+      "time": "未交代",
+      "evidence": []
+    }
+  ],
+  "storylines": [
+    {
+      "title": "婚恋市场优势与未来承诺",
+      "event_ids": [
+        "E001",
+        "E002",
+        "E004",
+        "E006",
+        "E010"
+      ],
+      "narrative": "小黄毛以真的喜欢女人、主动、时间充裕、群发表白和情绪陪伴获得异性青睐；小太妹遇到他成为天敌，瑜伽裤也可能迷恋好大哥或小黄毛，前者给结果，后者玩刺激并许诺未来。发展中的冲突是经济兑现不足、关系不唯一，小黄毛可同时谈多个、被不满就官宣别人。原文未给出稳定婚姻或承诺兑现的结果。",
+      "unresolved": "小黄毛是否最终与某人稳定结婚、是否真的兑现未来承诺，原文未交代。",
+      "evidence": [
+        {
+          "index": 294,
+          "url": "https://www.douyin.com/video/7492821775407942912"
+        },
+        {
+          "index": 182,
+          "url": "https://www.douyin.com/video/7598559726875593984"
+        },
+        {
+          "index": 239,
+          "url": "https://www.douyin.com/video/7557694507702160682"
+        }
+      ]
+    },
+    {
+      "title": "面子消费与债务循环",
+      "event_ids": [
+        "E003",
+        "E007",
+        "E010"
+      ],
+      "narrative": "小黄毛用一两个月换二手手机、改装9号电动车、买二手豪车维持排面；随着贷款买车，不出三月可能断贷，车被二手车贩子收回，倒欠饥荒。另一版本说装杯可能让人突然装明白，用上三折叠、路虎揽胜、瑜伽裤妹妹。两种文本并列，未给统一结局。",
+      "unresolved": "装杯导致成长，还是导致债务翻车，原文未统一。",
+      "evidence": [
+        {
+          "index": 213,
+          "url": "https://www.douyin.com/video/7578062613863599401"
+        },
+        {
+          "index": 211,
+          "url": "https://www.douyin.com/video/7578918974604184875"
+        }
+      ]
+    },
+    {
+      "title": "被老阿姨精准猎杀",
+      "event_ids": [
+        "E005",
+        "E008"
+      ],
+      "narrative": "老阿姨被描述为小黄毛最严厉的父亲，利用可得性、夸赞和软柿子策略，让小黄毛高价买杂牌衣服、撸网贷、卖电动车买金镯子；冲突中小黄毛因不懂法、怕撸网贷暴露而被骂哭、赔钱。小黄毛冲动不长记性，容易反复吃亏。",
+      "unresolved": "小黄毛是否报警、维权或从中吸取教训，原文未交代。",
+      "evidence": [
+        {
+          "index": 173,
+          "url": "https://www.douyin.com/video/7605066774983331081"
+        }
+      ]
+    },
+    {
+      "title": "拿捏小太妹",
+      "event_ids": [
+        "E002",
+        "E004",
+        "E006"
+      ],
+      "narrative": "小太妹能崩葱姜蒜，但遇到小黄毛算天敌；小黄毛群发表白、提供时间和情绪陪伴，小太妹或酒吧、台球厅、红浪漫从业者可能把赚到的钱给他花。关系不满时，小黄毛反手官宣别人。",
+      "unresolved": "小太妹与小黄毛的长期关系结局，原文未交代。",
+      "evidence": [
+        {
+          "index": 175,
+          "url": "https://www.douyin.com/video/7602851304486079786"
+        }
+      ]
+    },
+    {
+      "title": "与县城其他男性原型的对照",
+      "event_ids": [
+        "E001",
+        "E009",
+        "E011",
+        "E012"
+      ],
+      "narrative": "文本把小黄毛与好大哥、编二代、做题家、骆驼祥子、老骚包等并置：好大哥拿结果，小黄毛玩刺激；编二代容易认真，小黄毛同时谈好几个；做题家把婚姻当考试，小黄毛会哄人；骆驼祥子踏实但缺情绪价值。小黄毛被当作婚恋吸引力与物质条件错位的原型。",
+      "unresolved": "这种对照未形成小黄毛个人的连续人生解决。",
+      "evidence": [
+        {
+          "index": 294,
+          "url": "https://www.douyin.com/video/7492821775407942912"
+        },
+        {
+          "index": 11,
+          "url": "https://www.douyin.com/video/7701990783653882609"
+        },
+        {
+          "index": 10,
+          "url": "https://www.douyin.com/video/7703063868465985509"
+        }
+      ]
+    }
+  ],
+  "relationships": [
+    {
+      "target": "县城小太妹",
+      "relation": "常见恋爱对象/被小黄毛拿捏，可为其倒贴金钱；不满时小黄毛迅速转向别人。",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 175,
+          "url": "https://www.douyin.com/video/7602851304486079786"
+        },
+        {
+          "index": 239,
+          "url": "https://www.douyin.com/video/7557694507702160682"
+        }
+      ]
+    },
+    {
+      "target": "县城老阿姨",
+      "relation": "天敌/最严厉的父亲；老阿姨拿捏小黄毛，诱导其高价消费、借贷、卖车，冲突中小黄毛吃亏。",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 173,
+          "url": "https://www.douyin.com/video/7605066774983331081"
+        },
+        {
+          "index": 171,
+          "url": "https://www.douyin.com/video/7606559660540571557"
+        }
+      ]
+    },
+    {
+      "target": "县城瑜伽裤",
+      "relation": "可能迷恋小黄毛；小黄毛以刺激和未来承诺吸引她，并撸网贷、借钱、花呗分期为其消费。",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 294,
+          "url": "https://www.douyin.com/video/7492821775407942912"
+        }
+      ]
+    },
+    {
+      "target": "县城小JK/小cosplay",
+      "relation": "坐小黄毛/斯丹康的9号电动车，被刺激感吸引，会夸“你好坏，我好喜欢”。",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 210,
+          "url": "https://www.douyin.com/video/7579264195695267106"
+        },
+        {
+          "index": 136,
+          "url": "https://www.douyin.com/video/7627797057612418338"
+        }
+      ]
+    },
+    {
+      "target": "县城好大哥",
+      "relation": "并列的县城男性原型；好大哥拿结果、做买卖，小黄毛玩刺激、许诺未来结果。",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 294,
+          "url": "https://www.douyin.com/video/7492821775407942912"
+        },
+        {
+          "index": 211,
+          "url": "https://www.douyin.com/video/7578918974604184875"
+        }
+      ]
+    },
+    {
+      "target": "县城编二代",
+      "relation": "对照关系：编二代容易动真格，小黄毛同一时间谈好几个。",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 182,
+          "url": "https://www.douyin.com/video/7598559726875593984"
+        }
+      ]
+    },
+    {
+      "target": "县城做题家",
+      "relation": "婚恋市场对照：做题家把婚姻当考试，小黄毛真的喜欢女人、围绕女人转。",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 11,
+          "url": "https://www.douyin.com/video/7701990783653882609"
+        }
+      ]
+    },
+    {
+      "target": "县城骆驼祥子",
+      "relation": "对照关系：祥子踏实肯干但缺情绪价值，小黄毛能哄女人开心。",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 10,
+          "url": "https://www.douyin.com/video/7703063868465985509"
+        }
+      ]
+    },
+    {
+      "target": "县城小布尔乔亚",
+      "relation": "小黄毛买二手五六E，使小布尔乔亚产生心理落差。",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 207,
+          "url": "https://www.douyin.com/video/7582623409314549046"
+        }
+      ]
+    },
+    {
+      "target": "县城斯丹康",
+      "relation": "被设定为斯丹康的发展形态；两者拿捏小JK/小太妹逻辑相同。",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 136,
+          "url": "https://www.douyin.com/video/7627797057612418338"
+        }
+      ]
+    },
+    {
+      "target": "县城牛逼匠",
+      "relation": "被吹牛者声称可安排进京办，成为信口开河的对象。",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 155,
+          "url": "https://www.douyin.com/video/7618117113026268467"
+        }
+      ]
+    },
+    {
+      "target": "红浪漫音乐老师/台球厅助教/酒吧气氛组姑娘",
+      "relation": "可能赚钱后把钱花给小黄毛，形成女方倒贴。",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 175,
+          "url": "https://www.douyin.com/video/7602851304486079786"
+        }
+      ]
+    },
+    {
+      "target": "县城老骚包",
+      "relation": "前压风格对照：老骚包走量但不精准，小黄毛被称县城最会前压的男性。",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 101,
+          "url": "https://www.douyin.com/video/7651520151568813358"
+        }
+      ]
+    },
+    {
+      "target": "二手车贩子",
+      "relation": "向二手车贩子买性能车/二手车，断贷后退车或被收车。",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 213,
+          "url": "https://www.douyin.com/video/7578062613863599401"
+        }
+      ]
+    }
+  ],
+  "speech_habits": [
+    {
+      "claim": "会说漂亮话、哄女人，情绪陪伴优先。",
+      "evidence": [
+        {
+          "index": 11,
+          "url": "https://www.douyin.com/video/7701990783653882609"
+        },
+        {
+          "index": 10,
+          "url": "https://www.douyin.com/video/7703063868465985509"
+        }
+      ]
+    },
+    {
+      "claim": "群发表白，广撒网式主动。",
+      "evidence": [
+        {
+          "index": 175,
+          "url": "https://www.douyin.com/video/7602851304486079786"
+        },
+        {
+          "index": 11,
+          "url": "https://www.douyin.com/video/7701990783653882609"
+        }
+      ]
+    },
+    {
+      "claim": "装委屈、索要转账的戏谑话术。",
+      "evidence": [
+        {
+          "index": 175,
+          "url": "https://www.douyin.com/video/7602851304486079786"
+        }
+      ]
+    },
+    {
+      "claim": "瞧不上小钱，摆出富二代口气。",
+      "evidence": [
+        {
+          "index": 136,
+          "url": "https://www.douyin.com/video/7627797057612418338"
+        }
+      ]
+    }
+  ],
+  "contradictions": [
+    {
+      "issue": "经济条件极差与婚恋吸引力强并存",
+      "versions": [
+        {
+          "claim": "小黄毛没学历、没正经工作、兜里不到200元，却有很多女朋友、换得勤。",
+          "evidence": [
+            {
+              "index": 101,
+              "url": "https://www.douyin.com/video/7651520151568813358"
+            }
+          ]
+        },
+        {
+          "claim": "在很多人眼里是废柴，但漂亮姑娘跟他跑。",
+          "evidence": [
+            {
+              "index": 97,
+              "url": "https://www.douyin.com/video/7653082203291545786"
+            }
+          ]
+        }
+      ],
+      "resolution": "保留并列：文本强调其吸引力来自时间、主动和情绪价值，而非经济条件。"
+    },
+    {
+      "issue": "给女方花钱与接受女方供养并存",
+      "versions": [
+        {
+          "claim": "小黄毛撸网贷给女友转520，借钱给瑜伽裤买包买貂。",
+          "evidence": [
+            {
+              "index": 133,
+              "url": "https://www.douyin.com/video/7630332540896759092"
+            },
+            {
+              "index": 294,
+              "url": "https://www.douyin.com/video/7492821775407942912"
+            }
+          ]
+        },
+        {
+          "claim": "小太妹、台球厅助教、红浪漫音乐老师等赚钱后把钱花给小黄毛。",
+          "evidence": [
+            {
+              "index": 175,
+              "url": "https://www.douyin.com/video/7602851304486079786"
+            }
+          ]
+        }
+      ],
+      "resolution": "并列，不作合并：不同关系中的金钱流向不同。"
+    },
+    {
+      "issue": "装杯可能成真与买车断贷翻车并存",
+      "versions": [
+        {
+          "claim": "好大哥和小黄毛装着装着可能突然装明白，用上三折叠、路虎揽胜、搂瑜伽裤。",
+          "evidence": [
+            {
+              "index": 211,
+              "url": "https://www.douyin.com/video/7578918974604184875"
+            }
+          ]
+        },
+        {
+          "claim": "买二手豪车后不出三月断贷被收车，倒欠5万饥荒。",
+          "evidence": [
+            {
+              "index": 213,
+              "url": "https://www.douyin.com/video/7578062613863599401"
+            }
+          ]
+        }
+      ],
+      "resolution": "保留两种文本走向，不擅自判定哪一版为准。"
+    },
+    {
+      "issue": "小黄毛与斯丹康是否同一角色",
+      "versions": [
+        {
+          "claim": "斯丹康发展下去就是县城小黄毛，两者拿捏逻辑相同。",
+          "evidence": [
+            {
+              "index": 136,
+              "url": "https://www.douyin.com/video/7627797057612418338"
+            }
+          ]
+        },
+        {
+          "claim": "其他文案直接把小黄毛作为独立原型描述，未提斯丹康。",
+          "evidence": [
+            {
+              "index": 101,
+              "url": "https://www.douyin.com/video/7651520151568813358"
+            }
+          ]
+        }
+      ],
+      "resolution": "保留为前后身/类比设定，按出处并列呈现。"
+    },
+    {
+      "issue": "浅薄文化焦虑与继续游戏撩妹",
+      "versions": [
+        {
+          "claim": "小黄毛痛恨自己浅薄、文化和涵养不够。",
+          "evidence": [
+            {
+              "index": 199,
+              "url": "https://www.douyin.com/video/7586683557188242703"
+            }
+          ]
+        },
+        {
+          "claim": "他一天到晚不是玩游戏就是泡妞，工作都没有。",
+          "evidence": [
+            {
+              "index": 175,
+              "url": "https://www.douyin.com/video/7602851304486079786"
+            }
+          ]
+        }
+      ],
+      "resolution": "并列：内心焦虑与外在行为不一致。"
+    }
+  ],
+  "gaps": [
+    "没有真实姓名、具体年龄、出生地和家庭背景。",
+    "没有固定职业和稳定收入来源，只知没有正经工作、月入三五千或兜里不到200元。",
+    "是否结婚、是否生子、孩子情况未交代。",
+    "与小太妹、小JK、瑜伽裤、老阿姨等各段关系的最终结局未交代。",
+    "装杯成功与断贷翻车两种走向没有统一结论。",
+    "是否因撸网贷、被诱导偷窃、冲突赔钱产生法律后果未交代。",
+    "‘县城小黄毛’明显是复合群像，文本未证明所有出现都是同一个人。",
+    "与斯丹康是否同一人的具体演变过程未交代。",
+    "“县城小黄毛”明显是复合群像，文本未证明所有出现都是同一个人。"
+  ],
+  "creative_expansions": [],
+  "source_coverage": [
+    {
+      "index": 10,
+      "role": "提供婚恋市场大杀四方、真的喜欢女人、9号电动车与情绪价值材料。",
+      "url": "https://www.douyin.com/video/7703063868465985509"
+    },
+    {
+      "index": 11,
+      "role": "系统解释黄毛婚恋优势：学历低避开道德束缚、主动对多人、没正经工作、喜欢女人、会哄人。",
+      "url": "https://www.douyin.com/video/7701990783653882609"
+    },
+    {
+      "index": 45,
+      "role": "提供一两个月换二手手机、人均两个充电宝、用小黄毛手机判断实力等面子消费材料。",
+      "url": "https://www.douyin.com/video/7683421956008557434"
+    },
+    {
+      "index": 97,
+      "role": "提供小黄毛是废柴却吸引美女、晚前压不如早前压的对照材料。",
+      "url": "https://www.douyin.com/video/7653082203291545786"
+    },
+    {
+      "index": 101,
+      "role": "核心材料：最会前压、时间充裕、秒回长聊、纹龙画虎、9号电动车、没钱却女友多、老骚包对照。",
+      "url": "https://www.douyin.com/video/7651520151568813358"
+    },
+    {
+      "index": 116,
+      "role": "给出‘小黄毛的年少轻狂’标签。",
+      "url": "https://www.douyin.com/video/7643277690203589923"
+    },
+    {
+      "index": 133,
+      "role": "提供兜里200元仍撸网贷给女友转520的消费材料。",
+      "url": "https://www.douyin.com/video/7630332540896759092"
+    },
+    {
+      "index": 136,
+      "role": "提供斯丹康发展成小黄毛、假大牌、改装9号电动、拿捏小JK与装逼付费材料。",
+      "url": "https://www.douyin.com/video/7627797057612418338"
+    },
+    {
+      "index": 155,
+      "role": "提供吹牛者声称给纹龙画虎小黄毛安排驻京办的材料。",
+      "url": "https://www.douyin.com/video/7618117113026268467"
+    },
+    {
+      "index": 171,
+      "role": "提供老阿姨拿捏小黄毛露头就秒、小黄毛会撸网贷买北面的材料。",
+      "url": "https://www.douyin.com/video/7606559660540571557"
+    },
+    {
+      "index": 173,
+      "role": "核心材料：老阿姨是小黄毛最严厉父亲，小黄毛冲动轻信、买杂牌衣服、被诱导借贷卖车、冲突赔钱。",
+      "url": "https://www.douyin.com/video/7605066774983331081"
+    },
+    {
+      "index": 175,
+      "role": "核心材料：小黄毛是小太妹最严厉父亲，群发表白、时间充裕、关系切换、女方倒贴。",
+      "url": "https://www.douyin.com/video/7602851304486079786"
+    },
+    {
+      "index": 182,
+      "role": "提供小黄毛同一时间谈好几个、与编二代对照的材料。",
+      "url": "https://www.douyin.com/video/7598559726875593984"
+    },
+    {
+      "index": 199,
+      "role": "提供小黄毛痛恨自己浅薄、文化涵养不够的心理材料。",
+      "url": "https://www.douyin.com/video/7586683557188242703"
+    },
+    {
+      "index": 207,
+      "role": "提供小黄毛买二手五六E、使小布尔乔亚落差的材料。",
+      "url": "https://www.douyin.com/video/7582623409314549046"
+    },
+    {
+      "index": 210,
+      "role": "提供冬天电动车无法拿捏厚黑丝、后座小JK觉得‘你好坏’的材料。",
+      "url": "https://www.douyin.com/video/7579264195695267106"
+    },
+    {
+      "index": 211,
+      "role": "提供小黄毛与好大哥装杯、装着装着可能装明白的材料。",
+      "url": "https://www.douyin.com/video/7578918974604184875"
+    },
+    {
+      "index": 213,
+      "role": "提供唯一能办事是干仗、改装手机电动车、买二手车断贷倒欠饥荒的材料。",
+      "url": "https://www.douyin.com/video/7578062613863599401"
+    },
+    {
+      "index": 239,
+      "role": "提供小太妹不满则小黄毛官宣别人的关系切换材料。",
+      "url": "https://www.douyin.com/video/7557694507702160682"
+    },
+    {
+      "index": 265,
+      "role": "提供小黄毛不再穿耐克阿迪彪马、品牌装杯价值下降的材料。",
+      "url": "https://www.douyin.com/video/7523245622149860671"
+    },
+    {
+      "index": 294,
+      "role": "提供小黄毛与好大哥并列、玩刺激、许诺未来结果、撸网贷买包买貂买梦特娇的材料。",
+      "url": "https://www.douyin.com/video/7492821775407942912"
+    }
+  ]
+}

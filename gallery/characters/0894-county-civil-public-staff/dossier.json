@@ -1,0 +1,1102 @@
+{
+  "name": "县城公务员事业编",
+  "nature": "原型/复合群像。同一名称下混合公务员、事业编、合同工、临时工及“体制内/编制”泛称，文本编纂说明：以县城编制评价体系为主，适合按出处理解其叙述设定。",
+  "overview": "“县城公务员事业编”在原始文案中不是某一位具体人物，而是县城评价体系里被反复书写的一组身份原型：月薪约四五千，岗位却常被描述为报录比几百比一；收入不高，却被赋予排面、稳定、社会认可和婚恋优势。文本常把公务员置于天花板，事业编次之，国企、医生、律师、银行等随后，其他工作被视为临时工。它被家庭当作代际工程，被婚恋市场当作含编率筹码，被个人当作信仰与保底工程；同时又伴随升迁有限、形式主义、能力退化、财政拖欠、灰色收入误解和子类型分化，如编二代、躺编00后、带编铁娘子、体制内压抑男性等。多版本并存：既写“倒贴钱也考”，也写财政拖欠、铁饭碗动摇；既写编制给下一代，也写其为个人牺牲。",
+  "identity": [
+    {
+      "claim": "县城编制身份被赋予高社会地位和排面，月薪约5000仍被看重。",
+      "evidence": [
+        {
+          "index": 264,
+          "url": "https://www.douyin.com/video/7524153080632315175"
+        },
+        {
+          "index": 364,
+          "url": "https://www.douyin.com/video/7379276852789087525"
+        },
+        {
+          "index": 415,
+          "url": "https://www.douyin.com/video/7312837773948390668"
+        }
+      ]
+    },
+    {
+      "claim": "编制内部有层级：公务员是天花板，事业编次之，国企、医生、律师、银行等随后。",
+      "evidence": [
+        {
+          "index": 415,
+          "url": "https://www.douyin.com/video/7312837773948390668"
+        },
+        {
+          "index": 585,
+          "url": "https://www.douyin.com/video/7099766213445700871"
+        }
+      ]
+    },
+    {
+      "claim": "收入常被写成不高：月薪3900、4500、5000，一年七八万。",
+      "evidence": [
+        {
+          "index": 573,
+          "url": "https://www.douyin.com/video/7126095188300270861"
+        },
+        {
+          "index": 47,
+          "url": "https://www.douyin.com/video/7682638122002711013"
+        },
+        {
+          "index": 572,
+          "url": "https://www.douyin.com/video/7138784739695086879"
+        }
+      ]
+    },
+    {
+      "claim": "岗位竞争激烈，报录比高，多人抢一个编制。",
+      "evidence": [
+        {
+          "index": 264,
+          "url": "https://www.douyin.com/video/7524153080632315175"
+        },
+        {
+          "index": 575,
+          "url": "https://www.douyin.com/video/7117953200484830500"
+        },
+        {
+          "index": 37,
+          "url": "https://www.douyin.com/video/7686768342103715429"
+        }
+      ]
+    },
+    {
+      "claim": "编制被当作家庭代际工程，不只是个人职业。",
+      "evidence": [
+        {
+          "index": 233,
+          "url": "https://www.douyin.com/video/7565399420146683193"
+        },
+        {
+          "index": 286,
+          "url": "https://www.douyin.com/video/7503950426107088165"
+        }
+      ]
+    },
+    {
+      "claim": "编制群体存在子类型：编二代、躺编00后、带编铁娘子等。",
+      "evidence": [
+        {
+          "index": 104,
+          "url": "https://www.douyin.com/video/7648106609897426191"
+        },
+        {
+          "index": 170,
+          "url": "https://www.douyin.com/video/7606986587697099185"
+        },
+        {
+          "index": 21,
+          "url": "https://www.douyin.com/video/7695750815688046501"
+        }
+      ]
+    }
+  ],
+  "traits": [
+    {
+      "claim": "考编被文本描述为信仰、执念，甚至工资发不出、倒贴钱也有人考。",
+      "kind": "动机",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 456,
+          "url": "https://www.douyin.com/video/7284484967281790244"
+        },
+        {
+          "index": 408,
+          "url": "https://www.douyin.com/video/7318029441685327140"
+        },
+        {
+          "index": 411,
+          "url": "https://www.douyin.com/video/7316027577792007451"
+        }
+      ]
+    },
+    {
+      "claim": "编制的核心价值被写成尊重、认可、排面，而非单纯工资。",
+      "kind": "欲望",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 411,
+          "url": "https://www.douyin.com/video/7316027577792007451"
+        },
+        {
+          "index": 364,
+          "url": "https://www.douyin.com/video/7379276852789087525"
+        },
+        {
+          "index": 585,
+          "url": "https://www.douyin.com/video/7099766213445700871"
+        }
+      ]
+    },
+    {
+      "claim": "稳定低薪但抗风险，敢花钱是因为工资准点到账、工作丢不了。",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 572,
+          "url": "https://www.douyin.com/video/7138784739695086879"
+        },
+        {
+          "index": 415,
+          "url": "https://www.douyin.com/video/7312837773948390668"
+        },
+        {
+          "index": 233,
+          "url": "https://www.douyin.com/video/7565399420146683193"
+        }
+      ]
+    },
+    {
+      "claim": "升迁空间有限，工作常有形式主义和杂活，入编后可能祛魅。",
+      "kind": "矛盾",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 47,
+          "url": "https://www.douyin.com/video/7682638122002711013"
+        },
+        {
+          "index": 431,
+          "url": "https://www.douyin.com/video/7296498507467230491"
+        }
+      ]
+    },
+    {
+      "claim": "在县城婚恋评价中，编制压倒收入，含编率成为硬指标。",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 199,
+          "url": "https://www.douyin.com/video/7586683557188242703"
+        },
+        {
+          "index": 145,
+          "url": "https://www.douyin.com/video/7623070673635691791"
+        },
+        {
+          "index": 203,
+          "url": "https://www.douyin.com/video/7585173030377131316"
+        }
+      ]
+    },
+    {
+      "claim": "编制被外界想象为有灰色收入、福利高，真实收入解释不易被相信。",
+      "kind": "矛盾",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 572,
+          "url": "https://www.douyin.com/video/7138784739695086879"
+        }
+      ]
+    },
+    {
+      "claim": "体制内男性被文本描述为易陷入虚无和压抑，羡慕好大哥、小黄毛与瑜伽裤。",
+      "kind": "恐惧",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 184,
+          "url": "https://www.douyin.com/video/7596671206527438086"
+        }
+      ]
+    },
+    {
+      "claim": "躺编00后与带编铁娘子构成两类相反气质：佛系摆烂与优越强势。",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 170,
+          "url": "https://www.douyin.com/video/7606986587697099185"
+        },
+        {
+          "index": 168,
+          "url": "https://www.douyin.com/video/7609198062229764005"
+        },
+        {
+          "index": 21,
+          "url": "https://www.douyin.com/video/7695750815688046501"
+        }
+      ]
+    },
+    {
+      "claim": "考编热潮被写成全国现象，并非山东独有。",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 392,
+          "url": "https://www.douyin.com/video/7338830079755062555"
+        }
+      ]
+    }
+  ],
+  "life_domains": [
+    {
+      "domain": "职业",
+      "claim": "编制工作被描述为稳定、丢不了，但也低薪、升迁有限、常做形式主义任务。",
+      "evidence": [
+        {
+          "index": 170,
+          "url": "https://www.douyin.com/video/7606986587697099185"
+        },
+        {
+          "index": 47,
+          "url": "https://www.douyin.com/video/7682638122002711013"
+        },
+        {
+          "index": 364,
+          "url": "https://www.douyin.com/video/7379276852789087525"
+        }
+      ]
+    },
+    {
+      "domain": "金钱",
+      "claim": "工资低但有五险一金和绩效想象，家庭常以父母帮衬维持体面。",
+      "evidence": [
+        {
+          "index": 415,
+          "url": "https://www.douyin.com/video/7312837773948390668"
+        },
+        {
+          "index": 573,
+          "url": "https://www.douyin.com/video/7126095188300270861"
+        }
+      ]
+    },
+    {
+      "domain": "婚恋",
+      "claim": "体制内身份在相亲中强势，体制内外不通婚，公务员高于事业编。",
+      "evidence": [
+        {
+          "index": 585,
+          "url": "https://www.douyin.com/video/7099766213445700871"
+        },
+        {
+          "index": 145,
+          "url": "https://www.douyin.com/video/7623070673635691791"
+        },
+        {
+          "index": 203,
+          "url": "https://www.douyin.com/video/7585173030377131316"
+        }
+      ]
+    },
+    {
+      "domain": "家庭",
+      "claim": "父母期待孩子考编，编制家庭追求代际复制和六口人稳定收入。",
+      "evidence": [
+        {
+          "index": 575,
+          "url": "https://www.douyin.com/video/7117953200484830500"
+        },
+        {
+          "index": 286,
+          "url": "https://www.douyin.com/video/7503950426107088165"
+        }
+      ]
+    },
+    {
+      "domain": "社交/人情",
+      "claim": "编制身份被用来显示单位、局办、办事能力，并形成单位话术。",
+      "evidence": [
+        {
+          "index": 364,
+          "url": "https://www.douyin.com/video/7379276852789087525"
+        },
+        {
+          "index": 456,
+          "url": "https://www.douyin.com/video/7284484967281790244"
+        }
+      ]
+    },
+    {
+      "domain": "消费/排面",
+      "claim": "低薪编制人员仍可开BBA、靠父母托举，面子与单位身份被绑定。",
+      "evidence": [
+        {
+          "index": 456,
+          "url": "https://www.douyin.com/video/7284484967281790244"
+        },
+        {
+          "index": 573,
+          "url": "https://www.douyin.com/video/7126095188300270861"
+        }
+      ]
+    },
+    {
+      "domain": "心理",
+      "claim": "编制既带来安全感，也带来虚无、压抑和入编后的落差。",
+      "evidence": [
+        {
+          "index": 184,
+          "url": "https://www.douyin.com/video/7596671206527438086"
+        },
+        {
+          "index": 47,
+          "url": "https://www.douyin.com/video/7682638122002711013"
+        }
+      ]
+    },
+    {
+      "domain": "权力/办事",
+      "claim": "编制实际办事能力常被文本怀疑，权力变现边界有限。",
+      "evidence": [
+        {
+          "index": 145,
+          "url": "https://www.douyin.com/video/7623070673635691791"
+        },
+        {
+          "index": 417,
+          "url": "https://www.douyin.com/video/7311348095764204836"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "event_id": "E001",
+      "title": "县城编制岗位招录竞争激烈",
+      "description": "文本反复称县城公务员事业编月薪约5000，但招录比几百比一，甚至1000多人抢一个岗位。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 264,
+          "url": "https://www.douyin.com/video/7524153080632315175"
+        },
+        {
+          "index": 575,
+          "url": "https://www.douyin.com/video/7117953200484830500"
+        }
+      ]
+    },
+    {
+      "event_id": "E002",
+      "title": "考编被当作信仰，降薪拖欠仍有人考",
+      "description": "即便部分地区财政困难、工资拖欠，文本仍称入编热情不减，甚至倒贴钱也上。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 483,
+          "url": "https://www.douyin.com/video/7261634100555943223"
+        },
+        {
+          "index": 408,
+          "url": "https://www.douyin.com/video/7318029441685327140"
+        }
+      ]
+    },
+    {
+      "event_id": "E003",
+      "title": "入编后父母扬眉吐气，相亲市场强势",
+      "description": "考上编制被描述为父母有面子、相亲大杀四方，形成社会认可。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 364,
+          "url": "https://www.douyin.com/video/7379276852789087525"
+        },
+        {
+          "index": 585,
+          "url": "https://www.douyin.com/video/7099766213445700871"
+        }
+      ]
+    },
+    {
+      "event_id": "E004",
+      "title": "入编后祛魅：低薪、杂活、升迁有限",
+      "description": "文本称入编后能力退化，很多活谁干都行，入编那天最幸福，之后祛魅。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 47,
+          "url": "https://www.douyin.com/video/7682638122002711013"
+        }
+      ]
+    },
+    {
+      "event_id": "E005",
+      "title": "体制内婚恋卡含编率与单位层级",
+      "description": "相亲中卡家庭含编率，公务员高于事业编，体制内外甚至不同行业不通婚。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 145,
+          "url": "https://www.douyin.com/video/7623070673635691791"
+        },
+        {
+          "index": 203,
+          "url": "https://www.douyin.com/video/7585173030377131316"
+        }
+      ]
+    },
+    {
+      "event_id": "E006",
+      "title": "编制被用于下一代与家庭代际传递",
+      "description": "文本称编制不是给自己考的，是给下一代考的；六编家庭收入稳定。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 233,
+          "url": "https://www.douyin.com/video/7565399420146683193"
+        },
+        {
+          "index": 286,
+          "url": "https://www.douyin.com/video/7503950426107088165"
+        }
+      ]
+    },
+    {
+      "event_id": "E007",
+      "title": "财政拖欠与铁饭碗质疑出现",
+      "description": "有文本称部分地区公司/单位开始拖欠，铁饭碗并非绝对，真正底气是存款。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 481,
+          "url": "https://www.douyin.com/video/7262569706450718015"
+        }
+      ]
+    },
+    {
+      "event_id": "E008",
+      "title": "高分考生放弃985选公费师范生",
+      "description": "文本称有631分考生放弃985，选择山东师范大学公费师范生，显示编制执念。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 483,
+          "url": "https://www.douyin.com/video/7261634100555943223"
+        }
+      ]
+    },
+    {
+      "event_id": "E009",
+      "title": "体制内男性压抑与虚无",
+      "description": "文本称县城体制内男性最易陷入人生虚无，羡慕好大哥、小黄毛与瑜伽裤。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 184,
+          "url": "https://www.douyin.com/video/7596671206527438086"
+        }
+      ]
+    },
+    {
+      "event_id": "E010",
+      "title": "躺编00后与小工贼形成单位内部拉扯",
+      "description": "躺编00后有编制却不上进，小工贼破坏躺平环境，形成单位内部压力。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 170,
+          "url": "https://www.douyin.com/video/7606986587697099185"
+        },
+        {
+          "index": 168,
+          "url": "https://www.douyin.com/video/7609198062229764005"
+        }
+      ]
+    }
+  ],
+  "storylines": [
+    {
+      "title": "考编执念与排面：从父母期待到入编张扬",
+      "event_ids": [
+        "E001",
+        "E002",
+        "E003",
+        "E008"
+      ],
+      "narrative": "文本中，县城公务员事业编被塑造成低薪却高排面的岗位。父母期待孩子回家考编，考生全职备考、报班、巡考，岗位报录比几百比一。即便财政拖欠工资，仍有人把考编当信仰。上岸后发朋友圈、开BBA、父母扬眉吐气，编制成为社会认可和婚恋筹码。",
+      "unresolved": "原文没有交代这些入编者后续是否长期满意，也没有统一说明公务员与事业编的具体待遇差异。",
+      "evidence": [
+        {
+          "index": 575,
+          "url": "https://www.douyin.com/video/7117953200484830500"
+        },
+        {
+          "index": 456,
+          "url": "https://www.douyin.com/video/7284484967281790244"
+        },
+        {
+          "index": 483,
+          "url": "https://www.douyin.com/video/7261634100555943223"
+        }
+      ]
+    },
+    {
+      "title": "编制作为县城婚恋硬通货",
+      "event_ids": [
+        "E003",
+        "E005",
+        "E006"
+      ],
+      "narrative": "在县城婚恋评价里，收入不是第一位，含编率才是关键。公务员高于事业编，编一代与编二代不通婚，体制内外不同行业也不通婚。编制家庭被羡慕，父母有编、孩子有编、再找带编对象，被视为圆满。",
+      "unresolved": "原文没有给出具体成功匹配比例，也没有交代无编高收入者在婚恋中的长期结果。",
+      "evidence": [
+        {
+          "index": 145,
+          "url": "https://www.douyin.com/video/7623070673635691791"
+        },
+        {
+          "index": 585,
+          "url": "https://www.douyin.com/video/7099766213445700871"
+        },
+        {
+          "index": 286,
+          "url": "https://www.douyin.com/video/7503950426107088165"
+        }
+      ]
+    },
+    {
+      "title": "稳定低薪下的真实处境与子类型分化",
+      "event_ids": [
+        "E004",
+        "E007",
+        "E009",
+        "E010"
+      ],
+      "narrative": "编制提供稳定，但文本不断写出低薪、杂活、形式主义、升迁有限和入编祛魅。体制内男性压抑，躺编00后佛系，带编铁娘子强势，小工贼破坏躺平环境。部分地区拖欠工资后，铁饭碗也受到质疑，真正底气被说成银行卡余额。",
+      "unresolved": "原文没有统一说明编制改革、降薪和拖欠的具体范围，也没有终结‘信仰’与‘现实’之间的冲突。",
+      "evidence": [
+        {
+          "index": 47,
+          "url": "https://www.douyin.com/video/7682638122002711013"
+        },
+        {
+          "index": 184,
+          "url": "https://www.douyin.com/video/7596671206527438086"
+        },
+        {
+          "index": 481,
+          "url": "https://www.douyin.com/video/7262569706450718015"
+        }
+      ]
+    }
+  ],
+  "relationships": [
+    {
+      "target": "县城编二代",
+      "relation": "编制家庭代际传递与同类婚配对象",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 104,
+          "url": "https://www.douyin.com/video/7648106609897426191"
+        },
+        {
+          "index": 286,
+          "url": "https://www.douyin.com/video/7503950426107088165"
+        }
+      ]
+    },
+    {
+      "target": "县城老社保",
+      "relation": "编制体系的退休形态与未来保障参照",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 170,
+          "url": "https://www.douyin.com/video/7606986587697099185"
+        },
+        {
+          "index": 233,
+          "url": "https://www.douyin.com/video/7565399420146683193"
+        }
+      ]
+    },
+    {
+      "target": "带编铁娘子",
+      "relation": "编制女性子类型，强势、攀比、控制欲强",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 21,
+          "url": "https://www.douyin.com/video/7695750815688046501"
+        },
+        {
+          "index": 54,
+          "url": "https://www.douyin.com/video/7677265836126499813"
+        }
+      ]
+    },
+    {
+      "target": "躺编00后",
+      "relation": "编制青年子类型，有编但不上进",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 170,
+          "url": "https://www.douyin.com/video/7606986587697099185"
+        },
+        {
+          "index": 168,
+          "url": "https://www.douyin.com/video/7609198062229764005"
+        }
+      ]
+    },
+    {
+      "target": "考编大军/正在考编者",
+      "relation": "竞争关系；正在考编被当成一种工作状态",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 454,
+          "url": "https://www.douyin.com/video/7286132924796144950"
+        },
+        {
+          "index": 575,
+          "url": "https://www.douyin.com/video/7117953200484830500"
+        }
+      ]
+    },
+    {
+      "target": "私企/大厂/销售/程序员",
+      "relation": "收入比较对象；高薪但被认为稳定性差",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 363,
+          "url": "https://www.douyin.com/video/7379579736059579657"
+        },
+        {
+          "index": 578,
+          "url": "https://www.douyin.com/video/7109401165070191909"
+        }
+      ]
+    },
+    {
+      "target": "县城好大哥/小黄毛/瑜伽裤",
+      "relation": "体制内男性压抑时的外部诱惑与对照物",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 184,
+          "url": "https://www.douyin.com/video/7596671206527438086"
+        },
+        {
+          "index": 199,
+          "url": "https://www.douyin.com/video/7586683557188242703"
+        }
+      ]
+    },
+    {
+      "target": "县城葱姜蒜/小布尔乔亚",
+      "relation": "县城评价体系中的对比群体；编制常压倒收入与财富",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 199,
+          "url": "https://www.douyin.com/video/7586683557188242703"
+        },
+        {
+          "index": 392,
+          "url": "https://www.douyin.com/video/7338830079755062555"
+        }
+      ]
+    },
+    {
+      "target": "教师、护士、银行女",
+      "relation": "体制内婚恋第一梯队，也是大龄剩女集中群体",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 128,
+          "url": "https://www.douyin.com/video/7634402011164740910"
+        },
+        {
+          "index": 73,
+          "url": "https://www.douyin.com/video/7668909563219874682"
+        }
+      ]
+    },
+    {
+      "target": "行政小贵妇/小工贼",
+      "relation": "体制内细分角色，影响单位氛围和攀比",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 111,
+          "url": "https://www.douyin.com/video/7646644426245645755"
+        },
+        {
+          "index": 167,
+          "url": "https://www.douyin.com/video/7609679563001515318"
+        }
+      ]
+    }
+  ],
+  "speech_habits": [
+    {
+      "claim": "常用“在哪个单位/哪个局”定位身份，单位名称比工资更被看重。",
+      "evidence": [
+        {
+          "index": 364,
+          "url": "https://www.douyin.com/video/7379276852789087525"
+        },
+        {
+          "index": 585,
+          "url": "https://www.douyin.com/video/7099766213445700871"
+        }
+      ]
+    },
+    {
+      "claim": "用“原则上”“运作”“对接”等话术暗示办事能力。",
+      "evidence": [
+        {
+          "index": 456,
+          "url": "https://www.douyin.com/video/7284484967281790244"
+        }
+      ]
+    },
+    {
+      "claim": "单位内部有一套区别于普通工作的行政化措辞。",
+      "evidence": [
+        {
+          "index": 364,
+          "url": "https://www.douyin.com/video/7379276852789087525"
+        }
+      ]
+    },
+    {
+      "claim": "“正在考编”本身被当作体面的职业状态。",
+      "evidence": [
+        {
+          "index": 454,
+          "url": "https://www.douyin.com/video/7286132924796144950"
+        }
+      ]
+    }
+  ],
+  "contradictions": [
+    {
+      "issue": "编制是香饽饽还是受降薪拖欠冲击",
+      "versions": [
+        {
+          "claim": "即便降薪、发不出工资、倒贴钱，仍有人挤破头考编。",
+          "evidence": [
+            {
+              "index": 408,
+              "url": "https://www.douyin.com/video/7318029441685327140"
+            },
+            {
+              "index": 456,
+              "url": "https://www.douyin.com/video/7284484967281790244"
+            }
+          ]
+        },
+        {
+          "claim": "部分地区拖欠工资，铁饭碗并不绝对，真正底气是存款。",
+          "evidence": [
+            {
+              "index": 481,
+              "url": "https://www.douyin.com/video/7262569706450718015"
+            }
+          ]
+        }
+      ],
+      "resolution": "保留并列：文本一方面强化考编信仰，另一方面承认财政拖欠和铁饭碗动摇。"
+    },
+    {
+      "issue": "编制是给自己还是给下一代",
+      "versions": [
+        {
+          "claim": "编制不是给自己用的，是给下一代用的。",
+          "evidence": [
+            {
+              "index": 233,
+              "url": "https://www.douyin.com/video/7565399420146683193"
+            }
+          ]
+        },
+        {
+          "claim": "对能力出众者，县城编制意味着放弃物质丰富的可能性，是一种奢侈选择。",
+          "evidence": [
+            {
+              "index": 47,
+              "url": "https://www.douyin.com/video/7682638122002711013"
+            }
+          ]
+        }
+      ],
+      "resolution": "保留并列：同一原型同时被写成个人牺牲和家庭代际投资。"
+    },
+    {
+      "issue": "真实收入低还是被外界认为灰色收入高",
+      "versions": [
+        {
+          "claim": "体制内绝大多数拿死工资，收入解释无人信。",
+          "evidence": [
+            {
+              "index": 572,
+              "url": "https://www.douyin.com/video/7138784739695086879"
+            }
+          ]
+        },
+        {
+          "claim": "编制被赋予自带百万存款、敢花钱的排面。",
+          "evidence": [
+            {
+              "index": 585,
+              "url": "https://www.douyin.com/video/7099766213445700871"
+            },
+            {
+              "index": 572,
+              "url": "https://www.douyin.com/video/7138784739695086879"
+            }
+          ]
+        }
+      ],
+      "resolution": "保留并列：文本强调真实低薪，同时承认外界想象与消费体面。"
+    },
+    {
+      "issue": "公务员是天花板还是编制内也分多种处境",
+      "versions": [
+        {
+          "claim": "公务员高于事业编，事业编高于合同、临时、其他。",
+          "evidence": [
+            {
+              "index": 415,
+              "url": "https://www.douyin.com/video/7312837773948390668"
+            },
+            {
+              "index": 585,
+              "url": "https://www.douyin.com/video/7099766213445700871"
+            }
+          ]
+        },
+        {
+          "claim": "不同行业、不同单位之间也不通婚，且实际办事能力有限。",
+          "evidence": [
+            {
+              "index": 203,
+              "url": "https://www.douyin.com/video/7585173030377131316"
+            },
+            {
+              "index": 145,
+              "url": "https://www.douyin.com/video/7623070673635691791"
+            }
+          ]
+        }
+      ],
+      "resolution": "保留并列：等级存在，但等级内部同样有落差和边界。"
+    },
+    {
+      "issue": "山东最执着考编还是其他省份报名比例更高",
+      "versions": [
+        {
+          "claim": "山东编制被写成信仰，没有工作能凌驾于编制之上。",
+          "evidence": [
+            {
+              "index": 415,
+              "url": "https://www.douyin.com/video/7312837773948390668"
+            },
+            {
+              "index": 575,
+              "url": "https://www.douyin.com/video/7117953200484830500"
+            }
+          ]
+        },
+        {
+          "claim": "浙江、福建、河南、山西等多省考编报名比例比山东高。",
+          "evidence": [
+            {
+              "index": 392,
+              "url": "https://www.douyin.com/video/7338830079755062555"
+            }
+          ]
+        }
+      ],
+      "resolution": "保留并列：山东是文本中的典型叙事符号，但考编热并非山东独有。"
+    }
+  ],
+  "gaps": [
+    "公务员与事业编的具体工资、福利、晋升差异缺少统一数据。",
+    "县城编制、乡镇编制、异地编制之间的具体差异未充分交代。",
+    "体制内日常工作流程、考核内容和形式主义任务的具体清单不完整。",
+    "考编失败者的去向和长期生活状态缺少展开。",
+    "财政拖欠、降薪涉及的具体地区、时间和规模未明确。",
+    "编制内男性压抑与女性带编铁娘子、行政小贵妇之间的关系缺少连续叙事。",
+    "编制家庭代际传递的成功率、失败后果和子女反抗情况未交代。",
+    "编制在真实办事、权力变现和法律边界上的具体案例不足。",
+    "原文没有交代这些入编者后续是否长期满意，也没有统一说明公务员与事业编的具体待遇差异。",
+    "原文没有给出具体成功匹配比例，也没有交代无编高收入者在婚恋中的长期结果。",
+    "原文没有统一说明编制改革、降薪和拖欠的具体范围，也没有终结“信仰”与“现实”之间的冲突。"
+  ],
+  "creative_expansions": [],
+  "source_coverage": [
+    {
+      "index": 264,
+      "role": "提供核心证据：月薪5000的公务员事业编招录比几百比一，排面高于高收入手艺人。",
+      "url": "https://www.douyin.com/video/7524153080632315175"
+    },
+    {
+      "index": 37,
+      "role": "提供考编主力、报录比和编制作为身份符号的材料。",
+      "url": "https://www.douyin.com/video/7686768342103715429"
+    },
+    {
+      "index": 47,
+      "role": "提供县城编制低薪、奢侈选择、能力退化和入编祛魅的材料。",
+      "url": "https://www.douyin.com/video/7682638122002711013"
+    },
+    {
+      "index": 233,
+      "role": "提供编制给下一代、低薪死工资、体制内早婚材料。",
+      "url": "https://www.douyin.com/video/7565399420146683193"
+    },
+    {
+      "index": 286,
+      "role": "提供编制人生剧本、六口人稳定收入材料。",
+      "url": "https://www.douyin.com/video/7503950426107088165"
+    },
+    {
+      "index": 364,
+      "role": "提供山东编制光环、父母扬眉吐气、单位话术材料。",
+      "url": "https://www.douyin.com/video/7379276852789087525"
+    },
+    {
+      "index": 408,
+      "role": "提供工资发不出仍有人考编、倒贴钱也上班的材料。",
+      "url": "https://www.douyin.com/video/7318029441685327140"
+    },
+    {
+      "index": 411,
+      "role": "提供质疑编制到让孩子考编的六步信仰路径。",
+      "url": "https://www.douyin.com/video/7316027577792007451"
+    },
+    {
+      "index": 415,
+      "role": "提供编制内部等级、公务员天花板、事业编次之和五险一金材料。",
+      "url": "https://www.douyin.com/video/7312837773948390668"
+    },
+    {
+      "index": 454,
+      "role": "提供“正在考编”、全职备考、报班费用和入编翻篇材料。",
+      "url": "https://www.douyin.com/video/7286132924796144950"
+    },
+    {
+      "index": 456,
+      "role": "提供考编信仰、排面、BBA、单位话术材料。",
+      "url": "https://www.douyin.com/video/7284484967281790244"
+    },
+    {
+      "index": 481,
+      "role": "提供财政拖欠、铁饭碗质疑和存款底气材料。",
+      "url": "https://www.douyin.com/video/7262569706450718015"
+    },
+    {
+      "index": 483,
+      "role": "提供高分选公费师范生、财政拖欠不影响入编热情材料。",
+      "url": "https://www.douyin.com/video/7261634100555943223"
+    },
+    {
+      "index": 573,
+      "role": "提供事业编低薪但开豪车、靠父母托举、图脸面材料。",
+      "url": "https://www.douyin.com/video/7126095188300270861"
+    },
+    {
+      "index": 575,
+      "role": "提供父母期待考编、信仰、千人抢岗材料。",
+      "url": "https://www.douyin.com/video/7117953200484830500"
+    },
+    {
+      "index": 585,
+      "role": "提供山东编制社会地位、等级、相亲大杀四方材料。",
+      "url": "https://www.douyin.com/video/7099766213445700871"
+    },
+    {
+      "index": 392,
+      "role": "提供全国考编热和“年入百万不及一编”材料。",
+      "url": "https://www.douyin.com/video/7338830079755062555"
+    },
+    {
+      "index": 578,
+      "role": "提供中科院博士考基层公务员、编制等于躺平材料。",
+      "url": "https://www.douyin.com/video/7109401165070191909"
+    },
+    {
+      "index": 572,
+      "role": "提供真实收入不被信、灰色收入误解、敢花钱材料。",
+      "url": "https://www.douyin.com/video/7138784739695086879"
+    },
+    {
+      "index": 431,
+      "role": "提供入编风险、教师编制压力和告诫材料。",
+      "url": "https://www.douyin.com/video/7296498507467230491"
+    },
+    {
+      "index": 184,
+      "role": "提供体制内男性压抑、虚无和对好大哥瑜伽裤的羡慕材料。",
+      "url": "https://www.douyin.com/video/7596671206527438086"
+    },
+    {
+      "index": 170,
+      "role": "提供躺编00后有编不上进材料。",
+      "url": "https://www.douyin.com/video/7606986587697099185"
+    },
+    {
+      "index": 168,
+      "role": "提供躺编00后无房贷车贷、工作丢不了材料。",
+      "url": "https://www.douyin.com/video/7609198062229764005"
+    },
+    {
+      "index": 104,
+      "role": "提供编制内两类人、编二代和酒局人情材料。",
+      "url": "https://www.douyin.com/video/7648106609897426191"
+    },
+    {
+      "index": 199,
+      "role": "提供县城相亲评价体系编制压倒一切材料。",
+      "url": "https://www.douyin.com/video/7586683557188242703"
+    },
+    {
+      "index": 145,
+      "role": "提供含编率、编一代编二代不通婚材料。",
+      "url": "https://www.douyin.com/video/7623070673635691791"
+    },
+    {
+      "index": 203,
+      "role": "提供体制内外和体制内不同行业不通婚材料。",
+      "url": "https://www.douyin.com/video/7585173030377131316"
+    },
+    {
+      "index": 21,
+      "role": "提供带编铁娘子以编制为核心、优越强势材料。",
+      "url": "https://www.douyin.com/video/7695750815688046501"
+    },
+    {
+      "index": 54,
+      "role": "提供末代少爷娶带编铁娘子的婚姻组合材料。",
+      "url": "https://www.douyin.com/video/7677265836126499813"
+    },
+    {
+      "index": 128,
+      "role": "提供教师护士银行女作为体制内大龄剩女集中群体材料。",
+      "url": "https://www.douyin.com/video/7634402011164740910"
+    }
+  ]
+}

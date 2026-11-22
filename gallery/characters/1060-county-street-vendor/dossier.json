@@ -1,0 +1,620 @@
+{
+  "name": "县城摆摊人",
+  "nature": "原型/复合群像，不是单一自然人。核心为#112对县城路边摆摊卖烤冷面、麻辣串、臭豆腐的概括；#29又指卖烤面筋的夫妻摊主，#225指CBD步行街卖烤冷面者，#309提供“品牌创始人/烤冷面主理人”包装话术。各篇只共享“小吃摆摊/个体经营”身份，原文未确认同一人。旧卡别名“二马路小吃街巨头赵铁柱”仅见#112戏称，全库其他篇赵铁柱多为熟食/卤货店老板，不能据此合并。",
+  "overview": "文案把“县城摆摊人”写成收入与面子错位的复合群像。#112称在县城路边摆摊卖烤冷面、麻辣串、臭豆腐能超过95%以上上班族；摆摊卖麻辣串月赚2万却少人干，因为CBD楼下卖麻辣串会被传为下酒菜。#29补充CBD楼下卖烤面筋的夫妻摊主月赚5万多，但明说是个例、大多数达不到，并把这类人归入“不要面子的个体户”。#225称去CBD步行街卖烤冷面月赚1万5，但“不好看”。#77称摆摊、做手艺、搞副业会被笑话没面子、没正经工作。#309建议摆摊者也自称“某某品牌创始人”或“某某烤冷面主理人”。收入数字分属不同品类/个例，原文未合并为同一人的固定收入；“二马路小吃街巨头赵铁柱”只是戏称，与熟食店赵铁柱关系未交代。",
+  "identity": [
+    {
+      "claim": "在县城路边摆摊卖烤冷面、麻辣串、臭豆腐的小吃摊主/个体经营者。",
+      "evidence": [
+        {
+          "index": 112,
+          "url": "https://www.douyin.com/video/7645948649662434612"
+        }
+      ]
+    },
+    {
+      "claim": "具体品类之一：在县城CBD楼下卖烤面筋的摊主，文本称为夫妻经营。",
+      "evidence": [
+        {
+          "index": 29,
+          "url": "https://www.douyin.com/video/7690463808767185337"
+        }
+      ]
+    },
+    {
+      "claim": "具体品类之一：在CBD步行街卖烤冷面。",
+      "evidence": [
+        {
+          "index": 225,
+          "url": "https://www.douyin.com/video/7571128781901925658"
+        }
+      ]
+    },
+    {
+      "claim": "收入被描述为高于多数县城上班族：能超过县城95%以上上班族，摆摊卖麻辣串一个月能赚2万。",
+      "evidence": [
+        {
+          "index": 112,
+          "url": "https://www.douyin.com/video/7645948649662434612"
+        }
+      ]
+    },
+    {
+      "claim": "社会评价低：摆摊、做手艺、搞副业会被笑话没面子、没正经工作、干苦力、没前途。",
+      "evidence": [
+        {
+          "index": 77,
+          "url": "https://www.douyin.com/video/7664527953162788282"
+        }
+      ]
+    },
+    {
+      "claim": "在CBD楼下卖麻辣串会被熟人传出去当作下酒菜、笑料。",
+      "evidence": [
+        {
+          "index": 112,
+          "url": "https://www.douyin.com/video/7645948649662434612"
+        }
+      ]
+    },
+    {
+      "claim": "可用“品牌创始人”“某某烤冷面主理人”等名号包装自己。",
+      "evidence": [
+        {
+          "index": 309,
+          "url": "https://www.douyin.com/video/7477990380806393127"
+        }
+      ]
+    }
+  ],
+  "traits": [
+    {
+      "claim": "赚钱能力与职业评价错位：卖被瞧不起的小吃，收入却能超过多数上班族。",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 112,
+          "url": "https://www.douyin.com/video/7645948649662434612"
+        }
+      ]
+    },
+    {
+      "claim": "能放下县城面子去经营摊子，文本将其归入“不要面子的个体户”。",
+      "kind": "动机",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 29,
+          "url": "https://www.douyin.com/video/7690463808767185337"
+        }
+      ]
+    },
+    {
+      "claim": "恐惧/压力：怕被熟人笑话，怕职业被人当作谈资和下酒菜。",
+      "kind": "恐惧",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 112,
+          "url": "https://www.douyin.com/video/7645948649662434612"
+        },
+        {
+          "index": 77,
+          "url": "https://www.douyin.com/video/7664527953162788282"
+        }
+      ]
+    },
+    {
+      "claim": "矛盾：收入可能超过上班族，却仍处于县城评价体系低位；赚钱与体面不一致。",
+      "kind": "矛盾",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 112,
+          "url": "https://www.douyin.com/video/7645948649662434612"
+        },
+        {
+          "index": 225,
+          "url": "https://www.douyin.com/video/7571128781901925658"
+        }
+      ]
+    },
+    {
+      "claim": "自我包装：用“品牌创始人”“主理人”等称谓替代“摆摊”的直白说法。",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": [
+        {
+          "index": 309,
+          "url": "https://www.douyin.com/video/7477990380806393127"
+        }
+      ]
+    },
+    {
+      "claim": "赚钱能力与职业评价错位：卖被瞧不起的小吃，收入却能超过多数县城上班族。",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "收入可能超过上班族，却仍处于县城评价体系低位；赚钱与体面不一致。",
+      "kind": "矛盾",
+      "certainty": "文本推断",
+      "evidence": []
+    }
+  ],
+  "life_domains": [
+    {
+      "domain": "职业",
+      "claim": "在县城路边、CBD楼下或步行街从事小吃摆摊，品类包括烤冷面、麻辣串、臭豆腐、烤面筋。",
+      "evidence": [
+        {
+          "index": 112,
+          "url": "https://www.douyin.com/video/7645948649662434612"
+        },
+        {
+          "index": 29,
+          "url": "https://www.douyin.com/video/7690463808767185337"
+        }
+      ]
+    },
+    {
+      "domain": "金钱",
+      "claim": "文本给出多种收入说法：麻辣串月赚2万、烤冷面月赚1万5、烤面筋夫妻月赚5万多，但后者被称为个例且大多数达不到。",
+      "evidence": [
+        {
+          "index": 112,
+          "url": "https://www.douyin.com/video/7645948649662434612"
+        },
+        {
+          "index": 225,
+          "url": "https://www.douyin.com/video/7571128781901925658"
+        },
+        {
+          "index": 29,
+          "url": "https://www.douyin.com/video/7690463808767185337"
+        }
+      ]
+    },
+    {
+      "domain": "社交/面子",
+      "claim": "摆摊方式容易成为熟人社会议论对象，被看作没面子、没正经工作。",
+      "evidence": [
+        {
+          "index": 112,
+          "url": "https://www.douyin.com/video/7645948649662434612"
+        },
+        {
+          "index": 77,
+          "url": "https://www.douyin.com/video/7664527953162788282"
+        }
+      ]
+    },
+    {
+      "domain": "消费/排面",
+      "claim": "文本建议摆摊者以品牌、主理人名号制造排面。",
+      "evidence": [
+        {
+          "index": 309,
+          "url": "https://www.douyin.com/video/7477990380806393127"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "event_id": "E001",
+      "title": "文本称县城路边摆摊收入可超过多数上班族",
+      "description": "文案概括在县城路边摆摊卖烤冷面、麻辣串、臭豆腐，能超过县城95%以上上班族；985211、编二代等瞧不上，却未必有摆摊人赚钱多。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 112,
+          "url": "https://www.douyin.com/video/7645948649662434612"
+        }
+      ]
+    },
+    {
+      "event_id": "E002",
+      "title": "摆摊卖麻辣串月赚2万却少人干",
+      "description": "文案称摆摊卖麻辣串一个月能赚2万，却没几个人去干，因为在县城CBD楼下卖麻辣串的事会被传出去当作别人的下酒菜。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 112,
+          "url": "https://www.douyin.com/video/7645948649662434612"
+        }
+      ]
+    },
+    {
+      "event_id": "E003",
+      "title": "卖烤面筋夫妻被举为高收入个体户",
+      "description": "文案称县城CBD楼下有个卖烤面筋的摊主，夫妻俩一个月赚5万多；同时限定这两个例子都是个例，大多数可能达不到这个水准。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 29,
+          "url": "https://www.douyin.com/video/7690463808767185337"
+        }
+      ]
+    },
+    {
+      "event_id": "E004",
+      "title": "CBD步行街卖烤冷面月赚1万5但不好看",
+      "description": "文案在讨论县城面子与职业选择时，举出“去cbd步行街卖烤冷面，一个月是能赚1万5，但是他不好看”。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 225,
+          "url": "https://www.douyin.com/video/7571128781901925658"
+        }
+      ]
+    },
+    {
+      "event_id": "E005",
+      "title": "摆摊被县城评价体系笑话",
+      "description": "文案称，若想摆摊、做手艺、搞副业赚钱，所有人都会笑话你没面子、没正经工作、干苦力、没前途。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 77,
+          "url": "https://www.douyin.com/video/7664527953162788282"
+        }
+      ]
+    },
+    {
+      "event_id": "E006",
+      "title": "用“品牌创始人/主理人”包装摆摊",
+      "description": "文案建议，即使是摆摊卖烤冷面，也要给自己弄个品牌，说自己是某某品牌的创始人，或叫某某烤冷面主理人。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 309,
+          "url": "https://www.douyin.com/video/7477990380806393127"
+        }
+      ]
+    },
+    {
+      "event_id": "E007",
+      "title": "“二马路小吃街巨头赵铁柱”戏称出现",
+      "description": "序号112用“二马路小吃街巨头赵铁柱，力压曼哈顿华尔街之狼盖茨比”戏谑县城经济与小吃街人物，但未明确赵铁柱就是摆摊人。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 112,
+          "url": "https://www.douyin.com/video/7645948649662434612"
+        }
+      ]
+    },
+    {
+      "event_id": "E008",
+      "title": "全库其他篇把赵铁柱写作熟食/卤货店老板",
+      "description": "其他文案中，赵铁柱被写成拥有4家熟食店、鸭货店的实际控股人或熟食卤货店老板，与“摆摊卖烤冷面/麻辣串”的群像不能确认是同一人。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 127,
+          "url": "https://www.douyin.com/video/7634806168099526885"
+        }
+      ]
+    }
+  ],
+  "storylines": [
+    {
+      "title": "路边摆摊：高收入与低面子的错位",
+      "event_ids": [
+        "E001",
+        "E002",
+        "E003",
+        "E004",
+        "E005",
+        "E006"
+      ],
+      "narrative": "文案先提出县城路边摆摊卖烤冷面、麻辣串、臭豆腐能超过95%以上上班族，收入甚至压过985211、编二代。接着举出麻辣串月赚2万、烤冷面月赚1万5、烤面筋夫妻月赚5万多等版本，但强调烤面筋例子是个例、大多数达不到。冲突在于：收入虽可能不低，摆摊却被县城评价体系看作没面子、没正经工作、干苦力、没前途；在CBD楼下卖麻辣串甚至会被传成下酒菜，所以少人干。文案最后给出一种应对：即使摆摊卖烤冷面，也要自称品牌创始人或烤冷面主理人，用名号包装排面。",
+      "unresolved": "原文没有给出具体摊主姓名、真实经营过程、收入是否稳定、是否因摆摊获得尊重，也没有交代这些摊主后续。",
+      "evidence": [
+        {
+          "index": 112,
+          "url": "https://www.douyin.com/video/7645948649662434612"
+        },
+        {
+          "index": 29,
+          "url": "https://www.douyin.com/video/7690463808767185337"
+        },
+        {
+          "index": 225,
+          "url": "https://www.douyin.com/video/7571128781901925658"
+        },
+        {
+          "index": 77,
+          "url": "https://www.douyin.com/video/7664527953162788282"
+        },
+        {
+          "index": 309,
+          "url": "https://www.douyin.com/video/7477990380806393127"
+        }
+      ]
+    },
+    {
+      "title": "赵铁柱名号与摆摊身份的错位",
+      "event_ids": [
+        "E007",
+        "E008"
+      ],
+      "narrative": "序号112用“二马路小吃街巨头赵铁柱，力压曼哈顿华尔街之狼盖茨比”进行戏谑，旧卡据此把赵铁柱列为摆摊人别名。但全库其他篇中，赵铁柱被写作熟食店、鸭货店的实际控股人或熟食卤货店老板，并非明确在路边卖烤冷面、麻辣串的摊主。因此只能保留“文本戏称/同名关联”，按出处并列呈现。",
+      "unresolved": "112中的“赵铁柱”是否指某个摆摊人、是否与其他篇的熟食店赵铁柱为同一人，原文没有说明。",
+      "evidence": [
+        {
+          "index": 112,
+          "url": "https://www.douyin.com/video/7645948649662434612"
+        },
+        {
+          "index": 127,
+          "url": "https://www.douyin.com/video/7634806168099526885"
+        }
+      ]
+    }
+  ],
+  "relationships": [
+    {
+      "target": "县城上班族、985211、编二代",
+      "relation": "被对比对象：文案称摆摊卖小吃能超过95%以上上班族，这帮人瞧不上摆摊人，却未必有摆摊人赚钱多。",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 112,
+          "url": "https://www.douyin.com/video/7645948649662434612"
+        }
+      ]
+    },
+    {
+      "target": "县城熟人、亲友、评论者",
+      "relation": "围观与笑话者：摆摊被视作没面子、没正经工作，在CBD楼下卖麻辣串会被传为下酒菜。",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 112,
+          "url": "https://www.douyin.com/video/7645948649662434612"
+        },
+        {
+          "index": 77,
+          "url": "https://www.douyin.com/video/7664527953162788282"
+        }
+      ]
+    },
+    {
+      "target": "赵铁柱",
+      "relation": "同名/戏称关联：序号112称“二马路小吃街巨头赵铁柱”；其他篇称赵铁柱为熟食店、鸭货店老板。不能确认是同一摆摊人。",
+      "certainty": "文本推断",
+      "evidence": [
+        {
+          "index": 112,
+          "url": "https://www.douyin.com/video/7645948649662434612"
+        },
+        {
+          "index": 127,
+          "url": "https://www.douyin.com/video/7634806168099526885"
+        }
+      ]
+    },
+    {
+      "target": "陆国富",
+      "relation": "并列出现的县城个体户例子：同在序号29中被举为“不要面子的个体户”一类，但职业是理发店老板，不是同一人。",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 29,
+          "url": "https://www.douyin.com/video/7690463808767185337"
+        }
+      ]
+    }
+  ],
+  "speech_habits": [
+    {
+      "claim": "用具体小吃品类指代职业，如“卖烤冷面”“卖麻辣串”“卖臭豆腐”“卖烤面筋”。",
+      "evidence": [
+        {
+          "index": 112,
+          "url": "https://www.douyin.com/video/7645948649662434612"
+        },
+        {
+          "index": 29,
+          "url": "https://www.douyin.com/video/7690463808767185337"
+        }
+      ]
+    },
+    {
+      "claim": "若讲排面，会把摆摊包装成“某某品牌的创始人”。",
+      "evidence": [
+        {
+          "index": 309,
+          "url": "https://www.douyin.com/video/7477990380806393127"
+        }
+      ]
+    },
+    {
+      "claim": "会以“某某烤冷面主理人”作为名号。",
+      "evidence": [
+        {
+          "index": 309,
+          "url": "https://www.douyin.com/video/7477990380806393127"
+        }
+      ]
+    }
+  ],
+  "contradictions": [
+    {
+      "issue": "旧卡把“二马路小吃街巨头赵铁柱”列为县城摆摊人别名，但赵铁柱身份在全库中不一致。",
+      "versions": [
+        {
+          "claim": "版本A：序号112称其为“二马路小吃街巨头赵铁柱”，但没有明确说他摆摊卖烤冷面/麻辣串。",
+          "evidence": [
+            {
+              "index": 112,
+              "url": "https://www.douyin.com/video/7645948649662434612"
+            }
+          ]
+        },
+        {
+          "claim": "版本B：其他篇称赵铁柱是四家熟食店、鸭货店的实际控股人，是熟食/卤货店老板。",
+          "evidence": [
+            {
+              "index": 127,
+              "url": "https://www.douyin.com/video/7634806168099526885"
+            }
+          ]
+        }
+      ],
+      "resolution": "保留并列，不擅自合并为同一人。"
+    },
+    {
+      "issue": "摆摊收入在不同文本中有不同数字。",
+      "versions": [
+        {
+          "claim": "版本A：摆摊卖麻辣串一个月能赚2万。",
+          "evidence": [
+            {
+              "index": 112,
+              "url": "https://www.douyin.com/video/7645948649662434612"
+            }
+          ]
+        },
+        {
+          "claim": "版本B：去CBD步行街卖烤冷面，一个月能赚1万5。",
+          "evidence": [
+            {
+              "index": 225,
+              "url": "https://www.douyin.com/video/7571128781901925658"
+            }
+          ]
+        },
+        {
+          "claim": "版本C：卖烤面筋夫妻一个月赚5万多，但被称为个例，大多数达不到。",
+          "evidence": [
+            {
+              "index": 29,
+              "url": "https://www.douyin.com/video/7690463808767185337"
+            }
+          ]
+        }
+      ],
+      "resolution": "保留并列；原文指向不同品类或个例，按出处并列呈现。"
+    },
+    {
+      "issue": "“县城摆摊人”到底是单个人还是群像。",
+      "versions": [
+        {
+          "claim": "版本A：序号112用泛称“你在路边摆摊，卖个烤冷面，卖个麻辣串，卖个臭豆腐”。",
+          "evidence": [
+            {
+              "index": 112,
+              "url": "https://www.douyin.com/video/7645948649662434612"
+            }
+          ]
+        },
+        {
+          "claim": "版本B：序号29具体指“卖烤面筋的摊主”，夫妻经营。",
+          "evidence": [
+            {
+              "index": 29,
+              "url": "https://www.douyin.com/video/7690463808767185337"
+            }
+          ]
+        },
+        {
+          "claim": "版本C：序号225指“去cbd步行街卖烤冷面”。",
+          "evidence": [
+            {
+              "index": 225,
+              "url": "https://www.douyin.com/video/7571128781901925658"
+            }
+          ]
+        },
+        {
+          "claim": "版本D：序号309指“摆摊卖烤冷面的”并以“烤冷面主理人”包装。",
+          "evidence": [
+            {
+              "index": 309,
+              "url": "https://www.douyin.com/video/7477990380806393127"
+            }
+          ]
+        }
+      ],
+      "resolution": "按复合群像处理，不能当同一自然人的连续传记。"
+    },
+    {
+      "issue": "收入高与面子低并存。",
+      "versions": [
+        {
+          "claim": "版本A：摆摊卖小吃能超过95%以上上班族、月赚2万/1万5/5万多。",
+          "evidence": [
+            {
+              "index": 112,
+              "url": "https://www.douyin.com/video/7645948649662434612"
+            }
+          ]
+        },
+        {
+          "claim": "版本B：摆摊被笑话没面子、没正经工作、干苦力、没前途。",
+          "evidence": [
+            {
+              "index": 77,
+              "url": "https://www.douyin.com/video/7664527953162788282"
+            }
+          ]
+        }
+      ],
+      "resolution": "两者并存：文本强调的是收入与县城面子评价的错位，不是单纯穷或富。"
+    }
+  ],
+  "gaps": [
+    "没有具体姓名、年龄、性别、原籍和家庭情况。",
+    "没有摊位具体地址、经营持续时间、每天营业情况。",
+    "没有摆摊者自己的自述、内心活动和真实收入账目。",
+    "没有交代与赵铁柱的关系，以及112中赵铁柱是否就是摆摊人。",
+    "没有交代与顾客、邻摊、熟人、管理者的具体互动。",
+    "没有后续：是否继续摆摊、是否转行、是否因面子压力放弃。"
+  ],
+  "creative_expansions": [],
+  "source_coverage": [
+    {
+      "index": 112,
+      "role": "核心材料：定义“在县城路边摆摊卖烤冷面、麻辣串、臭豆腐”的群像；给出超过95%上班族、月赚2万、少人干及被当下酒菜的说法；出现“二马路小吃街巨头赵铁柱”戏称。",
+      "url": "https://www.douyin.com/video/7645948649662434612"
+    },
+    {
+      "index": 29,
+      "role": "补充材料：提供“卖烤面筋的摊主”夫妻月赚5万多，并归入“不要面子的个体户”，同时限定为个例。",
+      "url": "https://www.douyin.com/video/7690463808767185337"
+    },
+    {
+      "index": 225,
+      "role": "补充材料：补充“cbd步行街卖烤冷面，一个月能赚1万5，但不好看”的面子评价。",
+      "url": "https://www.douyin.com/video/7571128781901925658"
+    },
+    {
+      "index": 77,
+      "role": "补充材料：说明县城评价体系如何笑话摆摊、做手艺、搞副业者没面子、没正经工作。",
+      "url": "https://www.douyin.com/video/7664527953162788282"
+    },
+    {
+      "index": 309,
+      "role": "补充材料：提供摆摊者包装话术，自称品牌创始人、烤冷面主理人。",
+      "url": "https://www.douyin.com/video/7477990380806393127"
+    },
+    {
+      "index": 127,
+      "role": "辨析材料：证明赵铁柱在别篇中是熟食店、鸭货店老板，不能直接等同于摆摊人。",
+      "url": "https://www.douyin.com/video/7634806168099526885"
+    }
+  ]
+}

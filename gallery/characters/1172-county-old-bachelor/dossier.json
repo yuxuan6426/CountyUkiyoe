@@ -1,0 +1,350 @@
+{
+  "name": "县城老光棍",
+  "nature": "原型/单篇角色。仅序号3明确：在县城婚恋市场讨论中，被作为“40多岁还没找着对象的老光棍”先排除，属于“听起来很惨、当事人未必苦”的类型；无姓名、无连续生平，不能扩写为真实个人，也不与农村大龄剩男/农村光棍合并。",
+  "overview": "县城老光棍是《县城婚恋市场上最惨的男性》开篇先排除的男性类型：40多岁未找着对象，在县城婚恋市场“听起来很惨”。同一篇又称其实际日子滋润，一月赚三五千，两眼一睁一天，一口小酒一口烟，赛神仙，并与北上广一直不结婚各种玩的中产没有区别；由此形成外界婚恋评价与当事人体验不一致的并列版本。文本把他与县城骆驼祥子、被npd媳妇训服帖的闷葫芦并列为“只是听起来很惨”的例子，把真正饱经风霜者指为“县城压抑男”。另据#144/#546，大龄剩男/农村光棍被置于农村或婚恋市场分布语境，不能据此把本角色与农村光棍合并。原文未提供姓名、职业、家庭、婚恋经历等。",
+  "identity": [
+    {
+      "claim": "40多岁还没找着对象的男性，被称为老光棍",
+      "evidence": [
+        {
+          "index": 3,
+          "url": "https://www.douyin.com/video/7707802950475527601"
+        }
+      ]
+    },
+    {
+      "claim": "属于县城婚恋市场中被人拿来讨论“最惨男性”的男性类型",
+      "evidence": [
+        {
+          "index": 3,
+          "url": "https://www.douyin.com/video/7707802950475527601"
+        }
+      ]
+    },
+    {
+      "claim": "收入水平被描述为一个月三五千元",
+      "evidence": [
+        {
+          "index": 3,
+          "url": "https://www.douyin.com/video/7707802950475527601"
+        }
+      ]
+    },
+    {
+      "claim": "原文将其归入“只是听起来很惨”的三种男性之一",
+      "evidence": [
+        {
+          "index": 3,
+          "url": "https://www.douyin.com/video/7707802950475527601"
+        }
+      ]
+    }
+  ],
+  "traits": [
+    {
+      "claim": "未婚且长期没有进入婚姻，是“没找着对象”的老光棍",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 3,
+          "url": "https://www.douyin.com/video/7707802950475527601"
+        }
+      ]
+    },
+    {
+      "claim": "收入不高，但生活状态被作者描述为滋润",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 3,
+          "url": "https://www.douyin.com/video/7707802950475527601"
+        }
+      ]
+    },
+    {
+      "claim": "日常以喝酒抽烟等低成本方式自得其乐",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 3,
+          "url": "https://www.douyin.com/video/7707802950475527601"
+        }
+      ]
+    },
+    {
+      "claim": "与大城市不婚且爱玩的中产在生活体验上被说成没有区别",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 3,
+          "url": "https://www.douyin.com/video/7707802950475527601"
+        }
+      ]
+    },
+    {
+      "claim": "不以婚恋失败为苦，反而显得自洽快活",
+      "kind": "动机",
+      "certainty": "文本推断",
+      "evidence": [
+        {
+          "index": 3,
+          "url": "https://www.douyin.com/video/7707802950475527601"
+        }
+      ]
+    },
+    {
+      "claim": "不以婚恋失败为苦，反而显得自洽快活（文本推断）",
+      "kind": "动机",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "“惨”版本：在县城婚恋市场叙事中，40多岁还没找着对象只是“听起来很惨”",
+      "kind": "矛盾",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "同一性版本A：序号3中的老光棍指县城婚恋市场中40多岁未找对象的男性",
+      "kind": "矛盾",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "同一性版本B：序号144称大龄剩男问题不在县城而在农村，序号546称农村光棍与城市高龄剩女并增，故按出处并列呈现",
+      "kind": "矛盾",
+      "certainty": "文本推断",
+      "evidence": []
+    }
+  ],
+  "life_domains": [
+    {
+      "domain": "婚恋",
+      "claim": "40多岁仍未找着对象，在县城婚恋市场被当作“听起来很惨”的案例",
+      "evidence": [
+        {
+          "index": 3,
+          "url": "https://www.douyin.com/video/7707802950475527601"
+        }
+      ]
+    },
+    {
+      "domain": "金钱",
+      "claim": "月收入约三五千元，经济水平不高",
+      "evidence": [
+        {
+          "index": 3,
+          "url": "https://www.douyin.com/video/7707802950475527601"
+        }
+      ]
+    },
+    {
+      "domain": "消费",
+      "claim": "日常消费表现为小酒小烟，过得赛神仙",
+      "evidence": [
+        {
+          "index": 3,
+          "url": "https://www.douyin.com/video/7707802950475527601"
+        }
+      ]
+    },
+    {
+      "domain": "社会评价",
+      "claim": "被外界视为婚恋市场的惨案对象，但作者认为只是听起来很惨",
+      "evidence": [
+        {
+          "index": 3,
+          "url": "https://www.douyin.com/video/7707802950475527601"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "event_id": "E001",
+      "title": "被列为“不是真正惨”的男性类型",
+      "description": "作者讨论县城婚恋市场最惨男性时，先排除40多岁还没找着对象的老光棍，指出他只是听起来很惨。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 3,
+          "url": "https://www.douyin.com/video/7707802950475527601"
+        }
+      ]
+    },
+    {
+      "event_id": "E002",
+      "title": "被描述为月入三五千、小酒小烟的日子",
+      "description": "文本以顺口溜式短句概括其日常生活：一月赚三五千，睁眼一天，一口小酒一口烟，日子赛神仙。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 3,
+          "url": "https://www.douyin.com/video/7707802950475527601"
+        }
+      ]
+    },
+    {
+      "event_id": "E003",
+      "title": "被类比为北上广不婚且爱玩的中产",
+      "description": "作者称老光棍的真实体验跟北上广一直不结婚各种玩的中产没有区别。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 3,
+          "url": "https://www.douyin.com/video/7707802950475527601"
+        }
+      ]
+    }
+  ],
+  "storylines": [
+    {
+      "title": "“听起来很惨”的县城老光棍",
+      "event_ids": [
+        "E001",
+        "E002",
+        "E003"
+      ],
+      "narrative": "作者先提出县城婚恋市场上被认为最惨的男性，但马上排除老光棍：他40多岁还没找着对象，只是听起来很惨。随后文本给出理由：他一个月赚三五千，两眼一睁一天，一口小酒一口烟，日子赛神仙；这种体验与北上广一直不结婚各种玩的中产没有区别。冲突在于世俗婚恋评价把未婚老光棍看成惨案，而作者试图说明当事人可能乐在其中。最后，真正被作者定义为饱经风霜的，是“县城压抑男”。",
+      "unresolved": "原文没有交代老光棍是否有结婚意愿、是否被催婚、具体职业、家庭状况和后续生活。",
+      "evidence": [
+        {
+          "index": 3,
+          "url": "https://www.douyin.com/video/7707802950475527601"
+        }
+      ]
+    }
+  ],
+  "relationships": [
+    {
+      "target": "北上广那种一直不结婚各种玩的中产",
+      "relation": "被类比：原文称老光棍的真实体验与他们没有区别",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 3,
+          "url": "https://www.douyin.com/video/7707802950475527601"
+        }
+      ]
+    },
+    {
+      "target": "县城压抑男",
+      "relation": "对照：老光棍被排除在真正惨的男性之外，真正惨的是县城压抑男",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 3,
+          "url": "https://www.douyin.com/video/7707802950475527601"
+        }
+      ]
+    },
+    {
+      "target": "县城骆驼祥子",
+      "relation": "并列：同属作者先排除的“听起来很惨”的男性类型",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 3,
+          "url": "https://www.douyin.com/video/7707802950475527601"
+        }
+      ]
+    },
+    {
+      "target": "娶了县城npd人格媳妇的闷葫芦",
+      "relation": "并列：同属作者先排除的“听起来很惨”的男性类型",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 3,
+          "url": "https://www.douyin.com/video/7707802950475527601"
+        }
+      ]
+    }
+  ],
+  "speech_habits": [],
+  "contradictions": [
+    {
+      "issue": "老光棍到底是“惨”还是“滋润”",
+      "versions": [
+        {
+          "claim": "在县城婚恋市场叙事中，40多岁还没找着对象只是“听起来很惨”",
+          "evidence": [
+            {
+              "index": 3,
+              "url": "https://www.douyin.com/video/7707802950475527601"
+            }
+          ]
+        },
+        {
+          "claim": "作者又说他实际日子过得很滋润，小酒小烟赛神仙",
+          "evidence": [
+            {
+              "index": 3,
+              "url": "https://www.douyin.com/video/7707802950475527601"
+            }
+          ]
+        }
+      ],
+      "resolution": "保留并列：外界婚恋评价与当事人实际体验不一致，原文没有给出统一结论。"
+    },
+    {
+      "issue": "“老光棍/光棍”在不同文本中是否同一角色",
+      "versions": [
+        {
+          "claim": "序号3中的老光棍被放在县城婚恋市场语境中，指40多岁还没找着对象的男性",
+          "evidence": [
+            {
+              "index": 3,
+              "url": "https://www.douyin.com/video/7707802950475527601"
+            }
+          ]
+        },
+        {
+          "claim": "其他文本中的大龄剩男/光棍多被放在农村语境中",
+          "evidence": [
+            {
+              "index": 144,
+              "url": "https://www.douyin.com/video/7623454368314002723"
+            },
+            {
+              "index": 546,
+              "url": "https://www.douyin.com/video/7210421576913669411"
+            }
+          ]
+        }
+      ],
+      "resolution": "保留并列，不因“光棍”一词就把县城老光棍与农村大龄剩男/农村光棍合并为同一角色。"
+    }
+  ],
+  "gaps": [
+    "姓名、具体年龄仅知“40多岁”、职业与收入来源细节",
+    "是否有过婚恋经历、是否被催婚、是否主动选择单身",
+    "家庭状况、社交圈、居住与日常消费细节",
+    "与序号144、546等文本中的农村大龄剩男/农村光棍是否存在明确同一关系"
+  ],
+  "creative_expansions": [],
+  "source_coverage": [
+    {
+      "index": 3,
+      "role": "唯一明确提供“老光棍”命名、40多岁未找对象、县城婚恋市场定位、月入三五千、小酒小烟赛神仙及与北上广不婚中产类比的材料",
+      "url": "https://www.douyin.com/video/7707802950475527601"
+    },
+    {
+      "index": 144,
+      "role": "用于边界核查：说明大龄剩男不在县城而在农村，避免与县城老光棍合并",
+      "url": "https://www.douyin.com/video/7623454368314002723"
+    },
+    {
+      "index": 546,
+      "role": "用于边界核查：说明农村光棍与城市高龄剩女的分布，避免把农村光棍材料并入县城老光棍",
+      "url": "https://www.douyin.com/video/7210421576913669411"
+    }
+  ]
+}

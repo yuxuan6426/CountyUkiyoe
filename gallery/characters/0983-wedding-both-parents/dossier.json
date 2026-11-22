@@ -1,0 +1,509 @@
+{
+  "name": "县城婚礼双方父母",
+  "nature": "原型/复合群像，单篇（序号67）角色，非具名个人、无连续传记。指县城婚礼中的双方家庭、两个家庭的父母、男方父母、女方父母、两家子人，并延伸到文本中的婚宴“席主”。是婚礼场面与费用的共同承担者和主办方。",
+  "overview": "序号67中的县城婚礼双方父母，是普通人合力“cosplay富人”的婚礼主办家庭群像：双方家庭掏十几万甚至几十万买一张“豪门体验卡”，租车、租布景、租礼服，按司仪剧本演一天。表面装大气，内部各自盘算——男方父母嫌彩礼掏多，女方父母嫌房子有贷款，两家还盘算改口费。彩礼能摆出38万8、88万8，实为“摆着看的”，两家为此吵了半年；婚宴摆好酒却当观赏品，盼少开瓶多退回；门口摆桌收份子钱，讲究一换一。原文另提“席主”，可归入主办家庭一侧但未明说即父母。婚礼落幕后租赁物归还，新人回归房贷与日常争吵。",
+  "identity": [
+    {
+      "claim": "县城婚礼中的双方家庭/双方父母，是婚礼场面与费用的共同承担者和主办方。",
+      "evidence": [
+        {
+          "index": 67,
+          "url": "https://www.douyin.com/video/7671494057278303865"
+        }
+      ]
+    },
+    {
+      "claim": "文本以“两个家庭的父母”“男方父母”“女方父母”“两家子人”等复合称呼出现，不是单一具名个人。",
+      "evidence": [
+        {
+          "index": 67,
+          "url": "https://www.douyin.com/video/7671494057278303865"
+        }
+      ]
+    },
+    {
+      "claim": "文本中的“席主”被描述为婚宴主办者，可归入婚礼主办家庭一侧，但原文未明说其必为父母。",
+      "evidence": [
+        {
+          "index": 67,
+          "url": "https://www.douyin.com/video/7671494057278303865"
+        }
+      ]
+    }
+  ],
+  "traits": [
+    {
+      "claim": "各自心怀鬼胎，围绕婚礼利益进行盘算。",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 67,
+          "url": "https://www.douyin.com/video/7671494057278303865"
+        }
+      ]
+    },
+    {
+      "claim": "重视面子，哪怕内部争执也要对外装大气。",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 67,
+          "url": "https://www.douyin.com/video/7671494057278303865"
+        }
+      ]
+    },
+    {
+      "claim": "把婚礼当作展示实力、体验富人排场的场域。",
+      "kind": "动机",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 67,
+          "url": "https://www.douyin.com/video/7671494057278303865"
+        }
+      ]
+    },
+    {
+      "claim": "对现金支出实际十分计较、肉疼。",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 67,
+          "url": "https://www.douyin.com/video/7671494057278303865"
+        }
+      ]
+    },
+    {
+      "claim": "在婚宴酒水上耍心机，摆好酒却不打算真让人喝。",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 67,
+          "url": "https://www.douyin.com/video/7671494057278303865"
+        }
+      ]
+    },
+    {
+      "claim": "在意份子钱回收，讲究一换一，不愿多掏一分。",
+      "kind": "动机",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 67,
+          "url": "https://www.douyin.com/video/7671494057278303865"
+        }
+      ]
+    },
+    {
+      "claim": "既表演豪门体面，又处在现实经济拮据中，形成强烈矛盾。",
+      "kind": "矛盾",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 67,
+          "url": "https://www.douyin.com/video/7671494057278303865"
+        }
+      ]
+    },
+    {
+      "claim": "各自心怀鬼胎，围绕婚礼各项花销彼此盘算",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "重视面子，内部吵到差撕头发，对外仍装得很大气",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "把婚礼当成展示实力、体验富人排场的场域，是“普通人cosplay富人的行为艺术”",
+      "kind": "动机",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "对现金支出实际十分计较，三百二百都真在意，点外卖都要研究半天优惠券",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "婚宴摆好酒却当观赏品，不打算真让人喝，怕开瓶心疼",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "在意份子钱回收，讲究一换一，谁也不想多掏一分，别人忘随份子能记二十年",
+      "kind": "动机",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "私下叮嘱关系好的宾客上菜就快吃、吃完快走，以免别人拆酒",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "一边表演豪门体面，一边处在现实经济拮据中，一碰到钱cosplay就困难",
+      "kind": "矛盾",
+      "certainty": "文本推断",
+      "evidence": []
+    }
+  ],
+  "life_domains": [
+    {
+      "domain": "家庭/婚嫁",
+      "claim": "双方父母围绕子女婚礼承担彩礼、房子、改口费、婚宴等事项，并在其中发生利益盘算。",
+      "evidence": [
+        {
+          "index": 67,
+          "url": "https://www.douyin.com/video/7671494057278303865"
+        }
+      ]
+    },
+    {
+      "domain": "金钱/消费",
+      "claim": "在彩礼、婚宴酒水、份子钱上精打细算，展示数字与实际计较并存。",
+      "evidence": [
+        {
+          "index": 67,
+          "url": "https://www.douyin.com/video/7671494057278303865"
+        }
+      ]
+    },
+    {
+      "domain": "社交/人情",
+      "claim": "婚礼宴请宾客、收份子钱，并计较人情往来的一换一。",
+      "evidence": [
+        {
+          "index": 67,
+          "url": "https://www.douyin.com/video/7671494057278303865"
+        }
+      ]
+    },
+    {
+      "domain": "面子/排场",
+      "claim": "用租来的车、布景、衣服和司仪流程撑起一天的面子与排场。",
+      "evidence": [
+        {
+          "index": 67,
+          "url": "https://www.douyin.com/video/7671494057278303865"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "event_id": "E001",
+      "title": "双方家庭购买“豪门体验卡”",
+      "description": "双方家庭掏出十几万甚至几十万，用租来的车、布景、衣服和司仪剧本，把婚礼办成一天cosplay富人的表演。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 67,
+          "url": "https://www.douyin.com/video/7671494057278303865"
+        }
+      ]
+    },
+    {
+      "event_id": "E002",
+      "title": "两家为彩礼和房子争执半年",
+      "description": "文本写两家子为结婚相关钱财吵半年，差撕头发，但摆出38万8、88万8的彩礼数字并对外装大气。",
+      "temporal": "原文明确吵吵半年",
+      "chronology_basis": "明示",
+      "evidence": [
+        {
+          "index": 67,
+          "url": "https://www.douyin.com/video/7671494057278303865"
+        }
+      ]
+    },
+    {
+      "event_id": "E003",
+      "title": "婚宴摆好酒却不打算让人喝",
+      "description": "婚宴桌上摆毛子、国窖、五粮液等好酒，但主办方把它们当观赏品，盼着少开瓶、最后退回。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 67,
+          "url": "https://www.douyin.com/video/7671494057278303865"
+        }
+      ]
+    },
+    {
+      "event_id": "E004",
+      "title": "席主私下叮嘱快吃快走",
+      "description": "席主怕别人开酒，私下叮嘱关系好的宾客一上菜就快点吃，吃完赶紧起身走。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 67,
+          "url": "https://www.douyin.com/video/7671494057278303865"
+        }
+      ]
+    },
+    {
+      "event_id": "E005",
+      "title": "婚宴门口摆桌收份子钱",
+      "description": "婚礼当天怕人忘份子钱，婚宴大厅门口摆桌收钱；人情上则讲究一换一。",
+      "temporal": "原文明确婚礼当天",
+      "chronology_basis": "明示",
+      "evidence": [
+        {
+          "index": 67,
+          "url": "https://www.douyin.com/video/7671494057278303865"
+        }
+      ]
+    },
+    {
+      "event_id": "E006",
+      "title": "双方父母在婚礼现场各有盘算",
+      "description": "男方父母觉得彩礼掏多了，女方父母嫌房子有贷款，两家子还盘算改口费该掏多少；同时整个现场司仪最高兴。",
+      "temporal": "原文明确婚礼现场",
+      "chronology_basis": "明示",
+      "evidence": [
+        {
+          "index": 67,
+          "url": "https://www.douyin.com/video/7671494057278303865"
+        }
+      ]
+    },
+    {
+      "event_id": "E007",
+      "title": "婚礼落幕后归还租赁物，新人回归经济现实",
+      "description": "盛大cosplay结束后，豪车、礼服、没喝完的酒分别归还或退回；一对新人卸妆后开始研究房贷和日常开销争吵。",
+      "temporal": "原文明确婚礼结束之后",
+      "chronology_basis": "明示",
+      "evidence": [
+        {
+          "index": 67,
+          "url": "https://www.douyin.com/video/7671494057278303865"
+        }
+      ]
+    }
+  ],
+  "storylines": [
+    {
+      "title": "县城婚礼：两家合演一天富人，落幕回归现实",
+      "event_ids": [
+        "E001",
+        "E002",
+        "E003",
+        "E004",
+        "E005",
+        "E006",
+        "E007"
+      ],
+      "narrative": "双方家庭先掏出十几万甚至几十万，用租来的车、布景、衣服和司仪流程，办一场“豪门体验卡”式婚礼。但在钱的问题上，两家子为彩礼和房子吵了半年，表面又摆出38万8、88万8的彩礼数字装大气。婚宴上摆好酒却当观赏品，席主暗中叮嘱关系好的宾客快吃快走，门口又摆桌收份子钱并讲究一换一。婚礼现场，男方父母嫌彩礼掏多，女方父母嫌房子有贷款，两家子盘算改口费，只有司仪最高兴。婚礼落幕后，租赁物归还，新人卸妆，开始面对房贷和300块钱短袖的争吵。",
+      "unresolved": "原文没有交代彩礼最终是否实际支付、改口费最终由谁掏多少、酒水是否全部退回、份子钱是否回本，以及双方父母在婚礼后的关系和影响。",
+      "evidence": [
+        {
+          "index": 67,
+          "url": "https://www.douyin.com/video/7671494057278303865"
+        }
+      ]
+    }
+  ],
+  "relationships": [
+    {
+      "target": "一对新人",
+      "relation": "父母/婚礼主办家庭与结婚当事人",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 67,
+          "url": "https://www.douyin.com/video/7671494057278303865"
+        }
+      ]
+    },
+    {
+      "target": "婚礼宾客",
+      "relation": "主办方/收份子钱方与宾客",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 67,
+          "url": "https://www.douyin.com/video/7671494057278303865"
+        }
+      ]
+    },
+    {
+      "target": "司仪",
+      "relation": "婚礼主办家庭与司仪",
+      "certainty": "文本推断",
+      "evidence": [
+        {
+          "index": 67,
+          "url": "https://www.douyin.com/video/7671494057278303865"
+        }
+      ]
+    },
+    {
+      "target": "豪车租赁公司/婚纱店/烟酒行",
+      "relation": "租赁、退货或交易关系",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 67,
+          "url": "https://www.douyin.com/video/7671494057278303865"
+        }
+      ]
+    }
+  ],
+  "speech_habits": [
+    {
+      "claim": "私下叮嘱关系好的宾客快吃快走，避免别人开酒。",
+      "evidence": [
+        {
+          "index": 67,
+          "url": "https://www.douyin.com/video/7671494057278303865"
+        }
+      ]
+    },
+    {
+      "claim": "对外可摆高额彩礼数字，以数字撑面子。",
+      "evidence": [
+        {
+          "index": 67,
+          "url": "https://www.douyin.com/video/7671494057278303865"
+        }
+      ]
+    },
+    {
+      "claim": "内部话语和心中盘算围绕彩礼、房贷、改口费这些钱项展开。",
+      "evidence": [
+        {
+          "index": 67,
+          "url": "https://www.douyin.com/video/7671494057278303865"
+        }
+      ]
+    }
+  ],
+  "contradictions": [
+    {
+      "issue": "彩礼数字是展示还是实际支付",
+      "versions": [
+        {
+          "claim": "彩礼动不动摆出来38万8、88万8，表面很有礼数。",
+          "evidence": [
+            {
+              "index": 67,
+              "url": "https://www.douyin.com/video/7671494057278303865"
+            }
+          ]
+        },
+        {
+          "claim": "两家子为这点事吵半年，差撕头发，只是最后装大气。",
+          "evidence": [
+            {
+              "index": 67,
+              "url": "https://www.douyin.com/video/7671494057278303865"
+            }
+          ]
+        }
+      ],
+      "resolution": "保留并列：文本同时呈现展示性彩礼数字与内部长期争执，按出处并列呈现。"
+    },
+    {
+      "issue": "婚宴好酒是待客还是观赏品",
+      "versions": [
+        {
+          "claim": "桌上摆毛子、国窖、五粮液等好酒。",
+          "evidence": [
+            {
+              "index": 67,
+              "url": "https://www.douyin.com/video/7671494057278303865"
+            }
+          ]
+        },
+        {
+          "claim": "主办方盼着一瓶都别打开，最后退回去回血。",
+          "evidence": [
+            {
+              "index": 67,
+              "url": "https://www.douyin.com/video/7671494057278303865"
+            }
+          ]
+        }
+      ],
+      "resolution": "保留并列：文本写的是摆好酒但不打算真喝，二者构成表面待客与实际算计的矛盾。"
+    },
+    {
+      "issue": "婚礼表演与现实经济水平",
+      "versions": [
+        {
+          "claim": "双方家庭掏钱办“豪门体验卡”，演一天爽剧演员。",
+          "evidence": [
+            {
+              "index": 67,
+              "url": "https://www.douyin.com/video/7671494057278303865"
+            }
+          ]
+        },
+        {
+          "claim": "现实是穷人，三百二百都真在意，点外卖也研究优惠券。",
+          "evidence": [
+            {
+              "index": 67,
+              "url": "https://www.douyin.com/video/7671494057278303865"
+            }
+          ]
+        }
+      ],
+      "resolution": "保留并列：文本把“表演富人”与“现实穷人”并置，不能只取一面。"
+    },
+    {
+      "issue": "“席主”是否等同于双方父母",
+      "versions": [
+        {
+          "claim": "文本明写两个家庭的父母、男方父母、女方父母。",
+          "evidence": [
+            {
+              "index": 67,
+              "url": "https://www.douyin.com/video/7671494057278303865"
+            }
+          ]
+        },
+        {
+          "claim": "文本另用“席主”描述婚宴主办者，但未明确其就是父母。",
+          "evidence": [
+            {
+              "index": 67,
+              "url": "https://www.douyin.com/video/7671494057278303865"
+            }
+          ]
+        }
+      ],
+      "resolution": "保留并列：可把席主视为婚礼主办家庭一侧，但不能在原文无明示时强行等同为双方父母。"
+    }
+  ],
+  "gaps": [
+    "双方父母的具体年龄、职业、收入、家庭背景未交代。",
+    "彩礼最终是否实际支付、最终数额未交代。",
+    "改口费最终由谁掏、掏多少未交代。",
+    "婚宴酒水是否全部退回、回本多少未交代。",
+    "份子钱账目是否回本、婚后如何往来未交代。",
+    "婚礼结束后双方父母的关系与对子女婚姻的影响未交代。",
+    "“席主”是否就是双方父母之一或其他亲属未明。",
+    "婚礼具体地域、时间、规模未被明确交代。"
+  ],
+  "creative_expansions": [],
+  "source_coverage": [
+    {
+      "index": 67,
+      "role": "唯一直接关联文档，提供双方家庭/双方父母/席主在县城婚礼中的出资、彩礼房贷盘算、婚宴酒水、份子钱、改口费、婚礼落幕等材料。",
+      "url": "https://www.douyin.com/video/7671494057278303865"
+    }
+  ]
+}

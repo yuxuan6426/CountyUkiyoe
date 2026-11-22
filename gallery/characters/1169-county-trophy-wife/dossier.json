@@ -1,0 +1,500 @@
+{
+  "name": "县城美娇妻",
+  "nature": "单篇角色及编纂说明：县城婚恋叙事中的类型化角色原型，仅由第7篇集中塑造，非具名自然人，无独立生平。",
+  "overview": "县城美娇妻是第7篇集中塑造的县城婚恋角色原型，指五六十岁县城老社保再婚后所找的“二十郎当岁、年轻漂亮”的妻子。文本把这段关系写成交易属性最强的婚姻CP：老社保图面子、好色和证明自己年轻，美娇妻图社保与持续物质供给。老社保需不断花钱，让她获得极大经济满足感；她攀比欲望强，不允许周围任何女性在任何物质分支上强过自己，并额外收取“精神损失费”。双方年龄差大、没有共同语言，靠物质和攀比维持。资金链未断时关系被描述为比纯感情关系更坚不可摧、可持续交易长期复购；一旦资金链断裂便必崩，离开时一句都不多说。文本又称她不是顶美，没气质没内涵，有点土穷，皮囊非顶级，只能短期租赁，长期持有必崩。原文未交代姓名、职业、地点和具体结局。",
+  "identity": [
+    {
+      "claim": "五六十岁县城老社保再婚时所找的“二十郎当岁、年轻漂亮”的妻子",
+      "evidence": [
+        {
+          "index": 7,
+          "url": "https://www.douyin.com/video/7705279705377332089"
+        }
+      ]
+    },
+    {
+      "claim": "老社保把原配换了之后找来的“美娇妻”，处于再婚/伴侣位置",
+      "evidence": [
+        {
+          "index": 7,
+          "url": "https://www.douyin.com/video/7705279705377332089"
+        }
+      ]
+    },
+    {
+      "claim": "经济上依赖老社保持续物质供给，关系靠花钱维持",
+      "evidence": [
+        {
+          "index": 7,
+          "url": "https://www.douyin.com/video/7705279705377332089"
+        }
+      ]
+    },
+    {
+      "claim": "与老社保年龄差大，文本称老头与她父亲一样大，不是一个年代",
+      "evidence": [
+        {
+          "index": 7,
+          "url": "https://www.douyin.com/video/7705279705377332089"
+        }
+      ]
+    }
+  ],
+  "traits": [
+    {
+      "claim": "攀比欲望极强，不允许周围任何女性在任何物质分支上比她强",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 7,
+          "url": "https://www.douyin.com/video/7705279705377332089"
+        }
+      ]
+    },
+    {
+      "claim": "靠攀比获得优越感，并用其撑起内心自卑",
+      "kind": "动机",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 7,
+          "url": "https://www.douyin.com/video/7705279705377332089"
+        }
+      ]
+    },
+    {
+      "claim": "要求持续获得极大经济满足，并额外收取“精神损失费”",
+      "kind": "欲望",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 7,
+          "url": "https://www.douyin.com/video/7705279705377332089"
+        }
+      ]
+    },
+    {
+      "claim": "与老社保没有共同语言，缺乏灵魂交流",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 7,
+          "url": "https://www.douyin.com/video/7705279705377332089"
+        }
+      ]
+    },
+    {
+      "claim": "表面与老社保相爱相依，实际关系经不起风浪",
+      "kind": "矛盾",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 7,
+          "url": "https://www.douyin.com/video/7705279705377332089"
+        }
+      ]
+    },
+    {
+      "claim": "文本评价其不是顶美，没气质、没内涵，有点土、有点穷，皮囊非顶级",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 7,
+          "url": "https://www.douyin.com/video/7705279705377332089"
+        }
+      ]
+    },
+    {
+      "claim": "其与老社保结合的动机被文本归为图社保/物质，而非感情",
+      "kind": "动机",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 7,
+          "url": "https://www.douyin.com/video/7705279705377332089"
+        }
+      ]
+    },
+    {
+      "claim": "靠攀比获取优越感，用其撑起内心自卑",
+      "kind": "动机",
+      "certainty": "文本推断",
+      "evidence": [
+        {
+          "index": 7,
+          "url": "https://www.douyin.com/video/7705279705377332089"
+        }
+      ]
+    },
+    {
+      "claim": "要得比任何女的多，花得比任何小贵妇都狠",
+      "kind": "欲望",
+      "certainty": "文本推断",
+      "evidence": [
+        {
+          "index": 7,
+          "url": "https://www.douyin.com/video/7705279705377332089"
+        }
+      ]
+    }
+  ],
+  "life_domains": [
+    {
+      "domain": "婚恋",
+      "claim": "与老社保构成再婚CP，文本称其交易属性最强，甚至比有偿陪侍严重",
+      "evidence": [
+        {
+          "index": 7,
+          "url": "https://www.douyin.com/video/7705279705377332089"
+        }
+      ]
+    },
+    {
+      "domain": "金钱",
+      "claim": "关系依赖老社保持续物质供给，资金链断裂即关系崩盘",
+      "evidence": [
+        {
+          "index": 7,
+          "url": "https://www.douyin.com/video/7705279705377332089"
+        }
+      ]
+    },
+    {
+      "domain": "消费",
+      "claim": "要得比任何女的多，花得比任何小贵妇都狠",
+      "evidence": [
+        {
+          "index": 7,
+          "url": "https://www.douyin.com/video/7705279705377332089"
+        }
+      ]
+    },
+    {
+      "domain": "社交/面子",
+      "claim": "被老社保带出门可提供极大优越感，但维持成本高，像好车保养更贵",
+      "evidence": [
+        {
+          "index": 7,
+          "url": "https://www.douyin.com/video/7705279705377332089"
+        }
+      ]
+    },
+    {
+      "domain": "家庭",
+      "claim": "老社保换掉原配后找她，形成新伴侣关系",
+      "evidence": [
+        {
+          "index": 7,
+          "url": "https://www.douyin.com/video/7705279705377332089"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "event_id": "E001",
+      "title": "老社保换原配，再婚找美娇妻",
+      "description": "文本称县城老社保五六十岁忽然焕发生机，跑马拉松、练自由搏击、穿白裤子蹦迪；一旦抓住契机，就把原配换了，找年轻漂亮的美娇妻。",
+      "temporal": "原文明确顺序：先“五六十岁焕发生机”，后“抓住契机把原配换了，找美娇妻”；具体年份不明",
+      "chronology_basis": "明示",
+      "evidence": [
+        {
+          "index": 7,
+          "url": "https://www.douyin.com/video/7705279705377332089"
+        }
+      ]
+    },
+    {
+      "event_id": "E002",
+      "title": "以物质供给维持“有面子”关系",
+      "description": "文本称带美娇妻出门让老社保获得极大优越感，像开BBA有面子；但越好的车保养越贵，老社保必须持续提供物质供给，让她在经济上获得极大满足感，否则关系难维持。",
+      "temporal": "顺序不明（条件与维持关系的论述）",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 7,
+          "url": "https://www.douyin.com/video/7705279705377332089"
+        }
+      ]
+    },
+    {
+      "event_id": "E003",
+      "title": "美娇妻攀比并收取额外“精神损失费”",
+      "description": "文本称美娇妻攀比欲望比县城樊胜美还严重，不允许周围任何女性在任何物质分支上比她强，否则反思自己图什么；她额外收取精神损失费，要得比任何女的多，花得比小贵妇狠。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 7,
+          "url": "https://www.douyin.com/video/7705279705377332089"
+        }
+      ]
+    },
+    {
+      "event_id": "E004",
+      "title": "资金链断裂，关系必崩",
+      "description": "文本称该关系交易性最强，资金链未断时比纯感情关系更坚不可摧，可持续交易长期复购；一旦资金链断裂，关系直接崩，没有挽救余地，离开时一句都不多说。",
+      "temporal": "原文明确顺序：资金链未断在前，资金链断裂在后",
+      "chronology_basis": "明示",
+      "evidence": [
+        {
+          "index": 7,
+          "url": "https://www.douyin.com/video/7705279705377332089"
+        }
+      ]
+    },
+    {
+      "event_id": "E005",
+      "title": "长期相处暴露无共同语言与估值泡沫",
+      "description": "文本称二人年龄差大、无共同语言；美娇妻靠攀比撑自卑，老社保并非真有钱，只是多年积蓄；美娇妻也不是顶美，没气质内涵、有点土穷，双方估值都带泡沫，时间一长必崩。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 7,
+          "url": "https://www.douyin.com/video/7705279705377332089"
+        }
+      ]
+    },
+    {
+      "title": "给年轻女的发信息",
+      "desc": "老社保晚上动不动给年轻女的发信息",
+      "time": "晚上（具体时间未交代）",
+      "evidence": [
+        {
+          "index": 7,
+          "url": "https://www.douyin.com/video/7705279705377332089"
+        }
+      ]
+    },
+    {
+      "title": "跟人跳舞手越拿越低",
+      "desc": "老社保跟别人跳舞时手越拿越低",
+      "time": "未交代",
+      "evidence": [
+        {
+          "index": 7,
+          "url": "https://www.douyin.com/video/7705279705377332089"
+        }
+      ]
+    }
+  ],
+  "storylines": [
+    {
+      "title": "县城老社保再婚找县城美娇妻的惨案线",
+      "event_ids": [
+        "E001",
+        "E002",
+        "E003",
+        "E004",
+        "E005"
+      ],
+      "narrative": "开始是五六十岁的县城老社保忽然焕发生机，抓住契机换掉原配，找一个二十郎当岁、年轻漂亮的县城美娇妻。发展是这段关系靠物质和面子维持：老社保带她出门有优越感，但越好的车保养越贵，他必须持续给钱，让她获得极大经济满足；她则攀比周围女性，额外收取精神损失费，要得比任何女的多，花得比小贵妇狠。冲突在于二人年龄差大、没有共同语言，关系交易属性最强；美娇妻不是顶美，没气质内涵，老社保也不是真有钱，双方估值都带泡沫。结果是资金链未断时关系比纯感情关系更坚不可摧，甚至可持续交易长期复购；一旦资金链断裂便必崩，没有挽救余地，离开时一句都不多说。",
+      "unresolved": "原文没有交代美娇妻的姓名、职业、原生家庭、是否与老社保领证、具体资金数额、资金链断裂后的实际去向和结局。",
+      "evidence": [
+        {
+          "index": 7,
+          "url": "https://www.douyin.com/video/7705279705377332089"
+        }
+      ]
+    }
+  ],
+  "relationships": [
+    {
+      "target": "县城老社保",
+      "relation": "再婚夫妻/交易性伴侣；老社保需持续提供物质供给，资金链断则关系崩",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 7,
+          "url": "https://www.douyin.com/video/7705279705377332089"
+        }
+      ]
+    },
+    {
+      "target": "原配",
+      "relation": "老社保把原配换掉后，美娇妻成为新找的伴侣",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 7,
+          "url": "https://www.douyin.com/video/7705279705377332089"
+        }
+      ]
+    },
+    {
+      "target": "县城樊胜美",
+      "relation": "文案比较对象：美娇妻的攀比欲望比县城樊胜美还严重",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 7,
+          "url": "https://www.douyin.com/video/7705279705377332089"
+        }
+      ]
+    },
+    {
+      "target": "县城瑜伽裤",
+      "relation": "文案比较对象：美娇妻与好大哥/瑜伽裤的处境不同，跟老社保没有面子，所以要得更多",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 7,
+          "url": "https://www.douyin.com/video/7705279705377332089"
+        }
+      ]
+    },
+    {
+      "target": "县城小贵妇",
+      "relation": "文案比较对象：美娇妻花得比任何一个小贵妇都狠",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 7,
+          "url": "https://www.douyin.com/video/7705279705377332089"
+        }
+      ]
+    },
+    {
+      "target": "周围女性",
+      "relation": "攀比对象：不允许周围任何女性在任何物质分支上比她强",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 7,
+          "url": "https://www.douyin.com/video/7705279705377332089"
+        }
+      ]
+    },
+    {
+      "claim": "美娇妻与老社保这对CP跟好大哥/瑜伽裤不同，好大哥有实力给瑜伽裤花几十万",
+      "target": "县城好大哥",
+      "relation": "文案比较对象（对照CP男方）",
+      "evidence": [
+        {
+          "index": 7,
+          "url": "https://www.douyin.com/video/7705279705377332089"
+        }
+      ]
+    }
+  ],
+  "speech_habits": [],
+  "contradictions": [
+    {
+      "issue": "二人表面关系与关系抗压性",
+      "versions": [
+        {
+          "claim": "文本称二人心有灵犀、相爱相依",
+          "evidence": [
+            {
+              "index": 7,
+              "url": "https://www.douyin.com/video/7705279705377332089"
+            }
+          ]
+        },
+        {
+          "claim": "文本又称稍微有风浪就各奔东西",
+          "evidence": [
+            {
+              "index": 7,
+              "url": "https://www.douyin.com/video/7705279705377332089"
+            }
+          ]
+        }
+      ],
+      "resolution": "保留并列：文本一面描写表面亲密，一面强调关系脆弱、交易性强。"
+    },
+    {
+      "issue": "关系时长与稳定性",
+      "versions": [
+        {
+          "claim": "资金链未断时可长期交易复购，吵架也不散",
+          "evidence": [
+            {
+              "index": 7,
+              "url": "https://www.douyin.com/video/7705279705377332089"
+            }
+          ]
+        },
+        {
+          "claim": "美娇妻只能短期租赁，长期持有必崩",
+          "evidence": [
+            {
+              "index": 7,
+              "url": "https://www.douyin.com/video/7705279705377332089"
+            }
+          ]
+        }
+      ],
+      "resolution": "保留并列：前者附条件于资金链不断，后者指长期持有、无灵魂交流必崩。"
+    },
+    {
+      "issue": "美娇妻的外貌与资本",
+      "versions": [
+        {
+          "claim": "她年轻漂亮，是老社保再婚所找的美娇妻",
+          "evidence": [
+            {
+              "index": 7,
+              "url": "https://www.douyin.com/video/7705279705377332089"
+            }
+          ]
+        },
+        {
+          "claim": "文本评价她不是顶美，没气质没内涵，有点土穷",
+          "evidence": [
+            {
+              "index": 7,
+              "url": "https://www.douyin.com/video/7705279705377332089"
+            }
+          ]
+        }
+      ],
+      "resolution": "保留并列：文本将年轻漂亮作为交易条件，同时贬低其气质、内涵和皮囊层级。"
+    },
+    {
+      "issue": "双方动机表述的反讽",
+      "versions": [
+        {
+          "claim": "文本讽刺称“一个完全不贪财，另一个绝对不好色”",
+          "evidence": [
+            {
+              "index": 7,
+              "url": "https://www.douyin.com/video/7705279705377332089"
+            }
+          ]
+        },
+        {
+          "claim": "文本又说美娇妻图社保，老社保好色、要面子和证明年轻",
+          "evidence": [
+            {
+              "index": 7,
+              "url": "https://www.douyin.com/video/7705279705377332089"
+            }
+          ]
+        }
+      ],
+      "resolution": "保留并列：文本以反讽方式同时呈现表面说辞和实际动机。"
+    }
+  ],
+  "gaps": [
+    "美娇妻的姓名、具体年龄、职业、籍贯和原生家庭未交代",
+    "与老社保是否领证、婚龄、初婚或再婚、有无子女未交代",
+    "她具体要求过多少物质、精神损失费是多少未交代",
+    "资金链断裂后的实际行为、去向、是否离婚、离开后生活未交代",
+    "她的直接言谈和自我表述未提供",
+    "她与周围女性攀比的具体事例未提供",
+    "具体地点、年份和事件时间线未交代"
+  ],
+  "creative_expansions": [],
+  "source_coverage": [
+    {
+      "index": 7,
+      "role": "唯一集中塑造“县城美娇妻”的文档，提供其年龄、关系位置、物质依赖、攀比、交易性婚姻和崩盘逻辑等材料。",
+      "url": "https://www.douyin.com/video/7705279705377332089"
+    }
+  ]
+}

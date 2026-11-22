@@ -1,0 +1,1341 @@
+{
+  "name": "县城好大哥",
+  "nature": "原型/复合群像，不是单一自然人。集合两类：承接工程、土方、商混、运输并能办事的“真大哥”，以及租写字间、摆茶台、拼缝子、靠二手车与借贷撑场面的“假大哥”；另有AA建材王哥、土方刘哥、商混赵哥等具名标签并列。所有描述只是多篇文案中的类型化材料，不能拼成连续传记。",
+  "overview": "县城好大哥是《县城浮世绘》中反复出现的复合原型与群像。版本一：包工程、弄土方、做商混、运输，资源来自婆罗门，被视为县城真正能办事的人；版本二：假大哥租写字间、摆茶台、挂假字画、干拼缝子，靠人设和话术撑实力。经济上，一边开路虎揽胜、奔驰S、七手顶账车，出入红浪漫、商K、洗浴；一边工程款不到账、三角债、征信黑、信用卡倒钱、借钱维持排场。婚恋上，既被写成最能拿捏瑜伽裤、对女性舍得花钱，也被写成只能有福同享不能有难同当；与女文青互为拿捏、与女老师因尊重文化而高彩礼娶回，多版本并列。真大哥/假大哥、负债/阔绰、守信/短期不负责并存，按出处并列呈现。",
+  "identity": [
+    {
+      "claim": "职业/生意来源：包工程、弄土方、做商混、做运输，资源与婆罗门相关",
+      "evidence": [
+        {
+          "index": 180,
+          "url": "https://www.douyin.com/video/7600069250975419690"
+        }
+      ]
+    },
+    {
+      "claim": "交通工具/排场符号：路虎揽胜、奔驰S、兰德酷路泽等豪车，多为旧车或顶账二手车",
+      "evidence": [
+        {
+          "index": 219,
+          "url": "https://www.douyin.com/video/7574458857674525995"
+        },
+        {
+          "index": 131,
+          "url": "https://www.douyin.com/video/7631235496923925760"
+        },
+        {
+          "index": 52,
+          "url": "https://www.douyin.com/video/7678354018921516297"
+        }
+      ]
+    },
+    {
+      "claim": "经济与信用状态常被描述为负债、征信黑、工程款不到账、信用卡周转",
+      "evidence": [
+        {
+          "index": 219,
+          "url": "https://www.douyin.com/video/7574458857674525995"
+        },
+        {
+          "index": 292,
+          "url": "https://www.douyin.com/video/7496150188306877730"
+        },
+        {
+          "index": 208,
+          "url": "https://www.douyin.com/video/7581500748232428854"
+        }
+      ]
+    },
+    {
+      "claim": "社会功能：被文案称为县城里真正能办事的人",
+      "evidence": [
+        {
+          "index": 213,
+          "url": "https://www.douyin.com/video/7578062613863599401"
+        }
+      ]
+    },
+    {
+      "claim": "假大哥版本：租写字间、摆茶台、挂假字画，做拼缝子活，靠包装让人觉得自己有实力",
+      "evidence": [
+        {
+          "index": 6,
+          "url": "https://www.douyin.com/video/7705779053781635449"
+        }
+      ]
+    }
+  ],
+  "traits": [
+    {
+      "claim": "核心特征是重面子、讲排场，面子被描述为高于里子",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 2,
+          "url": "https://www.douyin.com/video/7708234522315230473"
+        },
+        {
+          "index": 16,
+          "url": "https://www.douyin.com/video/7698364522017005989"
+        }
+      ]
+    },
+    {
+      "claim": "不吃压力、外耗、自我自洽，烂摊子也能撑住场面",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 52,
+          "url": "https://www.douyin.com/video/7678354018921516297"
+        },
+        {
+          "index": 219,
+          "url": "https://www.douyin.com/video/7574458857674525995"
+        }
+      ]
+    },
+    {
+      "claim": "借贷思维强，靠信用卡、周转、人设维持现金流和消费",
+      "kind": "动机",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 52,
+          "url": "https://www.douyin.com/video/7678354018921516297"
+        },
+        {
+          "index": 219,
+          "url": "https://www.douyin.com/video/7574458857674525995"
+        },
+        {
+          "index": 191,
+          "url": "https://www.douyin.com/video/7592653564976106762"
+        }
+      ]
+    },
+    {
+      "claim": "崇尚文化，因自身文化不足而向往女文青、女老师等文化型伴侣",
+      "kind": "欲望",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 119,
+          "url": "https://www.douyin.com/video/7641878629400637669"
+        },
+        {
+          "index": 35,
+          "url": "https://www.douyin.com/video/7687488459165967461"
+        },
+        {
+          "index": 199,
+          "url": "https://www.douyin.com/video/7586683557188242703"
+        }
+      ]
+    },
+    {
+      "claim": "追求当下享乐，倾向短期关系与即时满足",
+      "kind": "欲望",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 244,
+          "url": "https://www.douyin.com/video/7550332400253947178"
+        },
+        {
+          "index": 245,
+          "url": "https://www.douyin.com/video/7547314317717212457"
+        },
+        {
+          "index": 279,
+          "url": "https://www.douyin.com/video/7508793566555163940"
+        }
+      ]
+    },
+    {
+      "claim": "对女性既被描述为舍得花钱、答应的事能做到，又被描述为只能有福同享、不能有难同当",
+      "kind": "矛盾",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 126,
+          "url": "https://www.douyin.com/video/7637424592269282661"
+        },
+        {
+          "index": 122,
+          "url": "https://www.douyin.com/video/7640860283352163429"
+        }
+      ]
+    },
+    {
+      "claim": "自我形象是有实力、有资源、能运作项目、能压住场面的大哥",
+      "kind": "自我形象",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 34,
+          "url": "https://www.douyin.com/video/7687901194417659557"
+        },
+        {
+          "index": 6,
+          "url": "https://www.douyin.com/video/7705779053781635449"
+        }
+      ]
+    },
+    {
+      "claim": "重面子、讲排场，把面子当业务和人设工具。",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "不吃压力、外耗、自洽，烂摊子也能维持场面。",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "借贷思维强，用信用卡互还、周转、借款维持现金流与消费。",
+      "kind": "动机",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "崇尚文化，因自身文化不足而向往女文青、女老师等文化型伴侣。",
+      "kind": "欲望",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "追求当下享乐，倾向短期关系与即时满足。",
+      "kind": "欲望",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "对女性既被描述为舍得花钱、答应的事能做到，又被描述为只能有福同享、不能有难同当。",
+      "kind": "矛盾",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "自认有实力、有资源、能运作项目、能压住场面。",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "一边被称作县城真正能办事的人，一边被写成靠租写字间、摆茶台、假字画和话术包装的假大哥。",
+      "kind": "矛盾",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "一边开路虎揽胜、奔驰S等豪车，一边工程款不到账、征信黑、现金流断裂。",
+      "kind": "矛盾",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "与婆罗门利益互相依存，既送礼摆平纠纷，也可能在利益破裂时翻脸。",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "与瑜伽裤、女文青、女老师的关系版本不一，谁拿捏谁不统一。",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "会为面子和“重视教育”把成绩差的孩子送私立学校。",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    }
+  ],
+  "life_domains": [
+    {
+      "domain": "职业/生意",
+      "claim": "承接工程、土方、商混、运输，或做拼缝、资源对接、办事中介",
+      "evidence": [
+        {
+          "index": 180,
+          "url": "https://www.douyin.com/video/7600069250975419690"
+        },
+        {
+          "index": 6,
+          "url": "https://www.douyin.com/video/7705779053781635449"
+        }
+      ]
+    },
+    {
+      "domain": "金钱/债务",
+      "claim": "工程款不到账、三角债、征信黑、信用卡周转、借钱维持排面",
+      "evidence": [
+        {
+          "index": 208,
+          "url": "https://www.douyin.com/video/7581500748232428854"
+        },
+        {
+          "index": 219,
+          "url": "https://www.douyin.com/video/7574458857674525995"
+        },
+        {
+          "index": 52,
+          "url": "https://www.douyin.com/video/7678354018921516297"
+        }
+      ]
+    },
+    {
+      "domain": "社交/酒桌",
+      "claim": "酒桌是人情、面子、资源交换的场所，讲究自己人和客人不同酒",
+      "evidence": [
+        {
+          "index": 104,
+          "url": "https://www.douyin.com/video/7648106609897426191"
+        },
+        {
+          "index": 125,
+          "url": "https://www.douyin.com/video/7637525781908799737"
+        },
+        {
+          "index": 129,
+          "url": "https://www.douyin.com/video/7633360982224487409"
+        }
+      ]
+    },
+    {
+      "domain": "消费/娱乐",
+      "claim": "出入商K、红浪漫、洗浴，购买排场符号，撑面子",
+      "evidence": [
+        {
+          "index": 166,
+          "url": "https://www.douyin.com/video/7611363917939428662"
+        },
+        {
+          "index": 219,
+          "url": "https://www.douyin.com/video/7574458857674525995"
+        },
+        {
+          "index": 198,
+          "url": "https://www.douyin.com/video/7587831651384757538"
+        }
+      ]
+    },
+    {
+      "domain": "婚恋/异性关系",
+      "claim": "与县城瑜伽裤、女文青、女老师等形成不同关系模式，常以消费、文化崇拜或短期陪伴展开",
+      "evidence": [
+        {
+          "index": 245,
+          "url": "https://www.douyin.com/video/7547314317717212457"
+        },
+        {
+          "index": 119,
+          "url": "https://www.douyin.com/video/7641878629400637669"
+        },
+        {
+          "index": 35,
+          "url": "https://www.douyin.com/video/7687488459165967461"
+        }
+      ]
+    },
+    {
+      "domain": "权力/关系",
+      "claim": "与县城婆罗门利益互相依存，靠资源获得工程，也可能在利益破裂时翻脸",
+      "evidence": [
+        {
+          "index": 180,
+          "url": "https://www.douyin.com/video/7600069250975419690"
+        }
+      ]
+    },
+    {
+      "domain": "家庭/下一代",
+      "claim": "会为了面子和重视教育，把成绩差的孩子送私立学校",
+      "evidence": [
+        {
+          "index": 29,
+          "url": "https://www.douyin.com/video/7690463808767185337"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "event_id": "E001",
+      "title": "承接工程与资源依附",
+      "description": "文案把县城好大哥的生意描述为包工程、弄土方、做商混、做运输，并称资源来自县城婆罗门，双方在工程利益上相互依存。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 180,
+          "url": "https://www.douyin.com/video/7600069250975419690"
+        }
+      ]
+    },
+    {
+      "event_id": "E002",
+      "title": "工程款不到账与现金流断裂",
+      "description": "文案写到好大哥因工程款不到账、项目尾款结不了，现金流全断，催债者增多，甚至点外卖都要领券、点拼好饭。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 208,
+          "url": "https://www.douyin.com/video/7581500748232428854"
+        }
+      ]
+    },
+    {
+      "event_id": "E003",
+      "title": "维持豪车与排场符号",
+      "description": "文案反复描述好大哥开路虎揽胜行政加长版、奔驰S、兰德酷路泽等，或开七手、泡水、顶账二手车，靠车、表、金链、折叠屏维持人设。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 219,
+          "url": "https://www.douyin.com/video/7574458857674525995"
+        },
+        {
+          "index": 131,
+          "url": "https://www.douyin.com/video/7631235496923925760"
+        },
+        {
+          "index": 52,
+          "url": "https://www.douyin.com/video/7678354018921516297"
+        }
+      ]
+    },
+    {
+      "event_id": "E004",
+      "title": "借贷周转与信用卡倒钱",
+      "description": "文案描述好大哥靠信用卡互还、借钱周转、借葱姜蒜钱多年不还等方式维持现金流和排场。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 52,
+          "url": "https://www.douyin.com/video/7678354018921516297"
+        },
+        {
+          "index": 205,
+          "url": "https://www.douyin.com/video/7583676385651068196"
+        },
+        {
+          "index": 191,
+          "url": "https://www.douyin.com/video/7592653564976106762"
+        }
+      ]
+    },
+    {
+      "event_id": "E005",
+      "title": "酒桌待客与自己人用酒",
+      "description": "饭局上，好大哥被描述为用茅台待客、用李兴发等酒招待自己人，酒桌面子和人情并重。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 104,
+          "url": "https://www.douyin.com/video/7648106609897426191"
+        },
+        {
+          "index": 125,
+          "url": "https://www.douyin.com/video/7637525781908799737"
+        },
+        {
+          "index": 129,
+          "url": "https://www.douyin.com/video/7633360982224487409"
+        }
+      ]
+    },
+    {
+      "event_id": "E006",
+      "title": "出入红浪漫、商K与洗浴",
+      "description": "文案把好大哥称为红浪漫之王、洗浴中心黑金VIP会员，说明其在娱乐场所高消费、撑场子。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 166,
+          "url": "https://www.douyin.com/video/7611363917939428662"
+        },
+        {
+          "index": 219,
+          "url": "https://www.douyin.com/video/7574458857674525995"
+        }
+      ]
+    },
+    {
+      "event_id": "E007",
+      "title": "为瑜伽裤消费，形成短期互惠关系",
+      "description": "好大哥被描述为舍得给瑜伽裤花钱、送包送车、带其消费，副驾换人；关系偏短期陪伴与各取所需。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 245,
+          "url": "https://www.douyin.com/video/7547314317717212457"
+        },
+        {
+          "index": 279,
+          "url": "https://www.douyin.com/video/7508793566555163940"
+        },
+        {
+          "index": 122,
+          "url": "https://www.douyin.com/video/7640860283352163429"
+        }
+      ]
+    },
+    {
+      "event_id": "E008",
+      "title": "与女文青互补或互相拿捏",
+      "description": "文案称好大哥缺文化，女文青缺市井生存能力，二者可相互成全；另一处又称女文青是好大哥最严厉的父亲。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 119,
+          "url": "https://www.douyin.com/video/7641878629400637669"
+        },
+        {
+          "index": 180,
+          "url": "https://www.douyin.com/video/7600069250975419690"
+        },
+        {
+          "index": 178,
+          "url": "https://www.douyin.com/video/7601345616412708146"
+        }
+      ]
+    },
+    {
+      "event_id": "E009",
+      "title": "娶女老师并尊重文化",
+      "description": "文案称好大哥愿意花高彩礼娶女老师，并在家庭中听妻子、买包表翡翠金饰，因其尊重有文化的人。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 35,
+          "url": "https://www.douyin.com/video/7687488459165967461"
+        }
+      ]
+    },
+    {
+      "event_id": "E010",
+      "title": "与婆罗门从相互依存到可能翻脸",
+      "description": "文案描述好大哥依靠婆罗门拿资源，过年过节送礼，也替其解决工程纠纷；但工程款不到账后，好大哥不再怕，利益破裂可鱼死网破。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 180,
+          "url": "https://www.douyin.com/video/7600069250975419690"
+        }
+      ]
+    },
+    {
+      "event_id": "E011",
+      "title": "伪装好大哥：租车、租人、话术包装",
+      "description": "多篇文案提供如何假装好大哥的操作：租A6、打七座商务车、租套房、雇小弟、编公司故事、用话术塑造实力。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 250,
+          "url": "https://www.douyin.com/video/7540311170817740041"
+        },
+        {
+          "index": 248,
+          "url": "https://www.douyin.com/video/7543823518350232882"
+        },
+        {
+          "index": 249,
+          "url": "https://www.douyin.com/video/7541046330085461258"
+        }
+      ]
+    },
+    {
+      "event_id": "E012",
+      "title": "被老阿姨等群体打量或接近，但好大哥不爱搭理",
+      "description": "老阿姨能拿捏或接近部分男性，却崩不动好大哥；文案称好大哥不爱搭理她。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 173,
+          "url": "https://www.douyin.com/video/7605066774983331081"
+        }
+      ]
+    },
+    {
+      "event_id": "E013",
+      "title": "被用来衬托县城里左拥右抱的两类人",
+      "description": "文案称在县城能左拥右抱、美女环绕的只有县城好大哥和没学历没能力的小混混两类人。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 300,
+          "url": "https://www.douyin.com/video/7485405109145373990"
+        }
+      ]
+    },
+    {
+      "title": "为瑜伽裤消费并形成短期互惠",
+      "desc": "舍得给瑜伽裤花钱、送包送车、带其消费，副驾换人，关系偏短期陪伴与各取所需。",
+      "time": "未交代",
+      "evidence": []
+    },
+    {
+      "title": "被老阿姨等群体打量或接近",
+      "desc": "老阿姨能接近部分男性，却崩不动好大哥；文案称好大哥不爱搭理她。",
+      "time": "未交代",
+      "evidence": []
+    },
+    {
+      "title": "被列入狭义好大哥具名名单",
+      "desc": "AA建材王哥、111土方叉车刘哥、000上门催收办证赵总、联系电话商混半挂租租赁老李被列为狭义县城好大哥。",
+      "time": "未交代",
+      "evidence": []
+    }
+  ],
+  "storylines": [
+    {
+      "title": "工程好大哥的排场与债务循环",
+      "event_ids": [
+        "E001",
+        "E002",
+        "E003",
+        "E004"
+      ],
+      "narrative": "文案从好大哥承接工程、土方、商混、运输讲起，其资源来自婆罗门，靠人设和排场吸引追随者与资金。工程款不到账后，现金流断裂、催债增多，他仍用豪车、金链、折叠屏、信用卡倒钱和借款维持体面。",
+      "unresolved": "原文没有交代具体项目、具体债务数额、是否最终破产或翻盘。",
+      "evidence": [
+        {
+          "index": 180,
+          "url": "https://www.douyin.com/video/7600069250975419690"
+        },
+        {
+          "index": 208,
+          "url": "https://www.douyin.com/video/7581500748232428854"
+        },
+        {
+          "index": 219,
+          "url": "https://www.douyin.com/video/7574458857674525995"
+        },
+        {
+          "index": 131,
+          "url": "https://www.douyin.com/video/7631235496923925760"
+        },
+        {
+          "index": 52,
+          "url": "https://www.douyin.com/video/7678354018921516297"
+        },
+        {
+          "index": 205,
+          "url": "https://www.douyin.com/video/7583676385651068196"
+        },
+        {
+          "index": 191,
+          "url": "https://www.douyin.com/video/7592653564976106762"
+        }
+      ]
+    },
+    {
+      "title": "好大哥与瑜伽裤的短期互惠故事",
+      "event_ids": [
+        "E006",
+        "E007",
+        "E013"
+      ],
+      "narrative": "好大哥被描述为舍得给瑜伽裤花钱、带其消费、副驾换人；瑜伽裤则被描述为提供陪伴、年轻和身体吸引力。双方被写成各取所需，关系偏短期，难以共同承担柴米油盐。",
+      "unresolved": "原文没有给出一段连续、可核实的具体恋情结局，只提供类型化判断与例证。",
+      "evidence": [
+        {
+          "index": 166,
+          "url": "https://www.douyin.com/video/7611363917939428662"
+        },
+        {
+          "index": 219,
+          "url": "https://www.douyin.com/video/7574458857674525995"
+        },
+        {
+          "index": 245,
+          "url": "https://www.douyin.com/video/7547314317717212457"
+        },
+        {
+          "index": 279,
+          "url": "https://www.douyin.com/video/7508793566555163940"
+        },
+        {
+          "index": 122,
+          "url": "https://www.douyin.com/video/7640860283352163429"
+        },
+        {
+          "index": 300,
+          "url": "https://www.douyin.com/video/7485405109145373990"
+        }
+      ]
+    },
+    {
+      "title": "好大哥与女文青的互补与拿捏故事",
+      "event_ids": [
+        "E008"
+      ],
+      "narrative": "好大哥因缺文化而向往女文青，女文青因缺市井生存能力而需要好大哥守护；文案又称女文青是好大哥最严厉的父亲，能拿捏好大哥。",
+      "unresolved": "两种说法并列：互相成全与女文青拿捏好大哥，原文未统一。",
+      "evidence": [
+        {
+          "index": 119,
+          "url": "https://www.douyin.com/video/7641878629400637669"
+        },
+        {
+          "index": 180,
+          "url": "https://www.douyin.com/video/7600069250975419690"
+        },
+        {
+          "index": 178,
+          "url": "https://www.douyin.com/video/7601345616412708146"
+        }
+      ]
+    },
+    {
+      "title": "好大哥与婆罗门的资源关系故事",
+      "event_ids": [
+        "E001",
+        "E010"
+      ],
+      "narrative": "好大哥依靠婆罗门获得工程资源，逢年过节送礼，也替对方摆平民间纠纷；但当工程款不到账、利益破裂时，好大哥可能不再服软，甚至鱼死网破。",
+      "unresolved": "原文没有具体人物和事件结果，只写类型化关系与可能走向。",
+      "evidence": [
+        {
+          "index": 180,
+          "url": "https://www.douyin.com/video/7600069250975419690"
+        }
+      ]
+    },
+    {
+      "title": "假装好大哥的表演指南",
+      "event_ids": [
+        "E011"
+      ],
+      "narrative": "多篇文案以预算200、300、1000、3000为框架，教人通过租A6、打七座商务车、租套房、雇小弟、编公司故事和话术来假装县城好大哥。这是关于伪装方法的故事线，不是某个好大哥的真实经历。",
+      "unresolved": "原文没有说明是否有人按此成功或失败。",
+      "evidence": [
+        {
+          "index": 250,
+          "url": "https://www.douyin.com/video/7540311170817740041"
+        },
+        {
+          "index": 248,
+          "url": "https://www.douyin.com/video/7543823518350232882"
+        },
+        {
+          "index": 249,
+          "url": "https://www.douyin.com/video/7541046330085461258"
+        }
+      ]
+    }
+  ],
+  "relationships": [
+    {
+      "target": "县城瑜伽裤",
+      "relation": "互相吸引、消费与陪伴的短期关系；好大哥被说成最能拿捏瑜伽裤的人，瑜伽裤也坐其副驾、接受消费",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 245,
+          "url": "https://www.douyin.com/video/7547314317717212457"
+        },
+        {
+          "index": 279,
+          "url": "https://www.douyin.com/video/7508793566555163940"
+        },
+        {
+          "index": 170,
+          "url": "https://www.douyin.com/video/7606986587697099185"
+        }
+      ]
+    },
+    {
+      "target": "县城女文青",
+      "relation": "好大哥缺文化、女文青缺生存能力，互相成全；同时女文青又被描述为好大哥最严厉的父亲，能拿捏好大哥",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 119,
+          "url": "https://www.douyin.com/video/7641878629400637669"
+        },
+        {
+          "index": 180,
+          "url": "https://www.douyin.com/video/7600069250975419690"
+        }
+      ]
+    },
+    {
+      "target": "县城女老师",
+      "relation": "好大哥尊重有文化的人，愿意花高彩礼娶女老师，并在家庭中宠着、听其意见",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 35,
+          "url": "https://www.douyin.com/video/7687488459165967461"
+        }
+      ]
+    },
+    {
+      "target": "县城婆罗门",
+      "relation": "工程资源上互相依存；好大哥逢年过节送礼、替其摆平纠纷，利益破裂时可能翻脸",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 180,
+          "url": "https://www.douyin.com/video/7600069250975419690"
+        }
+      ]
+    },
+    {
+      "target": "县城葱姜蒜",
+      "relation": "好大哥被描述为能精准猎杀葱姜蒜，借其钱、拖延不还，甚至越界联系对方对象",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 34,
+          "url": "https://www.douyin.com/video/7687901194417659557"
+        },
+        {
+          "index": 205,
+          "url": "https://www.douyin.com/video/7583676385651068196"
+        }
+      ]
+    },
+    {
+      "target": "县城老阿姨",
+      "relation": "老阿姨被描述为会追逐有钱男性，但好大哥不爱搭理她；好大哥不是她轻易能崩到的对象",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 173,
+          "url": "https://www.douyin.com/video/7605066774983331081"
+        }
+      ]
+    },
+    {
+      "target": "红浪漫音乐老师",
+      "relation": "好大哥被称为红浪漫之王，在商K、红浪漫高消费，与音乐老师形成消费关系",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 166,
+          "url": "https://www.douyin.com/video/7611363917939428662"
+        }
+      ]
+    },
+    {
+      "target": "县城小老弟",
+      "relation": "好大哥以人设、项目、兄弟情谊吸引小老弟追随，也可能向小老弟借钱或让其当群演",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 2,
+          "url": "https://www.douyin.com/video/7708234522315230473"
+        },
+        {
+          "index": 52,
+          "url": "https://www.douyin.com/video/7678354018921516297"
+        }
+      ]
+    },
+    {
+      "target": "商业大佬",
+      "relation": "文案把商业大佬与县城好大哥类比，称其操作逻辑相似：重人设、重借贷、重不吃压力",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 52,
+          "url": "https://www.douyin.com/video/7678354018921516297"
+        }
+      ]
+    }
+  ],
+  "speech_habits": [
+    {
+      "claim": "开口项目、资金链、过桥费、现金流、几百万生意",
+      "evidence": [
+        {
+          "index": 26,
+          "url": "https://www.douyin.com/video/7693096289596591483"
+        },
+        {
+          "index": 6,
+          "url": "https://www.douyin.com/video/7705779053781635449"
+        }
+      ]
+    },
+    {
+      "claim": "用静水流深、周期问题等话术自我镇定",
+      "evidence": [
+        {
+          "index": 52,
+          "url": "https://www.douyin.com/video/7678354018921516297"
+        }
+      ]
+    },
+    {
+      "claim": "酒桌上区分待客酒与自己人酒",
+      "evidence": [
+        {
+          "index": 104,
+          "url": "https://www.douyin.com/video/7648106609897426191"
+        },
+        {
+          "index": 125,
+          "url": "https://www.douyin.com/video/7637525781908799737"
+        }
+      ]
+    },
+    {
+      "claim": "借钱时用周转、卡限额、明天还你等话术",
+      "evidence": [
+        {
+          "index": 26,
+          "url": "https://www.douyin.com/video/7693096289596591483"
+        },
+        {
+          "index": 16,
+          "url": "https://www.douyin.com/video/7698364522017005989"
+        }
+      ]
+    },
+    {
+      "claim": "对人设与排面的表达高度自信，常以大哥姿态训导或安抚",
+      "evidence": [
+        {
+          "index": 279,
+          "url": "https://www.douyin.com/video/7508793566555163940"
+        },
+        {
+          "index": 52,
+          "url": "https://www.douyin.com/video/7678354018921516297"
+        }
+      ]
+    }
+  ],
+  "contradictions": [
+    {
+      "issue": "县城好大哥到底是真有实力、能办事，还是靠包装和借款撑场面",
+      "versions": [
+        {
+          "claim": "版本一：真正能办事的人只有县城好大哥，有资源和江湖威望",
+          "evidence": [
+            {
+              "index": 213,
+              "url": "https://www.douyin.com/video/7578062613863599401"
+            }
+          ]
+        },
+        {
+          "claim": "版本二：很多是假大哥，租写字间、摆茶台、挂假字画、拼缝子，实力靠包装",
+          "evidence": [
+            {
+              "index": 6,
+              "url": "https://www.douyin.com/video/7705779053781635449"
+            },
+            {
+              "index": 198,
+              "url": "https://www.douyin.com/video/7587831651384757538"
+            }
+          ]
+        },
+        {
+          "claim": "版本三：真假难辨，有顶账车、二手豪车，也有真正有现金流的人",
+          "evidence": [
+            {
+              "index": 153,
+              "url": "https://www.douyin.com/video/7618857294381468937"
+            },
+            {
+              "index": 131,
+              "url": "https://www.douyin.com/video/7631235496923925760"
+            }
+          ]
+        }
+      ],
+      "resolution": "保留并列，不擅自合并或选定。"
+    },
+    {
+      "issue": "县城好大哥对女性到底是大方守信还是短期不负责",
+      "versions": [
+        {
+          "claim": "版本一：对女性舍得花钱，几千元以内随便要，答应的事能做到",
+          "evidence": [
+            {
+              "index": 126,
+              "url": "https://www.douyin.com/video/7637424592269282661"
+            }
+          ]
+        },
+        {
+          "claim": "版本二：与瑜伽裤只能有福同享，不能有难同当，关系偏短期",
+          "evidence": [
+            {
+              "index": 122,
+              "url": "https://www.douyin.com/video/7640860283352163429"
+            }
+          ]
+        }
+      ],
+      "resolution": "保留并列，不擅自合并或选定。"
+    },
+    {
+      "issue": "县城好大哥与瑜伽裤、女文青的关系谁拿捏谁",
+      "versions": [
+        {
+          "claim": "版本一：好大哥最能拿捏瑜伽裤，天王老子来了都不行",
+          "evidence": [
+            {
+              "index": 245,
+              "url": "https://www.douyin.com/video/7547314317717212457"
+            }
+          ]
+        },
+        {
+          "claim": "版本二：女文青是好大哥最严厉的父亲，好大哥也能被女文青拿捏",
+          "evidence": [
+            {
+              "index": 180,
+              "url": "https://www.douyin.com/video/7600069250975419690"
+            },
+            {
+              "index": 178,
+              "url": "https://www.douyin.com/video/7601345616412708146"
+            }
+          ]
+        }
+      ],
+      "resolution": "保留并列，不擅自合并或选定。"
+    },
+    {
+      "issue": "县城好大哥是否真的有文化、是否真读书",
+      "versions": [
+        {
+          "claim": "版本一：崇尚文化，尊重女老师，摆书、挂字画",
+          "evidence": [
+            {
+              "index": 35,
+              "url": "https://www.douyin.com/video/7687488459165967461"
+            },
+            {
+              "index": 199,
+              "url": "https://www.douyin.com/video/7586683557188242703"
+            }
+          ]
+        },
+        {
+          "claim": "版本二：痛恨自己浅薄，书一本没看过，文化涵养不够",
+          "evidence": [
+            {
+              "index": 199,
+              "url": "https://www.douyin.com/video/7586683557188242703"
+            }
+          ]
+        }
+      ],
+      "resolution": "保留并列，不擅自合并或选定。"
+    }
+  ],
+  "gaps": [
+    "原文没有给出任何“县城好大哥”的稳定姓名、年龄、籍贯、婚姻子女等具体设定。",
+    "原文没有明确“县城好大哥”是单个自然人还是多个类型人物的集合，只能按复合群像处理。",
+    "原文没有给出具体工程、项目、债务数额、征信记录和司法结果的完整链条。",
+    "原文没有统一好大哥与瑜伽裤、女文青、女老师等关系的最终结局。",
+    "原文中真大哥、假大哥、商务豪登等称谓边界有交叉，按出处并列呈现。",
+    "原文没有说明各篇文案之间的发布时间顺序，不能把序号当作人生时间线。",
+    "原文没有交代AA建材王哥、土方刘哥、商混赵哥、老李等具名标签与“县城好大哥”整体之间是否为同一自然人。",
+    "原文没有交代好大哥的年龄、脸型、五官等稳定外貌细节，只能按文本中的肚子大、头发稀疏、金链、豆豆鞋等符号拼合。"
+  ],
+  "creative_expansions": [],
+  "source_coverage": [
+    {
+      "index": 2,
+      "role": "提出县城好大哥是极重面子的人，靠车、排场和面子换业务，也写小老弟、瑜伽裤与大哥形象关系。",
+      "url": "https://www.douyin.com/video/7708234522315230473"
+    },
+    {
+      "index": 5,
+      "role": "把好大哥视为能精准拿捏外五县瑜伽裤的角色。",
+      "url": "https://www.douyin.com/video/7706479503548491001"
+    },
+    {
+      "index": 6,
+      "role": "描述县城假大哥与北京伪精英如出一辙，租写字间、摆茶台、拼缝子、包装实力。",
+      "url": "https://www.douyin.com/video/7705779053781635449"
+    },
+    {
+      "index": 7,
+      "role": "用县城好大哥的经济实力对照老社保再婚美娇妻，称其实力摆在那、能给瑜伽裤花几十万。",
+      "url": "https://www.douyin.com/video/7705279705377332089"
+    },
+    {
+      "index": 29,
+      "role": "写好大哥孩子成绩差仍送私立学校，体现面子和重视教育式投入。",
+      "url": "https://www.douyin.com/video/7690463808767185337"
+    },
+    {
+      "index": 34,
+      "role": "把好大哥写成猎杀县城葱姜蒜的角色，用兄弟情谊、项目承诺、人设骗取资金。",
+      "url": "https://www.douyin.com/video/7687901194417659557"
+    },
+    {
+      "index": 35,
+      "role": "写女老师择偶时，好大哥花高彩礼娶女老师并尊重有文化的人。",
+      "url": "https://www.douyin.com/video/7687488459165967461"
+    },
+    {
+      "index": 45,
+      "role": "将刀枪炮、龙虎豹、假大哥或真富少并置，说明汽车、手机等面子消费逻辑。",
+      "url": "https://www.douyin.com/video/7683421956008557434"
+    },
+    {
+      "index": 52,
+      "role": "核心材料：商业大佬约等于县城好大哥，重人设、借贷、信用卡周转、不吃压力、自我自洽。",
+      "url": "https://www.douyin.com/video/7678354018921516297"
+    },
+    {
+      "index": 99,
+      "role": "写县城酒桌文化中好大哥组局、人脉哥、特供酒故事，体现酒桌面子。",
+      "url": "https://www.douyin.com/video/7651465150829985253"
+    },
+    {
+      "index": 101,
+      "role": "将好大哥列为有财富条件、可前压异性的男性代表，与靠闲和情绪价值的小黄毛对比。",
+      "url": "https://www.douyin.com/video/7651520151568813358"
+    },
+    {
+      "index": 104,
+      "role": "写与几位县城好大哥喝酒，饭菜简单，用李兴发酒招待自己人。",
+      "url": "https://www.douyin.com/video/7648106609897426191"
+    },
+    {
+      "index": 105,
+      "role": "把好大哥列为县城最幸福三种人之一，强调其确实想要并得到了，代价另说。",
+      "url": "https://www.douyin.com/video/7649231017782122737"
+    },
+    {
+      "index": 113,
+      "role": "以开路虎揽胜行政加长版仍惆怅的好大哥，衬托葱姜蒜幸福。",
+      "url": "https://www.douyin.com/video/7644796017133896933"
+    },
+    {
+      "index": 116,
+      "role": "AI梳理县城人物时列出县城好大哥“死要面子”。",
+      "url": "https://www.douyin.com/video/7643277690203589923"
+    },
+    {
+      "index": 119,
+      "role": "写最不易崩盘婚姻组合时，将好大哥与女文青配对，称其相互成全。",
+      "url": "https://www.douyin.com/video/7641878629400637669"
+    },
+    {
+      "index": 122,
+      "role": "写最容易崩盘婚姻组合时，将好大哥与瑜伽裤列为只能有福同享不能有难同当。",
+      "url": "https://www.douyin.com/video/7640860283352163429"
+    },
+    {
+      "index": 125,
+      "role": "写好大哥饭局用李兴发酒，茅台给客人、自己人喝平替。",
+      "url": "https://www.douyin.com/video/7637525781908799737"
+    },
+    {
+      "index": 126,
+      "role": "把好大哥列为值得链接男性，称其对女性守信、舍得给钱、不坑女人。",
+      "url": "https://www.douyin.com/video/7637424592269282661"
+    },
+    {
+      "index": 127,
+      "role": "写好大哥偏爱土欲风美女，用消费和性价比逻辑理解其择偶。",
+      "url": "https://www.douyin.com/video/7634806168099526885"
+    },
+    {
+      "index": 131,
+      "role": "把好大哥说成买不起30万新车、多开顶账二手车的人。",
+      "url": "https://www.douyin.com/video/7631235496923925760"
+    },
+    {
+      "index": 145,
+      "role": "称县城里瑜伽裤和好大哥才是真正的爱情。",
+      "url": "https://www.douyin.com/video/7623070673635691791"
+    },
+    {
+      "index": 153,
+      "role": "用商鸟、鸡骨架、假鸟等穿着符号区分真假大哥，写瑜伽裤以衣着判断实力。",
+      "url": "https://www.douyin.com/video/7618857294381468937"
+    },
+    {
+      "index": 166,
+      "role": "核心材料：把aa建材王哥、土方刘哥、商混赵哥称为县城红浪漫之王，解释其消费红浪漫原因。",
+      "url": "https://www.douyin.com/video/7611363917939428662"
+    },
+    {
+      "index": 170,
+      "role": "称县城瑜伽裤擅长进攻，除县城好大哥能过两招外，其他角色露头就秒。",
+      "url": "https://www.douyin.com/video/7606986587697099185"
+    },
+    {
+      "index": 171,
+      "role": "写老阿姨追逐有钱男性，但好大哥不爱搭理她。",
+      "url": "https://www.douyin.com/video/7606559660540571557"
+    },
+    {
+      "index": 178,
+      "role": "写女文青是好大哥最严厉的父亲，好大哥也会被女文青拿捏，工程款不到账会卖车还债。",
+      "url": "https://www.douyin.com/video/7601345616412708146"
+    },
+    {
+      "index": 179,
+      "role": "写无论好大哥、编二代还是小布尔乔亚，牙黄牙臭牙漏风都会被打成县城葱姜蒜。",
+      "url": "https://www.douyin.com/video/7600967880855019771"
+    },
+    {
+      "index": 180,
+      "role": "核心材料：好大哥最严厉的父亲是女文青；写其包工程、土方、商混、运输，资源来自婆罗门，与婆罗门相互依存或翻脸。",
+      "url": "https://www.douyin.com/video/7600069250975419690"
+    },
+    {
+      "index": 182,
+      "role": "对比编二代时称好大哥在男女关系上短线操作，根本不长期持有。",
+      "url": "https://www.douyin.com/video/7598559726875593984"
+    },
+    {
+      "index": 184,
+      "role": "写体制内男性压抑时，以好大哥找瑜伽裤百依百顺作对照。",
+      "url": "https://www.douyin.com/video/7596671206527438086"
+    },
+    {
+      "index": 191,
+      "role": "写预算8000回村装时，假大哥嘴上几百万、实际借钱狠、资产抵押贷款。",
+      "url": "https://www.douyin.com/video/7592653564976106762"
+    },
+    {
+      "index": 198,
+      "role": "提供鉴别假大哥的三点：座驾、行头、身材。",
+      "url": "https://www.douyin.com/video/7587831651384757538"
+    },
+    {
+      "index": 199,
+      "role": "写评价体系时，好大哥虽有钱有社会认同，却痛恨自己浅薄、文化与涵养不够，想娶女老师。",
+      "url": "https://www.douyin.com/video/7586683557188242703"
+    },
+    {
+      "index": 205,
+      "role": "写小布尔乔亚执念时，好大哥贷款买七手揽胜、借葱姜蒜20万不还、联系对方对象，成为压制葱姜蒜的角色。",
+      "url": "https://www.douyin.com/video/7583676385651068196"
+    },
+    {
+      "index": 207,
+      "role": "以开七手揽胜装有钱人的好大哥，对照老社保和小布尔乔亚。",
+      "url": "https://www.douyin.com/video/7582623409314549046"
+    },
+    {
+      "index": 208,
+      "role": "核心材料：写县城好大哥作为最不权威群体之一，房地产颓势后现金流断裂、催债增多、消费缩水。",
+      "url": "https://www.douyin.com/video/7581500748232428854"
+    },
+    {
+      "index": 211,
+      "role": "写装杯学问时，称好大哥装着装着有时真能装明白，路虎揽胜、瑜伽裤妹妹也真拥有。",
+      "url": "https://www.douyin.com/video/7578918974604184875"
+    },
+    {
+      "index": 213,
+      "role": "核心材料：称整个县城真正能办事的人只有县城好大哥，能捯饬车、手机、车牌、靓号。",
+      "url": "https://www.douyin.com/video/7578062613863599401"
+    },
+    {
+      "index": 219,
+      "role": "核心材料：分析好大哥外耗思维，列征信黑、信用卡倒钱、二手豪车、红浪漫、商K、洗浴和排场。",
+      "url": "https://www.douyin.com/video/7574458857674525995"
+    },
+    {
+      "index": 228,
+      "role": "写搞对象要学好大哥，以贷款买二手豪车、朋友圈包装和消费展示吸引对象。",
+      "url": "https://www.douyin.com/video/7569620647459015962"
+    },
+    {
+      "index": 241,
+      "role": "写接盘侠时，以郝大哥用女性名字买房、高评抵押贷款制造资产假象。",
+      "url": "https://www.douyin.com/video/7555150745935383808"
+    },
+    {
+      "index": 244,
+      "role": "核心材料：人人都爱县城好大哥，写其外耗、只享受当下、借贷消费、抗压、重养生、感情朝三暮四。",
+      "url": "https://www.douyin.com/video/7550332400253947178"
+    },
+    {
+      "index": 245,
+      "role": "核心材料：称好大哥才是真正的王，最能拿捏瑜伽裤，下血本、送车送礼、短期陪伴、不要求长期责任。",
+      "url": "https://www.douyin.com/video/7547314317717212457"
+    },
+    {
+      "index": 246,
+      "role": "提供预算200假装好大哥的约会和拜访方案。",
+      "url": "https://www.douyin.com/video/7546821362627988793"
+    },
+    {
+      "index": 248,
+      "role": "提供预算300假装好大哥的打车、西装、办公桌照片和话术方案。",
+      "url": "https://www.douyin.com/video/7543823518350232882"
+    },
+    {
+      "index": 249,
+      "role": "提供预算1000假装好大哥的套房、雇小弟、酒吧演员方案。",
+      "url": "https://www.douyin.com/video/7541046330085461258"
+    },
+    {
+      "index": 250,
+      "role": "提供预算3000假装好大哥的租A6、靓号、人设和文化话术方案。",
+      "url": "https://www.douyin.com/video/7540311170817740041"
+    },
+    {
+      "index": 253,
+      "role": "预测县域女性战局时，称瑜伽裤独占一档并与好大哥双宿双飞。",
+      "url": "https://www.douyin.com/video/7537305087186603290"
+    },
+    {
+      "index": 265,
+      "role": "写穿什么没排面时，称好大哥穿豆豆鞋，让人说不准实力。",
+      "url": "https://www.douyin.com/video/7523245622149860671"
+    },
+    {
+      "index": 279,
+      "role": "核心材料：学术分析好大哥为何吸引瑜伽裤，写其挥霍、浪荡、张扬、短期关系、欠债不顾。",
+      "url": "https://www.douyin.com/video/7508793566555163940"
+    },
+    {
+      "index": 282,
+      "role": "写电话靓号与排面，如何用靓号和二手车精准吸引瑜伽裤。",
+      "url": "https://www.douyin.com/video/7506181914735234340"
+    },
+    {
+      "index": 292,
+      "role": "技术流分析如何假装好大哥：一半以上征信黑名单，95%以上负债，但精神气质可模仿。",
+      "url": "https://www.douyin.com/video/7496150188306877730"
+    },
+    {
+      "index": 294,
+      "role": "将好大哥视为已经拿到结果的人，瑜伽裤迷恋的是结果；小黄毛只许诺未来结果。",
+      "url": "https://www.douyin.com/video/7492821775407942912"
+    },
+    {
+      "index": 300,
+      "role": "写县城里能左拥右抱的两类人：县城好大哥与没学历没能力的小混混，好大哥靠砸钱和社会经验。",
+      "url": "https://www.douyin.com/video/7485405109145373990"
+    }
+  ]
+}

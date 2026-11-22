@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>县城浮世绘 · 人物图鉴</title>
+<meta name="description" content="翻阅县城人物的故事、原创虚构造像与叙事档案，循出处浏览抖音作品。">
+<link rel="icon" href="data:,">
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+<a class="skip" href="#gallery">跳至人物卡</a>
+<header class="top">
+  <a class="brand" href="#">
+    <strong>县城浮世绘</strong>
+    <span>人物图鉴</span>
+  </a>
+  <nav aria-label="主导航">
+    <button id="savedBtn" type="button" aria-pressed="false" aria-label="查看我的收藏，当前 0 人">我的收藏 · <span id="savedCount">0</span></button>
+  </nav>
+</header>
+<main>
+  <section class="hero">
+    <p class="eyebrow">卷一 · 熟人社会的日常切面</p>
+    <h1>小城很小，<br>每个人都有<br class="b2">自己的江湖</h1>
+    <p class="sub">生意、体面、旧情和日常。</p>
+    <p class="lede">将散落在故事里的县城众生，收进一张张可以翻阅的人物卡。</p>
+    <div class="hero-side">
+      <div class="seal"><span>县城</span><span>众生</span></div>
+      <p>取材于抖音故事的虚构人物叙事<br>原创人物造像</p>
+    </div>
+  </section>
+  <section id="gallery" aria-label="人物图鉴">
+    <div class="gallery-head">
+      <h2 tabindex="-1">人物图鉴</h2>
+      <span id="builtAt" class="built-at"></span>
+    </div>
+    <div class="controls">
+      <div class="field search"><span aria-hidden="true">⌕</span><input id="search" type="search" placeholder="搜索人名、别名或关键词" aria-label="搜索人名、别名或关键词"></div>
+      <div class="field"><label for="category">人物分类</label><select id="category"><option value="">全部类型</option><option>县城原型</option><option>具名人物</option><option>亲友熟人</option></select></div>
+      <div class="field"><label for="view">画像</label><select id="view"><option value="illustrated" selected>已绘制形象</option><option value="all">全部人物</option><option value="pending">待绘制形象</option><option value="validated">已有校验档案</option></select></div>
+      <div class="field"><label for="sort">排序</label><select id="sort"><option value="id">档案编号顺序</option><option value="sources">关联故事最多</option><option value="name">姓名拼音</option></select></div>
+    </div>
+    <div class="status-line"><p id="results" role="status"></p><button id="reset" type="button">重置筛选</button></div>
+    <div id="grid" class="grid"></div>
+    <p id="empty" hidden></p>
+    <button id="more" type="button" class="more">继续翻阅</button>
+  </section>
+  <section class="note-block">
+    <p class="eyebrow">编纂说明</p>
+    <h2>故事有出处，面孔是创作。</h2>
+    <div class="notes">
+      <p><span class="note-tag">出处</span>梗概、事件、关系与故事线取材于抖音叙事作品。每份档案列出相关作品，方便循线阅读。</p>
+      <p><span class="note-tag">造像</span>每张肖像都是原创虚构插画。脸孔、姿态、服饰与场景体现角色的艺术设定。</p>
+      <p><span class="note-tag">编号</span>每位人物都有独立编号与英文代号。不同情节版本按出处并列呈现，收藏保存在当前浏览器。</p>
+    </div>
+  </section>
+</main>
+<footer>
+  <span>县城浮世绘 · <a href="https://github.com/yuxuan6426/CountyUkiyoe">项目源码</a> · <a href="../ASSET-LICENSE.md">图文许可</a> · <a href="../LICENSE">代码许可</a></span>
+  <span id="footStats"></span>
+</footer>
+<dialog id="detail" aria-labelledby="detailTitle">
+  <button class="close" id="detailClose" type="button" aria-label="关闭档案">✕</button>
+  <div id="detailBody"></div>
+</dialog>
+<dialog id="mdView" aria-labelledby="mdTitle">
+  <div class="md-bar">
+    <strong id="mdTitle">档案全文</strong>
+    <span class="md-actions">
+      <a id="mdRaw" href="#" target="_blank" rel="noopener">原始 Markdown ↗</a>
+      <button id="mdClose" type="button" aria-label="关闭全文阅读">✕</button>
+    </span>
+  </div>
+  <article id="mdBody" class="md-body"></article>
+</dialog>
+<script src="data.js"></script>
+<script src="assets/marked.min.js"></script>
+<script src="assets/app.js"></script>
+</body>
+</html>

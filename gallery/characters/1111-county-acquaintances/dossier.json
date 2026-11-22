@@ -1,0 +1,650 @@
+{
+  "name": "县城熟人亲友",
+  "nature": "复合群像。核心证据为序号112；序号57、82、86、89仅补足同类“熟人/亲戚朋友/情报站/评价网络”行为，按出处并列呈现。无固定姓名、年龄、职业，是县城熟人社会关系集合的功能位。",
+  "overview": "“县城熟人亲友”不是某一位具体人物，而是县城熟人社会中的关系集合：亲戚、朋友、同事、街坊四邻、发小、丈母娘、村头与饭店里的“情报站”成员。关系网络密集，消息传播极快，把面子、排场、职业、收入、婚恋都变成可议论、可比较、可传扬的公共话题。它一方面追捧有排场者，把其事迹反复传成神话；另一方面打压不露富、穿着朴素、职业下沉的人。既用“不能让人笑话”约束他人，也用“笑话别人”维持谈资。文本同时并存两种判断：完全无法通过外在判断谁有钱，与只要不露富就被打压、只要装对排场就被捧；并保留“笑话别人/不让人笑话”为同一评价体系两面的说法。",
+  "identity": [
+    {
+      "claim": "没有固定年龄和职业，是县城熟人社会中亲戚、朋友、同事、邻居等关系集合",
+      "evidence": [
+        {
+          "index": 112,
+          "url": "https://www.douyin.com/video/7645948649662434612"
+        },
+        {
+          "index": 82,
+          "url": "https://www.douyin.com/video/7657730067652742501"
+        }
+      ]
+    },
+    {
+      "claim": "包含丈母娘、亲戚朋友、街坊四邻等具体家庭—亲友角色，会介入私人生活评价",
+      "evidence": [
+        {
+          "index": 112,
+          "url": "https://www.douyin.com/video/7645948649662434612"
+        },
+        {
+          "index": 86,
+          "url": "https://www.douyin.com/video/7658283175987842344"
+        }
+      ]
+    },
+    {
+      "claim": "属于县城熟人社会的人情—面子网络，规则只是底线，人情是润滑剂",
+      "evidence": [
+        {
+          "index": 82,
+          "url": "https://www.douyin.com/video/7657730067652742501"
+        }
+      ]
+    }
+  ],
+  "traits": [
+    {
+      "claim": "关系网络密集，消息传播极快",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 112,
+          "url": "https://www.douyin.com/video/7645948649662434612"
+        },
+        {
+          "index": 82,
+          "url": "https://www.douyin.com/video/7657730067652742501"
+        }
+      ]
+    },
+    {
+      "claim": "以是否露富、有无排场判断人，并据此打压或追捧",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 112,
+          "url": "https://www.douyin.com/video/7645948649662434612"
+        }
+      ]
+    },
+    {
+      "claim": "将他人职业和谋生方式当作谈资、下酒菜",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 112,
+          "url": "https://www.douyin.com/video/7645948649662434612"
+        }
+      ]
+    },
+    {
+      "claim": "把笑话别人和不让人笑话当作生活核心",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 57,
+          "url": "https://www.douyin.com/video/7675627007129232497"
+        },
+        {
+          "index": 86,
+          "url": "https://www.douyin.com/video/7658283175987842344"
+        }
+      ]
+    },
+    {
+      "claim": "恐惧被街坊四邻、亲戚朋友、同事、发小议论和笑话",
+      "kind": "恐惧",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 86,
+          "url": "https://www.douyin.com/video/7658283175987842344"
+        }
+      ]
+    },
+    {
+      "claim": "喜欢盘问他人收入、婚恋、房贷、车等私人信息",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 89,
+          "url": "https://www.douyin.com/video/7656438745209507112"
+        }
+      ]
+    },
+    {
+      "claim": "对不按剧本者会抱团造谣、集体唱衰、统一否定",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 89,
+          "url": "https://www.douyin.com/video/7656438745209507112"
+        }
+      ]
+    },
+    {
+      "claim": "既依赖外在排场判断人，又不可能凭外在真正看透谁有钱",
+      "kind": "矛盾",
+      "certainty": "文本推断",
+      "evidence": [
+        {
+          "index": 112,
+          "url": "https://www.douyin.com/video/7645948649662434612"
+        }
+      ]
+    },
+    {
+      "claim": "关系网络密集，消息传播极快，“不用三天，整个县城的人全知道”",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "喜欢盘问他人工资、对象、房贷、车价等私人信息",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "对不按县城剧本者抱团造谣、集体唱衰、统一否定",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "恐惧被街坊四邻、亲戚朋友、同事、发小嚼舌根、戳脊梁骨",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "换人情必须给足面子，人情与面子绑定",
+      "kind": "动机",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "既依赖外在排场判断人，又被明言“完全无法通过一个人的外在来判断这个人他到底有没有钱”",
+      "kind": "矛盾",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "人情与面子绑定，换人情需给足面子",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": [
+        {
+          "index": 82,
+          "url": "https://www.douyin.com/video/7657730067652742501"
+        }
+      ]
+    },
+    {
+      "claim": "村头与饭店被用作观察、笑话别人的情报站",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": [
+        {
+          "index": 57,
+          "url": "https://www.douyin.com/video/7675627007129232497"
+        }
+      ]
+    }
+  ],
+  "life_domains": [
+    {
+      "domain": "社交",
+      "claim": "熟人社会信息高度对称，亲戚朋友盘问、传播、评价他人生活",
+      "evidence": [
+        {
+          "index": 112,
+          "url": "https://www.douyin.com/video/7645948649662434612"
+        },
+        {
+          "index": 89,
+          "url": "https://www.douyin.com/video/7656438745209507112"
+        }
+      ]
+    },
+    {
+      "domain": "消费/面子",
+      "claim": "车、排场、是否露富成为熟人圈子反复传扬和评判的依据",
+      "evidence": [
+        {
+          "index": 112,
+          "url": "https://www.douyin.com/video/7645948649662434612"
+        }
+      ]
+    },
+    {
+      "domain": "家庭/婚恋",
+      "claim": "丈母娘、亲戚朋友以面子、收入、婚恋状况介入评价",
+      "evidence": [
+        {
+          "index": 112,
+          "url": "https://www.douyin.com/video/7645948649662434612"
+        },
+        {
+          "index": 89,
+          "url": "https://www.douyin.com/video/7656438745209507112"
+        }
+      ]
+    },
+    {
+      "domain": "职业/金钱",
+      "claim": "摆摊谋生和收租不露富都可能成为谈资或被轻视",
+      "evidence": [
+        {
+          "index": 112,
+          "url": "https://www.douyin.com/video/7645948649662434612"
+        }
+      ]
+    },
+    {
+      "domain": "权力/评价",
+      "claim": "村头、饭店等场所形成观察和笑话别人的“情报站”，亲戚朋友像高级评委",
+      "evidence": [
+        {
+          "index": 57,
+          "url": "https://www.douyin.com/video/7675627007129232497"
+        },
+        {
+          "index": 89,
+          "url": "https://www.douyin.com/video/7656438745209507112"
+        }
+      ]
+    },
+    {
+      "domain": "人情",
+      "claim": "人情与面子绑定，换人情必须给足面子",
+      "evidence": [
+        {
+          "index": 82,
+          "url": "https://www.douyin.com/video/7657730067652742501"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "event_id": "E001",
+      "title": "熟人网络快速传播消息",
+      "description": "县城熟人太多，亲戚朋友、同事、二度人脉彼此相连，某人的事很快会被全县知道。",
+      "temporal": "原文明确：不用三天内；顺序不明",
+      "chronology_basis": "明示",
+      "evidence": [
+        {
+          "index": 112,
+          "url": "https://www.douyin.com/video/7645948649662434612"
+        }
+      ]
+    },
+    {
+      "event_id": "E002",
+      "title": "不露富者被熟人打压",
+      "description": "穿拖鞋收租、不显富的人会被亲戚朋友、丈母娘等人轻视、骂窝囊废或要求捏脚。",
+      "temporal": "假设场景，无明确时间；顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 112,
+          "url": "https://www.douyin.com/video/7645948649662434612"
+        }
+      ]
+    },
+    {
+      "event_id": "E003",
+      "title": "有排场者被反复传扬",
+      "description": "即便月入很低，只要弄台二手A6之类把面子装对，熟人圈子会把这件事传一整年，最后传成埃隆马斯克。",
+      "temporal": "原文明确：一整年；顺序不明",
+      "chronology_basis": "明示",
+      "evidence": [
+        {
+          "index": 112,
+          "url": "https://www.douyin.com/video/7645948649662434612"
+        }
+      ]
+    },
+    {
+      "event_id": "E004",
+      "title": "过年盘问私人信息",
+      "description": "亲戚朋友在自己房贷未还完时，仍会在过年时盘问工资、对象、房贷、车价。",
+      "temporal": "原文明确：过年时；顺序不明",
+      "chronology_basis": "明示",
+      "evidence": [
+        {
+          "index": 89,
+          "url": "https://www.douyin.com/video/7656438745209507112"
+        }
+      ]
+    },
+    {
+      "event_id": "E005",
+      "title": "村头与饭店情报站笑话别人",
+      "description": "村头和饭店被写成观察、笑话别人的情报站，三五好友吃饭后开始研究怎么笑话别人。",
+      "temporal": "无明确时间；顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 57,
+          "url": "https://www.douyin.com/video/7675627007129232497"
+        }
+      ]
+    },
+    {
+      "event_id": "E006",
+      "title": "红白事到场人数成为笑话点",
+      "description": "红事或白事来人少，会被熟人评价体系当作笑话点。",
+      "temporal": "无明确时间；顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 57,
+          "url": "https://www.douyin.com/video/7675627007129232497"
+        }
+      ]
+    },
+    {
+      "event_id": "E007",
+      "title": "对不按剧本者抱团造谣",
+      "description": "亲戚朋友会对不按县城剧本生活的人抱团造谣、集体唱衰、统一否定。",
+      "temporal": "无明确时间；顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 89,
+          "url": "https://www.douyin.com/video/7656438745209507112"
+        }
+      ]
+    },
+    {
+      "title": "酒桌上拆茅子换人情",
+      "desc": "酒桌上拆茅子撑场面、给大哥面子，事办成人情到位",
+      "time": "未交代",
+      "evidence": [
+        {
+          "index": 82,
+          "url": "https://www.douyin.com/video/7657730067652742501"
+        }
+      ]
+    }
+  ],
+  "storylines": [
+    {
+      "title": "熟人亲友评价网络如何用面子与笑话驱动县城行为",
+      "event_ids": [
+        "E001",
+        "E002",
+        "E003",
+        "E004",
+        "E005",
+        "E006",
+        "E007"
+      ],
+      "narrative": "开始：县城熟人太多，亲戚朋友、同事、二度人脉高度互联，远房亲戚也能突然出现。发展：谁有事很快全县知道，谋生方式、不露富、穿着朴素会被拿去当谈资或被打压。冲突：亲戚朋友在过年、酒桌等场合盘问工资、对象、房贷、车，并以关心之名评判；对不按剧本者抱团造谣、集体唱衰。结果：有排场的人被反复传扬，甚至传成埃隆马斯克；人们怕被笑话，必须以面子工程回应。缺什么：文本没有单一主角、完整时间线和结局。",
+      "unresolved": "没有具体人物姓名、年龄、职业、连续事件；多数为叙述者概括与假设，群像内部边界不明。",
+      "evidence": [
+        {
+          "index": 112,
+          "url": "https://www.douyin.com/video/7645948649662434612"
+        },
+        {
+          "index": 89,
+          "url": "https://www.douyin.com/video/7656438745209507112"
+        },
+        {
+          "index": 86,
+          "url": "https://www.douyin.com/video/7658283175987842344"
+        },
+        {
+          "index": 82,
+          "url": "https://www.douyin.com/video/7657730067652742501"
+        }
+      ]
+    }
+  ],
+  "relationships": [
+    {
+      "target": "县城摆摊卖麻辣串的人",
+      "relation": "将谋生方式当作酒桌谈资，可能传播出去笑话",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 112,
+          "url": "https://www.douyin.com/video/7645948649662434612"
+        }
+      ]
+    },
+    {
+      "target": "南方收租老板/不露富者",
+      "relation": "因不露富而被打压、轻视",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 112,
+          "url": "https://www.douyin.com/video/7645948649662434612"
+        }
+      ]
+    },
+    {
+      "target": "开二手A6回家装面子的人",
+      "relation": "追捧并反复传扬其排场",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 112,
+          "url": "https://www.douyin.com/video/7645948649662434612"
+        }
+      ]
+    },
+    {
+      "target": "丈母娘",
+      "relation": "介入女婿生活，要求捏脚，以面子/财富评价女婿",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 112,
+          "url": "https://www.douyin.com/video/7645948649662434612"
+        }
+      ]
+    },
+    {
+      "target": "亲戚朋友/发小/同事",
+      "relation": "盘问、评价、造谣、唱衰",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 89,
+          "url": "https://www.douyin.com/video/7656438745209507112"
+        }
+      ]
+    },
+    {
+      "target": "街坊四邻",
+      "relation": "嚼舌根、戳脊梁骨、背后蛐蛐",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 86,
+          "url": "https://www.douyin.com/video/7658283175987842344"
+        }
+      ]
+    },
+    {
+      "claim": "拆茅子给大哥看，给足面子后事能办成",
+      "target": "大哥",
+      "relation": "酒桌办事对象/被给面子者",
+      "evidence": [
+        {
+          "index": 82,
+          "url": "https://www.douyin.com/video/7657730067652742501"
+        }
+      ]
+    }
+  ],
+  "speech_habits": [
+    {
+      "claim": "用关心名义盘问私人信息",
+      "evidence": [
+        {
+          "index": 89,
+          "url": "https://www.douyin.com/video/7656438745209507112"
+        }
+      ]
+    },
+    {
+      "claim": "酒后贬低不露富者，骂其窝囊废",
+      "evidence": [
+        {
+          "index": 112,
+          "url": "https://www.douyin.com/video/7645948649662434612"
+        }
+      ]
+    },
+    {
+      "claim": "把有排场者传成神话，见了面就捧",
+      "evidence": [
+        {
+          "index": 112,
+          "url": "https://www.douyin.com/video/7645948649662434612"
+        }
+      ]
+    },
+    {
+      "claim": "以笑话别人为饭局谈资",
+      "evidence": [
+        {
+          "index": 57,
+          "url": "https://www.douyin.com/video/7675627007129232497"
+        }
+      ]
+    },
+    {
+      "claim": "用“不能让人笑话”约束自己和他人",
+      "evidence": [
+        {
+          "index": 86,
+          "url": "https://www.douyin.com/video/7658283175987842344"
+        }
+      ]
+    }
+  ],
+  "contradictions": [
+    {
+      "issue": "目标角色是群像还是自然人",
+      "versions": [
+        {
+          "claim": "文本中的称谓是亲戚朋友、熟人、情报站、高级评委等集合名词，没有姓名、年龄、职业和连续生平",
+          "evidence": [
+            {
+              "index": 112,
+              "url": "https://www.douyin.com/video/7645948649662434612"
+            },
+            {
+              "index": 89,
+              "url": "https://www.douyin.com/video/7656438745209507112"
+            }
+          ]
+        },
+        {
+          "claim": "部分段落以“丈母娘”等单个亲属角色出现，但仍是评价网络中的功能位",
+          "evidence": [
+            {
+              "index": 112,
+              "url": "https://www.douyin.com/video/7645948649662434612"
+            }
+          ]
+        }
+      ],
+      "resolution": "保留为复合群像，按出处并列呈现。"
+    },
+    {
+      "issue": "外在排场能否判断财富",
+      "versions": [
+        {
+          "claim": "完全无法通过一个人的外在判断他到底有没有钱",
+          "evidence": [
+            {
+              "index": 112,
+              "url": "https://www.douyin.com/video/7645948649662434612"
+            }
+          ]
+        },
+        {
+          "claim": "只要不露富就会被熟人打压，只要装对排场就会被反复传扬",
+          "evidence": [
+            {
+              "index": 112,
+              "url": "https://www.douyin.com/video/7645948649662434612"
+            }
+          ]
+        }
+      ],
+      "resolution": "保留并列：叙述者批判的是熟人评价体系依赖可见符号，而非事实判断。"
+    },
+    {
+      "issue": "“笑话别人”与“不能让人笑话”的关系",
+      "versions": [
+        {
+          "claim": "县城里的人一生就干两件事，笑话别人和不让人笑话",
+          "evidence": [
+            {
+              "index": 57,
+              "url": "https://www.douyin.com/video/7675627007129232497"
+            }
+          ]
+        },
+        {
+          "claim": "不能让人笑话是最大执念，街坊四邻、亲戚朋友会嚼舌根",
+          "evidence": [
+            {
+              "index": 86,
+              "url": "https://www.douyin.com/video/7658283175987842344"
+            }
+          ]
+        }
+      ],
+      "resolution": "两者是同一评价体系的两面：人人笑话别人，也人人怕被笑话。"
+    }
+  ],
+  "gaps": [
+    "无固定姓名、年龄、职业、家庭结构。",
+    "无单一时间线、连续事件和结局。",
+    "大部分为叙述者概括、假设和夸张场景。",
+    "不同篇中“亲戚朋友/熟人/情报站/高级评委”边界不明，不能确认为同一群人。",
+    "与“县城老炮”“县城评论员”“村头情报站”等角色有交叠，但缺明确合并依据。",
+    "大部分材料为叙述者概括、假设和夸张场景。"
+  ],
+  "creative_expansions": [],
+  "source_coverage": [
+    {
+      "index": 112,
+      "role": "核心材料：明确县城熟人/亲朋好友/二度人脉、消息传播、不露富被打压、装面子被传扬、丈母娘等。",
+      "url": "https://www.douyin.com/video/7645948649662434612"
+    },
+    {
+      "index": 57,
+      "role": "补足“笑话别人和不让人笑话”、村头情报站、饭店情报站、红白事笑话点。",
+      "url": "https://www.douyin.com/video/7675627007129232497"
+    },
+    {
+      "index": 86,
+      "role": "补足“不能让人笑话”执念，以及街坊四邻、亲戚朋友、同事、发小嚼舌根。",
+      "url": "https://www.douyin.com/video/7658283175987842344"
+    },
+    {
+      "index": 89,
+      "role": "补足亲戚朋友作为“情报调查局/高级评委”、过年盘问、抱团造谣集体唱衰。",
+      "url": "https://www.douyin.com/video/7656438745209507112"
+    },
+    {
+      "index": 82,
+      "role": "补足县城人情—面子绑定、远房亲戚、人情润滑剂。",
+      "url": "https://www.douyin.com/video/7657730067652742501"
+    }
+  ]
+}

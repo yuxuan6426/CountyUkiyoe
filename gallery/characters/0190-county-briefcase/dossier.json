@@ -1,0 +1,718 @@
+{
+  "name": "县城公文包",
+  "nature": "原型/复合群像：文本以“县城公文包”称呼一类县城体制内男性；“李宝库”等具名例证与之高度重合，但未明示同一人，按出处并列呈现。",
+  "overview": "县城公文包是文本中县城体制内一类普通编制男性的讽刺性原型。他们收入不高、实际权力有限，却把官架子带到各处：穿西裤扎外腰，夹公文包，迈四方步，开口“推进落实”“调度聚焦”，掐腰敲桌，渴望特权和外界吹捧。其优越感来自编制，对权力没有祛魅，活在权力幻想中，把正常流程包装成“没有他办不成”。真实职务权限极小，最大职务之变是用单位A4纸给孩子打印作业；会吹嘘能安排工作、收几万块钱，反手甩报名网站链接。相亲和亲戚场中，带编者被称“李主任”“贤婿”，被看作走仕途、有排面。文本称其终其生是小科员，最好与带编铁娘子结婚，圈地自萌、互相吹捧。另有李宝库式具名例证并行：月到手有4600、4300等不同版本，原文未明示其与“公文包”是同一人。相关材料以类型描述为主，缺少完整时间线。",
+  "identity": [
+    {
+      "claim": "县城体制内带编/普通科员类男性，收入不高，实际权力有限。",
+      "evidence": [
+        {
+          "index": 115,
+          "url": "https://www.douyin.com/video/7643824127509368127"
+        },
+        {
+          "index": 63,
+          "url": "https://www.douyin.com/video/7672967248591803237"
+        }
+      ]
+    },
+    {
+      "claim": "外在符号是西裤扎外腰、夹公文包、迈四方步，开口官话。",
+      "evidence": [
+        {
+          "index": 115,
+          "url": "https://www.douyin.com/video/7643824127509368127"
+        }
+      ]
+    },
+    {
+      "claim": "文本中另有李宝库式具名例证：县城体制内科员，被叫李主任。",
+      "evidence": [
+        {
+          "index": 219,
+          "url": "https://www.douyin.com/video/7574458857674525995"
+        }
+      ]
+    },
+    {
+      "claim": "会以安排工作为名收钱，收钱后只给报名网站链接。",
+      "evidence": [
+        {
+          "index": 63,
+          "url": "https://www.douyin.com/video/7672967248591803237"
+        }
+      ]
+    }
+  ],
+  "traits": [
+    {
+      "claim": "渴望特权，喜欢在外人面前展示权力。",
+      "kind": "欲望",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 115,
+          "url": "https://www.douyin.com/video/7643824127509368127"
+        }
+      ]
+    },
+    {
+      "claim": "始终活在权力幻想中，又无法真正获得权力。",
+      "kind": "矛盾",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 115,
+          "url": "https://www.douyin.com/video/7643824127509368127"
+        }
+      ]
+    },
+    {
+      "claim": "靠编制获得优越感，对编制没有祛魅。",
+      "kind": "动机",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 115,
+          "url": "https://www.douyin.com/video/7643824127509368127"
+        }
+      ]
+    },
+    {
+      "claim": "陷入存在主义虚无困境，靠强行扮演领导角色自处。",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 115,
+          "url": "https://www.douyin.com/video/7643824127509368127"
+        }
+      ]
+    },
+    {
+      "claim": "长期角色扮演可能永久替换原生人格。",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 115,
+          "url": "https://www.douyin.com/video/7643824127509368127"
+        }
+      ]
+    },
+    {
+      "claim": "需要外界吹捧；一旦被捧，酒桌上更会膨胀。",
+      "kind": "欲望",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 115,
+          "url": "https://www.douyin.com/video/7643824127509368127"
+        }
+      ]
+    },
+    {
+      "claim": "自我叙述中是县城纵横捭阖的人物，实际别人不拿他当盘菜。",
+      "kind": "矛盾",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 115,
+          "url": "https://www.douyin.com/video/7643824127509368127"
+        }
+      ]
+    },
+    {
+      "claim": "真实职务权限极小，最大职务之变是用单位A4纸给孩子打印作业。",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 115,
+          "url": "https://www.douyin.com/video/7643824127509368127"
+        }
+      ]
+    },
+    {
+      "claim": "若不让他扮演官架子，他不知道自己还能怎么获得优越感。",
+      "kind": "恐惧",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 115,
+          "url": "https://www.douyin.com/video/7643824127509368127"
+        }
+      ]
+    },
+    {
+      "claim": "那副行走的官架子是其最后的遮羞布。",
+      "kind": "自我形象",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 115,
+          "url": "https://www.douyin.com/video/7643824127509368127"
+        }
+      ]
+    },
+    {
+      "claim": "其吹牛套路只能忽悠信息闭塞者，对年轻人无效。",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 115,
+          "url": "https://www.douyin.com/video/7643824127509368127"
+        }
+      ]
+    },
+    {
+      "claim": "收入不高却爱吹牛，实际不如卖烤冷面的。",
+      "kind": "矛盾",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 145,
+          "url": "https://www.douyin.com/video/7623070673635691791"
+        }
+      ]
+    },
+    {
+      "claim": "渴望特权，特别喜欢在外人面前展示自己的“权利”。",
+      "kind": "欲望",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "始终活在对权力的幻想当中，又无法真正获得权力；除权力外没有任何事能让他感到极致快乐。",
+      "kind": "矛盾",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "靠侥幸弄到编制，因此对编制完全没有祛魅，以编制作为优越感来源。",
+      "kind": "动机",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "陷入存在主义虚无困境，只能靠强行cosplay“人民的名义”自处。",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "长期进行角色扮演，可能永久替换原生人格。",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "需要外界吹捧；一被捧，喝两口小酒就更膨胀，觉得整个县城都得围着他转。",
+      "kind": "欲望",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "自我叙述中找他办事的人踏破门槛、他在县城纵横捭阖；文本又称别人不会拿他当盘菜，门口保安都比他工资高。",
+      "kind": "矛盾",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "真实职务权限极小，能完成的最大职务之变就是用单位的A4纸给孩子打印作业。",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "若不让他扮演官架子，他自己也不知道还能怎么获得优越感；那副行走的官架子是他最后的遮羞布。",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "吹牛套路只能忽悠村里没通网的人，对年轻人一点都没戏。",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "天天趾高气扬在外面吹大牛，实际一天下来没有卖烤冷面的赚得多。",
+      "kind": "矛盾",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "办事版本并列：口头说“这事交给我你就放心吧”，文本又称他其实就是去窗口盖了个章，最后还搭上你一箱酒两条烟。",
+      "kind": "矛盾",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "收入与排面并列：编制让他在相亲场成“贤婿”、出门被叫“李主任”，但他换手机要拿工资攒上仨月，公积金不够捏两次脚。",
+      "kind": "矛盾",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "身份归属并列：文本以“县城公文包”称呼一类体制内男性，又另写“我初中同学李宝库，县城体制内纯科员”，二者特征高度重合但未明示同一人。",
+      "kind": "矛盾",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "李宝库月收入版本并列：一处为“一个月工资到手4600”，一处为“一个月到手4300”“加上油补4800”，另一处为“月入5000”。",
+      "kind": "矛盾",
+      "certainty": "文本推断",
+      "evidence": []
+    }
+  ],
+  "life_domains": [
+    {
+      "domain": "职业/权力",
+      "claim": "职业身份是县城体制内普通科员/带编者，但实际权力极小。",
+      "evidence": [
+        {
+          "index": 115,
+          "url": "https://www.douyin.com/video/7643824127509368127"
+        }
+      ]
+    },
+    {
+      "domain": "社交/面子",
+      "claim": "在酒桌、亲戚、办事场中靠官话、大包大揽和编制身份维持排面。",
+      "evidence": [
+        {
+          "index": 115,
+          "url": "https://www.douyin.com/video/7643824127509368127"
+        }
+      ]
+    },
+    {
+      "domain": "金钱",
+      "claim": "收入低，收烟酒、收钱安排工作；自己想换手机都要攒工资。",
+      "evidence": [
+        {
+          "index": 115,
+          "url": "https://www.douyin.com/video/7643824127509368127"
+        },
+        {
+          "index": 63,
+          "url": "https://www.douyin.com/video/7672967248591803237"
+        }
+      ]
+    },
+    {
+      "domain": "婚恋/相亲",
+      "claim": "带编身份在相亲、老丈人场中被视为贤婿和排面。",
+      "evidence": [
+        {
+          "index": 199,
+          "url": "https://www.douyin.com/video/7586683557188242703"
+        }
+      ]
+    },
+    {
+      "domain": "消费",
+      "claim": "收入不高，消费能力有限，换手机也得攒钱。",
+      "evidence": [
+        {
+          "index": 115,
+          "url": "https://www.douyin.com/video/7643824127509368127"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "event_id": "E001",
+      "title": "装领导、摆官架子",
+      "description": "穿西裤扎外腰、夹公文包、迈四方步，开口官话，掐腰敲桌，模仿领导做派。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 115,
+          "url": "https://www.douyin.com/video/7643824127509368127"
+        }
+      ]
+    },
+    {
+      "event_id": "E002",
+      "title": "大包大揽办事",
+      "description": "把正常流程包装成个人运作，说“这事交给我你就放心吧”，实际只是去窗口盖章，还搭上烟酒。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 115,
+          "url": "https://www.douyin.com/video/7643824127509368127"
+        }
+      ]
+    },
+    {
+      "event_id": "E003",
+      "title": "收钱安排工作",
+      "description": "声称能给人安排工作，收几万块钱，反手只给报名网站链接。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 63,
+          "url": "https://www.douyin.com/video/7672967248591803237"
+        }
+      ]
+    },
+    {
+      "event_id": "E004",
+      "title": "用单位A4纸打印作业",
+      "description": "文本称其能完成的最大职务之变，就是用单位A4纸给孩子打印作业。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 115,
+          "url": "https://www.douyin.com/video/7643824127509368127"
+        }
+      ]
+    },
+    {
+      "event_id": "E005",
+      "title": "被捧后酒桌膨胀",
+      "description": "若有人配合吹捧，他喝两口小酒就更膨胀，仿佛整个县城都围着他转。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 115,
+          "url": "https://www.douyin.com/video/7643824127509368127"
+        }
+      ]
+    },
+    {
+      "event_id": "E006",
+      "title": "李宝库式编制排面",
+      "description": "李宝库为县城体制内纯科员，月到手4300，出门被叫李主任；在相亲/老丈人场中被当作贤婿。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 219,
+          "url": "https://www.douyin.com/video/7574458857674525995"
+        },
+        {
+          "index": 199,
+          "url": "https://www.douyin.com/video/7586683557188242703"
+        }
+      ]
+    },
+    {
+      "title": "同学聚会抢结账",
+      "desc": "李宝库在春节同学聚会上拦下赵铁柱，说自己走单位账报销接待费，实则一个月零花钱500，回家被老婆训三个晚上、睡一个月地板",
+      "time": "未交代",
+      "evidence": []
+    }
+  ],
+  "storylines": [
+    {
+      "title": "县城公文包的权力幻想循环",
+      "event_ids": [
+        "E001",
+        "E002",
+        "E003",
+        "E004",
+        "E005"
+      ],
+      "narrative": "文本中的县城公文包因侥幸获得编制，却仍是普通小科员。他不甘于无实权，于是把官架子带到各处：夹包、四方步、官话、掐腰敲桌。有人办事时，他把正常流程说成没有他办不成，大包大揽，实际只是窗口盖章并收烟酒；他还声称能安排工作、收几万块钱，最后只甩报名网站链接。若被吹捧，他酒桌上更加膨胀，仿佛县城政商两界都靠他。但文本揭穿其真实权限极小，最大职务之变是用单位A4纸打印作业，终其生就是个小科员。",
+      "unresolved": "收钱安排工作是否真正办成、是否被追责，文本未交代；其具体单位、职务、年龄也未明。",
+      "evidence": [
+        {
+          "index": 115,
+          "url": "https://www.douyin.com/video/7643824127509368127"
+        },
+        {
+          "index": 63,
+          "url": "https://www.douyin.com/video/7672967248591803237"
+        }
+      ]
+    },
+    {
+      "title": "李宝库式编制排面",
+      "event_ids": [
+        "E006"
+      ],
+      "narrative": "文本另以李宝库为例：县城体制内纯科员，月到手4300，加上油补4800，公积金不够捏两次脚，但一出门被叫李主任。在相亲与亲戚场中，带编者被当成贤婿、走仕途、有排面。此线与“县城公文包”特征高度重合，但原文未明示二者是同一人。",
+      "unresolved": "李宝库是否就是“县城公文包”未明；其具体单位、是否真实办事、后续婚姻与职业发展未交代。",
+      "evidence": [
+        {
+          "index": 219,
+          "url": "https://www.douyin.com/video/7574458857674525995"
+        },
+        {
+          "index": 186,
+          "url": "https://www.douyin.com/video/7596206846759701823"
+        }
+      ]
+    }
+  ],
+  "relationships": [
+    {
+      "target": "县城带编铁娘子",
+      "relation": "文本建议其最好的选择是与其结婚，圈地自萌、互相吹捧、互相充当配角。",
+      "certainty": "文本推断",
+      "evidence": [
+        {
+          "index": 115,
+          "url": "https://www.douyin.com/video/7643824127509368127"
+        }
+      ]
+    },
+    {
+      "target": "村头开小卖部的",
+      "relation": "被用来类比其夸大身份、把小事说成全镇总调度。",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 115,
+          "url": "https://www.douyin.com/video/7643824127509368127"
+        }
+      ]
+    },
+    {
+      "target": "李宝库",
+      "relation": "文本中县城体制内科员的具名例证，与“县城公文包”特征高度重合，但未明示同一人。",
+      "certainty": "文本推断",
+      "evidence": [
+        {
+          "index": 186,
+          "url": "https://www.douyin.com/video/7596206846759701823"
+        },
+        {
+          "index": 219,
+          "url": "https://www.douyin.com/video/7574458857674525995"
+        }
+      ]
+    },
+    {
+      "target": "找他办事的人",
+      "relation": "被其大包大揽后收烟酒，或听信其能安排工作而交钱。",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 115,
+          "url": "https://www.douyin.com/video/7643824127509368127"
+        },
+        {
+          "index": 63,
+          "url": "https://www.douyin.com/video/7672967248591803237"
+        }
+      ]
+    },
+    {
+      "target": "门口保安/卖烤冷面的",
+      "relation": "收入对比对象，文本用他们反衬公文包收入低、实际没排面。",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 115,
+          "url": "https://www.douyin.com/video/7643824127509368127"
+        },
+        {
+          "index": 145,
+          "url": "https://www.douyin.com/video/7623070673635691791"
+        }
+      ]
+    }
+  ],
+  "speech_habits": [
+    {
+      "claim": "满口官场术语，如推进、落实、调度、聚焦。",
+      "evidence": [
+        {
+          "index": 115,
+          "url": "https://www.douyin.com/video/7643824127509368127"
+        }
+      ]
+    },
+    {
+      "claim": "大包大揽式承诺：“这事交给我你就放心吧”。",
+      "evidence": [
+        {
+          "index": 115,
+          "url": "https://www.douyin.com/video/7643824127509368127"
+        }
+      ]
+    },
+    {
+      "claim": "吹嘘能安排工作、能办事，最终给报名网站链接。",
+      "evidence": [
+        {
+          "index": 63,
+          "url": "https://www.douyin.com/video/7672967248591803237"
+        }
+      ]
+    },
+    {
+      "claim": "在体制内场合被称“李主任”，享受排面称谓。",
+      "evidence": [
+        {
+          "index": 219,
+          "url": "https://www.douyin.com/video/7574458857674525995"
+        }
+      ]
+    },
+    {
+      "claim": "在外趾高气扬、爱吹大牛。",
+      "evidence": [
+        {
+          "index": 145,
+          "url": "https://www.douyin.com/video/7623070673635691791"
+        }
+      ]
+    }
+  ],
+  "contradictions": [
+    {
+      "issue": "他到底能不能办事",
+      "versions": [
+        {
+          "claim": "他大包大揽说“这事交给我你就放心吧”。",
+          "evidence": [
+            {
+              "index": 115,
+              "url": "https://www.douyin.com/video/7643824127509368127"
+            }
+          ]
+        },
+        {
+          "claim": "实际只是去窗口盖个章，还收烟酒。",
+          "evidence": [
+            {
+              "index": 115,
+              "url": "https://www.douyin.com/video/7643824127509368127"
+            }
+          ]
+        }
+      ],
+      "resolution": "保留并列：文本呈现的是言行矛盾，不强行判定其是否真能办成事。"
+    },
+    {
+      "issue": "他在县城是否有威望",
+      "versions": [
+        {
+          "claim": "在其嘴里，找他办事的人踏破门槛，他在县城纵横捭阖。",
+          "evidence": [
+            {
+              "index": 115,
+              "url": "https://www.douyin.com/video/7643824127509368127"
+            }
+          ]
+        },
+        {
+          "claim": "文本称别人不会拿他当盘菜，门口保安都比他工资高。",
+          "evidence": [
+            {
+              "index": 115,
+              "url": "https://www.douyin.com/video/7643824127509368127"
+            }
+          ]
+        }
+      ],
+      "resolution": "保留并列：自我叙述与外部评价相反。"
+    },
+    {
+      "issue": "编制带来的地位与实际收入是否匹配",
+      "versions": [
+        {
+          "claim": "编制让其有优越感、被叫李主任、相亲场成贤婿。",
+          "evidence": [
+            {
+              "index": 219,
+              "url": "https://www.douyin.com/video/7574458857674525995"
+            }
+          ]
+        },
+        {
+          "claim": "其收入不高，换手机要攒仨月，公积金不够捏两次脚。",
+          "evidence": [
+            {
+              "index": 115,
+              "url": "https://www.douyin.com/video/7643824127509368127"
+            }
+          ]
+        }
+      ],
+      "resolution": "保留并列：文本强调编制排面与实际低收入之间的反差。"
+    },
+    {
+      "issue": "李宝库与“县城公文包”是否同一人",
+      "versions": [
+        {
+          "claim": "文本以“县城公文包”称呼一类体制内男性。",
+          "evidence": [
+            {
+              "index": 115,
+              "url": "https://www.douyin.com/video/7643824127509368127"
+            }
+          ]
+        },
+        {
+          "claim": "文本又写“我初中同学李宝库，县城体制内纯科员”。",
+          "evidence": [
+            {
+              "index": 219,
+              "url": "https://www.douyin.com/video/7574458857674525995"
+            }
+          ]
+        }
+      ],
+      "resolution": "保留并列，不擅自合并；只能确认二者特征高度重合。"
+    }
+  ],
+  "gaps": [
+    "年龄、真实姓名、具体单位、职务、编制类型未明。",
+    "收钱安排工作是否成功、是否被投诉或追责未明。",
+    "与带编铁娘子是否实际结婚未明，只是文本建议。",
+    "“李宝库”与“县城公文包”是否同一人未明。",
+    "不同文案中出现的“公文包”是否同一人未明。",
+    "具体时间线、事件因果、行为结果多缺失。",
+    "收钱安排工作是否真正办成、是否被投诉或追责未交代。",
+    "与带编铁娘子是否实际结婚未交代，文本只是建议。",
+    "李宝库月收入为何有4600、4300、4800、5000等多个数字，原文未给统一口径。",
+    "李宝库的妻子、家庭状况除“回家让老婆训了三个晚上”一句外未展开。"
+  ],
+  "creative_expansions": [],
+  "source_coverage": [
+    {
+      "index": 63,
+      "role": "提供“县城公文包”名称、出门夹包、上高调、安排工作收钱、甩报名网站链接等材料。",
+      "url": "https://www.douyin.com/video/7672967248591803237"
+    },
+    {
+      "index": 115,
+      "role": "核心定义：外形、官话、权力幻想、编制优越感、实际职务权限、与带编铁娘子建议等。",
+      "url": "https://www.douyin.com/video/7643824127509368127"
+    },
+    {
+      "index": 145,
+      "role": "补充“体制内的公文包”趾高气扬吹牛、收入不如卖烤冷面的。",
+      "url": "https://www.douyin.com/video/7623070673635691791"
+    },
+    {
+      "index": 186,
+      "role": "提供李宝库具名例证：体制内科员装领导、cosplay人民的名义、暗示能办事。",
+      "url": "https://www.douyin.com/video/7596206846759701823"
+    },
+    {
+      "index": 199,
+      "role": "补充李宝库因带编在相亲/老丈人场中被视为贤婿。",
+      "url": "https://www.douyin.com/video/7586683557188242703"
+    },
+    {
+      "index": 219,
+      "role": "补充李宝库县城体制内纯科员、被叫李主任、月到手4300等排面细节。",
+      "url": "https://www.douyin.com/video/7574458857674525995"
+    }
+  ]
+}

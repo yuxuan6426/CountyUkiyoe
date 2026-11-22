@@ -1,0 +1,867 @@
+{
+  "name": "县城葱姜蒜",
+  "nature": "原型/复合群像，不是单一自然人。是博主在《县城浮世绘》多篇中反复使用的讽刺性泛称，指县城中收入、学历、资源有限的普通人群，得名于“不是主菜但味很冲”。各篇对其幸福、好面子、消费、婚恋的描写有重叠也有冲突，只能按篇保留编纂说明：，不能拼成连续传记。",
+  "overview": "文本一面将葱姜蒜列为县城最幸福的人：接触不到更高圈层，欲望低，能把得不到的说成不想要，靠圈地自萌和酒桌打压装杯者获得快乐。另一面又写他们好面子、爱找画面、嫉妒医生和老师、冲动消费、被小太妹崩钱、创业翻车。收入版本有月薪2800、3800、三五千；学历不高，多做偏蓝领工作，也有人靠开挖掘机等手艺吃饭。他们认同老社保、编二代、好大哥、人脉哥，最瞧不上小布尔乔亚。消费上既买假大牌、硬上低价车、在商K用碎屏安卓机付小费，又在别人看不到的地方极度节省。婚恋上瞧不上女老师，却可能娶女文青并让其做家务、带娃、打螺丝，部分人酗酒家暴。文本评价在“幸福哲学样本”和“被讽刺对象”之间摆动，需并列保留。",
+  "identity": [
+    {
+      "claim": "县城普通人群，不是主菜但味很冲，收入、学历、资源有限",
+      "evidence": [
+        {
+          "index": 135,
+          "url": "https://www.douyin.com/video/7628280226711129350"
+        },
+        {
+          "index": 30,
+          "url": "https://www.douyin.com/video/7690092868890789371"
+        }
+      ]
+    },
+    {
+      "claim": "月收入常见2800、3800、三五千等低水平，做辛苦工作或偏蓝领工作",
+      "evidence": [
+        {
+          "index": 61,
+          "url": "https://www.douyin.com/video/7673802651855671739"
+        },
+        {
+          "index": 10,
+          "url": "https://www.douyin.com/video/7703063868465985509"
+        },
+        {
+          "index": 210,
+          "url": "https://www.douyin.com/video/7579264195695267106"
+        }
+      ]
+    },
+    {
+      "claim": "受教育程度不高，部分人没上过高中或没念过正经大学",
+      "evidence": [
+        {
+          "index": 208,
+          "url": "https://www.douyin.com/video/7581500748232428854"
+        },
+        {
+          "index": 105,
+          "url": "https://www.douyin.com/video/7649231017782122737"
+        }
+      ]
+    },
+    {
+      "claim": "部分人靠手艺或体力活获得收入，如开挖掘机",
+      "evidence": [
+        {
+          "index": 184,
+          "url": "https://www.douyin.com/video/7596671206527438086"
+        }
+      ]
+    }
+  ],
+  "traits": [
+    {
+      "claim": "核心生存哲学：接受平庸、自我安慰、把得不到的说成不想要",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 34,
+          "url": "https://www.douyin.com/video/7687901194417659557"
+        },
+        {
+          "index": 61,
+          "url": "https://www.douyin.com/video/7673802651855671739"
+        },
+        {
+          "index": 90,
+          "url": "https://www.douyin.com/video/7656000821599639281"
+        }
+      ]
+    },
+    {
+      "claim": "圈地自萌、欲望低，因接触不到更高圈层而幸福",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 105,
+          "url": "https://www.douyin.com/video/7649231017782122737"
+        },
+        {
+          "index": 135,
+          "url": "https://www.douyin.com/video/7628280226711129350"
+        },
+        {
+          "index": 215,
+          "url": "https://www.douyin.com/video/7576891603848056100"
+        }
+      ]
+    },
+    {
+      "claim": "好面子、爱找画面、喜欢装杯，但消费可持续性差",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 176,
+          "url": "https://www.douyin.com/video/7601752625796713779"
+        },
+        {
+          "index": 198,
+          "url": "https://www.douyin.com/video/7587831651384757538"
+        }
+      ]
+    },
+    {
+      "claim": "有一套对自己有利的评价体系，平等打压周围人",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 176,
+          "url": "https://www.douyin.com/video/7601752625796713779"
+        },
+        {
+          "index": 194,
+          "url": "https://www.douyin.com/video/7589674356553305394"
+        }
+      ]
+    },
+    {
+      "claim": "对医生和老师容易怀有敌意和嫉妒",
+      "kind": "动机",
+      "certainty": "文本推断",
+      "evidence": [
+        {
+          "index": 30,
+          "url": "https://www.douyin.com/video/7690092868890789371"
+        },
+        {
+          "index": 35,
+          "url": "https://www.douyin.com/video/7687488459165967461"
+        }
+      ]
+    },
+    {
+      "claim": "把持不住欲望，容易在食色和排面上冲动消费",
+      "kind": "矛盾",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 176,
+          "url": "https://www.douyin.com/video/7601752625796713779"
+        },
+        {
+          "index": 178,
+          "url": "https://www.douyin.com/video/7601345616412708146"
+        }
+      ]
+    },
+    {
+      "claim": "自我认可、瞧得起自己，敢于打压优越感",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 63,
+          "url": "https://www.douyin.com/video/7672967248591803237"
+        },
+        {
+          "index": 61,
+          "url": "https://www.douyin.com/video/7673802651855671739"
+        },
+        {
+          "index": 135,
+          "url": "https://www.douyin.com/video/7628280226711129350"
+        }
+      ]
+    },
+    {
+      "claim": "县城普通人群，得名于“不是主菜但味很冲”，收入、学历、资源有限。",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "月收入常见2800、3800、三五千，做偏蓝领或辛苦工作；部分人靠开挖掘机等手艺获得收入。",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "受教育程度不高，部分人没上过高中或没念过正经大学。",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "核心生存哲学是接受平庸、自我安慰，把得不到的说成自己本来就不想要。",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "圈地自萌、欲望低，因接触不到更高圈层而自认幸福，认为“没见过世面本身就是一种财富”。",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "好面子、爱找画面、喜欢装杯，但消费可持续性差，一件假北面或羽绒服穿一冬。",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "有一套对自己有利的评价体系，平等打压周围人；车便宜是穷，车贵是贷款，房大是背房贷。",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "对医生和老师容易怀有敌意和嫉妒，因这两个职业是其接触得到、过得比较舒服的人。",
+      "kind": "动机",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "把持不住欲望，容易在食色和排面上冲动消费，兜里存不住钱，遇事甚至卖车回血。",
+      "kind": "矛盾",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "自我认可、瞧得起自己，敢于打压让自己不舒服的优越感，“我可以没有面子，但你不能装逼”。",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "幸福版本一：被列为县城最幸福的人，低欲望、能自洽、酒桌反杀装杯者；版本二：被写为好面子、嫉妒、爱装、冲动消费的讽刺对象。两版并列。",
+      "kind": "矛盾",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "消费版本一：收入不高却买假大牌、硬上艾瑞泽8/影豹等低价车、去商K用碎屏安卓机付小费；版本二：不涉及面子的钱一分不花，日常极度节省。两版并存。",
+      "kind": "矛盾",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "对老师版本一：最瞧不上中小学老师，对老师全是愤恨；版本二：不瞧不起高中老师，因自己没上过高中而略有敬畏。两版并列。",
+      "kind": "矛盾",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "财务版本：一处称其存款可能比小布尔乔亚多，另一处称其收入低、存不住钱，原文未给统一数据。",
+      "kind": "矛盾",
+      "certainty": "文本推断",
+      "evidence": []
+    }
+  ],
+  "life_domains": [
+    {
+      "domain": "职业与收入",
+      "claim": "多从事偏蓝领、辛苦或低门槛工作，收入低；部分人开挖掘机、做小生意，也有人靠手艺获得不错收入",
+      "evidence": [
+        {
+          "index": 210,
+          "url": "https://www.douyin.com/video/7579264195695267106"
+        },
+        {
+          "index": 184,
+          "url": "https://www.douyin.com/video/7596671206527438086"
+        },
+        {
+          "index": 113,
+          "url": "https://www.douyin.com/video/7644796017133896933"
+        }
+      ]
+    },
+    {
+      "domain": "金钱与消费",
+      "claim": "收入不高但敢在排面上花钱；买假大牌、贷款或硬上低价车；商K消费使用碎屏旧安卓机；精打细算也偶尔大手大脚",
+      "evidence": [
+        {
+          "index": 112,
+          "url": "https://www.douyin.com/video/7645948649662434612"
+        },
+        {
+          "index": 176,
+          "url": "https://www.douyin.com/video/7601752625796713779"
+        }
+      ]
+    },
+    {
+      "domain": "社交与酒桌",
+      "claim": "熟人社会中重视酒桌评价，喜欢议论、贬低、打压炫耀者；也认同好大哥、老社保、编二代等有权力或资源的人",
+      "evidence": [
+        {
+          "index": 107,
+          "url": "https://www.douyin.com/video/7648547489775648613"
+        },
+        {
+          "index": 135,
+          "url": "https://www.douyin.com/video/7628280226711129350"
+        },
+        {
+          "index": 191,
+          "url": "https://www.douyin.com/video/7592653564976106762"
+        }
+      ]
+    },
+    {
+      "domain": "婚恋与家庭",
+      "claim": "瞧不上女老师，但可能娶女文青后让其做家务带娃；被小太妹崩钱；部分人酗酒家暴；也有人因女老师迫于现实下嫁",
+      "evidence": [
+        {
+          "index": 35,
+          "url": "https://www.douyin.com/video/7687488459165967461"
+        },
+        {
+          "index": 178,
+          "url": "https://www.douyin.com/video/7601345616412708146"
+        },
+        {
+          "index": 175,
+          "url": "https://www.douyin.com/video/7602851304486079786"
+        }
+      ]
+    },
+    {
+      "domain": "权力与评价",
+      "claim": "在县城宗法社会评价中，认同权力关系和实际办事能力；认为权力关系稳定永远凌驾于纯粹市场财富",
+      "evidence": [
+        {
+          "index": 107,
+          "url": "https://www.douyin.com/video/7648547489775648613"
+        },
+        {
+          "index": 205,
+          "url": "https://www.douyin.com/video/7583676385651068196"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "event_id": "E001",
+      "title": "酒桌上打压装杯者",
+      "description": "葱姜蒜在酒桌或饭局上遇到炫耀车、房、收入、品牌的人时，会直接抬杠、贬低对方所展示的东西，用自己的一套评价体系解构对方的面子。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 135,
+          "url": "https://www.douyin.com/video/7628280226711129350"
+        },
+        {
+          "index": 205,
+          "url": "https://www.douyin.com/video/7583676385651068196"
+        }
+      ]
+    },
+    {
+      "event_id": "E002",
+      "title": "刚发工资去商K消费",
+      "description": "葱姜蒜发工资后到商K消费，用碎屏旧安卓机给音乐老师扫码付小费，在娱乐消费中寻求身份满足。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 112,
+          "url": "https://www.douyin.com/video/7645948649662434612"
+        }
+      ]
+    },
+    {
+      "event_id": "E003",
+      "title": "被小太妹崩钱",
+      "description": "小太妹通过亲昵互动和情绪价值，让葱姜蒜把辛苦打工赚来的几千块钱转给自己，葱姜蒜成为被崩对象。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 175,
+          "url": "https://www.douyin.com/video/7602851304486079786"
+        },
+        {
+          "index": 176,
+          "url": "https://www.douyin.com/video/7601752625796713779"
+        }
+      ]
+    },
+    {
+      "event_id": "E004",
+      "title": "创业翻车三大名场面",
+      "description": "部分葱姜蒜一旦不甘平庸去创业，容易遭遇重金加盟网红店、被杀猪盘精准收割、被县城好大哥精准猎杀三种结局。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 34,
+          "url": "https://www.douyin.com/video/7687901194417659557"
+        }
+      ]
+    },
+    {
+      "event_id": "E005",
+      "title": "冬天回村等过年",
+      "description": "冬天是葱姜蒜的大逆风局，装备门槛提高，工作条件受限，文本建议实在没有思路就先回村消停等着过年。",
+      "temporal": "冬天",
+      "chronology_basis": "明示",
+      "evidence": [
+        {
+          "index": 210,
+          "url": "https://www.douyin.com/video/7579264195695267106"
+        }
+      ]
+    }
+  ],
+  "storylines": [
+    {
+      "title": "葱姜蒜的幸福哲学：低欲望与圈地自萌",
+      "event_ids": [
+        "E001",
+        "E005"
+      ],
+      "narrative": "文本多次将葱姜蒜列为县城里最幸福的人。原因是他们接触不到更高圈层，欲望有限，能把得不到的说成不想要，能珍惜已拥有的，并敢在酒桌上打压让自己不舒服的人。他们月工资虽低，却一天到晚笑哈哈；没见过的世面反而成了一种财富。",
+      "unresolved": "这种幸福是否可持续、是否真正内心满足，文本没有给出统一答案；另一部分文本又写他们爱找画面、嫉妒、冲动消费。",
+      "evidence": [
+        {
+          "index": 63,
+          "url": "https://www.douyin.com/video/7672967248591803237"
+        },
+        {
+          "index": 105,
+          "url": "https://www.douyin.com/video/7649231017782122737"
+        },
+        {
+          "index": 135,
+          "url": "https://www.douyin.com/video/7628280226711129350"
+        }
+      ]
+    },
+    {
+      "title": "葱姜蒜的外耗生存法",
+      "event_ids": [
+        "E001"
+      ],
+      "narrative": "葱姜蒜的生存哲学被总结为外耗：先觉得自己不比别人差，用对自己有利的评价体系解释一切。车便宜是穷，车贵是贷款；房小是买不起，房大是背房贷；工资高是拿命换钱，工资低是没能力。通过这套逻辑，他们不被别人的评价体系绑架。",
+      "unresolved": "文本同时指出这套逻辑带有阿Q色彩，也没有说明他们是否真能完全不受外界影响。",
+      "evidence": [
+        {
+          "index": 194,
+          "url": "https://www.douyin.com/video/7589674356553305394"
+        }
+      ]
+    },
+    {
+      "title": "被小太妹拿捏：欲望、不会撩妹、要画面",
+      "event_ids": [
+        "E003"
+      ],
+      "narrative": "小太妹被视为葱姜蒜最严厉的父亲。葱姜蒜把持不住欲望，又不会撩妹，还极其想要画面，小太妹用亲昵和夸赞就能让他们不断掏钱，最后辛苦钱都流到小太妹那里。",
+      "unresolved": "文本未交代葱姜蒜在被崩之后是否醒悟，也没有给出后续结果。",
+      "evidence": [
+        {
+          "index": 176,
+          "url": "https://www.douyin.com/video/7601752625796713779"
+        }
+      ]
+    }
+  ],
+  "relationships": [
+    {
+      "target": "县城小布尔乔亚",
+      "relation": "价值观对立，葱姜蒜最瞧不上小布尔乔亚，常否定其消费和成就",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 107,
+          "url": "https://www.douyin.com/video/7648547489775648613"
+        },
+        {
+          "index": 205,
+          "url": "https://www.douyin.com/video/7583676385651068196"
+        }
+      ]
+    },
+    {
+      "target": "县城小太妹",
+      "relation": "被小太妹崩钱，辛苦打工收入大量流向小太妹",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 175,
+          "url": "https://www.douyin.com/video/7602851304486079786"
+        },
+        {
+          "index": 176,
+          "url": "https://www.douyin.com/video/7601752625796713779"
+        }
+      ]
+    },
+    {
+      "target": "县城女文青",
+      "relation": "瞧不上文化，最终可能娶女文青并让她做家务、带娃、打螺丝",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 178,
+          "url": "https://www.douyin.com/video/7601345616412708146"
+        }
+      ]
+    },
+    {
+      "target": "县城好大哥",
+      "relation": "认同其资源地位，部分人信任好大哥的项目，最终被猎杀",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 107,
+          "url": "https://www.douyin.com/video/7648547489775648613"
+        },
+        {
+          "index": 34,
+          "url": "https://www.douyin.com/video/7687901194417659557"
+        }
+      ]
+    },
+    {
+      "target": "县城老师",
+      "relation": "轻视中小学老师，对高中老师略有敬畏；孩子在学校出事时可能责怪老师",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 35,
+          "url": "https://www.douyin.com/video/7687488459165967461"
+        },
+        {
+          "index": 208,
+          "url": "https://www.douyin.com/video/7581500748232428854"
+        }
+      ]
+    },
+    {
+      "target": "县城医生",
+      "relation": "容易因医疗支出和嫉妒产生敌意",
+      "certainty": "文本推断",
+      "evidence": [
+        {
+          "index": 30,
+          "url": "https://www.douyin.com/video/7690092868890789371"
+        }
+      ]
+    },
+    {
+      "target": "县城编二代、老社保、人脉哥",
+      "relation": "认同、羡慕或敬畏，认为他们是有实力、能办事的人",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 107,
+          "url": "https://www.douyin.com/video/7648547489775648613"
+        }
+      ]
+    }
+  ],
+  "speech_habits": [
+    {
+      "claim": "酒桌上直接顶撞、抬杠、打压炫耀者，语言辛辣",
+      "evidence": [
+        {
+          "index": 135,
+          "url": "https://www.douyin.com/video/7628280226711129350"
+        },
+        {
+          "index": 61,
+          "url": "https://www.douyin.com/video/7673802651855671739"
+        }
+      ]
+    },
+    {
+      "claim": "常用“我小舅子开迈巴赫、我二哥开霍希、我二叔开路虎揽胜”一类话术抬高自己人脉",
+      "evidence": [
+        {
+          "index": 135,
+          "url": "https://www.douyin.com/video/7628280226711129350"
+        }
+      ]
+    },
+    {
+      "claim": "否定别人所拥有的，把自己没有的说成不好",
+      "evidence": [
+        {
+          "index": 63,
+          "url": "https://www.douyin.com/video/7672967248591803237"
+        },
+        {
+          "index": 135,
+          "url": "https://www.douyin.com/video/7628280226711129350"
+        }
+      ]
+    },
+    {
+      "claim": "评价别人车、房、收入时有一套贬低话术",
+      "evidence": [
+        {
+          "index": 191,
+          "url": "https://www.douyin.com/video/7592653564976106762"
+        },
+        {
+          "index": 205,
+          "url": "https://www.douyin.com/video/7583676385651068196"
+        }
+      ]
+    }
+  ],
+  "contradictions": [
+    {
+      "issue": "葱姜蒜到底是“最幸福的人”还是“好面子、嫉妒、爱装的人”",
+      "versions": [
+        {
+          "claim": "多次被列为县城里活得最幸福的人，因欲望低、圈地自萌、自我安慰",
+          "evidence": [
+            {
+              "index": 63,
+              "url": "https://www.douyin.com/video/7672967248591803237"
+            },
+            {
+              "index": 113,
+              "url": "https://www.douyin.com/video/7644796017133896933"
+            }
+          ]
+        },
+        {
+          "claim": "被描写为好面子、爱找画面、嫉妒医生和老师、冲动消费",
+          "evidence": [
+            {
+              "index": 176,
+              "url": "https://www.douyin.com/video/7601752625796713779"
+            },
+            {
+              "index": 30,
+              "url": "https://www.douyin.com/video/7690092868890789371"
+            }
+          ]
+        }
+      ],
+      "resolution": "保留并列。文本在不同篇目中分别强调幸福哲学与讽刺面，按出处并列呈现。"
+    },
+    {
+      "issue": "葱姜蒜的消费能力：收入低但敢花，还是精打细算",
+      "versions": [
+        {
+          "claim": "收入不高却买假大牌、贷款买车、去商K消费，排面优先",
+          "evidence": [
+            {
+              "index": 198,
+              "url": "https://www.douyin.com/video/7587831651384757538"
+            },
+            {
+              "index": 176,
+              "url": "https://www.douyin.com/video/7601752625796713779"
+            }
+          ]
+        },
+        {
+          "claim": "日常精打细算，钱花在别人看不到的地方省，看不到的地方不花",
+          "evidence": [
+            {
+              "index": 18,
+              "url": "https://www.douyin.com/video/7697428218999098639"
+            }
+          ]
+        }
+      ],
+      "resolution": "两种消费逻辑并存：面子上的钱敢花，里子上的钱尽量省。"
+    },
+    {
+      "issue": "葱姜蒜对老师的态度是否完全敌视",
+      "versions": [
+        {
+          "claim": "最瞧不上老师，对老师全是愤恨",
+          "evidence": [
+            {
+              "index": 35,
+              "url": "https://www.douyin.com/video/7687488459165967461"
+            }
+          ]
+        },
+        {
+          "claim": "不瞧不起高中老师，因自己没上过高中而略有敬畏",
+          "evidence": [
+            {
+              "index": 208,
+              "url": "https://www.douyin.com/video/7581500748232428854"
+            }
+          ]
+        }
+      ],
+      "resolution": "保留并列：对中小学老师敌意强，对高中老师因认知差异而有不同态度。"
+    }
+  ],
+  "gaps": [
+    "葱姜蒜的年龄、性别比例、具体职业分布，原文没有统一给出。",
+    "“县城葱姜蒜”在不同篇目中有时指群体，有时指个体，边界不固定。",
+    "部分文本说他们存款比小布尔乔亚多，部分文本说他们收入低、存不住钱，缺少具体财务数据。",
+    "他们是否真的完全不羡慕高圈层生活，文本未给出最终结论。",
+    "不同篇目中的葱姜蒜是否同一批人，原文没有说明。",
+    "别名“蒜哥”“县城家豪”“县城葱姜蒜大神”“县城葱姜蒜式家长”各自的确切所指，原文未逐一交代。",
+    "葱姜蒜与“县城普通人”“县城人”“县城年轻人”等泛称群体的范围是否重合，原文未说明。"
+  ],
+  "creative_expansions": [],
+  "source_coverage": [
+    {
+      "index": 5,
+      "role": "以“嫁给葱姜蒜的幸福”作为婚姻对照，说明葱姜蒜被当作一种平凡但可接受的生活状态。",
+      "url": "https://www.douyin.com/video/7706479503548491001"
+    },
+    {
+      "index": 10,
+      "role": "用一月工资3800却每天笑哈哈，与县城骆驼祥子的苦闷形成对照。",
+      "url": "https://www.douyin.com/video/7703063868465985509"
+    },
+    {
+      "index": 30,
+      "role": "分析葱姜蒜的人性：受教育程度不高、自控力差、容易嫉妒医生和老师、吝啬、自私。",
+      "url": "https://www.douyin.com/video/7690092868890789371"
+    },
+    {
+      "index": 34,
+      "role": "描述葱姜蒜最好别瞎折腾，以及创业翻车三大名场面：加盟、杀猪盘、被好大哥猎杀。",
+      "url": "https://www.douyin.com/video/7687901194417659557"
+    },
+    {
+      "index": 35,
+      "role": "说明女老师择偶时被葱姜蒜瞧不起，以及葱姜蒜对老师的愤恨和可能的家暴。",
+      "url": "https://www.douyin.com/video/7687488459165967461"
+    },
+    {
+      "index": 61,
+      "role": "将葱姜蒜列为县城里最幸福的人，总结三条生存哲学。",
+      "url": "https://www.douyin.com/video/7673802651855671739"
+    },
+    {
+      "index": 63,
+      "role": "详细展开葱姜蒜的四个人生哲学：舒适区、看淡钱、自我认可、丑化没走过的路。",
+      "url": "https://www.douyin.com/video/7672967248591803237"
+    },
+    {
+      "index": 90,
+      "role": "以行政小贵妇为对照，说明葱姜蒜因得不到而自称不想要的低欲望。",
+      "url": "https://www.douyin.com/video/7656000821599639281"
+    },
+    {
+      "index": 105,
+      "role": "把葱姜蒜列为第一种幸福的人，强调接触不到高圈层反而是一种财富。",
+      "url": "https://www.douyin.com/video/7649231017782122737"
+    },
+    {
+      "index": 107,
+      "role": "葱姜蒜作为小布尔乔亚的一生之敌，在酒桌上以权力关系评价和打压小布尔乔亚。",
+      "url": "https://www.douyin.com/video/7648547489775648613"
+    },
+    {
+      "index": 112,
+      "role": "用碎屏安卓机给音乐老师扫码付小费、硬穿羽绒服装好大哥等细节刻画消费反差。",
+      "url": "https://www.douyin.com/video/7645948649662434612"
+    },
+    {
+      "index": 113,
+      "role": "再次将葱姜蒜列为最幸福的人，强调接受平庸、退出攀比。",
+      "url": "https://www.douyin.com/video/7644796017133896933"
+    },
+    {
+      "index": 115,
+      "role": "作为对照，说明葱姜蒜看瓦尔登湖还能自洽，小布尔乔亚不能。",
+      "url": "https://www.douyin.com/video/7643824127509368127"
+    },
+    {
+      "index": 116,
+      "role": "在AI写作场景中，将县城葱姜蒜列为需要梳理的人物角色之一。",
+      "url": "https://www.douyin.com/video/7643277690203589923"
+    },
+    {
+      "index": 125,
+      "role": "酒桌文化中把人脉哥和葱姜蒜大神并置，描写兜比脸干净却张口人脉资源。",
+      "url": "https://www.douyin.com/video/7637525781908799737"
+    },
+    {
+      "index": 126,
+      "role": "作为“值得链接的男性”对照，指出葱姜蒜会实打实花钱，也可能发达后花心。",
+      "url": "https://www.douyin.com/video/7637424592269282661"
+    },
+    {
+      "index": 135,
+      "role": "核心篇目之一，论述葱姜蒜的幸福来源：攻击装杯者、逻辑自洽、圈地自萌。",
+      "url": "https://www.douyin.com/video/7628280226711129350"
+    },
+    {
+      "index": 175,
+      "role": "开篇说明小太妹能轻松崩葱姜蒜，余额从碎屏安卓机转到小太妹的苹果手机。",
+      "url": "https://www.douyin.com/video/7602851304486079786"
+    },
+    {
+      "index": 176,
+      "role": "核心篇目之一，系统描写葱姜蒜三个软肋以及被小太妹拿捏的过程。",
+      "url": "https://www.douyin.com/video/7601752625796713779"
+    },
+    {
+      "index": 178,
+      "role": "女文青最严厉的父亲是葱姜蒜，葱姜蒜不信文化、喝大酒、存不住钱、最终压制女文青。",
+      "url": "https://www.douyin.com/video/7601345616412708146"
+    },
+    {
+      "index": 179,
+      "role": "用牙齿问题概括葱姜蒜的外在形象：牙黄牙臭牙漏风、牙上挂菜叶等。",
+      "url": "https://www.douyin.com/video/7600967880855019771"
+    },
+    {
+      "index": 184,
+      "role": "以“学历高不如人家挖掘机开的好”一句，说明葱姜蒜中开挖掘机者被体制内男性羡慕。",
+      "url": "https://www.douyin.com/video/7596671206527438086"
+    },
+    {
+      "index": 191,
+      "role": "回村过年场景中，村里葱姜蒜不服奥迪车主、比较亲戚车辆以及被高规格服务折服。",
+      "url": "https://www.douyin.com/video/7592653564976106762"
+    },
+    {
+      "index": 194,
+      "role": "系统总结葱姜蒜的外耗生存逻辑：用对自己有利的评价体系解释一切。",
+      "url": "https://www.douyin.com/video/7589674356553305394"
+    },
+    {
+      "index": 198,
+      "role": "如何鉴别假大哥的篇目中，用葱姜蒜硬穿羽绒服、不健身等细节配合论证。",
+      "url": "https://www.douyin.com/video/7587831651384757538"
+    },
+    {
+      "index": 205,
+      "role": "小布尔乔亚执念篇中，葱姜蒜在酒桌上批判买宝马M2、否定旅游买衣服等消费。",
+      "url": "https://www.douyin.com/video/7583676385651068196"
+    },
+    {
+      "index": 207,
+      "role": "说明葱姜蒜住城乡结合部宅基地，花20万装修比小布尔乔亚150万房子更好看。",
+      "url": "https://www.douyin.com/video/7582623409314549046"
+    },
+    {
+      "index": 208,
+      "role": "目前最不权威群体篇中，描写葱姜蒜对小学教师的轻视、以收入证明人生选择、教唆孩子动手。",
+      "url": "https://www.douyin.com/video/7581500748232428854"
+    },
+    {
+      "index": 210,
+      "role": "专门描写葱姜蒜的冬天：装备门槛提高、工作条件受限、建议回村等过年。",
+      "url": "https://www.douyin.com/video/7579264195695267106"
+    },
+    {
+      "index": 215,
+      "role": "葱姜蒜的崛起，总结其因圈层和认知有限而自信快乐，狭隘成为夜郎自大的资本。",
+      "url": "https://www.douyin.com/video/7576891603848056100"
+    }
+  ]
+}

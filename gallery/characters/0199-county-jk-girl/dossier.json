@@ -1,0 +1,853 @@
+{
+  "name": "县城小JK",
+  "nature": "原型/复合群像，非单一自然人，也不对应现实人物。是《县城浮世绘》中一类县城年轻女性群体标签：职高或辍学边缘的少女，常与县城小cosplay、小太妹并称；核心证据第136篇，补充见第127、253、45篇，适合按出处理解其叙述设定。",
+  "overview": "县城小JK由多篇文案拼合而成，无姓名与连续生平。版本一（第136篇）：她是县城小太妹的前身，在家逆子、在校刺头，穿小cosplay、小汉服、小洛丽塔或短裙，跟老师顶嘴翻白眼，可能抑郁、自残、离家出走；内心缺爱，穿得扎眼只为被别人多看一眼、多夸一句。遇到县城斯丹康后化身乖乖女，说话嗲嗲，坐9号电动车后座抱紧对方，被买JK与芋泥波波奶茶，年龄再大点被描述会在大腿根纹身“此生只嫁斯丹康”。版本二（第127篇）：她与小cosplay是“最值得谈的三类女孩”第三类，年轻、颜值一般、学历止步中专，但好哄、要得不多、情绪价值拉满、容易把关系发展下去，被称为县城王漫妮最大的敌人。版本三（第253篇）：与小太妹、cosplay并列，被预测遭县城瑜伽裤摧枯拉朽打败、消失。第45篇补充她会用手机判断对方实力。各版本并列保留，不合成一条时间线。\n\n【合并说明】1000 县城小JK和县城cosplay：县城原型／复合群像，不是具名自然人，也没有连续人生线。核心证据为127、136、253三篇：一处把“县城小jk和县城cosplay”列为县城里最值得谈的第三类女孩，一处把小JK写成小太妹的前身、被县城斯丹康拿捏，一处预测她们会被县城瑜伽裤版本强化击败或收编。只能描述文本中的群体形象、关系与预测，不能推出真实身份或统计。",
+  "identity": [
+    {
+      "claim": "年轻，被称作小姑娘、职高小jk，年龄小到不认识高端消费符号。",
+      "evidence": [
+        {
+          "index": 136,
+          "url": "https://www.douyin.com/video/7627797057612418338"
+        }
+      ]
+    },
+    {
+      "claim": "学历在补充篇中被说成止步于中专；另一篇只把小太妹和cosplay说成相当于没有学历、中考落榜居多，未直接点名小JK。",
+      "evidence": [
+        {
+          "index": 127,
+          "url": "https://www.douyin.com/video/7634806168099526885"
+        },
+        {
+          "index": 253,
+          "url": "https://www.douyin.com/video/7537305087186603290"
+        }
+      ]
+    },
+    {
+      "claim": "家庭与学校处境被描述为在家逆子、在校刺头，并与家决裂、跟学校绝缘。",
+      "evidence": [
+        {
+          "index": 136,
+          "url": "https://www.douyin.com/video/7627797057612418338"
+        }
+      ]
+    }
+  ],
+  "traits": [
+    {
+      "claim": "深层动机是内心缺爱，穿得扎眼是为了被别人多看、多夸。",
+      "kind": "动机",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 136,
+          "url": "https://www.douyin.com/video/7627797057612418338"
+        }
+      ]
+    },
+    {
+      "claim": "外在表现叛逆、我行我素、特立独行，常与老师顶嘴翻白眼。",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 136,
+          "url": "https://www.douyin.com/video/7627797057612418338"
+        }
+      ]
+    },
+    {
+      "claim": "遇到县城斯丹康后从叛逆者变成依赖对方的乖乖女。",
+      "kind": "矛盾",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 136,
+          "url": "https://www.douyin.com/video/7627797057612418338"
+        }
+      ]
+    },
+    {
+      "claim": "容易被安慰、收留和“为自己出头”打动。",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 136,
+          "url": "https://www.douyin.com/video/7627797057612418338"
+        }
+      ]
+    },
+    {
+      "claim": "被描述为好哄、要得不多、简单直接，会撒娇，且崇拜另一半。",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 127,
+          "url": "https://www.douyin.com/video/7634806168099526885"
+        }
+      ]
+    },
+    {
+      "claim": "在女性群体战局预测中处于被县城瑜伽裤压制的劣势。",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 253,
+          "url": "https://www.douyin.com/video/7537305087186603290"
+        }
+      ]
+    },
+    {
+      "claim": "会用手机等消费符号判断对方实力。",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 45,
+          "url": "https://www.douyin.com/video/7683421956008557434"
+        }
+      ]
+    },
+    {
+      "claim": "内心缺爱，穿得扎眼是想让别人多看她两眼、多夸她两句。",
+      "kind": "动机",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "在家是逆子，一言不合闹抑郁、自残、离家出走；在学校是刺头，穿奇装异服、我行我素，跟老师顶嘴翻白眼。",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "亲爹打13次没打服、学校13年没教育明白，与家决裂、跟学校绝缘，无依无靠。",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "外表叛逆特立独行，一遇到县城斯丹康就化身黏人的乖乖女，说话嗲嗲、走路内八现学。",
+      "kind": "矛盾",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "容易被心理安慰、收留狼狈和“真的为我出头”打动，安全感直攻软肋。",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "好哄、要得不多、简单直接；不开心撒个娇哄一哄就好，崇拜另一半，哪怕对方月薪5000。",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "被买JK、被买芋泥波波奶茶、坐9号电动车后座便产生依赖；年龄再大一点被描述会纹身“此生只嫁斯丹康”。",
+      "kind": "欲望",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "会用手机等消费符号判断对方实力，拿低端手机加联系方式会不被搭理。",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "在女性群体战局预测中处于劣势，被县城瑜伽裤在文化输出上降维打击。",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "年轻、好哄、情绪价值高，是低成本可链接的恋爱对象。（县城小JK和县城cosplay版）",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 127,
+          "url": "https://www.douyin.com/video/7634806168099526885"
+        }
+      ]
+    },
+    {
+      "claim": "相处简单直接、情绪稳定，不像县城王漫妮那样反复挑拣。（县城小JK和县城cosplay版）",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 127,
+          "url": "https://www.douyin.com/video/7634806168099526885"
+        }
+      ]
+    },
+    {
+      "claim": "需求不多，容易把关系发展下去，甚至容易结婚。（县城小JK和县城cosplay版）",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 127,
+          "url": "https://www.douyin.com/video/7634806168099526885"
+        }
+      ]
+    },
+    {
+      "claim": "容易崇拜另一半，哪怕对方月薪5000也会崇拜。（县城小JK和县城cosplay版）",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 127,
+          "url": "https://www.douyin.com/video/7634806168099526885"
+        }
+      ]
+    },
+    {
+      "claim": "在家庭和学校里表现为逆反：逆子、刺头、穿奇装异服、顶嘴翻白眼。（县城小JK和县城cosplay版）",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 136,
+          "url": "https://www.douyin.com/video/7627797057612418338"
+        }
+      ]
+    },
+    {
+      "claim": "遇到县城斯丹康就化身乖乖女，说话嗲、走路内八。（县城小JK和县城cosplay版）",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 136,
+          "url": "https://www.douyin.com/video/7627797057612418338"
+        }
+      ]
+    },
+    {
+      "claim": "是唯一没有对县城斯丹康祛魅的群体，年龄小、缺少识别能力。（县城小JK和县城cosplay版）",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 136,
+          "url": "https://www.douyin.com/video/7627797057612418338"
+        }
+      ]
+    },
+    {
+      "claim": "内心缺爱，想让别人多看两眼、多夸两句；被关注、被夸是重要欲望。（县城小JK和县城cosplay版）",
+      "kind": "欲望",
+      "certainty": "文本推断",
+      "evidence": [
+        {
+          "index": 136,
+          "url": "https://www.douyin.com/video/7627797057612418338"
+        }
+      ]
+    },
+    {
+      "claim": "命令、打压、指责、控制反而会使其更反叛，并把反叛当成“JK精神”。（县城小JK和县城cosplay版）",
+      "kind": "矛盾",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 136,
+          "url": "https://www.douyin.com/video/7627797057612418338"
+        }
+      ]
+    },
+    {
+      "claim": "在253的学历、事业、文化输出比较中处于弱势，被县城瑜伽裤降维打击。（县城小JK和县城cosplay版）",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 253,
+          "url": "https://www.douyin.com/video/7537305087186603290"
+        }
+      ]
+    },
+    {
+      "claim": "年轻、好哄、情绪价值拉满，不用花太多钱就能链接上。（县城小JK和县城cosplay版）",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "相处简单直接、情绪稳定，开心时粘人、不开心时撒个娇哄一哄就好，不像县城王漫妮那样挑挑选选。（县城小JK和县城cosplay版）",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "要的东西不多，容易把关系发展下去，甚至容易把婚结了。（县城小JK和县城cosplay版）",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "容易崇拜自己的另一半，哪怕对方月薪只有5000也崇拜。（县城小JK和县城cosplay版）",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "颜值比较一般，学历止步于中专，过往交友经历比较不堪（127版本）。（县城小JK和县城cosplay版）",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "在家是逆子、在校是刺头，穿奇装异服、我行我素，跟老师顶嘴翻白眼。（县城小JK和县城cosplay版）",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "遇到县城斯丹康就化身乖乖女，黏着出门，说话嗲嗲的，走路内八是现学的。（县城小JK和县城cosplay版）",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "是唯一没有对县城斯丹康祛魅的群体，年龄小、没见过这些东西。（县城小JK和县城cosplay版）",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "在253的学历、事业、文化输出比较中全面处于下风，被县城瑜伽裤降维打击。（县城小JK和县城cosplay版）",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "内心缺爱，想让别人多看两眼、多夸两句。（县城小JK和县城cosplay版）",
+      "kind": "欲望",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "跟家里决裂、跟学校绝缘、无依无靠时，谁给予心理安慰和安全感就依赖谁。（县城小JK和县城cosplay版）",
+      "kind": "动机",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "命令、打压、指责、控制不但管不住，反而使其更反叛，还把反叛当成“JK精神”。（县城小JK和县城cosplay版）",
+      "kind": "矛盾",
+      "certainty": "文本推断",
+      "evidence": []
+    }
+  ],
+  "life_domains": [
+    {
+      "domain": "家庭",
+      "claim": "与家庭关系紧张：在家是逆子，可能抑郁、自残、离家出走，亲爹打13次没打服，最终与家决裂。",
+      "evidence": [
+        {
+          "index": 136,
+          "url": "https://www.douyin.com/video/7627797057612418338"
+        }
+      ]
+    },
+    {
+      "domain": "学校",
+      "claim": "在学校被描述为刺头，穿奇装异服、我行我素，跟老师顶嘴翻白眼，学校13年没教育明白。",
+      "evidence": [
+        {
+          "index": 136,
+          "url": "https://www.douyin.com/video/7627797057612418338"
+        }
+      ]
+    },
+    {
+      "domain": "婚恋/社交",
+      "claim": "与县城斯丹康形成依赖式关系：坐其9号电动车后座并抱紧，被买JK和芋泥波波奶茶，年龄再大点被描述为可能纹身“此生只嫁斯丹康”。",
+      "evidence": [
+        {
+          "index": 136,
+          "url": "https://www.douyin.com/video/7627797057612418338"
+        }
+      ]
+    },
+    {
+      "domain": "消费/穿搭",
+      "claim": "穿搭以小cosplay、小汉服、小洛丽塔、短裙小JK为主；手机等消费符号被用来判断他人实力。",
+      "evidence": [
+        {
+          "index": 136,
+          "url": "https://www.douyin.com/video/7627797057612418338"
+        },
+        {
+          "index": 45,
+          "url": "https://www.douyin.com/video/7683421956008557434"
+        }
+      ]
+    },
+    {
+      "domain": "群体竞争",
+      "claim": "被列为县城王漫妮的婚恋竞争者，并与小太妹、cosplay一起被预测遭瑜伽裤打败。",
+      "evidence": [
+        {
+          "index": 127,
+          "url": "https://www.douyin.com/video/7634806168099526885"
+        },
+        {
+          "index": 253,
+          "url": "https://www.douyin.com/video/7537305087186603290"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "event_id": "E001",
+      "title": "在家逆子、在校刺头",
+      "description": "文案描述小JK小cosplay小汉服小洛丽塔在家是逆子，可能抑郁、自残、离家出走；在学校是刺头，穿奇装异服，我行我素，跟老师顶嘴翻白眼。亲爹打13次没打服，学校13年没教育明白，最终与家决裂、跟学校绝缘。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 136,
+          "url": "https://www.douyin.com/video/7627797057612418338"
+        }
+      ]
+    },
+    {
+      "event_id": "E002",
+      "title": "遇到县城斯丹康后化身乖乖女",
+      "description": "在全世界都与小JK为敌时，县城斯丹康登场，擦干她的眼泪，给予心理安慰，收留狼狈，安全感直攻软肋；小JK说话嗲嗲、走路内八，黏着斯丹康出门，并坐在9号电动车后座上抱紧对方。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 136,
+          "url": "https://www.douyin.com/video/7627797057612418338"
+        }
+      ]
+    },
+    {
+      "event_id": "E003",
+      "title": "斯丹康买JK与芋泥波波奶茶",
+      "description": "文本称别人嘲笑她的衣服、打压她的身材，但斯丹康真的给她买JK和芋泥波波奶茶；文末还描述她年龄再大一点就会在大腿根纹身“此生只嫁斯丹康”。后续是否真的发生，原文未交代。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 136,
+          "url": "https://www.douyin.com/video/7627797057612418338"
+        }
+      ]
+    },
+    {
+      "event_id": "E004",
+      "title": "被预测在女性群体战局中被瑜伽裤压制",
+      "description": "第253篇预测县城小太妹、县城cosplay、县城小jk都会被县城瑜伽裤以摧枯拉朽之势打得溃不成军，最终消失；文化输出方面，瑜伽裤被说成降维打击这些群体。",
+      "temporal": "原文明确为未来预测",
+      "chronology_basis": "明示",
+      "evidence": [
+        {
+          "index": 253,
+          "url": "https://www.douyin.com/video/7537305087186603290"
+        }
+      ]
+    },
+    {
+      "event_id": "E005",
+      "title": "成为县城王漫妮的婚恋竞争者",
+      "description": "第127篇把小jk、小cosplay列为年轻、好哄、要得不多、容易发展关系的群体，并称现在县城王漫妮最大的敌人就是这帮人；同篇称00后姑娘已主动出击，钳压90后优质男生。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 127,
+          "url": "https://www.douyin.com/video/7634806168099526885"
+        }
+      ]
+    },
+    {
+      "title": "用手机判断对方实力",
+      "desc": "第45篇称小jk、小cosplay、小太妹真的会用手机判断你的实力，拿低端手机加联系方式不会被搭理",
+      "time": "未交代",
+      "evidence": []
+    },
+    {
+      "title": "被列为县城里最值得谈的第三类女孩（县城小JK和县城cosplay版）",
+      "desc": "",
+      "time": "",
+      "evidence": [
+        {
+          "index": 127,
+          "url": "https://www.douyin.com/video/7634806168099526885"
+        }
+      ]
+    },
+    {
+      "title": "被文本称为县城王漫妮的婚恋竞争者（县城小JK和县城cosplay版）",
+      "desc": "",
+      "time": "",
+      "evidence": [
+        {
+          "index": 127,
+          "url": "https://www.douyin.com/video/7634806168099526885"
+        }
+      ]
+    },
+    {
+      "title": "小JK在13天内被斯丹康拿捏（县城小JK和县城cosplay版）",
+      "desc": "",
+      "time": "",
+      "evidence": [
+        {
+          "index": 136,
+          "url": "https://www.douyin.com/video/7627797057612418338"
+        }
+      ]
+    },
+    {
+      "title": "被定义为小太妹前身，并与斯丹康-小黄毛逻辑对应（县城小JK和县城cosplay版）",
+      "desc": "",
+      "time": "",
+      "evidence": [
+        {
+          "index": 136,
+          "url": "https://www.douyin.com/video/7627797057612418338"
+        }
+      ]
+    },
+    {
+      "title": "被预测遭县城瑜伽裤版本强化挤压（县城小JK和县城cosplay版）",
+      "desc": "",
+      "time": "",
+      "evidence": [
+        {
+          "index": 253,
+          "url": "https://www.douyin.com/video/7537305087186603290"
+        }
+      ]
+    },
+    {
+      "title": "在学历、事业、文化输出比较中处于下风（县城小JK和县城cosplay版）",
+      "desc": "",
+      "time": "",
+      "evidence": [
+        {
+          "index": 253,
+          "url": "https://www.douyin.com/video/7537305087186603290"
+        }
+      ]
+    },
+    {
+      "title": "被定义为小太妹前身，并与斯丹康—小黄毛逻辑对应（县城小JK和县城cosplay版）",
+      "desc": "136提出小JK发展下去就是县城小太妹、斯丹康发展下去就是县城小黄毛，小黄毛拿捏小太妹与斯丹康拿捏小JK逻辑相同",
+      "time": "未交代（原文为发展预测）",
+      "evidence": []
+    }
+  ],
+  "storylines": [
+    {
+      "title": "从逆子刺头到斯丹康的乖乖女",
+      "event_ids": [
+        "E001",
+        "E002",
+        "E003"
+      ],
+      "narrative": "开始：小JK在家是逆子，在校是刺头，与家决裂、跟学校绝缘，内心缺爱，想被别人多看一眼。发展：县城斯丹康登场，安慰她、收留她，让她感觉有人为自己出头，给她买JK和芋泥波波奶茶。冲突：她原本叛逆、不被家庭学校理解，却对斯丹康产生依赖。结果：她化身乖乖女，说话嗲嗲，坐斯丹康的9号电动车后座抱紧他，甚至被描述为年龄再大点会纹身“此生只嫁斯丹康”。",
+      "unresolved": "她是否真的纹身、是否真的嫁给斯丹康、是否成为小太妹，原文未交代。",
+      "evidence": [
+        {
+          "index": 136,
+          "url": "https://www.douyin.com/video/7627797057612418338"
+        }
+      ]
+    },
+    {
+      "title": "县城女性群体战局中的小JK",
+      "event_ids": [
+        "E004",
+        "E005"
+      ],
+      "narrative": "第127篇把小jk、小cosplay描述为年轻、学历不高、好哄、要得不多、容易发展关系，并把她们称为县城王漫妮的最大敌人，称00后姑娘已主动出击90后优质男生。第253篇则从女性群体战局角度预测：小太妹、cosplay、小jk都会被县城瑜伽裤摧枯拉朽地打败，在文化输出上也被瑜伽裤降维打击。",
+      "unresolved": "小JK群体最终是否被瑜伽裤收编、是否消失、婚恋竞争结果如何，原文没有给出后续。",
+      "evidence": [
+        {
+          "index": 253,
+          "url": "https://www.douyin.com/video/7537305087186603290"
+        },
+        {
+          "index": 127,
+          "url": "https://www.douyin.com/video/7634806168099526885"
+        }
+      ]
+    }
+  ],
+  "relationships": [
+    {
+      "target": "县城斯丹康",
+      "relation": "小JK被其安慰、为其化身乖乖女并产生依赖；斯丹康给她买JK、芋泥波波奶茶，让她坐9号电动车后座。",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 136,
+          "url": "https://www.douyin.com/video/7627797057612418338"
+        }
+      ]
+    },
+    {
+      "target": "县城瑜伽裤",
+      "relation": "在女性群体战局预测中被县城瑜伽裤压制、打败；文化输出上被瑜伽裤降维打击。",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 253,
+          "url": "https://www.douyin.com/video/7537305087186603290"
+        }
+      ]
+    },
+    {
+      "target": "县城王漫妮",
+      "relation": "婚恋竞争者；小jk与小cosplay被称为县城王漫妮最大的敌人。",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 127,
+          "url": "https://www.douyin.com/video/7634806168099526885"
+        }
+      ]
+    },
+    {
+      "target": "县城小太妹",
+      "relation": "小JK发展下去就是小太妹；两者在女性群体战局中并列出现。",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 136,
+          "url": "https://www.douyin.com/video/7627797057612418338"
+        },
+        {
+          "index": 253,
+          "url": "https://www.douyin.com/video/7537305087186603290"
+        }
+      ]
+    },
+    {
+      "target": "县城小cosplay",
+      "relation": "常与小JK并称的同类年轻女性群体，共享年轻、好哄、学历不高等描述。",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 127,
+          "url": "https://www.douyin.com/video/7634806168099526885"
+        },
+        {
+          "index": 253,
+          "url": "https://www.douyin.com/video/7537305087186603290"
+        }
+      ]
+    },
+    {
+      "target": "父母与老师",
+      "relation": "管教者，与她们形成冲突；命令、打压、指责、控制反而使其更反叛。",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 136,
+          "url": "https://www.douyin.com/video/7627797057612418338"
+        }
+      ]
+    },
+    {
+      "text": "县城王漫妮（县城小JK和县城cosplay版）"
+    },
+    {
+      "text": "县城瑜伽裤（县城小JK和县城cosplay版）"
+    },
+    {
+      "text": "县城斯丹康（县城小JK和县城cosplay版）"
+    },
+    {
+      "text": "县城小太妹（县城小JK和县城cosplay版）"
+    },
+    {
+      "text": "县城小黄毛（县城小JK和县城cosplay版）"
+    },
+    {
+      "text": "90后优质男生（县城小JK和县城cosplay版）"
+    },
+    {
+      "text": "小汉服、小洛丽塔（县城小JK和县城cosplay版）"
+    },
+    {
+      "text": "土欲风老嫂子、马卡龙瑜伽裤姐姐（县城小JK和县城cosplay版）"
+    }
+  ],
+  "speech_habits": [
+    {
+      "claim": "面对斯丹康时说话嗲嗲的，走路内八也是现学的。",
+      "evidence": [
+        {
+          "index": 136,
+          "url": "https://www.douyin.com/video/7627797057612418338"
+        }
+      ]
+    },
+    {
+      "claim": "对老师会顶嘴翻白眼。",
+      "evidence": [
+        {
+          "index": 136,
+          "url": "https://www.douyin.com/video/7627797057612418338"
+        }
+      ]
+    },
+    {
+      "claim": "与交往对象相处简单直接，不开心时冲对方撒娇。",
+      "evidence": [
+        {
+          "index": 127,
+          "url": "https://www.douyin.com/video/7634806168099526885"
+        }
+      ]
+    },
+    {
+      "claim": "在网络文化输出上不如瑜伽裤群体。",
+      "evidence": [
+        {
+          "index": 253,
+          "url": "https://www.douyin.com/video/7537305087186603290"
+        }
+      ]
+    }
+  ],
+  "contradictions": [
+    {
+      "issue": "小JK的学历表述不一致或边界未明。",
+      "versions": [
+        {
+          "claim": "第127篇说小jk小cosplay学历止步于中专。",
+          "evidence": [
+            {
+              "index": 127,
+              "url": "https://www.douyin.com/video/7634806168099526885"
+            }
+          ]
+        },
+        {
+          "claim": "第253篇说小太妹和cosplay相当于没有学历、中考落榜居多，未直接点名小JK，但前文又将其与小太妹、cosplay并列。",
+          "evidence": [
+            {
+              "index": 253,
+              "url": "https://www.douyin.com/video/7537305087186603290"
+            }
+          ]
+        }
+      ],
+      "resolution": "保留并列，不擅自合并；小JK自身学历在文本中未被统一说明。"
+    },
+    {
+      "issue": "小JK是叛逆独立还是缺爱依赖，文本同时呈现两种面向。",
+      "versions": [
+        {
+          "claim": "她在家是逆子、在校是刺头，我行我素、特立独行。",
+          "evidence": [
+            {
+              "index": 136,
+              "url": "https://www.douyin.com/video/7627797057612418338"
+            }
+          ]
+        },
+        {
+          "claim": "她被描述为内心缺爱，需要被关注、被夸、被安慰和收留。",
+          "evidence": [
+            {
+              "index": 136,
+              "url": "https://www.douyin.com/video/7627797057612418338"
+            }
+          ]
+        }
+      ],
+      "resolution": "保留并存：文本把叛逆外表与缺爱依赖同时写在同一群体上。"
+    },
+    {
+      "issue": "小JK群体的走向有不同预测。",
+      "versions": [
+        {
+          "claim": "第253篇预测小太妹、cosplay、小jk都会被县城瑜伽裤打败并消失。",
+          "evidence": [
+            {
+              "index": 253,
+              "url": "https://www.douyin.com/video/7537305087186603290"
+            }
+          ]
+        },
+        {
+          "claim": "第127篇称小jk、小cosplay容易把关系发展下去，并成为县城王漫妮的最大敌人。",
+          "evidence": [
+            {
+              "index": 127,
+              "url": "https://www.douyin.com/video/7634806168099526885"
+            }
+          ]
+        }
+      ],
+      "resolution": "保留两种文本版本，不判定哪一版为准。"
+    }
+  ],
+  "gaps": [
+    "真实姓名、具体年龄、外貌细节、家庭背景、职业与收入来源",
+    "与县城斯丹康关系的最终结果，是否真的纹身、结婚",
+    "是否真的从县城小JK发展为县城小太妹",
+    "学历最终是中专、中考落榜还是其他情况",
+    "是否被县城瑜伽裤收编、打败或消失",
+    "婚恋竞争与婚姻结果",
+    "真实姓名、具体年龄、外貌细节、家庭背景、职业与收入来源原文未交代",
+    "与县城斯丹康关系的最终结果，是否真的纹身、结婚，原文未交代",
+    "是否真的从县城小JK发展为县城小太妹，原文未交代",
+    "学历最终是中专、中考落榜还是其他情况，文本表述不一致且未点名小JK",
+    "是否被县城瑜伽裤收编、打败或消失，只有预测没有后续",
+    "婚恋竞争与婚姻结果，原文未交代",
+    "原文没有给出任何具体姓名、人数、真实年龄范围或可核实统计。（县城小JK和县城cosplay版）",
+    "小JK与小cosplay是否完全同群、二者差异是什么，原文没有细分。（县城小JK和县城cosplay版）",
+    "她们的职业、收入、家庭背景细节很少，只有中专、职高、中考落榜、家庭状况不怎么样等零散描述。（县城小JK和县城cosplay版）",
+    "与斯丹康关系的发展结果、后续婚姻或生活结局，原文没有交代。（县城小JK和县城cosplay版）",
+    "253关于被县城瑜伽裤收编或消失的说法是预测，原文没有交代是否发生。（县城小JK和县城cosplay版）",
+    "127中“每11个领证00后女生只有一个选00后男生”等数据没有出处，不能当真实统计使用。（县城小JK和县城cosplay版）",
+    "原文没有给出任何具体姓名、人数、真实年龄区间或可核实统计。（县城小JK和县城cosplay版）",
+    "小JK与小cosplay是否完全同群、两者差异是什么，原文没有细分。（县城小JK和县城cosplay版）",
+    "她们的职业、收入与家庭背景只有中专、职高、中考落榜、家庭状况不怎么样等零散描述，细节未交代。（县城小JK和县城cosplay版）"
+  ],
+  "creative_expansions": [],
+  "source_coverage": [
+    {
+      "index": 136,
+      "role": "核心篇。界定小JK与小太妹、斯丹康的关系，提供家庭学校叛逆、内心缺爱、遇到斯丹康后化身乖乖女、买JK奶茶、可能纹身等主要材料。",
+      "url": "https://www.douyin.com/video/7627797057612418338"
+    },
+    {
+      "index": 253,
+      "role": "女性群体战局预测。把小JK与小太妹、cosplay并列，称会被县城瑜伽裤打败，并比较文化输出。",
+      "url": "https://www.douyin.com/video/7537305087186603290"
+    },
+    {
+      "index": 127,
+      "role": "婚恋与群体特征补充。提供年轻、学历止步中专、好哄、要得不多、容易发展关系、王漫妮敌人等材料。",
+      "url": "https://www.douyin.com/video/7634806168099526885"
+    },
+    {
+      "index": 45,
+      "role": "补充消费/社交判断。明确提到小jk小cosplay小太妹用手机判断对方实力。",
+      "url": "https://www.douyin.com/video/7683421956008557434"
+    }
+  ]
+}

@@ -1,0 +1,611 @@
+{
+  "name": "县城小工贼",
+  "nature": "县城原型/复合群像。文本以“县城小工贼”“小公贼”“公贼”“工贼”“奋斗逼”等称呼讨论同一类打工者，不是有完整姓名的自然人传记；集中证据在序号167、168。",
+  "overview": "县城小工贼是文本中用来指认“打工族当中的奋斗逼”的角色。他不是具名个人，而是一类在县城单位或职场里主动加班、争第一、送礼讨好领导、替老同事和女同事干活的人。县城资源少，升职加薪或调动都靠“跑找要送、溜须拍马打点关系”，所以他既会来事，也擅长提供情绪价值，见人说人话、见鬼说鬼话。他的梦想是成为县城小布尔乔亚，但同起点者先发迹、买BBA、分享美好生活，又会把奋斗逼心态搞崩。与此同时，他又是躺编00后最严厉的父亲：工贼一来，单位节奏被带起来，躺平环境被破坏，老社保、女同事、领导都被重新组织起来，躺编00后无法再躺。文本还写他迷恋权力，容易往仕途上爬，升迁后把活甩给同事，陪同事反复改稿；按位置不动五年，他又可能化身躺平00后。其编纂说明：是：只有行为、心理、关系与比喻，没有姓名、年龄、具体单位和最终结局。",
+  "identity": [
+    {
+      "claim": "职业/阶层上属于县城打工族中的奋斗逼，而非有姓名的具体个人。",
+      "evidence": [
+        {
+          "index": 167,
+          "url": "https://www.douyin.com/video/7609679563001515318"
+        },
+        {
+          "index": 168,
+          "url": "https://www.douyin.com/video/7609198062229764005"
+        }
+      ]
+    },
+    {
+      "claim": "活动场景是县城单位和职场，会直接改变单位的工作节奏与躺平环境。",
+      "evidence": [
+        {
+          "index": 168,
+          "url": "https://www.douyin.com/video/7609198062229764005"
+        }
+      ]
+    },
+    {
+      "claim": "部分小工贼家境殷实、工作能力强，并非没有出路，却选择更低工资和更多苦。",
+      "evidence": [
+        {
+          "index": 168,
+          "url": "https://www.douyin.com/video/7609198062229764005"
+        }
+      ]
+    },
+    {
+      "claim": "他向往的阶层位置是县城小布尔乔亚。",
+      "evidence": [
+        {
+          "index": 167,
+          "url": "https://www.douyin.com/video/7609679563001515318"
+        }
+      ]
+    }
+  ],
+  "traits": [
+    {
+      "claim": "核心特征是“奋斗逼”：主动卷、主动抬高工作标准。",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 167,
+          "url": "https://www.douyin.com/video/7609679563001515318"
+        },
+        {
+          "index": 168,
+          "url": "https://www.douyin.com/video/7609198062229764005"
+        }
+      ]
+    },
+    {
+      "claim": "欲望是出人头地、往上走，但野心在实现前不轻易说出口。",
+      "kind": "欲望",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 167,
+          "url": "https://www.douyin.com/video/7609679563001515318"
+        },
+        {
+          "index": 168,
+          "url": "https://www.douyin.com/video/7609198062229764005"
+        }
+      ]
+    },
+    {
+      "claim": "动机是县城资源有限，升职加薪、调动必须靠人情关系与讨好上级。",
+      "kind": "动机",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 167,
+          "url": "https://www.douyin.com/video/7609679563001515318"
+        }
+      ]
+    },
+    {
+      "claim": "会主动加班、参加比赛争第一，以此带动单位整体节奏。",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 168,
+          "url": "https://www.douyin.com/video/7609198062229764005"
+        }
+      ]
+    },
+    {
+      "claim": "对上级谄媚、送礼、点头哈腰，并激发领导的升迁和管理欲望。",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 168,
+          "url": "https://www.douyin.com/video/7609198062229764005"
+        }
+      ]
+    },
+    {
+      "claim": "擅长人际关系和情绪价值，见人说人话、见鬼说鬼话，说话滴水不漏。",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 168,
+          "url": "https://www.douyin.com/video/7609198062229764005"
+        }
+      ]
+    },
+    {
+      "claim": "迷恋权力，追求仕途升迁，升迁后会把活甩给同事并持续施压。",
+      "kind": "动机",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 168,
+          "url": "https://www.douyin.com/video/7609198062229764005"
+        }
+      ]
+    },
+    {
+      "claim": "会免费替老社保和女同事干活，形成比较体系，让躺平者显得无能。",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 168,
+          "url": "https://www.douyin.com/video/7609198062229764005"
+        }
+      ]
+    },
+    {
+      "claim": "矛盾在于：他明明有更多选择，却偏偏选择低工资、多吃苦、走最曲折的路。",
+      "kind": "矛盾",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 168,
+          "url": "https://www.douyin.com/video/7609198062229764005"
+        }
+      ]
+    },
+    {
+      "claim": "同起点者先发迹会击溃他的心态，尤其小布尔乔亚的生活展示。",
+      "kind": "恐惧",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 167,
+          "url": "https://www.douyin.com/video/7609679563001515318"
+        }
+      ]
+    },
+    {
+      "claim": "他明明有更多选择，却偏偏选择低工资、多吃苦、走最曲折的路。",
+      "kind": "矛盾",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "成为小布尔乔亚是所有奋斗逼的梦想；但同起点小布尔乔亚先发迹、买BBA、分享生活，又会把奋斗逼心态搞崩。",
+      "kind": "矛盾",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "称谓在原文中不完全统一：167篇主要称“县城小工贼”“工贼”“奋斗逼”，168篇又称“小公贼”“公贼”“小姑贼”等，原文未明示是否完全同一角色。",
+      "kind": "矛盾",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "升迁说法有条件性：文本说“仕途一定是升迁”，又说若把他按在原位置不动，五年后会化身躺平00后。",
+      "kind": "矛盾",
+      "certainty": "文本推断",
+      "evidence": []
+    }
+  ],
+  "life_domains": [
+    {
+      "domain": "职业/职场",
+      "claim": "在单位里主动加班、争第一、免费代劳，改变整个单位节奏。",
+      "evidence": [
+        {
+          "index": 168,
+          "url": "https://www.douyin.com/video/7609198062229764005"
+        }
+      ]
+    },
+    {
+      "domain": "权力/升迁",
+      "claim": "升迁靠人情、送礼、讨好上级，并因迷恋权力而容易进入管理位置。",
+      "evidence": [
+        {
+          "index": 167,
+          "url": "https://www.douyin.com/video/7609679563001515318"
+        },
+        {
+          "index": 168,
+          "url": "https://www.douyin.com/video/7609198062229764005"
+        }
+      ]
+    },
+    {
+      "domain": "社交/人情",
+      "claim": "擅长搞关系、提供情绪价值，能在单位内建立有利于自己的评价体系。",
+      "evidence": [
+        {
+          "index": 168,
+          "url": "https://www.douyin.com/video/7609198062229764005"
+        }
+      ]
+    },
+    {
+      "domain": "金钱/消费/面子",
+      "claim": "把成为小布尔乔亚当作梦想，也会被同起点者买车、消费、生活展示刺激。",
+      "evidence": [
+        {
+          "index": 167,
+          "url": "https://www.douyin.com/video/7609679563001515318"
+        }
+      ]
+    },
+    {
+      "domain": "心理/比较",
+      "claim": "不跟编二代、老社保、好大哥比，偏偏跟同起点的小布尔乔亚比。",
+      "evidence": [
+        {
+          "index": 167,
+          "url": "https://www.douyin.com/video/7609679563001515318"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "event_id": "E001",
+      "title": "工贼进入单位后带动加班与争第一",
+      "description": "领导尚未要求加班，小工贼自己干到后半夜；单位本只打算凑人头的比赛，他直接争到全市第一，使原本准备躺平的领导也重新振作，开始严抓管理。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 168,
+          "url": "https://www.douyin.com/video/7609198062229764005"
+        }
+      ]
+    },
+    {
+      "event_id": "E002",
+      "title": "给领导送礼、点头哈腰",
+      "description": "小工贼一年给领导送两遍礼，见到领导就点头哈腰、毕恭毕敬，从而重新抬高被躺平者打压下去的领导架子。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 168,
+          "url": "https://www.douyin.com/video/7609198062229764005"
+        }
+      ]
+    },
+    {
+      "event_id": "E003",
+      "title": "免费替老社保和女同事完成工作",
+      "description": "老社保原本需要求躺编00后帮忙做Word、Excel，小工贼一来直接免费完成；女同事的年度总结也被他提前写完，从而使比较对象出现。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 168,
+          "url": "https://www.douyin.com/video/7609198062229764005"
+        }
+      ]
+    },
+    {
+      "event_id": "E004",
+      "title": "升迁后向同事甩活并反复改稿",
+      "description": "文本设定小工贼容易往仕途上爬，升迁后把活甩给同事；若同事想躺平，他会陪着加班，反复复盘和逐字逐句修改讲话稿。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 168,
+          "url": "https://www.douyin.com/video/7609198062229764005"
+        }
+      ]
+    },
+    {
+      "event_id": "E005",
+      "title": "被同起点小布尔乔亚发迹击溃",
+      "description": "小工贼因同起点的小布尔乔亚先富、买车、分享生活而心态崩坏，原本文中写他丢两千块没那么难受，但别人提BBA时他抽一晚上烟没睡着。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 167,
+          "url": "https://www.douyin.com/video/7609679563001515318"
+        }
+      ]
+    },
+    {
+      "event_id": "E006",
+      "title": "用学生提醒作业作谄媚类比",
+      "description": "文本用“不是课代表、不是班长却主动提醒老师布置作业”的学生，类比小工贼主动谄媚、主动加码的行为逻辑。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 168,
+          "url": "https://www.douyin.com/video/7609198062229764005"
+        }
+      ]
+    },
+    {
+      "event_id": "E007",
+      "title": "使躺编00后无法继续躺平",
+      "description": "小工贼出现后，老社保不再对躺编00后笑脸相迎，单位同事形成阵营，开会拿躺编00后当反面典型，躺编00后脸皮再厚也难躺。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 168,
+          "url": "https://www.douyin.com/video/7609198062229764005"
+        }
+      ]
+    },
+    {
+      "event_id": "E008",
+      "title": "靠跑找要送、溜须拍马争取调动升迁",
+      "description": "在县城资源有限的前提下，小工贼为升职加薪或调动而跑找要送、打点关系，形成“谁舔得更狠谁更牛”的竞争方式。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 167,
+          "url": "https://www.douyin.com/video/7609679563001515318"
+        }
+      ]
+    }
+  ],
+  "storylines": [
+    {
+      "title": "小工贼的县城职场奋斗逻辑",
+      "event_ids": [
+        "E008",
+        "E001",
+        "E002",
+        "E003",
+        "E004"
+      ],
+      "narrative": "起点是县城资源有限，单纯卷没有用，必须靠人情、关系和讨好上级。小工贼于是主动加班、争第一、给领导送礼、替老同事和女同事干活，逐步把单位节奏带起来。冲突在于他挤压了躺平同事的空间，也让领导重新抓管理。结果是他容易进入仕途、升迁，并把活甩给同事继续施压。原文没有交代他具体升到何职。",
+      "unresolved": "原文未交代他具体是否升迁成功、升到什么位置，也未交代单位同事如何反击。",
+      "evidence": [
+        {
+          "index": 167,
+          "url": "https://www.douyin.com/video/7609679563001515318"
+        },
+        {
+          "index": 168,
+          "url": "https://www.douyin.com/video/7609198062229764005"
+        }
+      ]
+    },
+    {
+      "title": "小工贼与躺编00后的压制关系",
+      "event_ids": [
+        "E001",
+        "E003",
+        "E007",
+        "E004"
+      ],
+      "narrative": "躺编00后原本在单位躺得平，小工贼一来，主动加班、争第一、免费替老社保和女同事干活，形成参照系，领导也被激发。于是老社保不再笑脸相迎，单位同事站成一队，躺编00后被比较、被批评，无法再继续躺平。小工贼升迁后还会向下甩活，继续拿捏。",
+      "unresolved": "原文未写躺编00后最终如何应对，也未写双方是否有正面冲突。",
+      "evidence": [
+        {
+          "index": 168,
+          "url": "https://www.douyin.com/video/7609198062229764005"
+        }
+      ]
+    },
+    {
+      "title": "小工贼与小布尔乔亚的梦想—破防链",
+      "event_ids": [
+        "E005"
+      ],
+      "narrative": "小工贼把成为县城小布尔乔亚当作梦想，但小布尔乔亚又是他最严厉的父亲。同起点的小布尔乔亚一旦先买车、先富、分享美好生活，就会把奋斗逼的心态搞崩，使他产生强烈落差。文本以谢美兰被宝马5系刺激为例，说奋斗逼可能从工贼直接化身瑜伽裤。",
+      "unresolved": "原文未交代小工贼最后是否成为小布尔乔亚，还是一直停在羡慕与破防中。",
+      "evidence": [
+        {
+          "index": 167,
+          "url": "https://www.douyin.com/video/7609679563001515318"
+        }
+      ]
+    }
+  ],
+  "relationships": [
+    {
+      "target": "县城小布尔乔亚",
+      "relation": "小工贼最严厉的父亲、梦想目标与比较对象；小布尔乔亚的消费与发迹会击溃小工贼心态。",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 167,
+          "url": "https://www.douyin.com/video/7609679563001515318"
+        }
+      ]
+    },
+    {
+      "target": "躺编00后",
+      "relation": "小工贼是躺编00后最严厉的父亲，破坏其躺平环境，使其无法继续躺。",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 168,
+          "url": "https://www.douyin.com/video/7609198062229764005"
+        }
+      ]
+    },
+    {
+      "target": "县城老社保",
+      "relation": "小工贼免费替老社保完成工作，使其不再求躺编00后，并转向支持工贼。",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 168,
+          "url": "https://www.douyin.com/video/7609198062229764005"
+        }
+      ]
+    },
+    {
+      "target": "单位领导",
+      "relation": "小工贼给领导送礼、点头哈腰、主动加班，激发领导的升迁与管理欲望。",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 168,
+          "url": "https://www.douyin.com/video/7609198062229764005"
+        }
+      ]
+    },
+    {
+      "target": "单位女同事",
+      "relation": "小工贼主动替女同事写工作总结，形成对躺平同事的比较压力。",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 168,
+          "url": "https://www.douyin.com/video/7609198062229764005"
+        }
+      ]
+    },
+    {
+      "target": "县城老阿姨",
+      "relation": "文本把两者并提为迷恋权力、会攥住一点权力用尽的人。",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 168,
+          "url": "https://www.douyin.com/video/7609198062229764005"
+        }
+      ]
+    },
+    {
+      "target": "提醒老师布置作业的同学",
+      "relation": "文本用这类学生类比小工贼的谄媚、主动加码和讨好权威。",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 168,
+          "url": "https://www.douyin.com/video/7609198062229764005"
+        }
+      ]
+    }
+  ],
+  "speech_habits": [
+    {
+      "claim": "主动表态揽活，用“领导你交给我们放心”一类话术讨好上级。",
+      "evidence": [
+        {
+          "index": 168,
+          "url": "https://www.douyin.com/video/7609198062229764005"
+        }
+      ]
+    },
+    {
+      "claim": "用夸张、反讽的学生话术类比其对权威的谄媚与加码。",
+      "evidence": [
+        {
+          "index": 168,
+          "url": "https://www.douyin.com/video/7609198062229764005"
+        }
+      ]
+    },
+    {
+      "claim": "见人说人话、见鬼说鬼话，说话滴水不漏，擅长提供情绪价值。",
+      "evidence": [
+        {
+          "index": 168,
+          "url": "https://www.douyin.com/video/7609198062229764005"
+        }
+      ]
+    }
+  ],
+  "contradictions": [
+    {
+      "issue": "目标角色的称谓在原文中并不完全统一。",
+      "versions": [
+        {
+          "claim": "167篇主要称“县城小工贼”“工贼”“奋斗逼”。",
+          "evidence": [
+            {
+              "index": 167,
+              "url": "https://www.douyin.com/video/7609679563001515318"
+            }
+          ]
+        },
+        {
+          "claim": "168篇又称“小公贼”“公贼”“小姑贼”等，似乎在混用同一类角色。",
+          "evidence": [
+            {
+              "index": 168,
+              "url": "https://www.douyin.com/video/7609198062229764005"
+            }
+          ]
+        }
+      ],
+      "resolution": "保留并列，不擅自合并或选定"
+    },
+    {
+      "issue": "小工贼是否必然升迁，文本存在条件性说法。",
+      "versions": [
+        {
+          "claim": "文本说他很容易往仕途上爬，仕途一定是升迁。",
+          "evidence": [
+            {
+              "index": 168,
+              "url": "https://www.douyin.com/video/7609198062229764005"
+            }
+          ]
+        },
+        {
+          "claim": "但若把他按在原位置不动，五年后他会化身躺平00后。",
+          "evidence": [
+            {
+              "index": 168,
+              "url": "https://www.douyin.com/video/7609198062229764005"
+            }
+          ]
+        }
+      ],
+      "resolution": "保留并列，不擅自合并或选定"
+    },
+    {
+      "issue": "小工贼既以成为小布尔乔亚为梦想，又因小布尔乔亚发迹而破防。",
+      "versions": [
+        {
+          "claim": "成为小布尔乔亚是所有奋斗逼的梦想。",
+          "evidence": [
+            {
+              "index": 167,
+              "url": "https://www.douyin.com/video/7609679563001515318"
+            }
+          ]
+        },
+        {
+          "claim": "同起点的小布尔乔亚发迹会把奋斗逼心态搞崩。",
+          "evidence": [
+            {
+              "index": 167,
+              "url": "https://www.douyin.com/video/7609679563001515318"
+            }
+          ]
+        }
+      ],
+      "resolution": "保留并列，不擅自合并或选定"
+    }
+  ],
+  "gaps": [
+    "没有姓名、性别、年龄、具体单位、职务等基本信息。",
+    "没有交代他是否真的升迁成功、升到什么岗位。",
+    "没有交代他最终是否成为县城小布尔乔亚。",
+    "没有完整描写他与某个同事、领导、老社保的具体对话全文。",
+    "没有说明“县城小工贼”“小公贼”“公贼”“奋斗逼”是否为完全同一角色，还是同一类角色的不同称呼。",
+    "原文未交代小工贼的性别，168篇中“他/她”混用。"
+  ],
+  "creative_expansions": [],
+  "source_coverage": [
+    {
+      "index": 167,
+      "role": "核心定义篇。说明县城小工贼最严厉的父亲是县城小布尔乔亚，解释其作为打工族奋斗逼的心理、升迁方式、与小布尔乔亚比较后的破防。",
+      "url": "https://www.douyin.com/video/7609679563001515318"
+    },
+    {
+      "index": 168,
+      "role": "职场行为篇。说明县城小工贼是躺编00后最严厉的父亲，描述其主动加班、争第一、送礼讨好、替老社保和女同事干活、破坏躺平环境、升迁后甩活等行为。",
+      "url": "https://www.douyin.com/video/7609198062229764005"
+    }
+  ]
+}

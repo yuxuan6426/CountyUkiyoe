@@ -1,0 +1,362 @@
+{
+  "name": "县城哥们",
+  "nature": "单篇轶事型具名叙事角色，兼作“普通人乍富必败”的反面例证。原文只以“一个县城的哥们”指称，无姓名、无独立出场，全部信息由叙述者在序号281一段议论中转述，编纂说明：仅此一篇，不能拼成连续传记，也不对应现实人物。",
+  "overview": "他是叙述者“我”认识的一个县城哥们。原文只交代：他因某个带一点灰色的项目，一年内赚了两百万；暴富后直接去商K夜夜笙歌，唱到高兴处能给妹妹一万一万的小费。他拿自己与AA建材王哥攀比，觉得王哥能玩自己也能玩，但原文强调他不是王哥——王哥买卖稳健、干了多年攒下大笔存款，而他是“穷人乍富”。结果钱很快被他败光，项目后来也做不成，只能在红浪漫和捏脚大妈面前吹牛，说一说自己当年的潇洒。除此之外，姓名、年龄、原职业、项目内容、败光过程与现状均未交代；材料只有这一个版本，无互斥说法并列。",
+  "identity": [
+    {
+      "claim": "县城的哥们，叙述者认识的人",
+      "evidence": [
+        {
+          "index": 281,
+          "url": "https://www.douyin.com/video/7506899267122924827"
+        }
+      ]
+    },
+    {
+      "claim": "曾因某个带一点灰色的项目，一年内赚了两百万",
+      "evidence": [
+        {
+          "index": 281,
+          "url": "https://www.douyin.com/video/7506899267122924827"
+        }
+      ]
+    },
+    {
+      "claim": "项目后来做不成，不再有该收入来源",
+      "evidence": [
+        {
+          "index": 281,
+          "url": "https://www.douyin.com/video/7506899267122924827"
+        }
+      ]
+    },
+    {
+      "claim": "被原文定性为“穷人乍富”，不是稳健积累财富的人",
+      "evidence": [
+        {
+          "index": 281,
+          "url": "https://www.douyin.com/video/7506899267122924827"
+        }
+      ]
+    }
+  ],
+  "traits": [
+    {
+      "claim": "穷人乍富",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 281,
+          "url": "https://www.douyin.com/video/7506899267122924827"
+        }
+      ]
+    },
+    {
+      "claim": "暴富后挥霍、以夜场消费和给高额小费展示潇洒",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 281,
+          "url": "https://www.douyin.com/video/7506899267122924827"
+        }
+      ]
+    },
+    {
+      "claim": "攀比好大哥，认为自己也能像AA建材王哥那样玩",
+      "kind": "动机",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 281,
+          "url": "https://www.douyin.com/video/7506899267122924827"
+        }
+      ]
+    },
+    {
+      "claim": "误判自身实力，忽略自己与稳健经营者的差别",
+      "kind": "矛盾",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 281,
+          "url": "https://www.douyin.com/video/7506899267122924827"
+        }
+      ]
+    },
+    {
+      "claim": "财富很快败光",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 281,
+          "url": "https://www.douyin.com/video/7506899267122924827"
+        }
+      ]
+    },
+    {
+      "claim": "败落后靠回忆当年潇洒来维持体面/谈资",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 281,
+          "url": "https://www.douyin.com/video/7506899267122924827"
+        }
+      ]
+    },
+    {
+      "claim": "穷人乍富，短期暴富后缺乏定力",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "暴富后直接去商K夜夜笙歌，高兴时给妹妹一万一万的小费",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "钱很快被败光",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "败落后只能在红浪漫和捏脚大妈面前吹牛，说一说自己当年的潇洒",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "想让别人知道自己有钱、高估自己的有钱程度（叙述者对同类人的概括，他作为例证被举出）",
+      "kind": "欲望",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "攀比AA建材王哥，认为“凭什么你玩的我玩玩不得”",
+      "kind": "动机",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "误判自身实力，忘了自己不是王哥，忽略稳健经营与乍富的差别",
+      "kind": "矛盾",
+      "certainty": "文本推断",
+      "evidence": []
+    }
+  ],
+  "life_domains": [
+    {
+      "domain": "职业/项目",
+      "claim": "靠某个带一点灰色的项目一年内赚两百万，后来该项目做不成",
+      "evidence": [
+        {
+          "index": 281,
+          "url": "https://www.douyin.com/video/7506899267122924827"
+        }
+      ]
+    },
+    {
+      "domain": "金钱",
+      "claim": "短期获得大额收入后很快败光",
+      "evidence": [
+        {
+          "index": 281,
+          "url": "https://www.douyin.com/video/7506899267122924827"
+        }
+      ]
+    },
+    {
+      "domain": "消费/娱乐",
+      "claim": "去商K夜夜笙歌，高兴时给妹妹一万一万的小费",
+      "evidence": [
+        {
+          "index": 281,
+          "url": "https://www.douyin.com/video/7506899267122924827"
+        }
+      ]
+    },
+    {
+      "domain": "社交/面子",
+      "claim": "以AA建材王哥为攀比对象；败落后在红浪漫和捏脚大妈面前吹牛",
+      "evidence": [
+        {
+          "index": 281,
+          "url": "https://www.douyin.com/video/7506899267122924827"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "event_id": "E001",
+      "title": "靠灰色项目一年赚两百万",
+      "description": "他因某个带一点灰色的项目，一年内赚到两百万。",
+      "temporal": "原文明确“一年内”，但无具体年份",
+      "chronology_basis": "明示",
+      "evidence": [
+        {
+          "index": 281,
+          "url": "https://www.douyin.com/video/7506899267122924827"
+        }
+      ]
+    },
+    {
+      "event_id": "E002",
+      "title": "暴富后去商K挥霍",
+      "description": "赚到钱后，他直接去商K夜夜笙歌，唱到高兴处直接给妹妹一万一万的小费。",
+      "temporal": "发生在赚到两百万之后",
+      "chronology_basis": "明示",
+      "evidence": [
+        {
+          "index": 281,
+          "url": "https://www.douyin.com/video/7506899267122924827"
+        }
+      ]
+    },
+    {
+      "event_id": "E003",
+      "title": "钱被败光、项目做不成",
+      "description": "原文称他最后很快把钱败光，后来项目也做不成了。",
+      "temporal": "“最后”“后来”表明在挥霍之后",
+      "chronology_basis": "明示",
+      "evidence": [
+        {
+          "index": 281,
+          "url": "https://www.douyin.com/video/7506899267122924827"
+        }
+      ]
+    },
+    {
+      "event_id": "E004",
+      "title": "在红浪漫和捏脚大妈前吹当年潇洒",
+      "description": "项目做不成后，他只能在红浪漫和捏脚大妈面前吹牛，回忆自己当年的潇洒。",
+      "temporal": "发生在项目做不成之后",
+      "chronology_basis": "明示",
+      "evidence": [
+        {
+          "index": 281,
+          "url": "https://www.douyin.com/video/7506899267122924827"
+        }
+      ]
+    }
+  ],
+  "storylines": [
+    {
+      "title": "县城哥们靠灰色项目暴富、挥霍、败光、吹牛",
+      "event_ids": [
+        "E001",
+        "E002",
+        "E003",
+        "E004"
+      ],
+      "narrative": "叙述者认识的一个县城哥们，靠某个带一点灰色的项目一年内赚了两百万。暴富后他直接去商K夜夜笙歌，高兴时能给妹妹一万一万的小费。他的心态是攀比AA建材王哥：凭什么王哥能玩自己不能玩。但原文指出他忘了自己不是王哥，王哥买卖稳健、多年攒下大存款，而他是穷人乍富。最终钱很快被败光，项目也做不成，只能在红浪漫和捏脚大妈面前吹牛，说一说当年的潇洒。",
+      "unresolved": "原文没有交代他叫什么、年龄、原本职业、灰色项目具体是什么、两百万在多长时间内败光、败光后以什么为生、与AA建材王哥有何具体关系。",
+      "evidence": [
+        {
+          "index": 281,
+          "url": "https://www.douyin.com/video/7506899267122924827"
+        }
+      ]
+    }
+  ],
+  "relationships": [
+    {
+      "target": "AA建材王哥",
+      "relation": "攀比对象；他觉得自己也应像王哥一样能玩，但原文强调他不是王哥",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 281,
+          "url": "https://www.douyin.com/video/7506899267122924827"
+        }
+      ]
+    },
+    {
+      "target": "商K妹妹/妹妹",
+      "relation": "消费场所中给小费的对象",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 281,
+          "url": "https://www.douyin.com/video/7506899267122924827"
+        }
+      ]
+    },
+    {
+      "target": "红浪漫和捏脚大妈",
+      "relation": "败落后听他吹牛、回忆当年潇洒的听众",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 281,
+          "url": "https://www.douyin.com/video/7506899267122924827"
+        }
+      ]
+    },
+    {
+      "target": "我（叙述者）",
+      "relation": "认识他并讲述其经历的叙述者",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 281,
+          "url": "https://www.douyin.com/video/7506899267122924827"
+        }
+      ]
+    }
+  ],
+  "speech_habits": [
+    {
+      "claim": "以攀比口吻自我合理化，认为自己也能像王哥一样玩",
+      "evidence": [
+        {
+          "index": 281,
+          "url": "https://www.douyin.com/video/7506899267122924827"
+        }
+      ]
+    },
+    {
+      "claim": "败落后靠“说一说自己当年的潇洒”作为吹牛谈资",
+      "evidence": [
+        {
+          "index": 281,
+          "url": "https://www.douyin.com/video/7506899267122924827"
+        }
+      ]
+    }
+  ],
+  "contradictions": [],
+  "gaps": [
+    "姓名、年龄、婚姻家庭",
+    "原职业和居住县城的明确地点",
+    "“带一点灰色的项目”具体是什么",
+    "一年赚两百万的具体时间",
+    "两百万具体如何花掉、多久败光",
+    "与AA建材王哥的真实关系深浅",
+    "商K妹妹、红浪漫和捏脚大妈是否与其有长期关系",
+    "项目做不成后的现状和收入来源",
+    "原文没有交代他叫什么名字",
+    "原文没有交代他的年龄与婚姻家庭",
+    "原文没有交代他原本的职业和所在县城的具体地点",
+    "原文没有交代“某个带一点灰色的项目”具体是什么",
+    "原文没有交代一年赚两百万的具体时间",
+    "原文没有交代两百万具体如何花掉、多久败光",
+    "原文没有交代他与AA建材王哥的真实关系深浅",
+    "原文没有交代商K妹妹、红浪漫和捏脚大妈是否与其有长期关系",
+    "原文没有交代项目做不成后的现状和收入来源"
+  ],
+  "creative_expansions": [],
+  "source_coverage": [
+    {
+      "index": 281,
+      "role": "唯一直接材料，提供该角色暴富、攀比、挥霍、败光、吹牛及与AA建材王哥等关系的全部原文信息。",
+      "url": "https://www.douyin.com/video/7506899267122924827"
+    }
+  ]
+}

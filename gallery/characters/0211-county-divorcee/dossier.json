@@ -1,0 +1,761 @@
+{
+  "name": "县城离婚者",
+  "nature": "原型/复合群像。不是单一自然人传记，由#33、#196、#60、#51等文案拼合出的县城离婚者群像；不同篇目分别强调社会性绞杀、社交平台展示、经济导致离婚与贫穷吵架循环。编纂说明：仅限这些文案明示内容，旧卡别名不作为事实依据。",
+  "overview": "县城离婚者是被熟人社会持续观看的复合群像。版本一：#33称县城离婚是漫长、无声、无处不在的社会性绞杀，离婚者成为全县免费连载的真人连续剧，父母在菜市场、单位被询问，评价体系视离婚低人一等、像二手车贬值，再婚基本只能找离婚的，有孩子更复杂；40岁前可能短暂精彩，40岁后孤独狼狈。版本二：#196写部分人离婚时晒离婚证、发大彻大悟看透红尘文案、穿瑜伽裤，被质问发出来干啥。版本三：#60、#51把离婚归因于经济：经济没问题则感情破裂也常维持，甚至逢年过节组CP；经济出问题多数离婚，越穷越吵、越吵越穷。多版本并列，按出处并列呈现。",
+  "identity": [
+    {
+      "claim": "县城中已经离婚或离过婚的人，原文特别提到40岁往后的离婚女性或老爷们。",
+      "evidence": [
+        {
+          "index": 33,
+          "url": "https://www.douyin.com/video/7688294065229685157"
+        }
+      ]
+    },
+    {
+      "claim": "在县城评价体系中被视为低人一等，离婚标签会长期跟随。",
+      "evidence": [
+        {
+          "index": 33,
+          "url": "https://www.douyin.com/video/7688294065229685157"
+        }
+      ]
+    },
+    {
+      "claim": "被看作如同二手车一样贬值，即便本身条件不差。",
+      "evidence": [
+        {
+          "index": 33,
+          "url": "https://www.douyin.com/video/7688294065229685157"
+        }
+      ]
+    },
+    {
+      "claim": "部分离婚者会在社交平台晒离婚证、发看透红尘文案、穿瑜伽裤出镜。",
+      "evidence": [
+        {
+          "index": 196,
+          "url": "https://www.douyin.com/video/7588930580520160527"
+        }
+      ]
+    },
+    {
+      "claim": "县城离婚夫妻在文中被归因为多数并非感情问题，而是经济出现难题。",
+      "evidence": [
+        {
+          "index": 60,
+          "url": "https://www.douyin.com/video/7674120254024725221"
+        }
+      ]
+    }
+  ],
+  "traits": [
+    {
+      "claim": "离婚后被当作全县免费连载的真人连续剧，成为熟人社会持续谈资。",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 33,
+          "url": "https://www.douyin.com/video/7688294065229685157"
+        }
+      ]
+    },
+    {
+      "claim": "日常举动会被从离婚身份角度重新解释，如换发型、带孩子去公园。",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 33,
+          "url": "https://www.douyin.com/video/7688294065229685157"
+        }
+      ]
+    },
+    {
+      "claim": "即便离婚理由是对方家暴、本人无过错，也会被县城评价体系认定有问题。",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 33,
+          "url": "https://www.douyin.com/video/7688294065229685157"
+        }
+      ]
+    },
+    {
+      "claim": "再婚匹配受到限制，基本情况是离婚的只能找离婚的。",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 33,
+          "url": "https://www.douyin.com/video/7688294065229685157"
+        }
+      ]
+    },
+    {
+      "claim": "有孩子会让再婚更复杂，涉及感情和财产分配。",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 33,
+          "url": "https://www.douyin.com/video/7688294065229685157"
+        }
+      ]
+    },
+    {
+      "claim": "离婚后生活可能短暂精彩，但40岁后容易陷入孤独和狼狈。",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 33,
+          "url": "https://www.douyin.com/video/7688294065229685157"
+        }
+      ]
+    },
+    {
+      "claim": "面子压力会让一些人即便感情破裂也不离婚，逢年过节组CP演出。",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 33,
+          "url": "https://www.douyin.com/video/7688294065229685157"
+        }
+      ]
+    },
+    {
+      "claim": "部分离婚者在社交平台展示离婚，被批评为把私人经历包装成内容。",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 196,
+          "url": "https://www.douyin.com/video/7588930580520160527"
+        }
+      ]
+    },
+    {
+      "claim": "经济状况被视为婚姻维持或崩盘的关键，经济出问题多数会离婚。",
+      "kind": "动机",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 60,
+          "url": "https://www.douyin.com/video/7674120254024725221"
+        }
+      ]
+    },
+    {
+      "claim": "贫穷家庭更容易陷入吵架循环，最终以离婚收场。",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 51,
+          "url": "https://www.douyin.com/video/7680388351061973361"
+        }
+      ]
+    },
+    {
+      "claim": "离婚后成为全县免费连载的真人连续剧，持续被议论。",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "日常举动会被从离婚身份重新解释，如换发型、带孩子去公园。",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "离婚后生活最多精彩一小段，40岁后孤独和狼狈凸显。",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "部分离婚者在社交平台晒离婚证、发看透红尘文案、穿瑜伽裤，被批评把私人经历包装成内容。",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "贫穷家庭更容易陷入越穷越吵、越吵越穷的循环，最终离婚。",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "离婚者既被写成社会性绞杀的受害者，又被写成社交平台上的展示者，两版本并列。",
+      "kind": "矛盾",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "县城离婚主因既被写成经济问题，又被写成感情不值钱、消费入不敷出，两版本并列。",
+      "kind": "矛盾",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "离婚后生活既被写成短暂精彩，又被写成40岁后孤独狼狈，按年龄阶段并列。",
+      "kind": "矛盾",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "有人不敢离婚、维持婚姻壳子，也有人离婚后晒证展示，两版本并列。",
+      "kind": "矛盾",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "部分晒离婚证者弄两张瑜伽裤小照片，软件修图、加滤镜、配BGM展示",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": [
+        {
+          "index": 33,
+          "url": "https://www.douyin.com/video/7688294065229685157"
+        }
+      ]
+    },
+    {
+      "claim": "越穷越吵、越吵越穷，最后受不了而离婚。",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": [
+        {
+          "index": 51,
+          "url": "https://www.douyin.com/video/7680388351061973361"
+        }
+      ]
+    }
+  ],
+  "life_domains": [
+    {
+      "domain": "社交/舆论",
+      "claim": "县城没有秘密，离婚会立即成为全县热搜话题，口口相传且容易走样。",
+      "evidence": [
+        {
+          "index": 33,
+          "url": "https://www.douyin.com/video/7688294065229685157"
+        }
+      ]
+    },
+    {
+      "domain": "家庭/父母",
+      "claim": "离婚不只影响本人，父母也会在菜市场、单位被询问和“关心”，承受熟人压力。",
+      "evidence": [
+        {
+          "index": 33,
+          "url": "https://www.douyin.com/video/7688294065229685157"
+        }
+      ]
+    },
+    {
+      "domain": "婚恋/再婚",
+      "claim": "离婚后在再婚市场上被贬低，基本只能找离婚的；有孩子则更复杂。",
+      "evidence": [
+        {
+          "index": 33,
+          "url": "https://www.douyin.com/video/7688294065229685157"
+        }
+      ]
+    },
+    {
+      "domain": "经济/婚姻",
+      "claim": "婚姻被描述为经济学问题，经济没问题时感情破裂也可维持，经济出问题则多数离婚。",
+      "evidence": [
+        {
+          "index": 60,
+          "url": "https://www.douyin.com/video/7674120254024725221"
+        }
+      ]
+    },
+    {
+      "domain": "消费/面子/社交平台",
+      "claim": "部分离婚者以晒离婚证、发看透红尘文案、穿瑜伽裤等方式展示离婚状态。",
+      "evidence": [
+        {
+          "index": 196,
+          "url": "https://www.douyin.com/video/7588930580520160527"
+        }
+      ]
+    },
+    {
+      "domain": "心理/年龄",
+      "claim": "离婚后最多精彩一小段，40岁后孤独狼狈；得不到认可的幸福就是不幸福。",
+      "evidence": [
+        {
+          "index": 33,
+          "url": "https://www.douyin.com/video/7688294065229685157"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "event_id": "E001",
+      "title": "离婚成为县城热搜",
+      "description": "一旦离婚，当事人立即成为县城热搜话题；口口相传容易走样，父母也被菜市场、单位里的询问和“关心”包围。",
+      "temporal": "原文明确为离婚后立即发生",
+      "chronology_basis": "明示",
+      "evidence": [
+        {
+          "index": 33,
+          "url": "https://www.douyin.com/video/7688294065229685157"
+        }
+      ]
+    },
+    {
+      "event_id": "E002",
+      "title": "日常行为被从离婚角度解读",
+      "description": "离婚标签长期跟随，换发型会被说成又找着人了，周末带孩子去公园会被背后嘀咕单亲妈妈带孩子不容易。",
+      "temporal": "原文明确：三年前离婚，今天换发型；周末带孩子",
+      "chronology_basis": "明示",
+      "evidence": [
+        {
+          "index": 33,
+          "url": "https://www.douyin.com/video/7688294065229685157"
+        }
+      ]
+    },
+    {
+      "event_id": "E003",
+      "title": "再婚受到评价体系限制",
+      "description": "离婚者在县城评价体系中低人一等，再婚基本只能找离婚的；有孩子时再婚涉及感情和财产分配，更加复杂。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 33,
+          "url": "https://www.douyin.com/video/7688294065229685157"
+        }
+      ]
+    },
+    {
+      "event_id": "E004",
+      "title": "40岁前后的离婚体验分界",
+      "description": "原文说40岁往前离婚的，有女性以离婚为荣、觉得单身可撩、精彩一小段；过了40，模样老了、瑜伽裤照片没人看、花天酒地玩不动，孤独和狼狈凸显。",
+      "temporal": "原文明确以40岁为界",
+      "chronology_basis": "明示",
+      "evidence": [
+        {
+          "index": 33,
+          "url": "https://www.douyin.com/video/7688294065229685157"
+        }
+      ]
+    },
+    {
+      "event_id": "E005",
+      "title": "社交平台上的离婚展示",
+      "description": "部分离婚者晒离婚证、发大彻大悟看透红尘的文案、穿瑜伽裤；批评者质问其发出来的意图。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 196,
+          "url": "https://www.douyin.com/video/7588930580520160527"
+        }
+      ]
+    },
+    {
+      "event_id": "E006",
+      "title": "经济问题导致离婚",
+      "description": "县城离婚夫妻被描述为多数不是感情出问题，而是经济出问题；一方失业、收入骤降或投资失败后，绝大多数会离婚。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 60,
+          "url": "https://www.douyin.com/video/7674120254024725221"
+        }
+      ]
+    },
+    {
+      "event_id": "E007",
+      "title": "经济没问题则维持婚姻壳子",
+      "description": "感情出问题但经济没问题的夫妻，婚姻绝大多数可以维持；即便感情完全破裂，不睡一个屋、不吃一锅饭，逢年过节仍组CP演出。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 60,
+          "url": "https://www.douyin.com/video/7674120254024725221"
+        },
+        {
+          "index": 33,
+          "url": "https://www.douyin.com/video/7688294065229685157"
+        }
+      ]
+    },
+    {
+      "event_id": "E008",
+      "title": "贫穷家庭吵架循环导致离婚",
+      "description": "越穷的家庭越容易吵架；越穷越吵，越吵越穷，最后两个人实在受不了就离婚。",
+      "temporal": "原文明确因果先后，时间不明",
+      "chronology_basis": "明示",
+      "evidence": [
+        {
+          "index": 51,
+          "url": "https://www.douyin.com/video/7680388351061973361"
+        }
+      ]
+    }
+  ],
+  "storylines": [
+    {
+      "title": "离婚后的社会性绞杀",
+      "event_ids": [
+        "E001",
+        "E002",
+        "E003",
+        "E004"
+      ],
+      "narrative": "一对县城夫妻离婚后，离婚者立即成为全县热搜话题，口口相传且容易走样。父母在菜市场、单位被熟人询问和“关心”。离婚标签长期跟随本人，换发型、带孩子去公园都会被从离婚角度解释。县城评价体系认为离婚低人一等，像二手车一样贬值，再婚基本只能找离婚的，有孩子则涉及感情和财产分配。40岁前可能短暂精彩，40岁后孤独和狼狈凸显。原文没有交代当事人如何应对或走出这种绞杀。",
+      "unresolved": "当事人具体如何应对、是否搬离县城、是否再婚、后续生活结果，原文未交代。",
+      "evidence": [
+        {
+          "index": 33,
+          "url": "https://www.douyin.com/video/7688294065229685157"
+        }
+      ]
+    },
+    {
+      "title": "社交平台上的离婚展示与批评",
+      "event_ids": [
+        "E005"
+      ],
+      "narrative": "另一篇文案把部分离婚者的行为描述为：离婚的时候晒离婚证，发大彻大悟、看透红尘的文案，穿上瑜伽裤。批评者质问其发出来的意图。原文没有交代这些人的真实动机、生活处境和后续。",
+      "unresolved": "这些晒证、发文案、穿瑜伽裤的离婚者是谁、为何这样做、后续如何，原文未交代。",
+      "evidence": [
+        {
+          "index": 196,
+          "url": "https://www.douyin.com/video/7588930580520160527"
+        }
+      ]
+    },
+    {
+      "title": "经济决定离婚与维持",
+      "event_ids": [
+        "E006",
+        "E007",
+        "E008"
+      ],
+      "narrative": "县城离婚夫妻被说成多数不是感情问题而是经济难题。经济没问题时，即使感情出问题，婚姻也多数能维持，甚至感情破裂仍逢年过节组CP演出；经济出问题时，失业、收入骤降、投资失败会导致绝大多数离婚。贫穷家庭还会陷入越穷越吵、越吵越穷的循环，最后受不了离婚。缺的是具体经济数额、职业、过程和结果。",
+      "unresolved": "具体收入、失业时长、财产分割、孩子抚养、离婚后经济状况，原文未交代。",
+      "evidence": [
+        {
+          "index": 60,
+          "url": "https://www.douyin.com/video/7674120254024725221"
+        },
+        {
+          "index": 33,
+          "url": "https://www.douyin.com/video/7688294065229685157"
+        },
+        {
+          "index": 51,
+          "url": "https://www.douyin.com/video/7680388351061973361"
+        }
+      ]
+    }
+  ],
+  "relationships": [
+    {
+      "target": "县城里的人、亲戚朋友",
+      "relation": "持续议论、传播离婚标签、把离婚者当谈资和连续剧观看",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 33,
+          "url": "https://www.douyin.com/video/7688294065229685157"
+        }
+      ]
+    },
+    {
+      "target": "父母",
+      "relation": "因子女离婚在菜市场、单位被询问和“关心”，一同承受熟人压力",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 33,
+          "url": "https://www.douyin.com/video/7688294065229685157"
+        }
+      ]
+    },
+    {
+      "target": "前配偶",
+      "relation": "经济绑定、离婚分割，或感情破裂仍维持婚姻壳子、逢年过节组CP演出",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 33,
+          "url": "https://www.douyin.com/video/7688294065229685157"
+        },
+        {
+          "index": 60,
+          "url": "https://www.douyin.com/video/7674120254024725221"
+        }
+      ]
+    },
+    {
+      "target": "再婚对象",
+      "relation": "离婚的只能找离婚的；有孩子则涉及感情和财产分配，更复杂",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 33,
+          "url": "https://www.douyin.com/video/7688294065229685157"
+        }
+      ]
+    },
+    {
+      "target": "社交平台观众/网友",
+      "relation": "看到晒离婚证、看透红尘文案、瑜伽裤出镜后，质问其发出来的意图",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 196,
+          "url": "https://www.douyin.com/video/7588930580520160527"
+        }
+      ]
+    },
+    {
+      "claim": "EV: https://www.douyin.com/video/7688294065229685157",
+      "target": "卖菜大姐",
+      "relation": "在菜市场压低声音向母亲（王姐）打听女儿离婚",
+      "evidence": [
+        {
+          "index": 33,
+          "url": "https://www.douyin.com/video/7688294065229685157"
+        }
+      ]
+    },
+    {
+      "claim": "EV: https://www.douyin.com/video/7688294065229685157",
+      "target": "单位领导",
+      "relation": "拍拍父亲肩膀说“老刘啊，家里的事得处理好啊”",
+      "evidence": [
+        {
+          "index": 33,
+          "url": "https://www.douyin.com/video/7688294065229685157"
+        }
+      ]
+    },
+    {
+      "claim": "EV: https://www.douyin.com/video/7688294065229685157",
+      "target": "亲戚朋友",
+      "relation": "聚到一块八卦花边新闻，在县城饭店里议论他人经历",
+      "evidence": [
+        {
+          "index": 33,
+          "url": "https://www.douyin.com/video/7688294065229685157"
+        }
+      ]
+    },
+    {
+      "claim": "EV: https://www.douyin.com/video/7688294065229685157",
+      "target": "同事朋友",
+      "relation": "对离婚传闻进行拼凑和理解，加工成“被逐出家门”“太作了”",
+      "evidence": [
+        {
+          "index": 33,
+          "url": "https://www.douyin.com/video/7688294065229685157"
+        }
+      ]
+    },
+    {
+      "claim": "EV: https://www.douyin.com/video/7688294065229685157",
+      "target": "村头情报站的老头老太太",
+      "relation": "与县城饭店里议论他人者没有区别，只是年龄段不同",
+      "evidence": [
+        {
+          "index": 33,
+          "url": "https://www.douyin.com/video/7688294065229685157"
+        }
+      ]
+    }
+  ],
+  "speech_habits": [
+    {
+      "claim": "县城评价者会用关心、惋惜、劝和、可惜等词进行评判，被形容为一刀一刀剜人。",
+      "evidence": [
+        {
+          "index": 33,
+          "url": "https://www.douyin.com/video/7688294065229685157"
+        }
+      ]
+    },
+    {
+      "claim": "用“一个巴掌拍不响，苍蝇不叮无缝蛋”解释离婚，把问题归到离婚者身上。",
+      "evidence": [
+        {
+          "index": 33,
+          "url": "https://www.douyin.com/video/7688294065229685157"
+        }
+      ]
+    },
+    {
+      "claim": "熟人会压低声音打听“听说你家闺女离了呀”，表面关心实则传播。",
+      "evidence": [
+        {
+          "index": 33,
+          "url": "https://www.douyin.com/video/7688294065229685157"
+        }
+      ]
+    },
+    {
+      "claim": "部分离婚者在社交平台使用“大彻大悟，看透红尘”式文案。",
+      "evidence": [
+        {
+          "index": 196,
+          "url": "https://www.douyin.com/video/7588930580520160527"
+        }
+      ]
+    },
+    {
+      "claim": "批评者会直接质问离婚者把离婚发到网上的意图。",
+      "evidence": [
+        {
+          "index": 196,
+          "url": "https://www.douyin.com/video/7588930580520160527"
+        }
+      ]
+    }
+  ],
+  "contradictions": [
+    {
+      "issue": "离婚者是被社会性绞杀的受害者，还是社交平台上的表演者",
+      "versions": [
+        {
+          "claim": "版本一：离婚者是漫长、无声、无处不在的社会性绞杀对象，日常被议论和评判。",
+          "evidence": [
+            {
+              "index": 33,
+              "url": "https://www.douyin.com/video/7688294065229685157"
+            }
+          ]
+        },
+        {
+          "claim": "版本二：部分离婚者晒离婚证、发看透红尘文案、穿瑜伽裤，被批评把私人经历包装成内容。",
+          "evidence": [
+            {
+              "index": 196,
+              "url": "https://www.douyin.com/video/7588930580520160527"
+            }
+          ]
+        }
+      ],
+      "resolution": "保留并列，不擅自合并。不同篇目描述的可能是同一群体中的不同人，也可能是同一人的不同侧面。"
+    },
+    {
+      "issue": "县城离婚的主因是感情问题还是经济问题",
+      "versions": [
+        {
+          "claim": "版本一：县城离婚夫妻多数不是感情出问题，而是经济出现难题；经济没问题时感情出问题也常维持。",
+          "evidence": [
+            {
+              "index": 60,
+              "url": "https://www.douyin.com/video/7674120254024725221"
+            }
+          ]
+        },
+        {
+          "claim": "版本二：离婚被归入感情不值钱、结婚没俩月就入不敷出的叙事。",
+          "evidence": [
+            {
+              "index": 196,
+              "url": "https://www.douyin.com/video/7588930580520160527"
+            }
+          ]
+        }
+      ],
+      "resolution": "保留并列。前者强调经济基础，后者强调感情与消费共同导致崩盘。"
+    },
+    {
+      "issue": "离婚后生活是精彩还是孤独",
+      "versions": [
+        {
+          "claim": "版本一：40岁往前离婚的，有人以离婚为荣，觉得单身可撩，最多精彩一小段。",
+          "evidence": [
+            {
+              "index": 33,
+              "url": "https://www.douyin.com/video/7688294065229685157"
+            }
+          ]
+        },
+        {
+          "claim": "版本二：过了40，模样老了、瑜伽裤照片没人看、花天酒地玩不动，孤独和狼狈凸显。",
+          "evidence": [
+            {
+              "index": 33,
+              "url": "https://www.douyin.com/video/7688294065229685157"
+            }
+          ]
+        }
+      ],
+      "resolution": "按年龄阶段并列保留。"
+    },
+    {
+      "issue": "离婚者敢不敢离婚、是否维持婚姻壳子",
+      "versions": [
+        {
+          "claim": "版本一：很多县城离婚者不敢轻易离婚，即便感情破裂也逢年过节组CP演出。",
+          "evidence": [
+            {
+              "index": 33,
+              "url": "https://www.douyin.com/video/7688294065229685157"
+            }
+          ]
+        },
+        {
+          "claim": "版本二：也有人离婚后在社交平台晒离婚证、发文案、穿瑜伽裤。",
+          "evidence": [
+            {
+              "index": 196,
+              "url": "https://www.douyin.com/video/7588930580520160527"
+            }
+          ]
+        }
+      ],
+      "resolution": "保留并列。不同人可能做出不同选择，原文未给出统一结论。"
+    }
+  ],
+  "gaps": [
+    "具体离婚者的年龄、性别、职业、收入、是否有孩子等设定，原文只零散提及，未系统交代。",
+    "离婚的具体原因、过程、时间线、财产分割和抚养权结果，原文未展开。",
+    "晒离婚证、发看透红尘文案、穿瑜伽裤者的真实动机和后续生活，原文未交代。",
+    "离婚者如何应对县城舆论、是否离开县城、是否再婚成功，原文未交代。",
+    "经济导致离婚的具体数额、失业时长、投资失败细节，原文未交代。",
+    "不同篇目中的“县城离婚者”是否为同一群体，原文没有明确统一。"
+  ],
+  "creative_expansions": [],
+  "source_coverage": [
+    {
+      "index": 33,
+      "role": "核心材料：定义县城离婚者为漫长社会性绞杀对象，提供全县热搜、父母压力、日常行为被解读、低人一等、二手车贬值、再婚限制、40岁分水岭、维持婚姻壳子等描述。",
+      "url": "https://www.douyin.com/video/7688294065229685157"
+    },
+    {
+      "index": 196,
+      "role": "补充材料：提供离婚后晒离婚证、发大彻大悟看透红尘文案、穿瑜伽裤，以及被质问“离婚你发出来干啥”的批评视角。",
+      "url": "https://www.douyin.com/video/7588930580520160527"
+    },
+    {
+      "index": 60,
+      "role": "补充材料：把县城离婚夫妻与经济学问题连接，说明经济没问题感情破裂也维持、经济出问题多数离婚。",
+      "url": "https://www.douyin.com/video/7674120254024725221"
+    },
+    {
+      "index": 51,
+      "role": "补充材料：提供越穷越吵、越吵越穷、最后离婚的贫穷与离婚因果描述。",
+      "url": "https://www.douyin.com/video/7680388351061973361"
+    }
+  ]
+}

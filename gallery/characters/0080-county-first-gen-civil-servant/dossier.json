@@ -1,0 +1,601 @@
+{
+  "name": "县城编一代",
+  "nature": "原型/复合群像，非单一自然人。由多篇“县城浮世绘”文案中“编一代”“普通编制人员”“异地乡镇编一代”等称谓拼合，指靠自己考取编制、月入几千、父母帮衬有限的县城体制内普通在职人员；原文无姓名、无连续生平、无明确时间线。",
+  "overview": "县城编一代是与编二代相对的普通编制人员：编制多由本人考取，月薪几千，父母给不了多少帮衬，房车靠贷款。年轻阶段被放进县城相亲评价体系，与编二代、末代少爷比较时因掏不起彩礼、买不起全款车房而处于劣势，被称“入门款”，并与编二代存在通婚壁垒；若为异地乡镇编一代，还要吃领导同事的压力。长期看编制价值后移：40岁不易被辞退，退休金高于子女工资，成为子女依靠。文本对其评价并存两版：一版说稳定体面、晚年有靠，一版说收入就这么多、买房费劲、“非常鸡肋”，只有甘愿躺平者才划算。",
+  "identity": [
+    {
+      "claim": "县城体制内普通编制人员，编制多由本人考取，常被称为编一代。",
+      "evidence": [
+        {
+          "index": 183,
+          "url": "https://www.douyin.com/video/7597102590869949702"
+        },
+        {
+          "index": 145,
+          "url": "https://www.douyin.com/video/7623070673635691791"
+        }
+      ]
+    },
+    {
+      "claim": "月收入几千元，收入不算高，常被视为只有一份死工资。",
+      "evidence": [
+        {
+          "index": 123,
+          "url": "https://www.douyin.com/video/7640400726720878513"
+        },
+        {
+          "index": 233,
+          "url": "https://www.douyin.com/video/7565399420146683193"
+        }
+      ]
+    },
+    {
+      "claim": "家庭经济支持有限，父母给不了多少帮衬。",
+      "evidence": [
+        {
+          "index": 123,
+          "url": "https://www.douyin.com/video/7640400726720878513"
+        }
+      ]
+    },
+    {
+      "claim": "在县城相亲评价中只是入门款，低于编二代。",
+      "evidence": [
+        {
+          "index": 51,
+          "url": "https://www.douyin.com/video/7680388351061973361"
+        }
+      ]
+    }
+  ],
+  "traits": [
+    {
+      "claim": "买房买车依赖工资和贷款，买房子会显得很费劲。",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 123,
+          "url": "https://www.douyin.com/video/7640400726720878513"
+        },
+        {
+          "index": 183,
+          "url": "https://www.douyin.com/video/7597102590869949702"
+        },
+        {
+          "index": 51,
+          "url": "https://www.douyin.com/video/7680388351061973361"
+        }
+      ]
+    },
+    {
+      "claim": "婚恋中因缺全款车房和彩礼而被嫌，处于物质条件劣势。",
+      "kind": "恐惧",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 78,
+          "url": "https://www.douyin.com/video/7663411268536138234"
+        },
+        {
+          "index": 51,
+          "url": "https://www.douyin.com/video/7680388351061973361"
+        }
+      ]
+    },
+    {
+      "claim": "与编二代之间存在婚配壁垒，恋爱成功率极低。",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 145,
+          "url": "https://www.douyin.com/video/7623070673635691791"
+        },
+        {
+          "index": 126,
+          "url": "https://www.douyin.com/video/7637424592269282661"
+        }
+      ]
+    },
+    {
+      "claim": "异地乡镇编一代被视为最鸡肋的编制，容易吃压力、被使唤。",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 110,
+          "url": "https://www.douyin.com/video/7647055860899856881"
+        }
+      ]
+    },
+    {
+      "claim": "编制对甘愿躺平的编一代才有含金量，选择编制意味着放弃未来物质生活丰富的可能性。",
+      "kind": "动机",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 47,
+          "url": "https://www.douyin.com/video/7682638122002711013"
+        }
+      ]
+    },
+    {
+      "claim": "矛盾在于年轻时收入低、消费需求大时工资不高，年龄大后工资反而高，但多数给子女用。",
+      "kind": "矛盾",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 233,
+          "url": "https://www.douyin.com/video/7565399420146683193"
+        }
+      ]
+    },
+    {
+      "claim": "编制多靠自己考取，是“编一代”而非父母托举的编二代。",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "月收入几千，只有一份死工资，父母给不了多少帮衬。",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "买房买车依赖工资和贷款，买房显得费劲；只有编制而无物质基础时是“稳定的受穷”。",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "与编二代存在婚配壁垒，恋爱成功率极低。",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "异地乡镇编一代是最鸡肋的编：干活加班有他，聚餐不带他。",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "婚恋中因缺全款车房和彩礼被嫌，物质条件处于劣势。",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "靠编制换取稳定与晚年保障，把编制当作给下一代谋福利的资产。",
+      "kind": "欲望",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "编制只对编二代和甘愿躺平的编一代有含金量；选择县城编制意味着放弃未来物质生活丰富的可能性。",
+      "kind": "动机",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "年轻时最需要消费时工资低，年龄大、消费需求少时工资反而高，且大部分给子女用。",
+      "kind": "矛盾",
+      "certainty": "文本推断",
+      "evidence": []
+    }
+  ],
+  "life_domains": [
+    {
+      "domain": "职业",
+      "claim": "县城体制内普通岗位，收入稳定但不高；异地乡镇编一代还可能活多、被使唤、聚餐不带。",
+      "evidence": [
+        {
+          "index": 110,
+          "url": "https://www.douyin.com/video/7647055860899856881"
+        },
+        {
+          "index": 233,
+          "url": "https://www.douyin.com/video/7565399420146683193"
+        }
+      ]
+    },
+    {
+      "domain": "金钱",
+      "claim": "月薪几千，父母帮衬少，房子车子靠贷款，买房吃力；与编二代相比物质条件薄弱。",
+      "evidence": [
+        {
+          "index": 123,
+          "url": "https://www.douyin.com/video/7640400726720878513"
+        },
+        {
+          "index": 183,
+          "url": "https://www.douyin.com/video/7597102590869949702"
+        }
+      ]
+    },
+    {
+      "domain": "婚恋",
+      "claim": "编一代与编二代不通婚；在相亲中常被末代少爷压过，被女方嫌没钱、掏不起彩礼、买不起全款车房。",
+      "evidence": [
+        {
+          "index": 145,
+          "url": "https://www.douyin.com/video/7623070673635691791"
+        },
+        {
+          "index": 78,
+          "url": "https://www.douyin.com/video/7663411268536138234"
+        },
+        {
+          "index": 51,
+          "url": "https://www.douyin.com/video/7680388351061973361"
+        }
+      ]
+    },
+    {
+      "domain": "家庭/代际",
+      "claim": "父母给不了多少帮衬；晚年退休金较高，成为子女依靠。",
+      "evidence": [
+        {
+          "index": 123,
+          "url": "https://www.douyin.com/video/7640400726720878513"
+        },
+        {
+          "index": 233,
+          "url": "https://www.douyin.com/video/7565399420146683193"
+        }
+      ]
+    },
+    {
+      "domain": "阶层评价",
+      "claim": "县城相亲评价看含编率，编一代低于编二代，甚至被细分为不同层次。",
+      "evidence": [
+        {
+          "index": 145,
+          "url": "https://www.douyin.com/video/7623070673635691791"
+        },
+        {
+          "index": 51,
+          "url": "https://www.douyin.com/video/7680388351061973361"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "event_id": "E001",
+      "title": "婚恋比较中被末代少爷压过",
+      "description": "在县城相亲选择中，农村编一代被放在“父母能给全款车房外加38万彩礼的县城末代少爷”旁边比较，原文称几乎所有女孩都会选末代少爷；编一代则被嫌没钱、掏不起彩礼、买不起全款车房。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 51,
+          "url": "https://www.douyin.com/video/7680388351061973361"
+        },
+        {
+          "index": 78,
+          "url": "https://www.douyin.com/video/7663411268536138234"
+        }
+      ]
+    },
+    {
+      "event_id": "E002",
+      "title": "编一代与编二代不通婚",
+      "description": "县城婚配体系被描述为按含编率细分，编一代和编二代不通婚，编二代内部也继续分层；编一代跟编二代谈恋爱成功率极低。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 145,
+          "url": "https://www.douyin.com/video/7623070673635691791"
+        },
+        {
+          "index": 126,
+          "url": "https://www.douyin.com/video/7637424592269282661"
+        }
+      ]
+    },
+    {
+      "event_id": "E003",
+      "title": "异地乡镇编一代吃压力",
+      "description": "异地乡镇编一代被描述为最鸡肋的编制：领导同事施压，干活加班有他，聚餐不带他。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 110,
+          "url": "https://www.douyin.com/video/7647055860899856881"
+        }
+      ]
+    },
+    {
+      "event_id": "E004",
+      "title": "靠工资和贷款购置车房",
+      "description": "编一代被描述为父母帮衬少、月薪几千，房子车子全靠贷款买；只有编制而缺少物质基础时，生活会变成“稳定的受穷”。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 123,
+          "url": "https://www.douyin.com/video/7640400726720878513"
+        },
+        {
+          "index": 51,
+          "url": "https://www.douyin.com/video/7680388351061973361"
+        }
+      ]
+    },
+    {
+      "event_id": "E005",
+      "title": "晚年保障显现",
+      "description": "普通编制人员年轻时工资不高，但40岁不易被辞退，退休后仍发较高工资，成为子女依靠；工资到后期多数给子女用。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 233,
+          "url": "https://www.douyin.com/video/7565399420146683193"
+        }
+      ]
+    }
+  ],
+  "storylines": [
+    {
+      "title": "编一代的文本人生剧本：考编入局—年轻吃亏—晚年保障",
+      "event_ids": [
+        "E001",
+        "E002",
+        "E003",
+        "E004",
+        "E005"
+      ],
+      "narrative": "从多篇文本拼接看，县城编一代靠自己考取编制，月薪几千，家庭帮衬少。进入婚恋市场后，因没有全款车房和彩礼，在与编二代、末代少爷的比较中处于劣势，甚至被明确分层为不通婚；若在异地乡镇，还要承担额外工作压力。其长期价值在年龄增长后显现：工作稳定、不易被40岁辞退，退休金较高，成为子女依靠。原文没有单一主角的连续经历，只有这些反复出现的设定。",
+      "unresolved": "没有具体个人姓名、年龄、地区、岗位、是否结婚、是否晋升、最终婚姻结果等；也没有说明编一代中例外通婚或阶层跃升的条件。",
+      "evidence": [
+        {
+          "index": 51,
+          "url": "https://www.douyin.com/video/7680388351061973361"
+        },
+        {
+          "index": 78,
+          "url": "https://www.douyin.com/video/7663411268536138234"
+        },
+        {
+          "index": 145,
+          "url": "https://www.douyin.com/video/7623070673635691791"
+        },
+        {
+          "index": 126,
+          "url": "https://www.douyin.com/video/7637424592269282661"
+        },
+        {
+          "index": 110,
+          "url": "https://www.douyin.com/video/7647055860899856881"
+        },
+        {
+          "index": 123,
+          "url": "https://www.douyin.com/video/7640400726720878513"
+        },
+        {
+          "index": 233,
+          "url": "https://www.douyin.com/video/7565399420146683193"
+        }
+      ]
+    }
+  ],
+  "relationships": [
+    {
+      "target": "县城编二代",
+      "relation": "婚配壁垒和对照群体；编一代与编二代不通婚，编二代家庭资源更充足，生活起点更高。",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 145,
+          "url": "https://www.douyin.com/video/7623070673635691791"
+        },
+        {
+          "index": 183,
+          "url": "https://www.douyin.com/video/7597102590869949702"
+        },
+        {
+          "index": 126,
+          "url": "https://www.douyin.com/video/7637424592269282661"
+        }
+      ]
+    },
+    {
+      "target": "县城末代少爷",
+      "relation": "婚恋比较对象；末代少爷父母给全款车房和彩礼，编一代被嫌没钱。",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 51,
+          "url": "https://www.douyin.com/video/7680388351061973361"
+        },
+        {
+          "index": 123,
+          "url": "https://www.douyin.com/video/7640400726720878513"
+        },
+        {
+          "index": 54,
+          "url": "https://www.douyin.com/video/7677265836126499813"
+        }
+      ]
+    },
+    {
+      "target": "带编铁娘子（原文作“带鞭铁娘子”）",
+      "relation": "通常不找编一代，认为找编一代会被比下去。",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 54,
+          "url": "https://www.douyin.com/video/7677265836126499813"
+        }
+      ]
+    },
+    {
+      "target": "女孩/女性",
+      "relation": "在相亲选择中更倾向末代少爷，嫌编一代掏不起彩礼、买不起全款车房。",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 51,
+          "url": "https://www.douyin.com/video/7680388351061973361"
+        },
+        {
+          "index": 78,
+          "url": "https://www.douyin.com/video/7663411268536138234"
+        }
+      ]
+    }
+  ],
+  "speech_habits": [],
+  "contradictions": [
+    {
+      "issue": "编制是稳定体面，还是对编一代很鸡肋？",
+      "versions": [
+        {
+          "claim": "稳定、晚年保障好：40岁不易被辞退，退休后工资高，成为子女依靠。",
+          "evidence": [
+            {
+              "index": 233,
+              "url": "https://www.douyin.com/video/7565399420146683193"
+            }
+          ]
+        },
+        {
+          "claim": "对编一代鸡肋：收入就这么多，买房费劲，没有父母做生意帮衬就吃力。",
+          "evidence": [
+            {
+              "index": 183,
+              "url": "https://www.douyin.com/video/7597102590869949702"
+            }
+          ]
+        }
+      ],
+      "resolution": "保留并列：前者强调长期保障，后者强调青年和中年阶段的物质窘迫。"
+    },
+    {
+      "issue": "编一代在婚恋中是入门款，还是仍可能被选择？",
+      "versions": [
+        {
+          "claim": "编二代才是王炸，编一代只是入门款。",
+          "evidence": [
+            {
+              "index": 51,
+              "url": "https://www.douyin.com/video/7680388351061973361"
+            }
+          ]
+        },
+        {
+          "claim": "嫁给编一代的会嫌没钱、掏不起彩礼、买不起全款车房。",
+          "evidence": [
+            {
+              "index": 78,
+              "url": "https://www.douyin.com/video/7663411268536138234"
+            }
+          ]
+        },
+        {
+          "claim": "带编铁娘子绝对不找编一代。",
+          "evidence": [
+            {
+              "index": 54,
+              "url": "https://www.douyin.com/video/7677265836126499813"
+            }
+          ]
+        }
+      ],
+      "resolution": "保留并列，均指向编一代在物质条件和婚配层级上的劣势。"
+    },
+    {
+      "issue": "编一代与编二代是否完全不通婚？",
+      "versions": [
+        {
+          "claim": "文案称编一代和编二代不通婚。",
+          "evidence": [
+            {
+              "index": 145,
+              "url": "https://www.douyin.com/video/7623070673635691791"
+            }
+          ]
+        },
+        {
+          "claim": "文案又称编一代跟编二代谈恋爱成功率极低。",
+          "evidence": [
+            {
+              "index": 126,
+              "url": "https://www.douyin.com/video/7637424592269282661"
+            }
+          ]
+        }
+      ],
+      "resolution": "保留并列：文本既说通婚壁垒，也用“成功率极低”表述，不能擅自合并为绝对无例外。"
+    }
+  ],
+  "gaps": [
+    "没有具体姓名、年龄、性别、家庭结构。",
+    "没有明确个人时间线和连续事件。",
+    "没有说明具体单位、职级、是否本地或异地。",
+    "没有交代婚恋最终结果。",
+    "没有交代晋升、收入变化的具体数字。",
+    "没有说明编一代与编二代例外通婚的条件。",
+    "没有交代异地乡镇编一代是否调回、调回条件为何。",
+    "没有交代“甘愿躺平”与“不甘躺平”两类编一代各自的下场。"
+  ],
+  "creative_expansions": [],
+  "source_coverage": [
+    {
+      "index": 78,
+      "role": "提供婚恋比较中编一代被嫌没钱、掏不起彩礼、买不起全款车房的材料。",
+      "url": "https://www.douyin.com/video/7663411268536138234"
+    },
+    {
+      "index": 123,
+      "role": "提供编一代父母帮衬少、月薪几千、房子车子靠贷款、与末代少爷对比的材料。",
+      "url": "https://www.douyin.com/video/7640400726720878513"
+    },
+    {
+      "index": 145,
+      "role": "提供编一代与编二代不通婚、含编率分层、只有编制无物质基础会稳定受穷的材料。",
+      "url": "https://www.douyin.com/video/7623070673635691791"
+    },
+    {
+      "index": 183,
+      "role": "提供编一代除部分地区外鸡肋、收入有限、买房费劲、与编二代家庭资源对比的材料。",
+      "url": "https://www.douyin.com/video/7597102590869949702"
+    },
+    {
+      "index": 51,
+      "role": "提供编一代只是相亲入门款、农村编一代在末代少爷面前被选的材料。",
+      "url": "https://www.douyin.com/video/7680388351061973361"
+    },
+    {
+      "index": 54,
+      "role": "提供带编铁娘子不找编一代、将其视为被比下去的材料。",
+      "url": "https://www.douyin.com/video/7677265836126499813"
+    },
+    {
+      "index": 110,
+      "role": "提供异地乡镇编一代鸡肋、吃压力、干活加班被使唤的材料。",
+      "url": "https://www.douyin.com/video/7647055860899856881"
+    },
+    {
+      "index": 126,
+      "role": "提供编一代跟编二代谈恋爱成功率极低的材料。",
+      "url": "https://www.douyin.com/video/7637424592269282661"
+    },
+    {
+      "index": 233,
+      "role": "提供普通编制人员死工资、40岁不被辞退、退休金成为子女依靠的材料。",
+      "url": "https://www.douyin.com/video/7565399420146683193"
+    },
+    {
+      "index": 47,
+      "role": "提供县城编制只对编二代和甘愿躺平的编一代有含金量、选择编制放弃物质丰富可能性的材料。",
+      "url": "https://www.douyin.com/video/7682638122002711013"
+    }
+  ]
+}

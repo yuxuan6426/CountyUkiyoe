@@ -1,0 +1,614 @@
+{
+  "name": "县城向上择偶者",
+  "nature": "原型/复合群像。由第78篇评论中《乡村爱情》香秀个案加县城婚恋观察抽象而成，不是单一自然人的连续传记，也不对应现实人物。",
+  "overview": "编辑依据第78篇提炼的原型，原文自称“现成婚恋市场上想要向上择偶的那种人”。典型个案为香秀：村主任独生女、卫校毕业、村卫生室护士，最大执念是通过婚姻跨越阶层、到小县城去、坚决不在村里。她潜压村里第一个大学生谢永强并订婚，对方县城工作吹了即退婚；改嫁跑货运的李大国，因对方事业无成、猜忌，怀着李小国改嫁外地商人马忠；有体面后又觉无家、不合拍，离婚回李大国；仍不满其无进步与猜忌，再找马忠；最终与李大国离婚，李大国事业干明白后与李秋歌好上。原文称这种“既要又要”、自身条件又不满足两边要求的状态来回折腾，并以“县城很多巴黎世家”形容其命运。范围存在版本差异：典型个案为女性，文本又扩展到“老爷们”互嫌。原文主张婚姻不是嫁给现有条件，而是婚后互相成就和磨合。",
+  "identity": [
+    {
+      "claim": "编辑命名的原型/复合群像，对应原文所称县城婚恋市场上想向上择偶的人",
+      "evidence": [
+        {
+          "index": 78,
+          "url": "https://www.douyin.com/video/7663411268536138234"
+        }
+      ]
+    },
+    {
+      "claim": "文本以“县城很多巴黎世家”形容这批反复婚变者的命运",
+      "evidence": [
+        {
+          "index": 78,
+          "url": "https://www.douyin.com/video/7663411268536138234"
+        }
+      ]
+    },
+    {
+      "claim": "典型个案香秀是村主任独生女、卫校毕业、村卫生室护士",
+      "evidence": [
+        {
+          "index": 78,
+          "url": "https://www.douyin.com/video/7663411268536138234"
+        }
+      ]
+    },
+    {
+      "claim": "香秀最大执念是通过婚姻跨越阶层、到小县城去、坚决不在村里",
+      "evidence": [
+        {
+          "index": 78,
+          "url": "https://www.douyin.com/video/7663411268536138234"
+        }
+      ]
+    }
+  ],
+  "traits": [
+    {
+      "claim": "动机：把婚姻当作向上流动、到县城的通道",
+      "kind": "动机",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 78,
+          "url": "https://www.douyin.com/video/7663411268536138234"
+        }
+      ]
+    },
+    {
+      "claim": "核心矛盾：既要又要，自身条件又不满足两边要求",
+      "kind": "矛盾",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 78,
+          "url": "https://www.douyin.com/video/7663411268536138234"
+        }
+      ]
+    },
+    {
+      "claim": "行为特征：在a与b之间来回选择，得到一方又怀念另一方",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 78,
+          "url": "https://www.douyin.com/video/7663411268536138234"
+        }
+      ]
+    },
+    {
+      "claim": "择偶环境：小地方社交闭环，择偶池固定，反复试错择优",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 78,
+          "url": "https://www.douyin.com/video/7663411268536138234"
+        }
+      ]
+    },
+    {
+      "claim": "按现有条件取舍：对方县城工作吹了，就退婚改嫁",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 78,
+          "url": "https://www.douyin.com/video/7663411268536138234"
+        }
+      ]
+    },
+    {
+      "claim": "把婚姻理解为嫁给现有条件，而非婚后互相成就",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 78,
+          "url": "https://www.douyin.com/video/7663411268536138234"
+        }
+      ]
+    },
+    {
+      "claim": "对关系不合就退出，文本称其一言不合就离婚",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 78,
+          "url": "https://www.douyin.com/video/7663411268536138234"
+        }
+      ]
+    },
+    {
+      "claim": "女性版本嫌末代少爷不上进、嫌编一代没钱",
+      "kind": "矛盾",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 78,
+          "url": "https://www.douyin.com/video/7663411268536138234"
+        }
+      ]
+    },
+    {
+      "claim": "男性版本也互嫌：漂亮的不赚钱，会赚钱的不漂亮",
+      "kind": "矛盾",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 78,
+          "url": "https://www.douyin.com/video/7663411268536138234"
+        }
+      ]
+    },
+    {
+      "claim": "把婚姻当作向上流动、到县城的通道",
+      "kind": "动机",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "既要又要，自身条件又不满足两边要求",
+      "kind": "矛盾",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "在a与b之间来回选择，得到一方又怀念另一方",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "小地方社交圈子闭环、择偶池固定，在有限选项中反复试错、反复择优",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "关系不合就退出，文本称其一言不合就离婚",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    }
+  ],
+  "life_domains": [
+    {
+      "domain": "婚恋",
+      "claim": "通过婚姻跨越阶层，在有限择偶池中反复比较、改嫁与回头",
+      "evidence": [
+        {
+          "index": 78,
+          "url": "https://www.douyin.com/video/7663411268536138234"
+        }
+      ]
+    },
+    {
+      "domain": "家庭/生育",
+      "claim": "香秀怀着李大国孩子李小国时改嫁外地商人马忠",
+      "evidence": [
+        {
+          "index": 78,
+          "url": "https://www.douyin.com/video/7663411268536138234"
+        }
+      ]
+    },
+    {
+      "domain": "职业/阶层",
+      "claim": "典型个案身份是村主任独生女、卫校毕业、村卫生室护士",
+      "evidence": [
+        {
+          "index": 78,
+          "url": "https://www.douyin.com/video/7663411268536138234"
+        }
+      ]
+    },
+    {
+      "domain": "社交",
+      "claim": "县城熟人圈高度闭环，前任现任暧昧对象可同饭局，前夫现任出轨对象可同单位",
+      "evidence": [
+        {
+          "index": 78,
+          "url": "https://www.douyin.com/video/7663411268536138234"
+        }
+      ]
+    },
+    {
+      "domain": "评价体系",
+      "claim": "事业、照顾人、情绪价值、钱、彩礼、全款车房、上进、漂亮等被当作取舍条件",
+      "evidence": [
+        {
+          "index": 78,
+          "url": "https://www.douyin.com/video/7663411268536138234"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "event_id": "E001",
+      "title": "香秀追求谢永强并订婚",
+      "description": "香秀看到村里第一个大学生谢永强后开始潜压，永强最后同意订婚。",
+      "temporal": "原文明确顺序：先看到谢永强，后开始潜压并订婚",
+      "chronology_basis": "明示",
+      "evidence": [
+        {
+          "index": 78,
+          "url": "https://www.douyin.com/video/7663411268536138234"
+        }
+      ]
+    },
+    {
+      "event_id": "E002",
+      "title": "谢永强县城工作吹了，香秀退婚改嫁李大国",
+      "description": "谢永强县城工作落空后，香秀退掉婚约，转嫁跑货运做买卖的李大国。",
+      "temporal": "原文明确顺序：谢永强工作吹了后，香秀退婚并嫁李大国",
+      "chronology_basis": "明示",
+      "evidence": [
+        {
+          "index": 78,
+          "url": "https://www.douyin.com/video/7663411268536138234"
+        }
+      ]
+    },
+    {
+      "event_id": "E003",
+      "title": "李大国事业无成且猜忌，香秀怀孕改嫁马忠",
+      "description": "李大国婚后没干明白事业且猜忌香秀，香秀在怀着李小国的情况下改嫁外地商人马忠。",
+      "temporal": "原文明确顺序：婚后李大国无成且猜忌，随后香秀改嫁马忠",
+      "chronology_basis": "明示",
+      "evidence": [
+        {
+          "index": 78,
+          "url": "https://www.douyin.com/video/7663411268536138234"
+        }
+      ]
+    },
+    {
+      "event_id": "E004",
+      "title": "香秀与马忠有体面却觉无家，离婚回李大国",
+      "description": "香秀与马忠结婚后有钱有体面，却感觉没有家的感觉、不合拍，于是离婚回归李大国。",
+      "temporal": "原文明确顺序：与马忠结婚后，再离婚回李大国",
+      "chronology_basis": "明示",
+      "evidence": [
+        {
+          "index": 78,
+          "url": "https://www.douyin.com/video/7663411268536138234"
+        }
+      ]
+    },
+    {
+      "event_id": "E005",
+      "title": "李大国仍旧猜忌无进步，香秀再找马忠",
+      "description": "回到李大国身边后，香秀发现李大国事业无进步且仍猜忌跟踪她，于是再次抛弃李大国去找马忠。",
+      "temporal": "原文明确顺序：回归李大国后，再次离开找马忠",
+      "chronology_basis": "明示",
+      "evidence": [
+        {
+          "index": 78,
+          "url": "https://www.douyin.com/video/7663411268536138234"
+        }
+      ]
+    },
+    {
+      "event_id": "E006",
+      "title": "香秀最终与李大国离婚，李大国事业有成并与李秋歌好上",
+      "description": "香秀最终也未等得及，与李大国离婚；李大国后来把事业干明白，与李秋歌好上。",
+      "temporal": "原文明确顺序：最终离婚后，李大国事业成功并与李秋歌好上",
+      "chronology_basis": "明示",
+      "evidence": [
+        {
+          "index": 78,
+          "url": "https://www.douyin.com/video/7663411268536138234"
+        }
+      ]
+    },
+    {
+      "event_id": "E007",
+      "title": "县城婚恋圈闭环，前任现任可同场",
+      "description": "原文称县城小圈子择偶池固定，前任、现任、暧昧对象可同饭局，前夫、现任、出轨对象可同单位。",
+      "temporal": "顺序不明，属现象描述",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 78,
+          "url": "https://www.douyin.com/video/7663411268536138234"
+        }
+      ]
+    },
+    {
+      "event_id": "E008",
+      "title": "县城男女在条件上互相嫌弃",
+      "description": "女性嫌末代少爷不上进、编一代没钱；男性嫌漂亮的不赚钱、会赚钱的不漂亮。",
+      "temporal": "顺序不明，属现象描述",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 78,
+          "url": "https://www.douyin.com/video/7663411268536138234"
+        }
+      ]
+    },
+    {
+      "event_id": "E009",
+      "title": "换来换去仍换不明白",
+      "description": "原文批评这类人在有限人群中不停结婚离婚、更换伴侣，最后也未必明白。",
+      "temporal": "顺序不明，属总结判断",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 78,
+          "url": "https://www.douyin.com/video/7663411268536138234"
+        }
+      ]
+    }
+  ],
+  "storylines": [
+    {
+      "title": "香秀的向上择偶与反复改嫁",
+      "event_ids": [
+        "E001",
+        "E002",
+        "E003",
+        "E004",
+        "E005",
+        "E006"
+      ],
+      "narrative": "香秀作为村主任独生女、村卫生室护士，最大执念是借婚姻到县城、跨越阶层。她先追求村里第一个大学生谢永强并订婚；谢永强县城工作吹了，她退婚改嫁跑货运的李大国。李大国婚后事业无大进展又猜忌，她怀着李小国改嫁外地商人马忠。与马忠有了钱和体面后又觉没有家的感觉、不合拍，离婚回李大国。回归后发现李大国仍无进步、仍猜忌跟踪，她又去找马忠。最终她与李大国离婚，李大国事业干明白后与李秋歌好上。",
+      "unresolved": "原文没有交代香秀最终归宿、是否到县城、李小国的抚养与后续，也没有交代马忠的后续。",
+      "evidence": [
+        {
+          "index": 78,
+          "url": "https://www.douyin.com/video/7663411268536138234"
+        }
+      ]
+    },
+    {
+      "title": "县城向上择偶群像的闭环与外耗",
+      "event_ids": [
+        "E007",
+        "E008",
+        "E009"
+      ],
+      "narrative": "原文把香秀的拧巴抽象为县城婚恋市场上想向上择偶者的常见状态：社交圈闭环、择偶池固定，大家反复试错、反复择优，前任现任可同席，前夫现任出轨对象可同单位。她们/他们既要事业又要照顾，要了a想b，要了b想a；女性嫌末代少爷不上进、编一代没钱，男性嫌漂亮的不赚钱、会赚钱的不漂亮。原文主张婚姻不是嫁给现有条件，而是婚后互相成就和磨合；否则换来换去也换不明白。",
+      "unresolved": "原文没有给出这类群像的人口规模、性别比例、具体行业分布和最终婚恋统计结果。",
+      "evidence": [
+        {
+          "index": 78,
+          "url": "https://www.douyin.com/video/7663411268536138234"
+        }
+      ]
+    }
+  ],
+  "relationships": [
+    {
+      "target": "谢永强",
+      "relation": "香秀曾把其当作向上择偶对象，主动潜压并订婚；谢永强县城工作吹了后，香秀退婚。",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 78,
+          "url": "https://www.douyin.com/video/7663411268536138234"
+        }
+      ]
+    },
+    {
+      "target": "李大国",
+      "relation": "香秀退婚后改嫁李大国；婚后因李大国事业无成、猜忌而改嫁马忠，后又回归李大国，最终再离开并离婚。",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 78,
+          "url": "https://www.douyin.com/video/7663411268536138234"
+        }
+      ]
+    },
+    {
+      "target": "马忠",
+      "relation": "香秀怀着李小国改嫁外地商人马忠；有了钱和体面后又觉无家、不合拍，离婚；之后再回来找马忠。",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 78,
+          "url": "https://www.douyin.com/video/7663411268536138234"
+        }
+      ]
+    },
+    {
+      "target": "李小国",
+      "relation": "原文称香秀怀着李大国孩子李小国时改嫁马忠。",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 78,
+          "url": "https://www.douyin.com/video/7663411268536138234"
+        }
+      ]
+    },
+    {
+      "target": "李秋歌",
+      "relation": "香秀最终与李大国离婚后，李大国把事业干明白，并与李秋歌好上。",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 78,
+          "url": "https://www.douyin.com/video/7663411268536138234"
+        }
+      ]
+    },
+    {
+      "target": "县城末代少爷、编一代（群像）",
+      "relation": "文本称向上择偶的女性会嫌末代少爷事业无成绩、不上进，嫌编一代家里没钱、掏不起彩礼、买不起全款车房。",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 78,
+          "url": "https://www.douyin.com/video/7663411268536138234"
+        }
+      ]
+    },
+    {
+      "target": "肤白貌美大长腿、会赚钱女性（群像）",
+      "relation": "文本称男性也互嫌：娶漂亮的嫌其不赚钱，娶会赚钱的嫌其不漂亮。",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 78,
+          "url": "https://www.douyin.com/video/7663411268536138234"
+        }
+      ]
+    }
+  ],
+  "speech_habits": [
+    {
+      "claim": "以“不是我喜欢的”“跟我不合适”作为退出和离婚理由",
+      "evidence": [
+        {
+          "index": 78,
+          "url": "https://www.douyin.com/video/7663411268536138234"
+        }
+      ]
+    },
+    {
+      "claim": "以“合适/不合适”作为衡量婚姻的核心话术",
+      "evidence": [
+        {
+          "index": 78,
+          "url": "https://www.douyin.com/video/7663411268536138234"
+        }
+      ]
+    },
+    {
+      "claim": "用晒离婚证表达“活明白了”",
+      "evidence": [
+        {
+          "index": 78,
+          "url": "https://www.douyin.com/video/7663411268536138234"
+        }
+      ]
+    },
+    {
+      "claim": "条件口径集中在事业、照顾、情绪价值、钱、彩礼、全款车房、上进、漂亮",
+      "evidence": [
+        {
+          "index": 78,
+          "url": "https://www.douyin.com/video/7663411268536138234"
+        }
+      ]
+    }
+  ],
+  "contradictions": [
+    {
+      "issue": "香秀更倾向李大国还是马忠，文本未给出稳定偏好",
+      "versions": [
+        {
+          "claim": "嫁给马忠后怀念李大国",
+          "evidence": [
+            {
+              "index": 78,
+              "url": "https://www.douyin.com/video/7663411268536138234"
+            }
+          ]
+        },
+        {
+          "claim": "嫁给李大国后又觉得马忠好",
+          "evidence": [
+            {
+              "index": 78,
+              "url": "https://www.douyin.com/video/7663411268536138234"
+            }
+          ]
+        }
+      ],
+      "resolution": "保留并列：原文呈现的是来回摇摆，不擅自合并为单一选择。"
+    },
+    {
+      "issue": "“向上择偶者”的范围是女性还是男女都有",
+      "versions": [
+        {
+          "claim": "以香秀为典型，主要讲女性向上择偶与改嫁",
+          "evidence": [
+            {
+              "index": 78,
+              "url": "https://www.douyin.com/video/7663411268536138234"
+            }
+          ]
+        },
+        {
+          "claim": "文本又说老爷们也互嫌，范围扩至男性",
+          "evidence": [
+            {
+              "index": 78,
+              "url": "https://www.douyin.com/video/7663411268536138234"
+            }
+          ]
+        }
+      ],
+      "resolution": "保留并列：典型个案为香秀，群像分析又扩展到男女互嫌。"
+    },
+    {
+      "issue": "婚姻应按现有条件选择，还是婚后互相成就",
+      "versions": [
+        {
+          "claim": "群像反复按条件取舍、改嫁、回头",
+          "evidence": [
+            {
+              "index": 78,
+              "url": "https://www.douyin.com/video/7663411268536138234"
+            }
+          ]
+        },
+        {
+          "claim": "原文主张婚姻不是嫁给现有条件，而是婚后互相成就",
+          "evidence": [
+            {
+              "index": 78,
+              "url": "https://www.douyin.com/video/7663411268536138234"
+            }
+          ]
+        }
+      ],
+      "resolution": "保留并列：文本批评前者、主张后者，未给出统一裁决。"
+    },
+    {
+      "issue": "“县城很多巴黎世家”具体指代未定义",
+      "versions": [
+        {
+          "claim": "文本用其形容反复婚变者",
+          "evidence": [
+            {
+              "index": 78,
+              "url": "https://www.douyin.com/video/7663411268536138234"
+            }
+          ]
+        },
+        {
+          "claim": "后文解释为动不动觉得不适合、一言不合离婚",
+          "evidence": [
+            {
+              "index": 78,
+              "url": "https://www.douyin.com/video/7663411268536138234"
+            }
+          ]
+        }
+      ],
+      "resolution": "保留并列：只能确认是比喻性说法，不扩展为真实群体标签。"
+    }
+  ],
+  "gaps": [
+    "该原型真实人口、年龄、收入、职业分布未明。",
+    "香秀最终是否到县城、是否幸福、李小国抚养与后续未交代。",
+    "马忠、李大国除现有叙述外的后续细节有限。",
+    "县城婚恋市场具体人数、性别比和择偶池规模未明。",
+    "“县城很多巴黎世家”具体指代未定义。",
+    "群像中男性版本是否对应具名角色未明。",
+    "原文未给出这类人离婚、再婚、复购式择偶的统计数据。"
+  ],
+  "creative_expansions": [],
+  "source_coverage": [
+    {
+      "index": 78,
+      "role": "唯一明确关联材料，提供《乡村爱情》香秀的向上择偶、改嫁、回头与再离开情节，并抽象出县城婚恋市场“想要向上择偶的那种人”群像。",
+      "url": "https://www.douyin.com/video/7663411268536138234"
+    }
+  ]
+}

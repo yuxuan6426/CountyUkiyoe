@@ -1,0 +1,614 @@
+{
+  "name": "县城夫妻",
+  "nature": "复合群像/泛化原型，旧卡列为县城原型；不是单一具名人物，也不存在可拼成一条自然人生平的时间线。编纂说明：主要来自对县城婚姻、经济压力与闲暇争吵的观察性叙述：普通家庭出身的年轻夫妻，收入约五千，靠父母托举结婚，婚后因钱不够花、失业或投资失败而争吵甚至离婚；另一版本说经济不崩则感情破裂也维持壳子。所有描述均为文本类型化判断，不映射现实夫妻。",
+  "overview": "“县城夫妻”在文本中不是某对具体夫妻，而是县城婚姻原型。基础设定多为普通家庭出身的年轻夫妻或新婚夫妇，月收入约五千，结婚与初期生活靠父母托举，对钱没有概念，甚至cosplay小资；婚后失去持续帮衬、添了孩子，钱不够花便引发矛盾。文本把经济说成婚姻底层逻辑：一方失业、收入骤降或投资失败，绝大多数会离婚，不离婚也每天争吵、相互消耗。另一面是，经济没有问题而感情破裂、一方出轨时，婚姻也可能维持，逢年过节组CP演出。文本还给出“闲吵”版本：县城下班早、晚间相处久，夫妻吵到整栋楼听见，第二天又挽胳膊出门；大城市夫妻因没空反而吵得少。争吵主因有“闲”与“越穷越吵”两说，是否离婚也有“日常吵不离婚”与“经济崩坏多数离婚”两说，均未合并为单一因果。",
+  "identity": [
+    {
+      "claim": "多被描述为县城普通家庭出身的年轻夫妻/新婚夫妇，月收入约五千左右。",
+      "evidence": [
+        {
+          "index": 102,
+          "url": "https://www.douyin.com/video/7650896432228381093"
+        }
+      ]
+    },
+    {
+      "claim": "常被父母托举完成结婚和初期生活，对钱没有概念。",
+      "evidence": [
+        {
+          "index": 60,
+          "url": "https://www.douyin.com/video/7674120254024725221"
+        }
+      ]
+    },
+    {
+      "claim": "婚后常添孩子，孩子成为家庭支出和维系婚姻的因素之一。",
+      "evidence": [
+        {
+          "index": 60,
+          "url": "https://www.douyin.com/video/7674120254024725221"
+        },
+        {
+          "index": 5,
+          "url": "https://www.douyin.com/video/7706479503548491001"
+        }
+      ]
+    },
+    {
+      "claim": "县城夫妻被描述为下班较早、晚间相处时间长。",
+      "evidence": [
+        {
+          "index": 221,
+          "url": "https://www.douyin.com/video/7573729054419864868"
+        }
+      ]
+    }
+  ],
+  "traits": [
+    {
+      "claim": "经济问题是县城婚姻矛盾的核心，婚姻被说成“实际上是一个经济问题”。",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 51,
+          "url": "https://www.douyin.com/video/7680388351061973361"
+        },
+        {
+          "index": 60,
+          "url": "https://www.douyin.com/video/7674120254024725221"
+        }
+      ]
+    },
+    {
+      "claim": "贫困家庭容易进入“越穷越吵，越吵越穷”的死循环，甚至后半夜疯狂吵架、摔东西。",
+      "kind": "矛盾",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 51,
+          "url": "https://www.douyin.com/video/7680388351061973361"
+        }
+      ]
+    },
+    {
+      "claim": "经济出问题（失业、收入骤降、投资失败）时，绝大多数夫妻会离婚；即便不离婚也每天疯狂吵架、相互消耗。",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 60,
+          "url": "https://www.douyin.com/video/7674120254024725221"
+        }
+      ]
+    },
+    {
+      "claim": "经济没有问题的时候，感情破裂、一方出轨等也可能维持婚姻。",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 60,
+          "url": "https://www.douyin.com/video/7674120254024725221"
+        }
+      ]
+    },
+    {
+      "claim": "婚后失去父母持续托举、钱不够花，是年轻夫妻矛盾爆发的重要原因。",
+      "kind": "动机",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 60,
+          "url": "https://www.douyin.com/video/7674120254024725221"
+        },
+        {
+          "index": 102,
+          "url": "https://www.douyin.com/video/7650896432228381093"
+        }
+      ]
+    },
+    {
+      "claim": "被描述为“只能同甘不能共苦”，结婚前在一块享受，婚后有难同当就开始互相责怪。",
+      "kind": "矛盾",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 60,
+          "url": "https://www.douyin.com/video/7674120254024725221"
+        },
+        {
+          "index": 102,
+          "url": "https://www.douyin.com/video/7650896432228381093"
+        }
+      ]
+    },
+    {
+      "claim": "县城夫妻因为闲、相处时间长而更容易激烈争吵，但往往不离婚。",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 221,
+          "url": "https://www.douyin.com/video/7573729054419864868"
+        }
+      ]
+    },
+    {
+      "claim": "夫妻感情维持不错的前提被说成没有经济压力，或家庭经济蒸蒸日上。",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 51,
+          "url": "https://www.douyin.com/video/7680388351061973361"
+        }
+      ]
+    },
+    {
+      "claim": "婚后生活再煎熬、再内耗，也不敢轻易离婚；离婚被描述为漫长的社会性绞杀。",
+      "kind": "恐惧",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 33,
+          "url": "https://www.douyin.com/video/7688294065229685157"
+        }
+      ]
+    },
+    {
+      "claim": "婚后生活再煎熬、再内耗也不敢轻易离婚；离婚被描述为漫长的社会性绞杀。",
+      "kind": "动机",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "版本A说日常激烈争吵“往往还不离婚”，第二天挽胳膊出门；版本B说经济出问题后“绝大多数都会离婚”。原文分别讲“日常闲吵”和“经济崩坏”，未合并为同一因果。",
+      "kind": "矛盾",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "版本A把争吵主因说成“闲”，有时间完成吵架；版本B说贫穷与经济压力导致“越穷越吵”。原文未判定唯一原因。",
+      "kind": "矛盾",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "版本A说经济没有问题婚姻绝大多数可维持；版本B说孩子、体面、现实压力让感情破裂后仍维持壳子。经济稳定是条件之一，非唯一。",
+      "kind": "矛盾",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "版本A说感情维持不错“全是没有经济压力”；版本B说收入不增甚至下降，婚姻随中产梦泡沫破灭。原文未给出统计比例。",
+      "kind": "矛盾",
+      "certainty": "文本推断",
+      "evidence": []
+    }
+  ],
+  "life_domains": [
+    {
+      "domain": "家庭/婚姻",
+      "claim": "婚姻被经济状况主导；感情破裂时，经济稳定可让婚姻继续维持，经济崩坏则高概率离婚。",
+      "evidence": [
+        {
+          "index": 60,
+          "url": "https://www.douyin.com/video/7674120254024725221"
+        }
+      ]
+    },
+    {
+      "domain": "金钱",
+      "claim": "收入、失业、投资失败、房贷、孩子支出直接决定婚姻走向。",
+      "evidence": [
+        {
+          "index": 60,
+          "url": "https://www.douyin.com/video/7674120254024725221"
+        },
+        {
+          "index": 5,
+          "url": "https://www.douyin.com/video/7706479503548491001"
+        }
+      ]
+    },
+    {
+      "domain": "职业",
+      "claim": "县城夫妻下班早，晚间相处时间长，闲暇反而成为争吵条件。",
+      "evidence": [
+        {
+          "index": 221,
+          "url": "https://www.douyin.com/video/7573729054419864868"
+        }
+      ]
+    },
+    {
+      "domain": "社交/面子",
+      "claim": "逢年过节可“组cp进行演出”，维持婚姻壳子。",
+      "evidence": [
+        {
+          "index": 33,
+          "url": "https://www.douyin.com/video/7688294065229685157"
+        }
+      ]
+    },
+    {
+      "domain": "消费",
+      "claim": "年轻人被父母托举时cosplay小资生活，婚后自食其力、添孩子后钱不够花，中产梦泡沫易破灭。",
+      "evidence": [
+        {
+          "index": 102,
+          "url": "https://www.douyin.com/video/7650896432228381093"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "event_id": "E001",
+      "title": "经济难题取代感情问题成为离婚主因",
+      "description": "文本判断县城夫妻离婚绝大多数不是感情出问题，而是经济出难题；经济没问题时，感情破裂或出轨也可能维持婚姻。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 60,
+          "url": "https://www.douyin.com/video/7674120254024725221"
+        }
+      ]
+    },
+    {
+      "event_id": "E002",
+      "title": "越穷越吵、越吵越穷的死循环",
+      "description": "贫困家庭被描述为容易后半夜疯狂吵架、摔东西；争吵消耗精力，越穷越吵，越吵越穷，最后可能离婚，即便不离婚也互相看不顺眼。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 51,
+          "url": "https://www.douyin.com/video/7680388351061973361"
+        }
+      ]
+    },
+    {
+      "event_id": "E003",
+      "title": "经济崩坏导致争吵、消耗与离婚",
+      "description": "一方失业、收入骤降或投资失败后，绝大多数夫妻会离婚；不离婚也每天疯狂吵架、相互消耗。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 60,
+          "url": "https://www.douyin.com/video/7674120254024725221"
+        }
+      ]
+    },
+    {
+      "event_id": "E004",
+      "title": "被托举的年轻人婚后自食其力，钱不够花引发矛盾",
+      "description": "年轻夫妻在父母托举下结婚、消费小资，婚后失去帮衬并添孩子，发现钱不耐花，开始互相责怪。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 60,
+          "url": "https://www.douyin.com/video/7674120254024725221"
+        },
+        {
+          "index": 102,
+          "url": "https://www.douyin.com/video/7650896432228381093"
+        }
+      ]
+    },
+    {
+      "event_id": "E005",
+      "title": "县城夫妻因闲而吵，晚上骂到整栋楼听见，第二天挽胳膊出门",
+      "description": "下班早、晚间相处时间长，夫妻把吵架当成可完成的日常；激烈争吵后往往不离婚，第二天仍一起出门。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 221,
+          "url": "https://www.douyin.com/video/7573729054419864868"
+        }
+      ]
+    },
+    {
+      "event_id": "E006",
+      "title": "大城市夫妻因没空而少吵",
+      "description": "文本对比称大城市夫妻即便没有感情也很少吵架，因为见面时间都很少。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 221,
+          "url": "https://www.douyin.com/video/7573729054419864868"
+        }
+      ]
+    },
+    {
+      "event_id": "E007",
+      "title": "县城婚姻cosplay小资后崩盘",
+      "description": "县城婚姻被描述为普通人cosplay小资的闹剧；收入不增甚至下降时，婚姻随中产梦泡沫一起破灭。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 102,
+          "url": "https://www.douyin.com/video/7650896432228381093"
+        }
+      ]
+    },
+    {
+      "event_id": "E008",
+      "title": "感情破裂后维持婚姻壳子",
+      "description": "夫妻感情完全破裂、不睡一个屋、不吃一锅饭，仍可能逢年过节组CP演出；一方出轨也可能经济补偿后和解，继续维持婚姻壳子。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 33,
+          "url": "https://www.douyin.com/video/7688294065229685157"
+        }
+      ]
+    }
+  ],
+  "storylines": [
+    {
+      "title": "经济压力下的县城婚姻循环",
+      "event_ids": [
+        "E004",
+        "E007",
+        "E003",
+        "E002",
+        "E005"
+      ],
+      "narrative": "起点多被描述为普通家庭出身的年轻人，靠父母托举完成结婚、车房和初期消费，对钱没有概念，甚至cosplay小资生活。婚后失去持续帮衬，又添了孩子，收入若不增甚至下降，钱就不够花。一旦一方失业、收入骤降或投资失败，夫妻开始疯狂吵架、相互消耗；贫困家庭更被说成“越穷越吵，越吵越穷”，后半夜吵架摔东西，最后可能离婚。与此同时，县城下班早、晚间相处时间长，又让夫妻有闲暇把吵架变成日常，骂到整栋楼听见，第二天仍可能挽着胳膊出门。原文没有给出具体夫妻姓名、恋爱时间线、离婚率数据或最终结局统计。",
+      "unresolved": "具体是哪一对夫妻、年龄、职业、收入、是否离婚、离婚后如何生活，原文均未交代；也没有可核验的时间顺序。",
+      "evidence": [
+        {
+          "index": 60,
+          "url": "https://www.douyin.com/video/7674120254024725221"
+        },
+        {
+          "index": 102,
+          "url": "https://www.douyin.com/video/7650896432228381093"
+        },
+        {
+          "index": 51,
+          "url": "https://www.douyin.com/video/7680388351061973361"
+        },
+        {
+          "index": 221,
+          "url": "https://www.douyin.com/video/7573729054419864868"
+        }
+      ]
+    },
+    {
+      "title": "感情破裂但经济不崩的壳子婚姻",
+      "event_ids": [
+        "E001",
+        "E008"
+      ],
+      "narrative": "另一条线是：夫妻可能感情破裂、一方出轨或变心，但只要经济上没有问题，婚姻大概率仍会维持。维持方式包括经济补偿后和解，或感情完全破裂后仍逢年过节组CP演出，不睡一个屋、不吃一锅饭也不离婚。文本把这种维持归因于孩子、体面、现实压力以及县城离婚后的社会性绞杀。缺的是具体案例、当事人感受和后续结果。",
+      "unresolved": "原文没有说明这种壳子婚姻能维持多久，也没有说明当事人是否最终离婚。",
+      "evidence": [
+        {
+          "index": 60,
+          "url": "https://www.douyin.com/video/7674120254024725221"
+        },
+        {
+          "index": 33,
+          "url": "https://www.douyin.com/video/7688294065229685157"
+        }
+      ]
+    }
+  ],
+  "relationships": [
+    {
+      "target": "县城离婚夫妻",
+      "relation": "部分县城夫妻最终走向离婚；经济问题被说成主要原因。",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 60,
+          "url": "https://www.douyin.com/video/7674120254024725221"
+        }
+      ]
+    },
+    {
+      "target": "年轻新婚夫妇",
+      "relation": "与县城夫妻高度重叠，被描述为对钱没有概念、被父母托举。",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 60,
+          "url": "https://www.douyin.com/video/7674120254024725221"
+        }
+      ]
+    },
+    {
+      "target": "父母",
+      "relation": "父母托举年轻夫妻完成结婚和初期生活；婚后持续帮衬一旦停止，矛盾易爆发。",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 60,
+          "url": "https://www.douyin.com/video/7674120254024725221"
+        }
+      ]
+    },
+    {
+      "target": "孩子",
+      "relation": "孩子增加支出，也是感情破裂后不离婚或维持壳子的原因之一。",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 60,
+          "url": "https://www.douyin.com/video/7674120254024725221"
+        },
+        {
+          "index": 5,
+          "url": "https://www.douyin.com/video/7706479503548491001"
+        }
+      ]
+    },
+    {
+      "target": "大城市夫妻",
+      "relation": "对比对象：大城市夫妻因没空而吵架少，县城夫妻因闲而吵得多。",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 221,
+          "url": "https://www.douyin.com/video/7573729054419864868"
+        }
+      ]
+    }
+  ],
+  "speech_habits": [
+    {
+      "claim": "原文未记录夫妻具体话术，只描述争吵声音大、骂声整栋楼可听见。",
+      "evidence": [
+        {
+          "index": 221,
+          "url": "https://www.douyin.com/video/7573729054419864868"
+        }
+      ]
+    }
+  ],
+  "contradictions": [
+    {
+      "issue": "县城夫妻激烈争吵后是否离婚",
+      "versions": [
+        {
+          "claim": "吵得异常激烈，往往还不离婚，第二天仍挽着胳膊出门。",
+          "evidence": [
+            {
+              "index": 221,
+              "url": "https://www.douyin.com/video/7573729054419864868"
+            }
+          ]
+        },
+        {
+          "claim": "经济出问题后绝大多数都会离婚。",
+          "evidence": [
+            {
+              "index": 60,
+              "url": "https://www.douyin.com/video/7674120254024725221"
+            }
+          ]
+        }
+      ],
+      "resolution": "保留并列：文本分别讲“日常闲吵”和“经济崩坏”两类情形，并未合并成同一因果。"
+    },
+    {
+      "issue": "县城夫妻争吵的主要原因",
+      "versions": [
+        {
+          "claim": "因为闲，有时间完成吵架这件事。",
+          "evidence": [
+            {
+              "index": 221,
+              "url": "https://www.douyin.com/video/7573729054419864868"
+            }
+          ]
+        },
+        {
+          "claim": "因为贫穷和经济压力，越穷越吵，越吵越穷。",
+          "evidence": [
+            {
+              "index": 51,
+              "url": "https://www.douyin.com/video/7680388351061973361"
+            }
+          ]
+        }
+      ],
+      "resolution": "保留并列：原文分别提供“闲暇说”和“经济压力说”，未判定唯一原因。"
+    },
+    {
+      "issue": "婚姻靠什么维持",
+      "versions": [
+        {
+          "claim": "经济没有问题，婚姻绝大多数可以维持。",
+          "evidence": [
+            {
+              "index": 60,
+              "url": "https://www.douyin.com/video/7674120254024725221"
+            }
+          ]
+        },
+        {
+          "claim": "因孩子、体面、现实压力，感情破裂也维持婚姻壳子。",
+          "evidence": [
+            {
+              "index": 33,
+              "url": "https://www.douyin.com/video/7688294065229685157"
+            }
+          ]
+        }
+      ],
+      "resolution": "保留并列：经济稳定是维持条件之一，孩子、体面、社会评价也被列为维持力量。"
+    },
+    {
+      "issue": "夫妻感情维持不错的前提",
+      "versions": [
+        {
+          "claim": "全是没有经济压力，家庭经济蒸蒸日上。",
+          "evidence": [
+            {
+              "index": 51,
+              "url": "https://www.douyin.com/video/7680388351061973361"
+            }
+          ]
+        },
+        {
+          "claim": "部分被托举的年轻夫妻cosplay小资，婚后收入不增甚至下降，婚姻随泡沫破灭。",
+          "evidence": [
+            {
+              "index": 102,
+              "url": "https://www.douyin.com/video/7650896432228381093"
+            }
+          ]
+        }
+      ],
+      "resolution": "两者可并列：前者从正面说经济稳定，后者从反面说经济下滑；原文没有给出统计比例。"
+    }
+  ],
+  "gaps": [
+    "没有具体夫妻姓名、年龄、职业、婚龄、收入、是否有孩子等统一设定。",
+    "没有可核验的时间线，只有对现象的观察性叙述。",
+    "没有具体争吵对话、和解过程、离婚办理过程。",
+    "没有说明县城夫妻与大城市夫妻的具体样本差异。",
+    "没有给出离婚率、争吵频率、经济压力导致离婚占比的可靠数据。",
+    "没有交代壳子婚姻的最终结局。",
+    "没有交代“日常闲吵”与“经济崩坏”两种情形如何区分、是否同时发生。"
+  ],
+  "creative_expansions": [],
+  "source_coverage": [
+    {
+      "index": 51,
+      "role": "提供“越穷越吵，越吵越穷”的死循环、后半夜吵架摔东西、经济问题是婚姻底层逻辑、感情维持不错者无经济压力等材料。",
+      "url": "https://www.douyin.com/video/7680388351061973361"
+    },
+    {
+      "index": 60,
+      "role": "提供经济问题导致离婚、经济没问题可维持婚姻、被父母托举的新婚夫妇对钱无概念、只能同甘不能共苦等材料。",
+      "url": "https://www.douyin.com/video/7674120254024725221"
+    },
+    {
+      "index": 221,
+      "role": "提供县城夫妻因闲而吵、晚上骂到整栋楼听见、第二天挽胳膊出门、大城市夫妻因没空少吵等材料。",
+      "url": "https://www.douyin.com/video/7573729054419864868"
+    },
+    {
+      "index": 102,
+      "role": "提供县城婚姻cosplay小资、普通家庭月入五千、失去父母帮衬添孩子后收入不增则婚姻泡沫破灭等材料。",
+      "url": "https://www.douyin.com/video/7650896432228381093"
+    },
+    {
+      "index": 33,
+      "role": "提供离婚是漫长社会性绞杀、不敢轻易离婚、感情破裂仍组CP演出、维持婚姻壳子等补充材料。",
+      "url": "https://www.douyin.com/video/7688294065229685157"
+    }
+  ]
+}

@@ -1,0 +1,949 @@
+{
+  "name": "县城小太妹",
+  "nature": "县城小太妹是《县城浮世绘》系列中反复出现的复合群像/原型，常与“小jk”“小cosplay”“精神小妹”等称呼混用；材料来自多篇调侃、商业口播和单一社会新闻推断。她不是单一自然人，也没有连续传记，所有身份、收入、外貌和关系均应按文本标签与并列版本处理。",
+  "overview": "县城小太妹被写成中考落榜、学历多止步中专、家庭状况较差的县城年轻女性群像，十五六岁混社会，穿高腰短裤、亮片、地摊货或北面，纹前男友名字，出入台球厅、酒吧、KTV、网吧、蜜雪冰城，坐改装电动车。她张扬叛逆、容易上头，重视陪伴和情绪价值，常被小黄毛或精神小伙以猛烈追求拿捏，也能向下崩葱姜蒜、老头。版本并不统一：一版说她爱情纯粹、不向资本低头、麻辣烫加丸子就知足；一版说她用手机判断男性实力、收礼物消费。收入一版月薪不超2300或2800，一版台球厅小太妹月赚两万多。外貌一版整体一般，一版称比例极大、全是“奔放的萝莉”。群体边界上，小JK被写成前身，小太妹又与cosplay、小JK并称混用；她还可能被社会新闻推断为能纠集多人霸凌。以上均为文案群像标签，呈现文案中的人物形象。",
+  "identity": [
+    {
+      "claim": "被称为县城小太妹、小jk、小cosplay、精神小妹等，名称在不同篇中混用，属于复合群像。",
+      "evidence": [
+        {
+          "index": 136,
+          "url": "https://www.douyin.com/video/7627797057612418338"
+        },
+        {
+          "index": 253,
+          "url": "https://www.douyin.com/video/7537305087186603290"
+        },
+        {
+          "index": 45,
+          "url": "https://www.douyin.com/video/7683421956008557434"
+        }
+      ]
+    },
+    {
+      "claim": "学历多止步中专，收入不高；不同篇写月薪不高于2300或2800。",
+      "evidence": [
+        {
+          "index": 275,
+          "url": "https://www.douyin.com/video/7511383000542727478"
+        },
+        {
+          "index": 253,
+          "url": "https://www.douyin.com/video/7537305087186603290"
+        }
+      ]
+    },
+    {
+      "claim": "家庭状况多被写成不太好，十五六岁开始混社会，前男友多沾犯罪，才有资格被写成小太妹。",
+      "evidence": [
+        {
+          "index": 253,
+          "url": "https://www.douyin.com/video/7537305087186603290"
+        }
+      ]
+    },
+    {
+      "claim": "外在符号包括高腰短裤、纹身、地摊货、亮片、廉价美甲、彩色睫毛和改装电动车。",
+      "evidence": [
+        {
+          "index": 272,
+          "url": "https://www.douyin.com/video/7513981015489072438"
+        },
+        {
+          "index": 275,
+          "url": "https://www.douyin.com/video/7511383000542727478"
+        }
+      ]
+    },
+    {
+      "claim": "出入台球厅、酒吧、KTV、网吧、蜜雪冰城等场所，交通工具多为改装电动车或踏板车。",
+      "evidence": [
+        {
+          "index": 275,
+          "url": "https://www.douyin.com/video/7511383000542727478"
+        },
+        {
+          "index": 300,
+          "url": "https://www.douyin.com/video/7485405109145373990"
+        }
+      ]
+    },
+    {
+      "claim": "也有篇目写她穿北面、用最新款苹果手机，并通过手机判断男性实力。",
+      "evidence": [
+        {
+          "index": 207,
+          "url": "https://www.douyin.com/video/7582623409314549046"
+        },
+        {
+          "index": 45,
+          "url": "https://www.douyin.com/video/7683421956008557434"
+        }
+      ]
+    }
+  ],
+  "traits": [
+    {
+      "claim": "张扬、叛逆、桀骜不驯，被称作“追逐风的姑娘”。",
+      "evidence": [
+        {
+          "index": 275,
+          "url": "https://www.douyin.com/video/7511383000542727478"
+        },
+        {
+          "index": 272,
+          "url": "https://www.douyin.com/video/7513981015489072438"
+        }
+      ],
+      "kind": "特征",
+      "certainty": "明示"
+    },
+    {
+      "claim": "容易上头，谁追得更猛、脸皮更厚更像狗皮膏药，就更可能跟谁好。",
+      "evidence": [
+        {
+          "index": 175,
+          "url": "https://www.douyin.com/video/7602851304486079786"
+        },
+        {
+          "index": 275,
+          "url": "https://www.douyin.com/video/7511383000542727478"
+        }
+      ],
+      "kind": "动机",
+      "certainty": "明示"
+    },
+    {
+      "claim": "重视陪伴、情绪价值和撑腰，喜欢会为自己出头、带江湖气的操作。",
+      "evidence": [
+        {
+          "index": 272,
+          "url": "https://www.douyin.com/video/7513981015489072438"
+        },
+        {
+          "index": 300,
+          "url": "https://www.douyin.com/video/7485405109145373990"
+        }
+      ],
+      "kind": "欲望",
+      "certainty": "文本推断"
+    },
+    {
+      "claim": "能提供情绪价值，陪聊、发夹子音；被比喻为给男人充电的充电宝。",
+      "evidence": [
+        {
+          "index": 101,
+          "url": "https://www.douyin.com/video/7651520151568813358"
+        }
+      ],
+      "kind": "特征",
+      "certainty": "明示"
+    },
+    {
+      "claim": "对物质态度矛盾：一头说不向资本低头，一头说用手机判断实力、给钱怎样都行。",
+      "evidence": [
+        {
+          "index": 272,
+          "url": "https://www.douyin.com/video/7513981015489072438"
+        },
+        {
+          "index": 45,
+          "url": "https://www.douyin.com/video/7683421956008557434"
+        },
+        {
+          "index": 176,
+          "url": "https://www.douyin.com/video/7601752625796713779"
+        }
+      ],
+      "kind": "矛盾",
+      "certainty": "明示"
+    },
+    {
+      "claim": "恋爱中缺少清晰偏好，被小黄毛用空闲、猛烈追求和死缠烂打攻陷。",
+      "evidence": [
+        {
+          "index": 175,
+          "url": "https://www.douyin.com/video/7602851304486079786"
+        },
+        {
+          "index": 173,
+          "url": "https://www.douyin.com/video/7605066774983331081"
+        }
+      ],
+      "kind": "特征",
+      "certainty": "明示"
+    },
+    {
+      "claim": "在校园和街头语境中可能纠集多人施暴，被写成小太妹数量不少。",
+      "evidence": [
+        {
+          "index": 537,
+          "url": "https://www.douyin.com/video/7214340151525264699"
+        }
+      ],
+      "kind": "特征",
+      "certainty": "文本推断"
+    },
+    {
+      "claim": "能提供情绪价值，陪聊、发夹子音，被比作给男人充电的充电宝。",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "物质观并存：一版说不向资本低头、麻辣烫加丸子就知足；另一版说会用手机判断实力、给钱怎样都行、收礼物消费。",
+      "kind": "矛盾",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "收入与消费并存：一版月薪不超2300或2800、花得少；一版台球厅小太妹月赚两万多、穿北面、用最新款苹果。",
+      "kind": "矛盾",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "颜值评价并存：一版整体颜值一般、身材受营养限制；一版称县城年轻女性中小太妹比例极大、全是“奔放的萝莉”。",
+      "kind": "矛盾",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "群体边界并存：小JK可发展为小太妹，小太妹又与cosplay、小JK并称混用，未明示完全同质。",
+      "kind": "矛盾",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "形象并存：一版是追逐风、爱情纯粹、不要彩礼大平层；一版可能纠集多人霸凌，来自社会新闻推断。",
+      "kind": "矛盾",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "学历多止步中专，家庭状况多被写成较差，十五六岁开始混社会，前男友多沾犯罪背景。",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "外在符号包括高腰短裤、腿部纹身、地摊货、亮片、廉价美甲、彩色睫毛和改装电动车。",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "出入台球厅、酒吧、KTV、网吧、蜜雪冰城，交通工具多为改装电动车或踏板车。",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    }
+  ],
+  "life_domains": [
+    {
+      "domain": "职业/金钱",
+      "claim": "多数没有稳定正经工作，靠男友零钱、崩老头、台球厅或夜场等谋钱；也有篇目写台球厅小太妹月赚两万多，来源被归为葱姜蒜血汗钱。",
+      "evidence": [
+        {
+          "index": 275,
+          "url": "https://www.douyin.com/video/7511383000542727478"
+        },
+        {
+          "index": 176,
+          "url": "https://www.douyin.com/video/7601752625796713779"
+        }
+      ]
+    },
+    {
+      "domain": "消费/穿搭",
+      "claim": "穿地摊货、亮片、北面，纹身、廉价美甲；有的篇目又写她不计较轻奢名牌。",
+      "evidence": [
+        {
+          "index": 275,
+          "url": "https://www.douyin.com/video/7511383000542727478"
+        },
+        {
+          "index": 207,
+          "url": "https://www.douyin.com/video/7582623409314549046"
+        },
+        {
+          "index": 272,
+          "url": "https://www.douyin.com/video/7513981015489072438"
+        }
+      ]
+    },
+    {
+      "domain": "婚恋/社交",
+      "claim": "偏向小黄毛、精神小伙、鬼火少年；关系不稳定，小黄毛可能迅速转向别人。",
+      "evidence": [
+        {
+          "index": 217,
+          "url": "https://www.douyin.com/video/7575789135542226230"
+        },
+        {
+          "index": 300,
+          "url": "https://www.douyin.com/video/7485405109145373990"
+        },
+        {
+          "index": 239,
+          "url": "https://www.douyin.com/video/7557694507702160682"
+        }
+      ]
+    },
+    {
+      "domain": "娱乐",
+      "claim": "娱乐半径围绕台球厅、酒吧、KTV、网吧、蜜雪冰城、改装电动车和短视频。",
+      "evidence": [
+        {
+          "index": 275,
+          "url": "https://www.douyin.com/video/7511383000542727478"
+        },
+        {
+          "index": 300,
+          "url": "https://www.douyin.com/video/7485405109145373990"
+        }
+      ]
+    },
+    {
+      "domain": "网络表达",
+      "claim": "发卡点视频和模糊照片，纹身文字可辨识；网络聊天可能很冷淡。",
+      "evidence": [
+        {
+          "index": 253,
+          "url": "https://www.douyin.com/video/7537305087186603290"
+        },
+        {
+          "index": 175,
+          "url": "https://www.douyin.com/video/7602851304486079786"
+        }
+      ]
+    },
+    {
+      "domain": "家庭/阶层",
+      "claim": "家庭状况多被写成较差，早早混社会，男女混住，前男友有犯罪背景。",
+      "evidence": [
+        {
+          "index": 253,
+          "url": "https://www.douyin.com/video/7537305087186603290"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "event_id": "E001",
+      "title": "小JK被斯丹康拿捏并发展为小太妹",
+      "description": "原文把小JK写成穿奇装异服、叛逆顶嘴的姑娘，斯丹康用9号电动车后座和持续追求，使其在13天内顺从；并明示小JK发展下去就是小太妹。",
+      "temporal": "原文明确发展关系，但未给绝对时间",
+      "chronology_basis": "明示",
+      "evidence": [
+        {
+          "index": 136,
+          "url": "https://www.douyin.com/video/7627797057612418338"
+        }
+      ]
+    },
+    {
+      "event_id": "E002",
+      "title": "小黄毛以猛烈追求拿捏小太妹",
+      "description": "小黄毛被写成进攻属性最强、时间最多、见谁撩谁，疯狂追求后让小太妹动情陷进去；小太妹一旦遇到小黄毛，被写成遇到天敌。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 175,
+          "url": "https://www.douyin.com/video/7602851304486079786"
+        },
+        {
+          "index": 173,
+          "url": "https://www.douyin.com/video/7605066774983331081"
+        }
+      ]
+    },
+    {
+      "event_id": "E003",
+      "title": "小太妹向下崩葱姜蒜",
+      "description": "台球厅小太妹等从葱姜蒜处获得钱，葱姜蒜辛苦赚的钱被消费；原文还说穿真北面的都是小太妹，穿假北面的都是葱姜蒜。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 176,
+          "url": "https://www.douyin.com/video/7601752625796713779"
+        }
+      ]
+    },
+    {
+      "event_id": "E004",
+      "title": "小太妹对小黄毛不满后小黄毛转向别人",
+      "description": "原文写小太妹若对小黄毛表露不满，小黄毛反手就在朋友圈跟别的妹妹官宣。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 239,
+          "url": "https://www.douyin.com/video/7557694507702160682"
+        }
+      ]
+    },
+    {
+      "event_id": "E005",
+      "title": "小旅馆门口的铁链项链事件",
+      "description": "县城小旅馆门口，小太妹与鬼火少年吵架，男孩掏出铁链项链，女孩泪奔，两人抱着进旅馆；原文解释为其年龄、阅历、价值观残缺，会自行脑补偶像剧剧情。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 300,
+          "url": "https://www.douyin.com/video/7485405109145373990"
+        }
+      ]
+    },
+    {
+      "event_id": "E006",
+      "title": "校园事件中被推测小太妹数量不少",
+      "description": "博主在讨论海南13岁女孩被霸凌事件时，由两名女孩各自纠集多人殴打对方，推测学校小太妹数量可能超乎想象。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 537,
+          "url": "https://www.douyin.com/video/7214340151525264699"
+        }
+      ]
+    },
+    {
+      "event_id": "E007",
+      "title": "夜场、台球厅女孩赚钱给小黄毛花",
+      "description": "原文举例酒吧气氛组姑娘崩老头后给小黄毛染头发，台球厅助教攒钱跟小黄毛旅行，红浪漫音乐老师赚的钱一大半给小男友花。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 175,
+          "url": "https://www.douyin.com/video/7602851304486079786"
+        }
+      ]
+    },
+    {
+      "event_id": "E008",
+      "title": "小太妹被写成需要转型",
+      "description": "原文说经济下行、老头不好崩，光靠崩老头的小太妹必然转型，去夜店当销售或健身房当助教。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 253,
+          "url": "https://www.douyin.com/video/7537305087186603290"
+        }
+      ]
+    },
+    {
+      "title": "E001 小JK被斯丹康拿捏并发展为小太妹",
+      "desc": "斯丹康用9号电动车后座和持续追求使小JK在13天内顺从，原文明示小JK发展下去就是小太妹。",
+      "time": "原文明确发展关系，但未给绝对时间",
+      "evidence": []
+    },
+    {
+      "title": "E002 小黄毛以猛烈追求拿捏小太妹",
+      "desc": "小黄毛被写成进攻属性最强、时间最多，疯狂追求后让小太妹动情陷进去。",
+      "time": "顺序不明",
+      "evidence": []
+    },
+    {
+      "title": "E003 小太妹向下崩葱姜蒜",
+      "desc": "台球厅小太妹等从葱姜蒜处获得钱，原文称穿真北面的是小太妹、穿假北面的是葱姜蒜。",
+      "time": "顺序不明",
+      "evidence": []
+    },
+    {
+      "title": "E004 小太妹对小黄毛不满后小黄毛转向别人",
+      "desc": "原文写小太妹若表露不满，小黄毛反手就在朋友圈跟别的妹妹官宣。",
+      "time": "顺序不明",
+      "evidence": []
+    },
+    {
+      "title": "E005 小旅馆门口的铁链项链事件",
+      "desc": "小太妹与鬼火少年吵架，男孩掏出铁链项链，女孩泪奔，两人抱着进旅馆。",
+      "time": "顺序不明",
+      "evidence": []
+    },
+    {
+      "title": "E006 校园事件中被推测小太妹数量不少",
+      "desc": "博主由两名女孩各自纠集多人殴打对方，推测学校小太妹数量可能超乎想象。",
+      "time": "顺序不明",
+      "evidence": []
+    },
+    {
+      "title": "E007 夜场、台球厅女孩赚钱给小黄毛花",
+      "desc": "原文举例酒吧气氛组、台球厅助教、红浪漫音乐老师赚钱给小黄毛或小男友花。",
+      "time": "顺序不明",
+      "evidence": []
+    },
+    {
+      "title": "E008 小太妹被写成需要转型",
+      "desc": "原文说经济下行、老头不好崩，光靠崩老头的小太妹必然转型去夜店销售或健身房助教。",
+      "time": "顺序不明",
+      "evidence": []
+    }
+  ],
+  "storylines": [
+    {
+      "title": "小JK发展为小太妹，再被小黄毛拿捏",
+      "event_ids": [
+        "E001",
+        "E002",
+        "E004",
+        "E007"
+      ],
+      "narrative": "原文先把小JK写成反叛、穿奇装异服、内心缺爱的姑娘；斯丹康或小黄毛式人物以9号电动车后座、持续追求和撑腰把她拉进关系，明示小JK发展下去就是小太妹。小太妹有大量空闲，容易上头，被小黄毛疯狂追求后动情陷进去；她也能陪聊、发夹子音、提供情绪价值，并可能从葱姜蒜或老头处获得钱，再流向小黄毛。但这段关系并不稳定，小太妹一旦表露不满，小黄毛可能迅速在朋友圈跟别的妹妹官宣。原文缺少对关系长期结局的交代。",
+      "unresolved": "小太妹与小黄毛关系是否持续、是否结婚或有稳定生活，原文没有交代。",
+      "evidence": [
+        {
+          "index": 136,
+          "url": "https://www.douyin.com/video/7627797057612418338"
+        },
+        {
+          "index": 173,
+          "url": "https://www.douyin.com/video/7605066774983331081"
+        },
+        {
+          "index": 101,
+          "url": "https://www.douyin.com/video/7651520151568813358"
+        },
+        {
+          "index": 239,
+          "url": "https://www.douyin.com/video/7557694507702160682"
+        }
+      ]
+    },
+    {
+      "title": "小太妹向下拿捏葱姜蒜",
+      "event_ids": [
+        "E003",
+        "E007"
+      ],
+      "narrative": "原文称县城葱姜蒜最严厉的父亲就是小太妹。她在台球厅、KTV等场景出现，向外释放可得性和情绪互动，吸引葱姜蒜消费；台球厅小太妹一个月赚两万多，被归为葱姜蒜血汗钱。穿真北面的是小太妹，穿假北面的是葱姜蒜。原文没有写这段经济关系的结束方式。",
+      "unresolved": "葱姜蒜被崩多少钱、是否持续、关系如何结束，原文未交代。",
+      "evidence": [
+        {
+          "index": 176,
+          "url": "https://www.douyin.com/video/7601752625796713779"
+        }
+      ]
+    },
+    {
+      "title": "容易上头与偶像剧式脑补",
+      "event_ids": [
+        "E005"
+      ],
+      "narrative": "原文写小太妹年龄、阅历、价值观残缺，只要对方用不太讲道理的骚操作或模仿偶像剧桥段，她就会自己把后续剧情脑补完整。小旅馆门口吵架时，男孩掏出铁链项链，女孩泪奔，两人抱着进旅馆，就是这种叙事。原文没有交代之后怎样。",
+      "unresolved": "两人之后是否继续、关系结果如何，原文没有交代。",
+      "evidence": [
+        {
+          "index": 300,
+          "url": "https://www.douyin.com/video/7485405109145373990"
+        }
+      ]
+    }
+  ],
+  "relationships": [
+    {
+      "target": "县城小黄毛",
+      "relation": "被写成小太妹最严厉的父亲/天敌，靠莽劲和猛烈追求拿捏她，也可能迅速转向别人。",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 175,
+          "url": "https://www.douyin.com/video/7602851304486079786"
+        },
+        {
+          "index": 173,
+          "url": "https://www.douyin.com/video/7605066774983331081"
+        },
+        {
+          "index": 239,
+          "url": "https://www.douyin.com/video/7557694507702160682"
+        }
+      ]
+    },
+    {
+      "target": "精神小伙/鬼火少年",
+      "relation": "小太妹喜欢精神小伙，鬼火少年被写成正合其意。",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 217,
+          "url": "https://www.douyin.com/video/7575789135542226230"
+        },
+        {
+          "index": 300,
+          "url": "https://www.douyin.com/video/7485405109145373990"
+        }
+      ]
+    },
+    {
+      "target": "县城葱姜蒜",
+      "relation": "小太妹向下拿捏葱姜蒜，葱姜蒜的钱流向小太妹。",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 176,
+          "url": "https://www.douyin.com/video/7601752625796713779"
+        }
+      ]
+    },
+    {
+      "target": "县城斯丹康",
+      "relation": "斯丹康被写成小黄毛前身，能拿捏小JK；小JK发展下去就是小太妹。",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 136,
+          "url": "https://www.douyin.com/video/7627797057612418338"
+        }
+      ]
+    },
+    {
+      "target": "县城老阿姨",
+      "relation": "老阿姨被写成小黄毛最严厉的父亲，间接位于小黄毛—小太妹链条的上位。",
+      "certainty": "文本推断",
+      "evidence": [
+        {
+          "index": 173,
+          "url": "https://www.douyin.com/video/7605066774983331081"
+        }
+      ]
+    },
+    {
+      "target": "县城瑜伽裤",
+      "relation": "同属县城年轻女性群像，被拿来比较；原文称瑜伽裤版本强化会把小太妹等打得溃不成军。",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 253,
+          "url": "https://www.douyin.com/video/7537305087186603290"
+        }
+      ]
+    },
+    {
+      "target": "县城女文青",
+      "relation": "小太妹喜欢精神小伙，精神小伙喜欢女文青，形成偏好链条。",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 217,
+          "url": "https://www.douyin.com/video/7575789135542226230"
+        }
+      ]
+    },
+    {
+      "target": "县城小布尔乔亚",
+      "relation": "小太妹也穿北面，使小布尔乔亚无法靠该符号区分自身。",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 207,
+          "url": "https://www.douyin.com/video/7582623409314549046"
+        }
+      ]
+    }
+  ],
+  "speech_habits": [
+    {
+      "claim": "发语音会夹子音，聊天能量足，被比作充电宝。",
+      "evidence": [
+        {
+          "index": 101,
+          "url": "https://www.douyin.com/video/7651520151568813358"
+        }
+      ]
+    },
+    {
+      "claim": "网上聊天可能冷淡，发很多条也不回一条。",
+      "evidence": [
+        {
+          "index": 175,
+          "url": "https://www.douyin.com/video/7602851304486079786"
+        }
+      ]
+    },
+    {
+      "claim": "会用夸赞、撒娇和直接要钱的话术回应男性。",
+      "evidence": [
+        {
+          "index": 176,
+          "url": "https://www.douyin.com/video/7601752625796713779"
+        }
+      ]
+    },
+    {
+      "claim": "会使用土味、葬爱式、江湖式表达。",
+      "evidence": [
+        {
+          "index": 176,
+          "url": "https://www.douyin.com/video/7601752625796713779"
+        },
+        {
+          "index": 275,
+          "url": "https://www.douyin.com/video/7511383000542727478"
+        }
+      ]
+    },
+    {
+      "claim": "短视频和社交平台表达偏卡点、模糊特效、纹身文字。",
+      "evidence": [
+        {
+          "index": 253,
+          "url": "https://www.douyin.com/video/7537305087186603290"
+        },
+        {
+          "index": 300,
+          "url": "https://www.douyin.com/video/7485405109145373990"
+        }
+      ]
+    }
+  ],
+  "contradictions": [
+    {
+      "issue": "小太妹是否爱情纯粹、不向资本低头，还是用手机和礼物判断男性实力？",
+      "versions": [
+        {
+          "claim": "版本一：爱情最纯粹，不向资本低头，只要麻辣烫加丸子就知足。",
+          "evidence": [
+            {
+              "index": 272,
+              "url": "https://www.douyin.com/video/7513981015489072438"
+            }
+          ]
+        },
+        {
+          "claim": "版本二：用手机判断实力，给钱怎样都行，礼物和消费能让她如痴如醉。",
+          "evidence": [
+            {
+              "index": 45,
+              "url": "https://www.douyin.com/video/7683421956008557434"
+            },
+            {
+              "index": 176,
+              "url": "https://www.douyin.com/video/7601752625796713779"
+            },
+            {
+              "index": 266,
+              "url": "https://www.douyin.com/video/7520205533916269860"
+            }
+          ]
+        }
+      ],
+      "resolution": "保留并列：不同篇目塑造的物质观不一致，不作合并。"
+    },
+    {
+      "issue": "小太妹收入与消费水平到底如何？",
+      "versions": [
+        {
+          "claim": "版本一：收入低、月薪不超2300或2800，花得少，不穿大牌。",
+          "evidence": [
+            {
+              "index": 275,
+              "url": "https://www.douyin.com/video/7511383000542727478"
+            },
+            {
+              "index": 253,
+              "url": "https://www.douyin.com/video/7537305087186603290"
+            }
+          ]
+        },
+        {
+          "claim": "版本二：台球厅小太妹月赚两万多，穿北面，用最新款苹果。",
+          "evidence": [
+            {
+              "index": 176,
+              "url": "https://www.douyin.com/video/7601752625796713779"
+            },
+            {
+              "index": 207,
+              "url": "https://www.douyin.com/video/7582623409314549046"
+            },
+            {
+              "index": 45,
+              "url": "https://www.douyin.com/video/7683421956008557434"
+            }
+          ]
+        }
+      ],
+      "resolution": "保留并列：有的篇目指普遍底层收入，有的篇目举台球厅个例或泛化消费符号。"
+    },
+    {
+      "issue": "小太妹颜值吸引力是“一般”还是“奔放萝莉”？",
+      "versions": [
+        {
+          "claim": "版本一：颜值一般，身材受营养限制，拿捏并不容易。",
+          "evidence": [
+            {
+              "index": 275,
+              "url": "https://www.douyin.com/video/7511383000542727478"
+            }
+          ]
+        },
+        {
+          "claim": "版本二：小县城年轻女性中小太妹比例极大，全都是奔放的萝莉。",
+          "evidence": [
+            {
+              "index": 300,
+              "url": "https://www.douyin.com/video/7485405109145373990"
+            }
+          ]
+        }
+      ],
+      "resolution": "保留并列：一为外貌评价，一为比例和风格夸张。"
+    },
+    {
+      "issue": "小太妹、小JK、小cosplay、精神小妹是否为同一群体？",
+      "versions": [
+        {
+          "claim": "版本一：小JK发展下去就是小太妹，斯丹康发展下去就是小黄毛。",
+          "evidence": [
+            {
+              "index": 136,
+              "url": "https://www.douyin.com/video/7627797057612418338"
+            }
+          ]
+        },
+        {
+          "claim": "版本二：小太妹和cosplay被并列，均被写成没有学历、中考落榜居多。",
+          "evidence": [
+            {
+              "index": 253,
+              "url": "https://www.douyin.com/video/7537305087186603290"
+            }
+          ]
+        },
+        {
+          "claim": "版本三：小jk、小cosplay、小太妹同时并列，都会用手机判断实力。",
+          "evidence": [
+            {
+              "index": 45,
+              "url": "https://www.douyin.com/video/7683421956008557434"
+            }
+          ]
+        }
+      ],
+      "resolution": "保留并列：文案存在发展关系和并列混用，不能强行视为同一自然人或完全同质群体。"
+    },
+    {
+      "issue": "小太妹是追逐风、爱情纯粹的姑娘，还是可能纠集多人霸凌的人？",
+      "versions": [
+        {
+          "claim": "版本一：追逐风的姑娘，不要彩礼和大平层，麻辣烫加丸子就知足。",
+          "evidence": [
+            {
+              "index": 272,
+              "url": "https://www.douyin.com/video/7513981015489072438"
+            }
+          ]
+        },
+        {
+          "claim": "版本二：学校小太妹可能数量超乎想象，能纠集多人殴打别人。",
+          "evidence": [
+            {
+              "index": 537,
+              "url": "https://www.douyin.com/video/7214340151525264699"
+            }
+          ]
+        }
+      ],
+      "resolution": "保留并列：单篇语境不同，一是恋爱调侃，一是社会新闻推断。"
+    }
+  ],
+  "gaps": [
+    "缺少真实姓名、统一年龄范围、家庭结构和固定职业等可核实设定。",
+    "小太妹与酒吧气氛组、台球厅助教、红浪漫音乐老师是否属于同一群体，原文并列和混用，未明确。",
+    "与小黄毛、精神小伙、葱姜蒜、老阿姨等关系的时间先后、持续时间和结果多未交代。",
+    "收入来源、债务、消费资金来源在“低薪”“月赚两万多”“崩老头”“穿北面”之间存在矛盾，原文未解释。",
+    "校园霸凌事件中所谓小太妹的具体身份、人数、处理结果未展开。",
+    "原文多为调侃、营销和群像标签，缺少可验证的现实事实。"
+  ],
+  "creative_expansions": [],
+  "source_coverage": [
+    {
+      "index": 45,
+      "role": "提供小太妹/小jk/cosplay用手机判断男性实力、低端手机不被搭理的消费社交材料。",
+      "url": "https://www.douyin.com/video/7683421956008557434"
+    },
+    {
+      "index": 90,
+      "role": "在反衬行政小贵妇时提到小太妹纹前男友名字和“狂野/嘚”的外在形象。",
+      "url": "https://www.douyin.com/video/7656000821599639281"
+    },
+    {
+      "index": 101,
+      "role": "将小太妹比作充电宝，写她发夹子音、闲、能崩老头和提供情绪价值。",
+      "url": "https://www.douyin.com/video/7651520151568813358"
+    },
+    {
+      "index": 136,
+      "role": "明示小JK发展为小太妹，斯丹康发展为小黄毛，并提供9号电动车后座、13天拿捏等关系材料。",
+      "url": "https://www.douyin.com/video/7627797057612418338"
+    },
+    {
+      "index": 173,
+      "role": "写小黄毛靠莽劲拿捏小太妹，并与老阿姨拿捏小黄毛形成对照。",
+      "url": "https://www.douyin.com/video/7605066774983331081"
+    },
+    {
+      "index": 175,
+      "role": "核心篇：小黄毛拿捏小太妹，小太妹容易动情，夜场/台球厅女孩给小黄毛花钱，网络聊天冷淡。",
+      "url": "https://www.douyin.com/video/7602851304486079786"
+    },
+    {
+      "index": 176,
+      "role": "核心篇：小太妹向下崩葱姜蒜，台球厅、纹身、真北面、土味台词和消费关系。",
+      "url": "https://www.douyin.com/video/7601752625796713779"
+    },
+    {
+      "index": 207,
+      "role": "写小太妹也穿北面，使小布尔乔亚无法靠爆款穿搭区分自己。",
+      "url": "https://www.douyin.com/video/7582623409314549046"
+    },
+    {
+      "index": 217,
+      "role": "提供“小太妹喜欢精神小伙，精神小伙喜欢女文青”的偏好链条。",
+      "url": "https://www.douyin.com/video/7575789135542226230"
+    },
+    {
+      "index": 239,
+      "role": "写小太妹对小黄毛表达不满后，小黄毛反手跟别的妹妹官宣。",
+      "url": "https://www.douyin.com/video/7557694507702160682"
+    },
+    {
+      "index": 253,
+      "role": "核心篇：学历、收入、家庭、夜场/健身房转型、卡点视频、纹身文字和瑜伽裤竞争。",
+      "url": "https://www.douyin.com/video/7537305087186603290"
+    },
+    {
+      "index": 266,
+      "role": "写小太妹/小jk/cosplay会被送礼和消费打动，如最新款手机、Lululemon等。",
+      "url": "https://www.douyin.com/video/7520205533916269860"
+    },
+    {
+      "index": 272,
+      "role": "核心篇：小太妹吸引力、不向资本低头、追逐风、麻辣烫知足和拿捏话术。",
+      "url": "https://www.douyin.com/video/7513981015489072438"
+    },
+    {
+      "index": 275,
+      "role": "核心篇：第一期拿捏，写颜值、学历、收入、不上班、崩老头、容易上头和土味攻心。",
+      "url": "https://www.douyin.com/video/7511383000542727478"
+    },
+    {
+      "index": 300,
+      "role": "写小太妹比例大、鬼火少年、小旅馆铁链项链事件、年龄阅历残缺和偶像剧脑补。",
+      "url": "https://www.douyin.com/video/7485405109145373990"
+    },
+    {
+      "index": 537,
+      "role": "在校园霸凌新闻中推测学校小太妹数量可能超乎想象、能纠集多人殴打。",
+      "url": "https://www.douyin.com/video/7214340151525264699"
+    }
+  ]
+}

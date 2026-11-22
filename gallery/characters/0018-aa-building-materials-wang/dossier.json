@@ -1,0 +1,821 @@
+{
+  "name": "县城AA建材王哥",
+  "nature": "具名叙事角色/复合群像中的标签化原型代表之一；在不同文案中作为“县城好大哥”名号出现，各篇不构成连续自然人传记，财力、排面与关系设定存在并列、矛盾版本；本材料只对应文案角色，呈现文案中的人物形象。",
+  "overview": "县城AA建材王哥是《县城浮世绘》中以“好大哥”群像出现的具名标签人物，别名包括AA建材批发王哥、aa建材王哥、王哥等。身份标识为建材/建材批发生意，拥有或关联路虎揽胜行政加长版/典范加长版，被列入狭义县城好大哥、红浪漫/商K高消费熟客与春节返乡局商K阔客。他是瑜伽裤妹妹“心中的最终归宿”之一，酒桌上夸称项目几个亿、散场由女性当代驾送回酒店；但对县城小太妹即便一掷千金也无效。财力存在并列版本：一说买卖稳健、多年攒下大笔存款；一说背大几百万债、工程款到账前加油只加50元。其与李小薇、王二丫、开库里南富二代的关系仅见片段或文本推断，不能连成连续自然人传记。排面评价亦有不同：既被列为“最不权威”群体中的好大哥代表，又被写成女性归宿与商K之王。",
+  "identity": [
+    {
+      "claim": "被明示为狭义县城好大哥代表之一，名号为aa建材王哥",
+      "evidence": [
+        {
+          "index": 208,
+          "url": "https://www.douyin.com/video/7581500748232428854"
+        }
+      ]
+    },
+    {
+      "claim": "身份标识为建材/建材批发生意",
+      "evidence": [
+        {
+          "index": 245,
+          "url": "https://www.douyin.com/video/7547314317717212457"
+        },
+        {
+          "index": 281,
+          "url": "https://www.douyin.com/video/7506899267122924827"
+        }
+      ]
+    },
+    {
+      "claim": "拥有或关联路虎揽胜行政加长版/典范加长版",
+      "evidence": [
+        {
+          "index": 275,
+          "url": "https://www.douyin.com/video/7511383000542727478"
+        },
+        {
+          "index": 277,
+          "url": "https://www.douyin.com/video/7509527518345497892"
+        }
+      ]
+    },
+    {
+      "claim": "被列为红浪漫/商K高消费熟客代表",
+      "evidence": [
+        {
+          "index": 166,
+          "url": "https://www.douyin.com/video/7611363917939428662"
+        }
+      ]
+    },
+    {
+      "claim": "在春节返乡局中属于商K高消费客人，路虎揽胜被视为该圈层低端车型",
+      "evidence": [
+        {
+          "index": 326,
+          "url": "https://www.douyin.com/video/7452715094250769715"
+        }
+      ]
+    }
+  ],
+  "traits": [
+    {
+      "claim": "以豪车和消费展示排面，路虎揽胜是其排面符号",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 275,
+          "url": "https://www.douyin.com/video/7511383000542727478"
+        },
+        {
+          "index": 309,
+          "url": "https://www.douyin.com/video/7477990380806393127"
+        }
+      ]
+    },
+    {
+      "claim": "好大哥式高消费，会为异性花大钱，甚至使用分期消费",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 279,
+          "url": "https://www.douyin.com/video/7508793566555163940"
+        }
+      ]
+    },
+    {
+      "claim": "被县城瑜伽裤/酒桌女性视为有吸引力的归宿之一",
+      "kind": "欲望",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 245,
+          "url": "https://www.douyin.com/video/7547314317717212457"
+        },
+        {
+          "index": 279,
+          "url": "https://www.douyin.com/video/7508793566555163940"
+        }
+      ]
+    },
+    {
+      "claim": "去商K消费时会用照顾从业者家庭、爱国、拉动经济等说辞包装动机",
+      "kind": "动机",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 272,
+          "url": "https://www.douyin.com/video/7513981015489072438"
+        }
+      ]
+    },
+    {
+      "claim": "在商务黑丝包臀裙、马卡龙瑜伽裤面前得心应手，但对县城小太妹一掷千金也无效",
+      "kind": "矛盾",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 275,
+          "url": "https://www.douyin.com/video/7511383000542727478"
+        }
+      ]
+    },
+    {
+      "claim": "酒桌上会夸称项目规模达到几个亿",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 279,
+          "url": "https://www.douyin.com/video/7508793566555163940"
+        }
+      ]
+    },
+    {
+      "claim": "存在资金紧张、负债缠身的版本：背大几百万债，工程款到账前加油只加50元",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 279,
+          "url": "https://www.douyin.com/video/7508793566555163940"
+        },
+        {
+          "index": 292,
+          "url": "https://www.douyin.com/video/7496150188306877730"
+        }
+      ]
+    },
+    {
+      "claim": "若把277篇中同款路虎的“你”认作AA建材王哥，则他会迷恋王二丫，并因开库里南的富二代而自我否定",
+      "kind": "恐惧",
+      "certainty": "文本推断",
+      "evidence": [
+        {
+          "index": 277,
+          "url": "https://www.douyin.com/video/7509527518345497892"
+        }
+      ]
+    },
+    {
+      "claim": "去商K消费时会用照顾从业者家庭、爱国、拉动经济等话术包装动机",
+      "kind": "动机",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "若把277篇中同款路虎的“你”认作AA建材王哥，则他会迷恋王二丫，并因开库里南的富二代而自我否定（文本推断）",
+      "kind": "矛盾",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "财力与经营状况存在并列版本：A买卖稳健、多年攒下大笔存款；B背大几百万债、靠贷款周转，工程款到账前加油只加50元",
+      "kind": "矛盾",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "排面/权威程度存在并列描述：A被列入“目前县城里最不权威的三个群体”中的县城好大哥代表；B被视为瑜伽裤心中的最终归宿、酒桌女性往身上蹭、散场当代驾送回酒店",
+      "kind": "矛盾",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "与王二丫、开库里南富二代的关系归属未明：277篇同款路虎典范加长版的“你”迷恋王二丫并自卑，但同篇未点名“你”就是AA建材王哥",
+      "kind": "矛盾",
+      "certainty": "文本推断",
+      "evidence": []
+    }
+  ],
+  "life_domains": [
+    {
+      "domain": "职业",
+      "claim": "文本明示其与建材/建材批发生意相关，并涉及工程项目与工程款",
+      "evidence": [
+        {
+          "index": 245,
+          "url": "https://www.douyin.com/video/7547314317717212457"
+        },
+        {
+          "index": 292,
+          "url": "https://www.douyin.com/video/7496150188306877730"
+        }
+      ]
+    },
+    {
+      "domain": "金钱",
+      "claim": "财力有两个并列版本：一说买卖稳健、多年攒下大笔存款；一说背负大几百万债、负债缠身",
+      "evidence": [
+        {
+          "index": 281,
+          "url": "https://www.douyin.com/video/7506899267122924827"
+        },
+        {
+          "index": 279,
+          "url": "https://www.douyin.com/video/7508793566555163940"
+        }
+      ]
+    },
+    {
+      "domain": "社交/消费",
+      "claim": "被列为红浪漫/商K高消费熟客，酒局和商K是其展示实力的场域",
+      "evidence": [
+        {
+          "index": 166,
+          "url": "https://www.douyin.com/video/7611363917939428662"
+        },
+        {
+          "index": 279,
+          "url": "https://www.douyin.com/video/7508793566555163940"
+        }
+      ]
+    },
+    {
+      "domain": "婚恋/异性",
+      "claim": "被文本置于瑜伽裤、小太妹、李小薇等女性关系比较中；与小太妹关系无效，与李小薇有副驾驶片段",
+      "evidence": [
+        {
+          "index": 245,
+          "url": "https://www.douyin.com/video/7547314317717212457"
+        },
+        {
+          "index": 277,
+          "url": "https://www.douyin.com/video/7509527518345497892"
+        }
+      ]
+    },
+    {
+      "domain": "面子/排面",
+      "claim": "路虎揽胜是其排面标志，也会在与其他豪车的比较中黯然失色",
+      "evidence": [
+        {
+          "index": 275,
+          "url": "https://www.douyin.com/video/7511383000542727478"
+        },
+        {
+          "index": 309,
+          "url": "https://www.douyin.com/video/7477990380806393127"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "event_id": "E001",
+      "title": "被列为狭义县城好大哥代表",
+      "description": "文本把aa建材王哥与111土方叉车刘哥、000上门催收办证赵总等并列，作为狭义县城好大哥的代表。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 208,
+          "url": "https://www.douyin.com/video/7581500748232428854"
+        }
+      ]
+    },
+    {
+      "event_id": "E002",
+      "title": "被列为县城红浪漫之王",
+      "description": "文本把aa建材王哥、幺幺土方钩机刘哥、aka商混半挂赵哥并列为红浪漫之王，称其撑起县城红浪漫营收。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 166,
+          "url": "https://www.douyin.com/video/7611363917939428662"
+        }
+      ]
+    },
+    {
+      "event_id": "E003",
+      "title": "路虎揽胜与小太妹的无效关系",
+      "description": "文本说aa建材王哥在商务黑丝包臀裙、马卡龙瑜伽裤面前得心应手，但对县城小太妹即便一掷千金也无法博得其放心，并称未见小太妹从他路虎揽胜行政加长版上下来。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 275,
+          "url": "https://www.douyin.com/video/7511383000542727478"
+        }
+      ]
+    },
+    {
+      "event_id": "E004",
+      "title": "用照顾从业者家庭等话术解释商K消费",
+      "description": "文本写aa建材王哥去商K时不愿去量贩式，声称量贩式不爱国，并用照顾从业者家庭、为县城经济打强心剂等说辞解释消费。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 272,
+          "url": "https://www.douyin.com/video/7513981015489072438"
+        }
+      ]
+    },
+    {
+      "event_id": "E005",
+      "title": "酒桌夸称项目几个亿，散场由女性当代驾送回酒店",
+      "description": "文本写王哥在酒桌上说项目几个亿，瑜伽裤妹妹觉得月入两百万寒碜，大腿往他身上蹭，散场后给他当代驾送回酒店。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 279,
+          "url": "https://www.douyin.com/video/7508793566555163940"
+        }
+      ]
+    },
+    {
+      "event_id": "E006",
+      "title": "稳健生意与存款版本",
+      "description": "文本借一个穷人乍富者之口说：凭什么aa建材王哥玩得，他玩不得；并说明王哥买卖稳健，干了多少年，攒下大笔存款。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 281,
+          "url": "https://www.douyin.com/video/7506899267122924827"
+        }
+      ]
+    },
+    {
+      "event_id": "E007",
+      "title": "负债与加油只加50元版本",
+      "description": "另一处文本说aa建材王哥背大几百万债，靠左手倒右手、贷款周转堵窟窿；开路虎揽胜，但工程款到账前加油只能加50元。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 279,
+          "url": "https://www.douyin.com/video/7508793566555163940"
+        },
+        {
+          "index": 292,
+          "url": "https://www.douyin.com/video/7496150188306877730"
+        }
+      ]
+    },
+    {
+      "event_id": "E008",
+      "title": "李小薇坐上他的路虎揽胜副驾驶",
+      "description": "文本写初恋情人李小薇穿瑜伽裤坐上他路虎揽胜副驾驶，使比较对象心态崩塌。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 277,
+          "url": "https://www.douyin.com/video/7509527518345497892"
+        }
+      ]
+    },
+    {
+      "event_id": "E009",
+      "title": "红浪漫KTV报警梗",
+      "description": "文本在讽刺某场婚姻/相亲画面时，用“红浪漫KTV动一下果盘，AA建材王哥也得立马报警”来夸张其消费场域与反应。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 266,
+          "url": "https://www.douyin.com/video/7520205533916269860"
+        }
+      ]
+    },
+    {
+      "event_id": "E010",
+      "title": "春节商K消费客与路虎最低端车型",
+      "description": "文本写春节返乡局中，商K的高消费客人除了AA建材王哥就是土方刘哥，最低端车型也是路虎揽胜和宝马X5；并说他们大过年不会来消费。",
+      "temporal": "原文提及“大过年”，但无具体年份；顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 326,
+          "url": "https://www.douyin.com/video/7452715094250769715"
+        }
+      ]
+    },
+    {
+      "event_id": "E011",
+      "title": "路虎揽胜在排面比较中黯然失色",
+      "description": "文本在讲排面比较时，让AA建材王哥的路虎揽胜在另一场景中黯然失色。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 309,
+          "url": "https://www.douyin.com/video/7477990380806393127"
+        }
+      ]
+    }
+  ],
+  "storylines": [
+    {
+      "title": "好大哥/商K排面线",
+      "event_ids": [
+        "E001",
+        "E002",
+        "E004",
+        "E005",
+        "E010",
+        "E009",
+        "E011"
+      ],
+      "narrative": "文本先把aa建材王哥列入狭义县城好大哥代表，再把他列为红浪漫/商K高消费熟客，称其撑起红浪漫营收。他开路虎揽胜，去商K时有照顾从业者家庭、量贩式不爱国、拉动县城经济等说辞；酒桌上夸称项目几个亿，散场后由女性当代驾送回酒店。春节返乡局中，他又被当作商K高消费客人，路虎揽胜被说成该圈层最低端车型。其排面既能压场，也会在另一场景中被说成黯然失色。原文没有给出这一连串场景的先后顺序。",
+      "unresolved": "没有交代具体商K消费结果、具体生意项目、具体年份和同一场景中人物关系。",
+      "evidence": [
+        {
+          "index": 208,
+          "url": "https://www.douyin.com/video/7581500748232428854"
+        },
+        {
+          "index": 166,
+          "url": "https://www.douyin.com/video/7611363917939428662"
+        },
+        {
+          "index": 272,
+          "url": "https://www.douyin.com/video/7513981015489072438"
+        },
+        {
+          "index": 279,
+          "url": "https://www.douyin.com/video/7508793566555163940"
+        },
+        {
+          "index": 326,
+          "url": "https://www.douyin.com/video/7452715094250769715"
+        },
+        {
+          "index": 266,
+          "url": "https://www.douyin.com/video/7520205533916269860"
+        },
+        {
+          "index": 309,
+          "url": "https://www.douyin.com/video/7477990380806393127"
+        }
+      ]
+    },
+    {
+      "title": "财力矛盾线：稳健存款与高额负债并列",
+      "event_ids": [
+        "E006",
+        "E007"
+      ],
+      "narrative": "一处文本借穷人乍富者之口说aa建材王哥买卖非常稳健，干了多少年，攒下了一笔很大的存款；另一处文本又说aa建材王哥背大几百万债，靠左手倒右手、贷款周转堵窟窿，开路虎揽胜却工程款到账前加油只加50元。两组设定均出现，但没有说明是否同一时期、同一人或不同版本。",
+      "unresolved": "原文没有交代债务与存款是否并存，也没有交代路虎是新车、二手车还是顶账车。",
+      "evidence": [
+        {
+          "index": 281,
+          "url": "https://www.douyin.com/video/7506899267122924827"
+        },
+        {
+          "index": 279,
+          "url": "https://www.douyin.com/video/7508793566555163940"
+        },
+        {
+          "index": 292,
+          "url": "https://www.douyin.com/video/7496150188306877730"
+        }
+      ]
+    },
+    {
+      "title": "女性关系比较线",
+      "event_ids": [
+        "E003",
+        "E005",
+        "E008"
+      ],
+      "narrative": "文本把aa建材王哥放进县城婚恋/异性比较：他既是瑜伽裤妹妹心中的最终归宿之一，酒桌女性会往他身上蹭并由他当代驾送回酒店；李小薇坐上他路虎揽胜副驾驶；但他对县城小太妹即便一掷千金也无法博得其放心。另有277篇用同款路虎典范加长版写“你”迷恋王二丫、因开库里南富二代自卑，但没有点名AA建材王哥。",
+      "unresolved": "没有交代李小薇、王二丫、瑜伽裤、小太妹与他的前因后果，也不能确认277篇中同款路虎者就是AA建材王哥。",
+      "evidence": [
+        {
+          "index": 275,
+          "url": "https://www.douyin.com/video/7511383000542727478"
+        },
+        {
+          "index": 279,
+          "url": "https://www.douyin.com/video/7508793566555163940"
+        },
+        {
+          "index": 277,
+          "url": "https://www.douyin.com/video/7509527518345497892"
+        }
+      ]
+    }
+  ],
+  "relationships": [
+    {
+      "target": "县城瑜伽裤",
+      "relation": "被视为其心中最终归宿之一；酒桌场景中会靠近他、由他当代驾送回酒店",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 245,
+          "url": "https://www.douyin.com/video/7547314317717212457"
+        },
+        {
+          "index": 279,
+          "url": "https://www.douyin.com/video/7508793566555163940"
+        }
+      ]
+    },
+    {
+      "target": "县城小太妹",
+      "relation": "即便一掷千金也无法博得其放心；文本称未见过小太妹从他路虎揽胜行政加长版上下来",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 275,
+          "url": "https://www.douyin.com/video/7511383000542727478"
+        }
+      ]
+    },
+    {
+      "target": "商K/红浪漫陪侍者",
+      "relation": "消费对象；他被列为红浪漫之王，并用照顾从业者家庭解释消费",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 166,
+          "url": "https://www.douyin.com/video/7611363917939428662"
+        },
+        {
+          "index": 272,
+          "url": "https://www.douyin.com/video/7513981015489072438"
+        }
+      ]
+    },
+    {
+      "target": "幺幺土方钩机刘哥/111土方刘哥",
+      "relation": "并列出现的同类好大哥/商K高消费客人",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 166,
+          "url": "https://www.douyin.com/video/7611363917939428662"
+        },
+        {
+          "index": 326,
+          "url": "https://www.douyin.com/video/7452715094250769715"
+        }
+      ]
+    },
+    {
+      "target": "000上门催收办证赵哥/000上门催收办证赵总",
+      "relation": "并列出现的狭义县城好大哥/商K阔客",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 208,
+          "url": "https://www.douyin.com/video/7581500748232428854"
+        }
+      ]
+    },
+    {
+      "target": "李小薇",
+      "relation": "文本写她穿瑜伽裤坐上他路虎揽胜副驾驶",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 277,
+          "url": "https://www.douyin.com/video/7509527518345497892"
+        }
+      ]
+    },
+    {
+      "target": "王二丫",
+      "relation": "文本推断：277篇同款路虎典范加长版的“你”迷恋王二丫，但未点名AA建材王哥",
+      "certainty": "文本推断",
+      "evidence": [
+        {
+          "index": 277,
+          "url": "https://www.douyin.com/video/7509527518345497892"
+        }
+      ]
+    },
+    {
+      "target": "开库里南的富二代",
+      "relation": "文本推断：277篇同款路虎者因开劳斯莱斯库里南的富二代而自卑，但未点名AA建材王哥",
+      "certainty": "文本推断",
+      "evidence": [
+        {
+          "index": 277,
+          "url": "https://www.douyin.com/video/7509527518345497892"
+        }
+      ]
+    },
+    {
+      "target": "穷人乍富的县城哥们",
+      "relation": "被对方拿来攀比；对方认为凭什么aa建材王哥玩得，他玩不得",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 281,
+          "url": "https://www.douyin.com/video/7506899267122924827"
+        }
+      ]
+    }
+  ],
+  "speech_habits": [
+    {
+      "claim": "酒桌上夸称项目规模达到几个亿",
+      "evidence": [
+        {
+          "index": 279,
+          "url": "https://www.douyin.com/video/7508793566555163940"
+        }
+      ]
+    },
+    {
+      "claim": "用照顾从业者家庭来解释去商K",
+      "evidence": [
+        {
+          "index": 272,
+          "url": "https://www.douyin.com/video/7513981015489072438"
+        }
+      ]
+    },
+    {
+      "claim": "用“量贩式不爱国”等说法包装消费选择",
+      "evidence": [
+        {
+          "index": 272,
+          "url": "https://www.douyin.com/video/7513981015489072438"
+        }
+      ]
+    },
+    {
+      "claim": "用为县城经济打强心剂来包装消费",
+      "evidence": [
+        {
+          "index": 272,
+          "url": "https://www.douyin.com/video/7513981015489072438"
+        }
+      ]
+    },
+    {
+      "claim": "被文本描述为会给妹妹买一万块钱的包",
+      "evidence": [
+        {
+          "index": 279,
+          "url": "https://www.douyin.com/video/7508793566555163940"
+        }
+      ]
+    }
+  ],
+  "contradictions": [
+    {
+      "issue": "财力与经营状况出现两个并列版本",
+      "versions": [
+        {
+          "claim": "版本A：买卖稳健，多年攒下大笔存款",
+          "evidence": [
+            {
+              "index": 281,
+              "url": "https://www.douyin.com/video/7506899267122924827"
+            }
+          ]
+        },
+        {
+          "claim": "版本B：背大几百万债，靠贷款周转，工程款到账前加油只加50元",
+          "evidence": [
+            {
+              "index": 279,
+              "url": "https://www.douyin.com/video/7508793566555163940"
+            },
+            {
+              "index": 292,
+              "url": "https://www.douyin.com/video/7496150188306877730"
+            }
+          ]
+        }
+      ],
+      "resolution": "保留并列，不擅自合并或选定；原文未说明是否同一时期或不同版本。"
+    },
+    {
+      "issue": "在县城群体中的排面/权威程度有不同描述",
+      "versions": [
+        {
+          "claim": "版本A：被列入“目前县城里最不权威的三个群体”中的县城好大哥代表",
+          "evidence": [
+            {
+              "index": 208,
+              "url": "https://www.douyin.com/video/7581500748232428854"
+            }
+          ]
+        },
+        {
+          "claim": "版本B：被为瑜伽裤心中的最终归宿，酒桌女性往他身上蹭，散场当代驾送回酒店",
+          "evidence": [
+            {
+              "index": 245,
+              "url": "https://www.douyin.com/video/7547314317717212457"
+            },
+            {
+              "index": 279,
+              "url": "https://www.douyin.com/video/7508793566555163940"
+            }
+          ]
+        }
+      ],
+      "resolution": "保留并列；可能分别对应不同评价体系或不同篇目设定。"
+    },
+    {
+      "issue": "与王二丫、开库里南富二代的关系归属未明",
+      "versions": [
+        {
+          "claim": "版本A：277篇用同款路虎揽胜典范加长版的“你”迷恋王二丫，并因开库里南富二代自卑",
+          "evidence": [
+            {
+              "index": 277,
+              "url": "https://www.douyin.com/video/7509527518345497892"
+            }
+          ]
+        },
+        {
+          "claim": "版本B：同篇只明确写AA建材王哥的路虎揽胜、李小薇坐上他副驾驶，没有点名“你”就是AA建材王哥",
+          "evidence": [
+            {
+              "index": 277,
+              "url": "https://www.douyin.com/video/7509527518345497892"
+            }
+          ]
+        }
+      ],
+      "resolution": "保留并列；只能标为文本推断，不能确认。"
+    }
+  ],
+  "gaps": [
+    "未交代AA建材王哥的真实姓名、年龄、家庭、籍贯等基本设定。",
+    "未交代其建材/建材批发生意的具体内容、规模、经营地点。",
+    "未交代其资产、存款、债务的确切数额，也未说明稳健存款版与高额负债版是否同一时期。",
+    "未交代路虎揽胜是新车、二手车、顶账车还是租赁车，也未说明与不同篇目中的车型是否同一辆。",
+    "未交代其与王二丫、李小薇、开库里南富二代之间关系的完整前因后果。",
+    "未交代其去商K/红浪漫消费的具体结果和后续。",
+    "未交代其与幺幺土方刘哥、000赵哥等具体是朋友、生意伙伴还是并列标签。",
+    "所有事件均无原文明示时间线，只能视为文本事件索引，顺序不明。"
+  ],
+  "creative_expansions": [],
+  "source_coverage": [
+    {
+      "index": 166,
+      "role": "明确把aa建材王哥列为红浪漫之王/商K高消费熟客，提供消费场域和群体并列材料。",
+      "url": "https://www.douyin.com/video/7611363917939428662"
+    },
+    {
+      "index": 208,
+      "role": "明确把aa建材王哥列入狭义县城好大哥代表，提供身份标签材料。",
+      "url": "https://www.douyin.com/video/7581500748232428854"
+    },
+    {
+      "index": 245,
+      "role": "把AA建材批发王哥列为女性心中的最终归宿，提供异性吸引力与好大哥消费材料。",
+      "url": "https://www.douyin.com/video/7547314317717212457"
+    },
+    {
+      "index": 266,
+      "role": "用红浪漫KTV动果盘、AA建材王哥报警的夸张梗，提供消费场域与反应材料。",
+      "url": "https://www.douyin.com/video/7520205533916269860"
+    },
+    {
+      "index": 272,
+      "role": "集中提供AA建材王哥与商务黑丝、马卡龙瑜伽裤、小太妹、商K话术、路虎揽胜行政加长版等材料。",
+      "url": "https://www.douyin.com/video/7513981015489072438"
+    },
+    {
+      "index": 275,
+      "role": "重复/补充AA建材王哥在商务与运动女性面前得心应手、但对小太妹无效的设定。",
+      "url": "https://www.douyin.com/video/7511383000542727478"
+    },
+    {
+      "index": 277,
+      "role": "提供AA建材王哥的路虎揽胜典范加长版、李小薇坐副驾驶，以及同款路虎“你”与王二丫、库里南富二代的并置材料。",
+      "url": "https://www.douyin.com/video/7509527518345497892"
+    },
+    {
+      "index": 279,
+      "role": "提供债务、商K、项目几个亿、花呗买包、女性当代驾送回酒店等材料。",
+      "url": "https://www.douyin.com/video/7508793566555163940"
+    },
+    {
+      "index": 281,
+      "role": "提供稳健买卖、多年攒下大笔存款的财力版本，并与穷人乍富者对比。",
+      "url": "https://www.douyin.com/video/7506899267122924827"
+    },
+    {
+      "index": 292,
+      "role": "提供工程款到账前加油只加50元、负债好大哥、顶账车等材料。",
+      "url": "https://www.douyin.com/video/7496150188306877730"
+    },
+    {
+      "index": 309,
+      "role": "提供AA建材王哥的路虎揽胜在排面比较中黯然失色的材料。",
+      "url": "https://www.douyin.com/video/7477990380806393127"
+    },
+    {
+      "index": 326,
+      "role": "提供春节返乡局中AA建材王哥作为商K高消费客人、路虎揽胜被视为低端车型、大过年不会来消费的材料。",
+      "url": "https://www.douyin.com/video/7452715094250769715"
+    }
+  ]
+}

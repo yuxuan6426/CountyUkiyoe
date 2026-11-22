@@ -1,0 +1,482 @@
+{
+  "name": "县城冯玉树",
+  "nature": "具名叙事角色/复合线索。三篇文本都出现“冯玉树”或“互联网大厂的冯玉树”，但分别被写成互联网大厂月入3万6的人、开西装店的初中同学、干教培并买宝马M2的教培校长；原文未明说这些身份是否属于同一自然人，只能并列保留，各段叙述按出处并列呈现。编纂说明：限于序号47、187、205。",
+  "overview": "冯玉树在文案中主要作为县城生态里“混得不错的人”或“被比较者”出现。序号47把他列为互联网大厂员工、月入3万6，用于对照县城编制收入；序号187称他是博主初中同学，最近开了家小西装店，可按150元友情价出租定制西装两天；序号205集中写他初中九科没凑够300分，这两年干教培起早贪黑赚了几百万、当上教培机构校长，去年过年买宝马M2，同学聚会上比谁都想上凑，饭局中被喝多的葱姜蒜当面批判（拿李宝库作对比），回家后从博主橱窗买了三本《瓦尔登湖》。三篇提供收入参照、职业翻身、饭局受挫与消费/阅读行为，但职业身份与收入口径不一致，不能据此排定时间线与因果。",
+  "identity": [
+    {
+      "claim": "被称作“互联网大厂的冯玉树”，月收入三万六",
+      "evidence": [
+        {
+          "index": 47,
+          "url": "https://www.douyin.com/video/7682638122002711013"
+        }
+      ]
+    },
+    {
+      "claim": "博主初中同学",
+      "evidence": [
+        {
+          "index": 187,
+          "url": "https://www.douyin.com/video/7595620503361015049"
+        },
+        {
+          "index": 205,
+          "url": "https://www.douyin.com/video/7583676385651068196"
+        }
+      ]
+    },
+    {
+      "claim": "开西装店，涉及定制西装出租",
+      "evidence": [
+        {
+          "index": 187,
+          "url": "https://www.douyin.com/video/7595620503361015049"
+        }
+      ]
+    },
+    {
+      "claim": "干教培，成为教培机构校长",
+      "evidence": [
+        {
+          "index": 205,
+          "url": "https://www.douyin.com/video/7583676385651068196"
+        }
+      ]
+    },
+    {
+      "claim": "初中时中考九科没凑够300分",
+      "evidence": [
+        {
+          "index": 205,
+          "url": "https://www.douyin.com/video/7583676385651068196"
+        }
+      ]
+    },
+    {
+      "claim": "这两年干教培起早贪黑，赚了几百万",
+      "evidence": [
+        {
+          "index": 205,
+          "url": "https://www.douyin.com/video/7583676385651068196"
+        }
+      ]
+    }
+  ],
+  "traits": [
+    {
+      "claim": "经济翻身明显，收入被拿作参照",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 47,
+          "url": "https://www.douyin.com/video/7682638122002711013"
+        },
+        {
+          "index": 205,
+          "url": "https://www.douyin.com/video/7583676385651068196"
+        }
+      ]
+    },
+    {
+      "claim": "有强烈参加同学聚会、进入同学圈的意愿",
+      "kind": "动机",
+      "certainty": "文本推断",
+      "evidence": [
+        {
+          "index": 205,
+          "url": "https://www.douyin.com/video/7583676385651068196"
+        }
+      ]
+    },
+    {
+      "claim": "愿意对熟人给出租西装优惠",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 187,
+          "url": "https://www.douyin.com/video/7595620503361015049"
+        }
+      ]
+    },
+    {
+      "claim": "被同学饭局批评后，试图通过买书阅读来安放情绪",
+      "kind": "矛盾",
+      "certainty": "文本推断",
+      "evidence": [
+        {
+          "index": 205,
+          "url": "https://www.douyin.com/video/7583676385651068196"
+        }
+      ]
+    },
+    {
+      "claim": "初中成绩差，后来却成为教培校长，形成身份反差",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 205,
+          "url": "https://www.douyin.com/video/7583676385651068196"
+        }
+      ]
+    },
+    {
+      "claim": "经济翻身明显，收入被拿作参照（月入3万6；干教培两年赚了几百万）",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "有强烈参加同学聚会、进入同学圈的意愿：“一有同学聚会吃饭喝酒啥的，他比谁都想上凑”",
+      "kind": "动机",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "愿意给熟人优惠：“租两天的话，我给你一个友情价150就可以了”",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "被同学饭局批判后，回家从博主橱窗买三本《瓦尔登湖》（一本白天看、一本晚上看、一本放在宝马M2副驾驶上）",
+      "kind": "矛盾",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "初中成绩差（中考9科没凑够300分）却当上教培机构校长，形成身份反差",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    }
+  ],
+  "life_domains": [
+    {
+      "domain": "职业/金钱",
+      "claim": "文本中至少出现三种职业金钱线索：互联网大厂月入3万6、开西装店、干教培成校长并赚几百万。",
+      "evidence": [
+        {
+          "index": 47,
+          "url": "https://www.douyin.com/video/7682638122002711013"
+        },
+        {
+          "index": 187,
+          "url": "https://www.douyin.com/video/7595620503361015049"
+        },
+        {
+          "index": 205,
+          "url": "https://www.douyin.com/video/7583676385651068196"
+        }
+      ]
+    },
+    {
+      "domain": "消费",
+      "claim": "买过宝马M2，属于其教培发家后的消费行为。",
+      "evidence": [
+        {
+          "index": 205,
+          "url": "https://www.douyin.com/video/7583676385651068196"
+        }
+      ]
+    },
+    {
+      "domain": "社交",
+      "claim": "参加同学聚会，并在饭局中被葱姜蒜批判。",
+      "evidence": [
+        {
+          "index": 205,
+          "url": "https://www.douyin.com/video/7583676385651068196"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "event_id": "E001",
+      "title": "作为互联网大厂高收入者被拿来比较",
+      "description": "在讨论县城编制收入时，文本把冯玉树列为互联网大厂、月入3万6的参照。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 47,
+          "url": "https://www.douyin.com/video/7682638122002711013"
+        }
+      ]
+    },
+    {
+      "event_id": "E002",
+      "title": "开西装店并提供熟人租赁价",
+      "description": "文本称冯玉树最近开了一家西装店，并给出租两天150元的友情价。",
+      "temporal": "原文称“最近”，具体先后不明",
+      "chronology_basis": "明示",
+      "evidence": [
+        {
+          "index": 187,
+          "url": "https://www.douyin.com/video/7595620503361015049"
+        }
+      ]
+    },
+    {
+      "event_id": "E003",
+      "title": "干教培成校长并赚了几百万",
+      "description": "文本称其这两年干教培，起早贪黑赚了几百万，并当上教培机构校长。",
+      "temporal": "原文称“这两年”",
+      "chronology_basis": "明示",
+      "evidence": [
+        {
+          "index": 205,
+          "url": "https://www.douyin.com/video/7583676385651068196"
+        }
+      ]
+    },
+    {
+      "event_id": "E004",
+      "title": "去年过年买宝马M2",
+      "description": "文本称其去年过年时一咬牙一跺脚一上头，买了宝马M2。",
+      "temporal": "原文明确为“去年过年的时候”",
+      "chronology_basis": "明示",
+      "evidence": [
+        {
+          "index": 205,
+          "url": "https://www.douyin.com/video/7583676385651068196"
+        }
+      ]
+    },
+    {
+      "event_id": "E005",
+      "title": "同学饭局上被葱姜蒜批判",
+      "description": "去年过年一帮人吃饭时，有个葱姜蒜喝多了，直接批判冯玉树。",
+      "temporal": "原文明确为“去年过年的时候”",
+      "chronology_basis": "明示",
+      "evidence": [
+        {
+          "index": 205,
+          "url": "https://www.douyin.com/video/7583676385651068196"
+        }
+      ]
+    },
+    {
+      "event_id": "E006",
+      "title": "被批评后买三本《瓦尔登湖》",
+      "description": "被饭局批评后，冯玉树从博主橱窗买了三本《瓦尔登湖》阅读。",
+      "temporal": "原文用“回家以后”承接在饭局之后",
+      "chronology_basis": "明示",
+      "evidence": [
+        {
+          "index": 205,
+          "url": "https://www.douyin.com/video/7583676385651068196"
+        }
+      ]
+    }
+  ],
+  "storylines": [
+    {
+      "title": "教培发家、买宝马M2与饭局受挫",
+      "event_ids": [
+        "E003",
+        "E004",
+        "E005",
+        "E006"
+      ],
+      "narrative": "冯玉树初中时九科没凑够300分，后来干教培当上校长，起早贪黑赚了几百万。去年过年时，他买了宝马M2；同学聚会中他比谁都想上凑。饭局上有个葱姜蒜喝多了，直接批判他，拿李宝库与他作对比。回家后，他从博主橱窗买了三本《瓦尔登湖》阅读。",
+      "unresolved": "他买书后是否改变心态、教培事业后续如何、与饭局同学关系是否继续，原文均未交代。",
+      "evidence": [
+        {
+          "index": 205,
+          "url": "https://www.douyin.com/video/7583676385651068196"
+        }
+      ]
+    },
+    {
+      "title": "收入参照与西装租赁线索",
+      "event_ids": [
+        "E001",
+        "E002"
+      ],
+      "narrative": "在另一篇材料中，冯玉树被写成互联网大厂员工，月入3万6；在另一篇材料中，他又是博主初中同学，最近开西装店，能按150元友情价出租定制西装。这些线索没有与教培校长身份建立明确同一关系。",
+      "unresolved": "互联网大厂、西装店、教培校长三种身份是否属于同一人、先后如何，原文没有交代。",
+      "evidence": [
+        {
+          "index": 47,
+          "url": "https://www.douyin.com/video/7682638122002711013"
+        },
+        {
+          "index": 187,
+          "url": "https://www.douyin.com/video/7595620503361015049"
+        }
+      ]
+    }
+  ],
+  "relationships": [
+    {
+      "target": "写手一条城（博主本人/我）",
+      "relation": "初中同学；冯玉树从博主橱窗买书",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 187,
+          "url": "https://www.douyin.com/video/7595620503361015049"
+        },
+        {
+          "index": 205,
+          "url": "https://www.douyin.com/video/7583676385651068196"
+        }
+      ]
+    },
+    {
+      "target": "县城葱姜蒜",
+      "relation": "在同学聚会饭局上批判冯玉树",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 205,
+          "url": "https://www.douyin.com/video/7583676385651068196"
+        }
+      ]
+    },
+    {
+      "target": "李宝库",
+      "relation": "被葱姜蒜拿来与冯玉树作比较",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 205,
+          "url": "https://www.douyin.com/video/7583676385651068196"
+        }
+      ]
+    },
+    {
+      "target": "陆国富、赵铁柱",
+      "relation": "在同一段收入比较中被并列提及",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 47,
+          "url": "https://www.douyin.com/video/7682638122002711013"
+        }
+      ]
+    }
+  ],
+  "speech_habits": [],
+  "contradictions": [
+    {
+      "issue": "冯玉树的职业身份出现不同版本",
+      "versions": [
+        {
+          "claim": "互联网大厂员工，月入3万6",
+          "evidence": [
+            {
+              "index": 47,
+              "url": "https://www.douyin.com/video/7682638122002711013"
+            }
+          ]
+        },
+        {
+          "claim": "开西装店，提供定制西装租赁",
+          "evidence": [
+            {
+              "index": 187,
+              "url": "https://www.douyin.com/video/7595620503361015049"
+            }
+          ]
+        },
+        {
+          "claim": "干教培，当上教培机构校长并赚了几百万",
+          "evidence": [
+            {
+              "index": 205,
+              "url": "https://www.douyin.com/video/7583676385651068196"
+            }
+          ]
+        }
+      ],
+      "resolution": "保留并列，不擅自合并或判定先后。"
+    },
+    {
+      "issue": "收入水平表述不一致",
+      "versions": [
+        {
+          "claim": "月入3万6",
+          "evidence": [
+            {
+              "index": 47,
+              "url": "https://www.douyin.com/video/7682638122002711013"
+            }
+          ]
+        },
+        {
+          "claim": "干教培两年赚了几百万",
+          "evidence": [
+            {
+              "index": 205,
+              "url": "https://www.douyin.com/video/7583676385651068196"
+            }
+          ]
+        }
+      ],
+      "resolution": "可能是不同阶段或不同文本版本，原文未说明，保留并列。"
+    },
+    {
+      "issue": "“互联网大厂的冯玉树”与“我初中同学冯玉树”是否同一人未明说",
+      "versions": [
+        {
+          "claim": "47只称其为互联网大厂的冯玉树，未提初中同学关系",
+          "evidence": [
+            {
+              "index": 47,
+              "url": "https://www.douyin.com/video/7682638122002711013"
+            }
+          ]
+        },
+        {
+          "claim": "187、205称其为博主初中同学",
+          "evidence": [
+            {
+              "index": 187,
+              "url": "https://www.douyin.com/video/7595620503361015049"
+            },
+            {
+              "index": 205,
+              "url": "https://www.douyin.com/video/7583676385651068196"
+            }
+          ]
+        }
+      ],
+      "resolution": "原文没有明确同一身份，保留并列。"
+    }
+  ],
+  "gaps": [
+    "冯玉树的年龄、所在县城、家庭背景等未交代。",
+    "“互联网大厂”具体是哪家公司、什么岗位未交代。",
+    "教培机构名称、规模、经营起止时间未交代。",
+    "西装店名称、与教培或互联网大厂经历是否同一时期未交代。",
+    "宝马M2是全款还是贷款购买未交代。",
+    "同学聚会中被批评后的后续反应与关系变化未交代。",
+    "与李宝库等人的后续关系未交代。",
+    "冯玉树的年龄、所在县城、家庭背景未交代。",
+    "西装店名称及其与教培、互联网大厂经历是否同一时期未交代。",
+    "互联网大厂员工、西装店老板、教培校长三种身份是否同一人未交代。"
+  ],
+  "creative_expansions": [],
+  "source_coverage": [
+    {
+      "index": 47,
+      "role": "提供“互联网大厂的冯玉树一个月3万6”这一收入参照设定，用于对比县城编制收入。",
+      "url": "https://www.douyin.com/video/7682638122002711013"
+    },
+    {
+      "index": 187,
+      "role": "提供“初中同学冯玉树开西装店、可150元租两天定制西装”的材料。",
+      "url": "https://www.douyin.com/video/7595620503361015049"
+    },
+    {
+      "index": 205,
+      "role": "提供冯玉树干教培、当校长、赚几百万、买宝马M2、同学饭局被批判、买《瓦尔登湖》的主要叙事。",
+      "url": "https://www.douyin.com/video/7583676385651068196"
+    }
+  ]
+}

@@ -1,0 +1,928 @@
+{
+  "name": "县城年轻人",
+  "nature": "复合群像/原型，不是单一自然人的连续传记。多篇文案把“县城里的年轻人/普通人”作为泛称：普通家庭出身、月入约5000、与父母同住、受父母期待考编、婚恋与面子消费受熟人评价约束；婚恋、消费、攒钱、回县城等版本并存，各段叙述按出处并列呈现线。",
+  "overview": "县城年轻人多被写成普通家庭出身，父母上班月入几千，自己月入约5000；前二十多年受父母抚养，对钱概念模糊。工作后与父母同住，房租伙食大头被省去，5000元被当成可支配收入，提前过上小布尔乔亚生活并误以为婚后更舒服。职业上很多人毕业考公务员或考编，受父母期待和路径依赖影响；婚恋被要求20至26岁，超过27岁未婚会被议论。谈婚论嫁常由父母掏房子、车子、彩礼、嫁妆、酒席、车队，婚礼像cosplay小资；婚后失去帮衬、添孩子，收入不增甚至下降，婚姻可能随中产梦泡沫破灭。消费上面子优先，贷款买BBA、买贵手机、露脸场合梭哈；同时又被写成二三十岁拼命攒钱、不探索世界。多版本并存：对钱没概念与拼命攒钱；买排面与先攒钱；县城是退路与锁死年轻人；编制有含金量与奢侈/鸡肋；车必须买贵与绝大多数人买不起。",
+  "identity": [
+    {
+      "claim": "县城普通家庭出身，父母多为上班族、月入几千，自己月收入约5000。",
+      "evidence": [
+        {
+          "index": 102,
+          "url": "https://www.douyin.com/video/7650896432228381093"
+        }
+      ]
+    },
+    {
+      "claim": "人生前二十多年受父母抚养、只在学校生活，对钱没有明确概念。",
+      "evidence": [
+        {
+          "index": 102,
+          "url": "https://www.douyin.com/video/7650896432228381093"
+        }
+      ]
+    },
+    {
+      "claim": "很多县城年轻人与父母同吃同住，房租和伙食等支出大头被省去。",
+      "evidence": [
+        {
+          "index": 102,
+          "url": "https://www.douyin.com/video/7650896432228381093"
+        }
+      ]
+    },
+    {
+      "claim": "月入5000被当成绝对可支配收入，容易提前过上小布尔乔亚生活。",
+      "evidence": [
+        {
+          "index": 102,
+          "url": "https://www.douyin.com/video/7650896432228381093"
+        }
+      ]
+    },
+    {
+      "claim": "县城婚恋规范把恋爱年龄卡在20至26岁，超过27岁未婚会被贬低。",
+      "evidence": [
+        {
+          "index": 86,
+          "url": "https://www.douyin.com/video/7658283175987842344"
+        }
+      ]
+    },
+    {
+      "claim": "被建议开一台像样的车，车被视为身份标识和社交安全线。",
+      "evidence": [
+        {
+          "index": 80,
+          "url": "https://www.douyin.com/video/7662329144269387365"
+        }
+      ]
+    },
+    {
+      "claim": "很多人毕业去考公务员或考编，受父母期待和路径依赖影响。",
+      "evidence": [
+        {
+          "index": 46,
+          "url": "https://www.douyin.com/video/7683102347271536741"
+        },
+        {
+          "index": 43,
+          "url": "https://www.douyin.com/video/7684493173536304229"
+        }
+      ]
+    }
+  ],
+  "traits": [
+    {
+      "claim": "深层特征：极度在意面子和别人眼光，不能让人笑话。",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 86,
+          "url": "https://www.douyin.com/video/7658283175987842344"
+        },
+        {
+          "index": 57,
+          "url": "https://www.douyin.com/video/7675627007129232497"
+        }
+      ]
+    },
+    {
+      "claim": "欲望：追求排面，用豪车、贵手机、婚礼等展示身份。",
+      "kind": "欲望",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 264,
+          "url": "https://www.douyin.com/video/7524153080632315175"
+        },
+        {
+          "index": 80,
+          "url": "https://www.douyin.com/video/7662329144269387365"
+        }
+      ]
+    },
+    {
+      "claim": "恐惧：怕被笑话、怕被看不起、怕成为异类。",
+      "kind": "恐惧",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 86,
+          "url": "https://www.douyin.com/video/7658283175987842344"
+        },
+        {
+          "index": 57,
+          "url": "https://www.douyin.com/video/7675627007129232497"
+        }
+      ]
+    },
+    {
+      "claim": "动机：人生选择受父母期待和扶持驱动。",
+      "kind": "动机",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 46,
+          "url": "https://www.douyin.com/video/7683102347271536741"
+        },
+        {
+          "index": 87,
+          "url": "https://www.douyin.com/video/7658207183385005363"
+        }
+      ]
+    },
+    {
+      "claim": "矛盾：收入有限，但消费和婚姻期待被拉到小资水平。",
+      "kind": "矛盾",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 102,
+          "url": "https://www.douyin.com/video/7650896432228381093"
+        }
+      ]
+    },
+    {
+      "claim": "特征：对钱缺乏明确概念，容易把5000元当可支配收入。",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 102,
+          "url": "https://www.douyin.com/video/7650896432228381093"
+        }
+      ]
+    },
+    {
+      "claim": "特征：把汽车视为身份标识，甚至贷款购买。",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 18,
+          "url": "https://www.douyin.com/video/7697428218999098639"
+        },
+        {
+          "index": 80,
+          "url": "https://www.douyin.com/video/7662329144269387365"
+        }
+      ]
+    },
+    {
+      "claim": "特征：二三十岁拼命攒钱、延迟满足，压缩探索和体验。",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 87,
+          "url": "https://www.douyin.com/video/7658207183385005363"
+        }
+      ]
+    },
+    {
+      "claim": "特征：在县城评价体系中被要求稳定、体面、按部就班。",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 77,
+          "url": "https://www.douyin.com/video/7664527953162788282"
+        }
+      ]
+    },
+    {
+      "claim": "特征：有人因家庭经济与认知限制中断升学或学业被放任荒废。",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 46,
+          "url": "https://www.douyin.com/video/7683102347271536741"
+        }
+      ]
+    },
+    {
+      "claim": "极度在意面子和别人眼光，不能让人笑话。",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "追求排面，用豪车、贵手机、婚礼等展示身份。",
+      "kind": "欲望",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "人生选择受父母期待和扶持驱动。",
+      "kind": "动机",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "收入有限，但消费和婚姻期待被拉到小资水平。",
+      "kind": "矛盾",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "对钱缺乏明确概念，容易把5000元当可支配收入。",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "把汽车视为身份标识，甚至贷款购买。",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "二三十岁拼命攒钱、延迟满足，压缩探索和体验。",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "在县城评价体系中被要求稳定、体面、按部就班。",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "有人因家庭经济与认知限制中断升学或学业被放任荒废。",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "文本同时写“对钱没概念”与“拼命攒钱”，也同时写“买排面”与“先攒钱”，均并列保留。",
+      "kind": "矛盾",
+      "certainty": "文本推断",
+      "evidence": []
+    }
+  ],
+  "life_domains": [
+    {
+      "domain": "家庭",
+      "claim": "与父母同住，受父母抚养；婚房、车、彩礼等常由父母掏钱支持。",
+      "evidence": [
+        {
+          "index": 102,
+          "url": "https://www.douyin.com/video/7650896432228381093"
+        }
+      ]
+    },
+    {
+      "domain": "职业",
+      "claim": "很多人毕业去考公务员或考编，父母最羡慕这类职业。",
+      "evidence": [
+        {
+          "index": 46,
+          "url": "https://www.douyin.com/video/7683102347271536741"
+        },
+        {
+          "index": 47,
+          "url": "https://www.douyin.com/video/7682638122002711013"
+        }
+      ]
+    },
+    {
+      "domain": "金钱/消费",
+      "claim": "月入约5000，对钱没概念，面子消费优先，贷款买BBA等。",
+      "evidence": [
+        {
+          "index": 102,
+          "url": "https://www.douyin.com/video/7650896432228381093"
+        },
+        {
+          "index": 18,
+          "url": "https://www.douyin.com/video/7697428218999098639"
+        }
+      ]
+    },
+    {
+      "domain": "婚恋",
+      "claim": "20至26岁恋爱结婚，超过27岁未婚被议论；谈婚论嫁卡房车彩礼，父母梭哈办婚礼。",
+      "evidence": [
+        {
+          "index": 86,
+          "url": "https://www.douyin.com/video/7658283175987842344"
+        },
+        {
+          "index": 266,
+          "url": "https://www.douyin.com/video/7520205533916269860"
+        }
+      ]
+    },
+    {
+      "domain": "社交/评价",
+      "claim": "熟人社会里怕被街坊议论，以不能让人笑话约束自己。",
+      "evidence": [
+        {
+          "index": 86,
+          "url": "https://www.douyin.com/video/7658283175987842344"
+        },
+        {
+          "index": 57,
+          "url": "https://www.douyin.com/video/7675627007129232497"
+        }
+      ]
+    },
+    {
+      "domain": "住房",
+      "claim": "父母在县城给孩子买房，年轻人收入与住房期待不匹配。",
+      "evidence": [
+        {
+          "index": 102,
+          "url": "https://www.douyin.com/video/7650896432228381093"
+        },
+        {
+          "index": 280,
+          "url": "https://www.douyin.com/video/7507664296239795467"
+        }
+      ]
+    },
+    {
+      "domain": "汽车",
+      "claim": "车是身份标识和最低社交安全线，可拿一半存款或贷款买贵车。",
+      "evidence": [
+        {
+          "index": 80,
+          "url": "https://www.douyin.com/video/7662329144269387365"
+        }
+      ]
+    },
+    {
+      "domain": "城市选择",
+      "claim": "被劝回县城躺平或考编，同时又被说县城会锁死年轻人。",
+      "evidence": [
+        {
+          "index": 20,
+          "url": "https://www.douyin.com/video/7696047368970595771"
+        },
+        {
+          "index": 77,
+          "url": "https://www.douyin.com/video/7664527953162788282"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "event_id": "E001",
+      "title": "毕业后的职业选择受父母影响",
+      "description": "很多人毕业去考公务员或考编，因为父母最羡慕这类职业；也有人被期待回县城走稳定路径。",
+      "temporal": "原文未明示具体时间；属于群体现象",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 46,
+          "url": "https://www.douyin.com/video/7683102347271536741"
+        },
+        {
+          "index": 43,
+          "url": "https://www.douyin.com/video/7684493173536304229"
+        }
+      ]
+    },
+    {
+      "event_id": "E002",
+      "title": "进入婚恋年龄轨道",
+      "description": "县城规范要求20至26岁恋爱结婚，超过27岁未婚会被议论为废了。",
+      "temporal": "原文明确20~26岁，超过27岁",
+      "chronology_basis": "明示",
+      "evidence": [
+        {
+          "index": 86,
+          "url": "https://www.douyin.com/video/7658283175987842344"
+        }
+      ]
+    },
+    {
+      "event_id": "E003",
+      "title": "工作后与父母同住并形成可支配收入错觉",
+      "description": "工作后仍与父母同住，房租伙食等大头被省去，5000元收入被当成绝对可支配收入，开始小资消费。",
+      "temporal": "工作之后，原文先讲前二十多年受抚养，再讲工作之后",
+      "chronology_basis": "明示",
+      "evidence": [
+        {
+          "index": 102,
+          "url": "https://www.douyin.com/video/7650896432228381093"
+        }
+      ]
+    },
+    {
+      "event_id": "E004",
+      "title": "父母梭哈式操办婚事",
+      "description": "父母咬牙掏出房子、车子、彩礼、嫁妆、酒席、车队，把婚礼办成小资cosplay。",
+      "temporal": "婚礼来临的时候",
+      "chronology_basis": "明示",
+      "evidence": [
+        {
+          "index": 102,
+          "url": "https://www.douyin.com/video/7650896432228381093"
+        }
+      ]
+    },
+    {
+      "event_id": "E005",
+      "title": "婚后失去帮衬并可能崩盘",
+      "description": "婚后失去父母帮衬，又添孩子，收入不增或下降，婚姻可能随中产梦泡沫一起破灭。",
+      "temporal": "婚礼之后",
+      "chronology_basis": "明示",
+      "evidence": [
+        {
+          "index": 102,
+          "url": "https://www.douyin.com/video/7650896432228381093"
+        }
+      ]
+    },
+    {
+      "event_id": "E006",
+      "title": "贷款买BBA或迈巴赫撑排面",
+      "description": "被劝趁年轻买排面，拉饥荒买BBA，有条件买迈巴赫，以车换身份、婚恋和尊重。",
+      "temporal": "趁年轻",
+      "chronology_basis": "明示",
+      "evidence": [
+        {
+          "index": 264,
+          "url": "https://www.douyin.com/video/7524153080632315175"
+        }
+      ]
+    },
+    {
+      "event_id": "E007",
+      "title": "二三十岁拼命攒钱",
+      "description": "二三十岁不去探索世界、发展爱好、体验生活，全部研究怎么攒钱。",
+      "temporal": "二三十岁",
+      "chronology_basis": "明示",
+      "evidence": [
+        {
+          "index": 87,
+          "url": "https://www.douyin.com/video/7658207183385005363"
+        },
+        {
+          "index": 335,
+          "url": "https://www.douyin.com/video/7425663482017615114"
+        }
+      ]
+    },
+    {
+      "event_id": "E008",
+      "title": "升学机会被家庭限制",
+      "description": "有孩子考上大学后因父母觉得花钱多不让上，也有父母在初中就放任、纵容孩子荒废学业。",
+      "temporal": "考上大学之后、初中阶段",
+      "chronology_basis": "明示",
+      "evidence": [
+        {
+          "index": 46,
+          "url": "https://www.douyin.com/video/7683102347271536741"
+        }
+      ]
+    },
+    {
+      "event_id": "E009",
+      "title": "在露脸场合梭哈面子消费",
+      "description": "在婚恋、红白喜事等能露脸的场合必须梭哈，比如彩礼28万8、酒席、金饰等。",
+      "temporal": "婚恋、红白事等场合",
+      "chronology_basis": "明示",
+      "evidence": [
+        {
+          "index": 86,
+          "url": "https://www.douyin.com/video/7658283175987842344"
+        }
+      ]
+    },
+    {
+      "event_id": "E010",
+      "title": "被县城评价体系锁死",
+      "description": "县城用单一评价体系要求稳定、体面、按部就班，年轻人最终放弃试错突破翻盘。",
+      "temporal": "原文未明示",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 77,
+          "url": "https://www.douyin.com/video/7664527953162788282"
+        }
+      ]
+    },
+    {
+      "event_id": "E011",
+      "title": "被劝回县城",
+      "description": "年轻人被劝回县城，认为回县城能缓解焦虑、降低生存压力，进入半躺平状态。",
+      "temporal": "原文未明示",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 20,
+          "url": "https://www.douyin.com/video/7696047368970595771"
+        },
+        {
+          "index": 23,
+          "url": "https://www.douyin.com/video/7694925361536200165"
+        }
+      ]
+    }
+  ],
+  "storylines": [
+    {
+      "title": "父母梭哈式成家：从五千可支配到婚姻崩盘",
+      "event_ids": [
+        "E003",
+        "E004",
+        "E005"
+      ],
+      "narrative": "两个县城普通家庭的年轻人，自己月入约5000，前二十多年受父母抚养，对钱没有明确概念。工作后仍与父母同吃同住，支出大头被省去，5000元成了绝对可支配收入，于是提前过上小布尔乔亚生活，并误以为婚后会更舒服。到了结婚时，父母咬牙掏房子、车子、彩礼、嫁妆、酒席、车队，婚礼像cosplay小资。婚后他们失去父母帮衬，又添孩子，收入不增甚至下降，原文判断婚姻有极大概率随中产梦泡沫一起破灭，因为只能同甘不能共苦。",
+      "unresolved": "没有交代具体人物姓名、是否离婚、财产和孩子如何处置、后续有没有转机。",
+      "evidence": [
+        {
+          "index": 102,
+          "url": "https://www.douyin.com/video/7650896432228381093"
+        }
+      ]
+    },
+    {
+      "title": "婚恋年龄规训与面子消费",
+      "event_ids": [
+        "E002",
+        "E006",
+        "E009"
+      ],
+      "narrative": "县城年轻人被要求20至26岁恋爱结婚，超过27岁未婚会被贬低、被笑话。为了不被笑话，在婚恋和能露脸的场合必须梭哈，彩礼、酒席、金饰都要撑住；同时被劝趁年轻买排面，拉饥荒买BBA，有条件上迈巴赫。冲突在于收入有限而面子需求无限，原文说私下吃苦不重要，外面不能让人笑话。",
+      "unresolved": "没有交代这些消费如何偿还、是否真的换来婚恋优势、婚后生活怎样。",
+      "evidence": [
+        {
+          "index": 86,
+          "url": "https://www.douyin.com/video/7658283175987842344"
+        }
+      ]
+    },
+    {
+      "title": "家庭期待与路径依赖",
+      "event_ids": [
+        "E001",
+        "E008",
+        "E010"
+      ],
+      "narrative": "县城普通家庭的年轻人，人生选择常受父母期待影响，很多人毕业去考公务员或考编，因为父母最羡慕这些职业。也有孩子考上大学后被父母以花钱太多为由不让上，或在初中被放任、纵容而荒废学业。县城的评价体系又要求稳定、体面、按部就班，最终让人放弃试错突破翻盘，乖乖融入体系。",
+      "unresolved": "没有交代个体是否成功上岸、是否离开县城、是否有人打破路径依赖。",
+      "evidence": [
+        {
+          "index": 46,
+          "url": "https://www.douyin.com/video/7683102347271536741"
+        },
+        {
+          "index": 77,
+          "url": "https://www.douyin.com/video/7664527953162788282"
+        }
+      ]
+    }
+  ],
+  "relationships": [
+    {
+      "target": "县城父母",
+      "relation": "子女；职业、婚恋、房车彩礼和消费受父母期待与扶持影响",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 46,
+          "url": "https://www.douyin.com/video/7683102347271536741"
+        },
+        {
+          "index": 102,
+          "url": "https://www.douyin.com/video/7650896432228381093"
+        }
+      ]
+    },
+    {
+      "target": "街坊四邻、亲戚朋友",
+      "relation": "被其评价、议论、笑话，也以不能让人笑话来约束自己",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 86,
+          "url": "https://www.douyin.com/video/7658283175987842344"
+        },
+        {
+          "index": 57,
+          "url": "https://www.douyin.com/video/7675627007129232497"
+        }
+      ]
+    },
+    {
+      "target": "县城瑜伽裤",
+      "relation": "在婚恋和相亲假想中，开好车被描述为能提升吸引力和被高看",
+      "certainty": "文本推断",
+      "evidence": [
+        {
+          "index": 45,
+          "url": "https://www.douyin.com/video/7683421956008557434"
+        },
+        {
+          "index": 264,
+          "url": "https://www.douyin.com/video/7524153080632315175"
+        }
+      ]
+    },
+    {
+      "target": "单位上司/老板",
+      "relation": "被建议开豪车获得职场底气，敢对上司强硬",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 264,
+          "url": "https://www.douyin.com/video/7524153080632315175"
+        }
+      ]
+    },
+    {
+      "target": "县城编制/体制",
+      "relation": "很多人考公考编，编制被视为体面、稳定、不被笑话的路径",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 86,
+          "url": "https://www.douyin.com/video/7658283175987842344"
+        },
+        {
+          "index": 47,
+          "url": "https://www.douyin.com/video/7682638122002711013"
+        }
+      ]
+    },
+    {
+      "target": "大城市",
+      "relation": "被劝离开大城市回县城，同时又被说县城会锁死年轻人",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 20,
+          "url": "https://www.douyin.com/video/7696047368970595771"
+        },
+        {
+          "index": 45,
+          "url": "https://www.douyin.com/video/7683421956008557434"
+        }
+      ]
+    }
+  ],
+  "speech_habits": [
+    {
+      "claim": "用朋友圈、短视频展示小资和高光消费，把体面外显。",
+      "evidence": [
+        {
+          "index": 102,
+          "url": "https://www.douyin.com/video/7650896432228381093"
+        }
+      ]
+    },
+    {
+      "claim": "以“不能让人笑话”作为核心价值判断和对外说法。",
+      "evidence": [
+        {
+          "index": 86,
+          "url": "https://www.douyin.com/video/7658283175987842344"
+        },
+        {
+          "index": 57,
+          "url": "https://www.douyin.com/video/7675627007129232497"
+        }
+      ]
+    }
+  ],
+  "contradictions": [
+    {
+      "issue": "县城年轻人到底该攒钱还是该买排面？",
+      "versions": [
+        {
+          "claim": "版本A：应趁年轻买排面，拉饥荒买BBA，有条件上迈巴赫，排面能换来婚恋和尊重。",
+          "evidence": [
+            {
+              "index": 264,
+              "url": "https://www.douyin.com/video/7524153080632315175"
+            }
+          ]
+        },
+        {
+          "claim": "版本B：二三十岁拼命攒钱、延迟满足，被教育先苦后甜，压缩体验和爱好。",
+          "evidence": [
+            {
+              "index": 87,
+              "url": "https://www.douyin.com/video/7658207183385005363"
+            }
+          ]
+        }
+      ],
+      "resolution": "保留并列，不擅自合并或选定。"
+    },
+    {
+      "issue": "县城年轻人对钱是否有概念？",
+      "versions": [
+        {
+          "claim": "版本A：对钱没有明确概念，5000元被当成绝对可支配收入，提前过小资生活。",
+          "evidence": [
+            {
+              "index": 102,
+              "url": "https://www.douyin.com/video/7650896432228381093"
+            }
+          ]
+        },
+        {
+          "claim": "版本B：研究怎么攒钱，关注存钱博主，工作没几年就攒下大几十万。",
+          "evidence": [
+            {
+              "index": 87,
+              "url": "https://www.douyin.com/video/7658207183385005363"
+            }
+          ]
+        }
+      ],
+      "resolution": "保留并列，不擅自合并或选定。"
+    },
+    {
+      "issue": "县城是年轻人的退路/温柔乡，还是锁死他们的地方？",
+      "versions": [
+        {
+          "claim": "版本A：县城是退路和舒适区，生存成本低，可回县城半躺平。",
+          "evidence": [
+            {
+              "index": 297,
+              "url": "https://www.douyin.com/video/7488001889150274831"
+            }
+          ]
+        },
+        {
+          "claim": "版本B：县城消耗注意力、人情排场和单一评价体系，把普通人锁死底层。",
+          "evidence": [
+            {
+              "index": 77,
+              "url": "https://www.douyin.com/video/7664527953162788282"
+            }
+          ]
+        }
+      ],
+      "resolution": "保留并列，不擅自合并或选定。"
+    },
+    {
+      "issue": "编制对县城年轻人是含金量还是奢侈/鸡肋？",
+      "versions": [
+        {
+          "claim": "版本A：编制让人不被笑话，在县城评价体系中有含金量。",
+          "evidence": [
+            {
+              "index": 86,
+              "url": "https://www.douyin.com/video/7658283175987842344"
+            }
+          ]
+        },
+        {
+          "claim": "版本B：县城编制对很多人是奢侈选择，意味着放弃物质生活丰富性。",
+          "evidence": [
+            {
+              "index": 47,
+              "url": "https://www.douyin.com/video/7682638122002711013"
+            }
+          ]
+        }
+      ],
+      "resolution": "保留并列，不擅自合并或选定。"
+    },
+    {
+      "issue": "汽车对县城年轻人是必须买贵，还是绝大多数人买不起、只是撑面子？",
+      "versions": [
+        {
+          "claim": "版本A：必须开像样车，车是身份标识和最低社交安全线，可拿一半存款或贷款买。",
+          "evidence": [
+            {
+              "index": 80,
+              "url": "https://www.douyin.com/video/7662329144269387365"
+            }
+          ]
+        },
+        {
+          "claim": "版本B：以县城平均收入绝大多数人买不起车，车是撑面子的东西。",
+          "evidence": [
+            {
+              "index": 68,
+              "url": "https://www.douyin.com/video/7670847567240235621"
+            }
+          ]
+        }
+      ],
+      "resolution": "保留并列，不擅自合并或选定。"
+    }
+  ],
+  "gaps": [
+    "具体年龄范围、性别比例、职业分布和收入分布未交代。",
+    "哪些人属于本地人、哪些是回流者、哪些是外来者未交代。",
+    "考编是否成功、是否有人离开县城、是否有人打破路径依赖未交代。",
+    "婚恋崩盘后是否离婚、财产和孩子如何处置未交代。",
+    "面子消费和贷款买车的还款结果未交代。",
+    "不同家庭条件、不同学历的县城年轻人差异未展开。"
+  ],
+  "creative_expansions": [],
+  "source_coverage": [
+    {
+      "index": 46,
+      "role": "提供底层选择权受限、父母影响职业选择、考公考编路径依赖、升学被家庭限制等材料。",
+      "url": "https://www.douyin.com/video/7683102347271536741"
+    },
+    {
+      "index": 80,
+      "role": "提供县城年轻人必须开像样车、车作为身份标识和社交安全线、可拿存款或贷款买车的材料。",
+      "url": "https://www.douyin.com/video/7662329144269387365"
+    },
+    {
+      "index": 86,
+      "role": "提供不能让人笑话、婚恋年龄规训、编制、面子消费和露脸场合梭哈等材料。",
+      "url": "https://www.douyin.com/video/7658283175987842344"
+    },
+    {
+      "index": 87,
+      "role": "提供延迟满足、拼命攒钱、父母为子女买房买车掏彩礼、二三十岁不体验生活等材料。",
+      "url": "https://www.douyin.com/video/7658207183385005363"
+    },
+    {
+      "index": 102,
+      "role": "提供县城普通家庭年轻人月入5000、与父母同住、对钱没概念、婚礼cosplay小资、婚后崩盘等核心材料。",
+      "url": "https://www.douyin.com/video/7650896432228381093"
+    },
+    {
+      "index": 264,
+      "role": "提供排面至上、趁年轻买BBA/迈巴赫、车换婚恋和职场底气等材料。",
+      "url": "https://www.douyin.com/video/7524153080632315175"
+    },
+    {
+      "index": 18,
+      "role": "提供面子优先、贷款买BBA、露脸消费梭哈等补充材料。",
+      "url": "https://www.douyin.com/video/7697428218999098639"
+    },
+    {
+      "index": 19,
+      "role": "提供年轻人焦虑解法是回县城的补充材料。",
+      "url": "https://www.douyin.com/video/7696839233395416185"
+    },
+    {
+      "index": 20,
+      "role": "提供年轻人回县城、半躺平、低生存压力的补充材料。",
+      "url": "https://www.douyin.com/video/7696047368970595771"
+    },
+    {
+      "index": 23,
+      "role": "提供去县城的版本终极答案等补充材料。",
+      "url": "https://www.douyin.com/video/7694925361536200165"
+    },
+    {
+      "index": 43,
+      "role": "提供普通家庭年轻人cosplay编二代、大城市搞钱回县城考编的补充材料。",
+      "url": "https://www.douyin.com/video/7684493173536304229"
+    },
+    {
+      "index": 45,
+      "role": "提供县城高端消费智商税、汽车手机买最贵的补充材料。",
+      "url": "https://www.douyin.com/video/7683421956008557434"
+    },
+    {
+      "index": 47,
+      "role": "提供县城编制是奢侈选择的补充材料。",
+      "url": "https://www.douyin.com/video/7682638122002711013"
+    },
+    {
+      "index": 57,
+      "role": "提供县城人笑话别人和不让人笑话的补充材料。",
+      "url": "https://www.douyin.com/video/7675627007129232497"
+    },
+    {
+      "index": 68,
+      "role": "提供县城平均收入下绝大多数人买不起车、车是撑面子的补充材料。",
+      "url": "https://www.douyin.com/video/7670847567240235621"
+    },
+    {
+      "index": 77,
+      "role": "提供县城锁死年轻人、单一评价体系、排场攀比、放弃试错等补充材料。",
+      "url": "https://www.douyin.com/video/7664527953162788282"
+    },
+    {
+      "index": 266,
+      "role": "提供结婚娶媳妇生娃是家庭执念、天价彩礼的补充材料。",
+      "url": "https://www.douyin.com/video/7520205533916269860"
+    },
+    {
+      "index": 280,
+      "role": "提供普通人买不起房、房子透支未来收入的补充材料。",
+      "url": "https://www.douyin.com/video/7507664296239795467"
+    },
+    {
+      "index": 297,
+      "role": "提供县城是舒适区的补充材料。",
+      "url": "https://www.douyin.com/video/7488001889150274831"
+    },
+    {
+      "index": 335,
+      "role": "提供二三十岁拼命攒钱的补充材料。",
+      "url": "https://www.douyin.com/video/7425663482017615114"
+    }
+  ]
+}

@@ -1,0 +1,628 @@
+{
+  "name": "县城新郎",
+  "nature": "复合群像/文本原型，兼有个案材料。原文多在评论县城婚礼、彩礼与婚姻条件时泛指“新郎/男方/一对新人”，并非同一自然人的连续传记；35万彩礼订婚视频中的“新郎”只能单列，不能与其他篇男方强行合并。",
+  "overview": "县城新郎是县城婚礼与婚恋讨论中的男方位置，不是具名个人。多数文本以“一对新人/男方/新郎”泛指县城普通家庭青年：婚礼上配合租车、租衣、布景、婚纱照、车队、婚宴与宣誓，把普通生活包装成“富人区一日体验卡”；订婚结婚前后被放入彩礼、嫁妆、车房、改口费协商与摆拍；婚后叙述转向房贷、日常开销、收入下降与失业风险。另有个案：男方支付35万彩礼，订婚照未露脸，三天后新视频才出镜。泛述与个案并列，按出处并列呈现。",
+  "identity": [
+    {
+      "claim": "在多数文本中，他以婚礼中的“男方/一对新人”身份出现，而非独立具名人物。",
+      "evidence": [
+        {
+          "index": 67,
+          "url": "https://www.douyin.com/video/7671494057278303865"
+        },
+        {
+          "index": 596,
+          "url": "https://www.douyin.com/video/7077881116119567630"
+        }
+      ]
+    },
+    {
+      "claim": "常被叙述为县城普通家庭出身的青年，婚礼与彩礼开支依赖家庭支持。",
+      "evidence": [
+        {
+          "index": 102,
+          "url": "https://www.douyin.com/video/7650896432228381093"
+        },
+        {
+          "index": 278,
+          "url": "https://www.douyin.com/video/7508671579355680058"
+        }
+      ]
+    }
+  ],
+  "traits": [
+    {
+      "claim": "其日常与婚礼造型形成反差，配合婚纱照和婚礼中的贵族化、豪门化装扮。",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 67,
+          "url": "https://www.douyin.com/video/7671494057278303865"
+        }
+      ]
+    },
+    {
+      "claim": "婚礼在其叙述中是可租赁、可布景、可表演的“富人一日体验”。",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 67,
+          "url": "https://www.douyin.com/video/7671494057278303865"
+        }
+      ]
+    },
+    {
+      "claim": "婚姻成立被叙述为受彩礼、车房、改口费等经济条件约束。",
+      "kind": "动机",
+      "certainty": "文本推断",
+      "evidence": [
+        {
+          "index": 196,
+          "url": "https://www.douyin.com/video/7588930580520160527"
+        },
+        {
+          "index": 320,
+          "url": "https://www.douyin.com/video/7468700430642482483"
+        }
+      ]
+    },
+    {
+      "claim": "婚礼誓言与条件门槛并置，文本借此解构“无论贫穷富贵”的承诺。",
+      "kind": "矛盾",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 320,
+          "url": "https://www.douyin.com/video/7468700430642482483"
+        }
+      ]
+    },
+    {
+      "claim": "婚后经济与失业压力被视为婚姻崩盘的重要风险。",
+      "kind": "恐惧",
+      "certainty": "文本推断",
+      "evidence": [
+        {
+          "index": 320,
+          "url": "https://www.douyin.com/video/7468700430642482483"
+        },
+        {
+          "index": 102,
+          "url": "https://www.douyin.com/video/7650896432228381093"
+        }
+      ]
+    },
+    {
+      "claim": "个案中，男方承担35万彩礼，却在订婚公开影像中缺席；后因舆论压力补发新郎出镜的视频。",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 596,
+          "url": "https://www.douyin.com/video/7077881116119567630"
+        }
+      ]
+    },
+    {
+      "claim": "其核心场景是婚纱照、婚车车队、婚宴、婚礼宣誓等仪式流程。",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "彩礼、嫁妆、车房、装修、酒席等被逐项计入婚姻成本。",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "婚后叙述转向房贷、300元短袖等日常开销与争吵。",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "是否有编制被纳入婚姻条件讨论，成为承诺可信度的象征。",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "婚礼与彩礼被摆到亲友、网友面前展示，具有公开表演性质。",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "文本一面写婚礼隆重、誓言庄严。",
+      "kind": "矛盾",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "同一文本又强调车、衣、布景是租来的，彩礼少2万就站不到婚礼上。",
+      "kind": "矛盾",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "彩礼展示被写成给的多的必须拍照、做牌子。",
+      "kind": "矛盾",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "彩礼数额又被写成两家在订婚结婚前已商量好，公开摆拍承担展示功能。",
+      "kind": "矛盾",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "35万彩礼个案中，15张订婚照里新郎未露脸，连背影都没给。",
+      "kind": "矛盾",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "三天后新视频里，新郎终于出镜，按原文时间并列。",
+      "kind": "矛盾",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "婚礼叙事表面上是两个人结婚。",
+      "kind": "矛盾",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "评论又说实际是两个人的条件在结婚，彩礼、编制、车房等条件被突出。",
+      "kind": "矛盾",
+      "certainty": "文本推断",
+      "evidence": []
+    }
+  ],
+  "life_domains": [
+    {
+      "domain": "婚恋/婚礼",
+      "claim": "其核心场景是婚纱照、婚车车队、婚宴、婚礼宣誓等仪式流程。",
+      "evidence": [
+        {
+          "index": 67,
+          "url": "https://www.douyin.com/video/7671494057278303865"
+        },
+        {
+          "index": 320,
+          "url": "https://www.douyin.com/video/7468700430642482483"
+        }
+      ]
+    },
+    {
+      "domain": "金钱/彩礼",
+      "claim": "彩礼、嫁妆、车房、装修、酒席等被逐项计入婚姻成本。",
+      "evidence": [
+        {
+          "index": 196,
+          "url": "https://www.douyin.com/video/7588930580520160527"
+        },
+        {
+          "index": 278,
+          "url": "https://www.douyin.com/video/7508671579355680058"
+        }
+      ]
+    },
+    {
+      "domain": "家庭/代际支持",
+      "claim": "男方家庭与女方家庭被写进彩礼、嫁妆及婚礼开支的协商中。",
+      "evidence": [
+        {
+          "index": 196,
+          "url": "https://www.douyin.com/video/7588930580520160527"
+        },
+        {
+          "index": 102,
+          "url": "https://www.douyin.com/video/7650896432228381093"
+        }
+      ]
+    },
+    {
+      "domain": "婚后日常",
+      "claim": "婚礼落幕后，叙述转向房贷、短袖等日常开销与争吵。",
+      "evidence": [
+        {
+          "index": 67,
+          "url": "https://www.douyin.com/video/7671494057278303865"
+        }
+      ]
+    },
+    {
+      "domain": "职业/编制",
+      "claim": "是否有编制被纳入婚姻条件的讨论，成为承诺可信度的象征。",
+      "evidence": [
+        {
+          "index": 320,
+          "url": "https://www.douyin.com/video/7468700430642482483"
+        }
+      ]
+    },
+    {
+      "domain": "社交/面子",
+      "claim": "婚礼与彩礼被摆到亲友、网友面前展示，具有公开表演性质。",
+      "evidence": [
+        {
+          "index": 196,
+          "url": "https://www.douyin.com/video/7588930580520160527"
+        },
+        {
+          "index": 596,
+          "url": "https://www.douyin.com/video/7077881116119567630"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "event_id": "E001",
+      "title": "婚纱照与婚礼的“一日豪门体验”",
+      "description": "文本描述县城婚礼中，一对新人穿租来的礼服、在租来的布景前拍照，坐租来的车队、办婚宴，并按照司仪流程完成仪式，把婚礼表现为普通人cosplay富人的一天。",
+      "temporal": "顺序不明（泛述婚礼流程）",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 67,
+          "url": "https://www.douyin.com/video/7671494057278303865"
+        }
+      ]
+    },
+    {
+      "event_id": "E002",
+      "title": "订婚结婚中的彩礼与嫁妆摆拍",
+      "description": "文本说订婚时流行把彩礼和五金拍照展示，给得多要拍、做牌子；结婚时女方也做嫁妆牌，而两家此前已商量好数额。",
+      "temporal": "顺序不明（从订婚到结婚的泛述）",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 196,
+          "url": "https://www.douyin.com/video/7588930580520160527"
+        }
+      ]
+    },
+    {
+      "event_id": "E003",
+      "title": "婚礼宣誓与条件门槛的反讽",
+      "description": "婚礼上两人十指相扣宣誓无论贫穷富贵、健康疾病都不离不弃；叙述随即以彩礼少2万、编制是假、改口费少2000等条件反讽誓言。",
+      "temporal": "顺序不明（婚礼宣誓场景）",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 320,
+          "url": "https://www.douyin.com/video/7468700430642482483"
+        }
+      ]
+    },
+    {
+      "event_id": "E004",
+      "title": "婚礼结束后回到房贷和日常开销",
+      "description": "盛大婚礼落幕后，豪车还租赁公司、礼服送回婚纱店、未喝酒退回烟酒行；新人卸妆后开始计算下月房贷，并为300块钱的短袖争吵。",
+      "temporal": "原文明确为婚礼之后",
+      "chronology_basis": "明示",
+      "evidence": [
+        {
+          "index": 67,
+          "url": "https://www.douyin.com/video/7671494057278303865"
+        }
+      ]
+    },
+    {
+      "event_id": "E005",
+      "title": "35万彩礼订婚照中的新郎缺席与补出镜",
+      "description": "个案中，女孩发布订婚喜讯，写彩礼35万、三金一钻、有房无车；15张照片里新郎未露脸，网友评论“35万在央视都能有个正脸”；三天后女生再发视频，新郎才出镜。",
+      "temporal": "原文明确：订婚照发布后，三天之后发新视频",
+      "chronology_basis": "明示",
+      "evidence": [
+        {
+          "index": 596,
+          "url": "https://www.douyin.com/video/7077881116119567630"
+        }
+      ]
+    },
+    {
+      "event_id": "E006",
+      "title": "父母梭哈式支持婚礼及婚后经济压力叙述",
+      "description": "文本叙述两个县城普通家庭的年轻人结婚，父母把房子、车子、彩礼、嫁妆、酒席、车队全掏了；婚后失去父母帮衬并添孩子，若收入不增或下降，婚姻泡沫可能破灭。",
+      "temporal": "顺序不明（泛述从结婚到婚后）",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 102,
+          "url": "https://www.douyin.com/video/7650896432228381093"
+        }
+      ]
+    }
+  ],
+  "storylines": [
+    {
+      "title": "从隆重婚礼到房贷日常",
+      "event_ids": [
+        "E001",
+        "E003",
+        "E004"
+      ],
+      "narrative": "文本先写县城新人把婚礼办成“富人区一日体验卡”：租车、租衣、布景、婚宴、宣誓一应俱全，场面隆重；随后写婚礼结束，租赁物归还，新人卸妆后回到房贷和日常开销。矛盾在于仪式的神圣感与租赁、条件门槛并置；原文没有交代具体某对新人的长期婚姻结果。",
+      "unresolved": "具体人物是否真的如此办婚礼、婚后是否持续争吵、婚姻是否存续，原文未交代。",
+      "evidence": [
+        {
+          "index": 67,
+          "url": "https://www.douyin.com/video/7671494057278303865"
+        },
+        {
+          "index": 320,
+          "url": "https://www.douyin.com/video/7468700430642482483"
+        }
+      ]
+    },
+    {
+      "title": "彩礼摆拍与35万订婚照争议",
+      "event_ids": [
+        "E002",
+        "E005"
+      ],
+      "narrative": "文本先泛述订婚结婚时彩礼、嫁妆被拍照展示，数额早在两家之间商量；后又写一个个案：女方发布彩礼35万的订婚照，15张照片里新郎未露脸，引网友嘲讽，三天后新视频里新郎才出镜。原文未说明二者是否为同一类婚礼，也未交代该婚约后续。",
+      "unresolved": "35万彩礼是否实际支付、是否返还、双方婚后如何，原文没有交代；泛述与个案按出处并列呈现。",
+      "evidence": [
+        {
+          "index": 196,
+          "url": "https://www.douyin.com/video/7588930580520160527"
+        },
+        {
+          "index": 596,
+          "url": "https://www.douyin.com/video/7077881116119567630"
+        }
+      ]
+    },
+    {
+      "title": "父母托举的婚礼与婚后崩盘风险",
+      "event_ids": [
+        "E006"
+      ],
+      "narrative": "叙述从两个县城普通家庭出身的年轻人结婚开始：父母掏出房子、车子、彩礼、嫁妆、酒席、车队，让婚礼看起来像小资生活；婚后父母帮衬结束并添了孩子，若收入不增或下降，文本判断婚姻会随中产梦泡沫一起破灭。这里没有具体新郎姓名和结局。",
+      "unresolved": "哪一对具体夫妻、是否真的断供、离婚与否，原文均未落实。",
+      "evidence": [
+        {
+          "index": 102,
+          "url": "https://www.douyin.com/video/7650896432228381093"
+        }
+      ]
+    }
+  ],
+  "relationships": [
+    {
+      "target": "县城新娘",
+      "relation": "夫妻/婚礼双方（文本称“一对新人”）",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 67,
+          "url": "https://www.douyin.com/video/7671494057278303865"
+        },
+        {
+          "index": 596,
+          "url": "https://www.douyin.com/video/7077881116119567630"
+        }
+      ]
+    },
+    {
+      "target": "双方父母",
+      "relation": "子女与父母；父母为婚礼和彩礼提供经济支持",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 67,
+          "url": "https://www.douyin.com/video/7671494057278303865"
+        },
+        {
+          "index": 102,
+          "url": "https://www.douyin.com/video/7650896432228381093"
+        }
+      ]
+    },
+    {
+      "target": "女方家庭",
+      "relation": "彩礼与嫁妆的协商、对照关系",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 196,
+          "url": "https://www.douyin.com/video/7588930580520160527"
+        }
+      ]
+    },
+    {
+      "target": "婚庆/租赁商家",
+      "relation": "婚礼道具与服务的租赁交易关系",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 67,
+          "url": "https://www.douyin.com/video/7671494057278303865"
+        }
+      ]
+    },
+    {
+      "target": "围观网友",
+      "relation": "个案中，网友评论形成舆论压力并推动新郎补出镜",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 596,
+          "url": "https://www.douyin.com/video/7077881116119567630"
+        }
+      ]
+    }
+  ],
+  "speech_habits": [
+    {
+      "claim": "原文几乎不直接引述县城新郎的独立台词；其承诺主要以婚礼宣誓套话被概括呈现。",
+      "evidence": [
+        {
+          "index": 320,
+          "url": "https://www.douyin.com/video/7468700430642482483"
+        }
+      ]
+    },
+    {
+      "claim": "涉及彩礼时，说话主体多为“两个家庭”而非新郎个人。",
+      "evidence": [
+        {
+          "index": 196,
+          "url": "https://www.douyin.com/video/7588930580520160527"
+        }
+      ]
+    }
+  ],
+  "contradictions": [
+    {
+      "issue": "婚礼是隆重神圣的仪式，还是租赁布景与条件交易。",
+      "versions": [
+        {
+          "claim": "文本一面写婚礼场面宏大、誓言庄严。",
+          "evidence": [
+            {
+              "index": 320,
+              "url": "https://www.douyin.com/video/7468700430642482483"
+            }
+          ]
+        },
+        {
+          "claim": "另一面又强调车、衣、布景是租来的，彩礼少2万就站不到婚礼上。",
+          "evidence": [
+            {
+              "index": 67,
+              "url": "https://www.douyin.com/video/7671494057278303865"
+            },
+            {
+              "index": 320,
+              "url": "https://www.douyin.com/video/7468700430642482483"
+            }
+          ]
+        }
+      ],
+      "resolution": "保留并列：文本既描述仪式隆重，又不断揭示其可租赁、可表演、受条件约束的一面。"
+    },
+    {
+      "issue": "彩礼展示是临时攀比，还是两家早已谈好的结果。",
+      "versions": [
+        {
+          "claim": "文本说给的多的必须拍照、做牌子展示。",
+          "evidence": [
+            {
+              "index": 196,
+              "url": "https://www.douyin.com/video/7588930580520160527"
+            }
+          ]
+        },
+        {
+          "claim": "文本又说彩礼细节和嫁妆数额，两家在订婚结婚前已商量好。",
+          "evidence": [
+            {
+              "index": 196,
+              "url": "https://www.douyin.com/video/7588930580520160527"
+            }
+          ]
+        }
+      ],
+      "resolution": "并置：数额先协商，公开摆拍则承担展示功能；二者不互相取消。"
+    },
+    {
+      "issue": "35万彩礼个案中，新郎在订婚照里缺席，之后又出镜。",
+      "versions": [
+        {
+          "claim": "15张订婚照里没有新郎正脸，连背影都没给。",
+          "evidence": [
+            {
+              "index": 596,
+              "url": "https://www.douyin.com/video/7077881116119567630"
+            }
+          ]
+        },
+        {
+          "claim": "三天后新视频里，新郎终于出镜。",
+          "evidence": [
+            {
+              "index": 596,
+              "url": "https://www.douyin.com/video/7077881116119567630"
+            }
+          ]
+        }
+      ],
+      "resolution": "按原文时间并列：先是未露脸，三天后补出镜；不能据此推断全部县城新郎。"
+    },
+    {
+      "issue": "婚姻被说成两人结合，又被说成条件结合。",
+      "versions": [
+        {
+          "claim": "婚礼叙事表面上是两个人结婚。",
+          "evidence": [
+            {
+              "index": 67,
+              "url": "https://www.douyin.com/video/7671494057278303865"
+            }
+          ]
+        },
+        {
+          "claim": "评论则说实际是两个人的条件在结婚。",
+          "evidence": [
+            {
+              "index": 320,
+              "url": "https://www.douyin.com/video/7468700430642482483"
+            }
+          ]
+        }
+      ],
+      "resolution": "保留两种叙述：仪式层面是两人结合，评论层面强调彩礼、编制、车房等条件。"
+    }
+  ],
+  "gaps": [
+    "目标角色没有明确姓名、年龄、职业、外貌和具体县城。",
+    "多数材料是叙述者泛论，无法确认是否指同一新郎。",
+    "35万彩礼个案的婚姻后续、彩礼归属和双方真实关系未交代。",
+    "县城新郎本人的动机、自我认同和直接发言材料很少。",
+    "婚礼开支由谁实际支付、婚后是否共同还贷等细节多未落实。",
+    "不同文本中“男方”与“新郎”是否同指婚礼当事人，需逐篇区分。"
+  ],
+  "creative_expansions": [],
+  "source_coverage": [
+    {
+      "index": 67,
+      "role": "核心材料：婚礼作为cosplay富人一日体验，含婚纱照、租车租衣、婚宴、宣誓与婚后房贷日常。",
+      "url": "https://www.douyin.com/video/7671494057278303865"
+    },
+    {
+      "index": 196,
+      "role": "彩礼与嫁妆摆拍、两家协商数额、婚礼誓言与条件门槛的反差。",
+      "url": "https://www.douyin.com/video/7588930580520160527"
+    },
+    {
+      "index": 320,
+      "role": "婚礼宣誓场景、婚姻条件化、男方失业与离婚风险的评论。",
+      "url": "https://www.douyin.com/video/7468700430642482483"
+    },
+    {
+      "index": 102,
+      "role": "补充普通家庭父母梭哈式支持婚礼、男方金表与婚后收入下降的崩盘叙述。",
+      "url": "https://www.douyin.com/video/7650896432228381093"
+    },
+    {
+      "index": 596,
+      "role": "个案材料：35万彩礼订婚照中新郎缺席，三天后补出镜。",
+      "url": "https://www.douyin.com/video/7077881116119567630"
+    },
+    {
+      "index": 278,
+      "role": "补充婚礼费用清单：彩礼、车、装修、酒席等成本与贷款压力。",
+      "url": "https://www.douyin.com/video/7508671579355680058"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+version = 1
+name = "县城浮世绘 · 人物图鉴开发"
+
+[setup]
+script = "python site/build.py"
+
+[[actions]]
+name = "启动图鉴预览"
+icon = "run"
+command = "python site/preview.py"

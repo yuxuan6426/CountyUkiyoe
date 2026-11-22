@@ -1,0 +1,596 @@
+{
+  "name": "县城老大爷",
+  "nature": "原型/复合群像。材料将其作为县城下沉市场中网红老嫂子的主要受众与收割对象来论述，多为60岁左右、没啥正经收入、没有退休金的县城老年男性；不是单一具名人物，除“临沂老大爷”这一具体案例外无连续生平，编纂说明：主要限于序号161、162、163。",
+  "overview": "县城老大爷是文本中的群像原型，被定位为网红老嫂子唯一的兴趣受众。多为60岁左右、没啥正经收入、没有退休金，衣服一年买不了两件、抽最便宜旱烟、喝散篓子、掏20块都费劲，与社会脱节、软件操作不熟，随便P个视频就信。他们频繁刷短视频、点赞收藏、手写评论，把“对方是你的通讯录好友”“我在白城等你”当成专门对自己说。老嫂子对其被写成纯单方面碾压：养老金崩干净、农村自建房崩没，五保户、脑血栓、拄拐者也不放过。唯一较具体的个例是临沂老大爷五进白城、最后一次在宾馆等三天三夜未等到。被崩出的钱又被叙述进经济内循环：老嫂子给傻儿子，傻儿子面对骗婚女。材料未给姓名、金额、人数、报警或法律后续。",
+  "identity": [
+    {
+      "claim": "在文案的县城下沉市场画像中，是网红老嫂子唯一的兴趣受众",
+      "evidence": [
+        {
+          "index": 162,
+          "url": "https://www.douyin.com/video/7613591162653281574"
+        },
+        {
+          "index": 163,
+          "url": "https://www.douyin.com/video/7612948948675775750"
+        }
+      ]
+    },
+    {
+      "claim": "多为60岁左右，没啥正经收入，没有退休金",
+      "evidence": [
+        {
+          "index": 163,
+          "url": "https://www.douyin.com/video/7612948948675775750"
+        }
+      ]
+    },
+    {
+      "claim": "部分人是五保户、脑血栓患者，有的已经拄拐",
+      "evidence": [
+        {
+          "index": 161,
+          "url": "https://www.douyin.com/video/7613610834408820006"
+        },
+        {
+          "index": 163,
+          "url": "https://www.douyin.com/video/7612948948675775750"
+        }
+      ]
+    },
+    {
+      "claim": "与县城老社保、婆罗门不同，不是有正经工作或见过大场面的人",
+      "evidence": [
+        {
+          "index": 163,
+          "url": "https://www.douyin.com/video/7612948948675775750"
+        }
+      ]
+    },
+    {
+      "claim": "生活节俭、消费水平低，几乎不进红浪漫",
+      "evidence": [
+        {
+          "index": 163,
+          "url": "https://www.douyin.com/video/7612948948675775750"
+        }
+      ]
+    },
+    {
+      "claim": "对社会发展不了解，软件操作不熟练，容易相信P出的网络内容",
+      "evidence": [
+        {
+          "index": 163,
+          "url": "https://www.douyin.com/video/7612948948675775750"
+        }
+      ]
+    },
+    {
+      "claim": "手机屏幕模糊、膜油且碎边，这是其观看网红内容的具体媒介状态",
+      "evidence": [
+        {
+          "index": 163,
+          "url": "https://www.douyin.com/video/7612948948675775750"
+        }
+      ]
+    }
+  ],
+  "traits": [
+    {
+      "claim": "高频刷短视频，生活里除了吃饭睡觉几乎全是网红老嫂子",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 163,
+          "url": "https://www.douyin.com/video/7612948948675775750"
+        }
+      ]
+    },
+    {
+      "claim": "容易把公开视频里的喊话误认为专门对自己说的私人表达",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 163,
+          "url": "https://www.douyin.com/video/7612948948675775750"
+        }
+      ]
+    },
+    {
+      "claim": "对又土又欲的穿搭、微胖身材缺乏抵抗力",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 163,
+          "url": "https://www.douyin.com/video/7612948948675775750"
+        }
+      ]
+    },
+    {
+      "claim": "被网红老嫂子回复时会激动，互动本身构成强刺激",
+      "kind": "欲望",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 163,
+          "url": "https://www.douyin.com/video/7612948948675775750"
+        }
+      ]
+    },
+    {
+      "claim": "生活节俭却可能被崩光养老金和农村自建房，形成强烈反差",
+      "kind": "矛盾",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 163,
+          "url": "https://www.douyin.com/video/7612948948675775750"
+        }
+      ]
+    },
+    {
+      "claim": "没有经历过开放时代的历练，直接面对开放结果，难以抵挡",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 163,
+          "url": "https://www.douyin.com/video/7612948948675775750"
+        }
+      ]
+    },
+    {
+      "claim": "部分人已经行动不便，仍被网红老嫂子纳入收割范围",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 163,
+          "url": "https://www.douyin.com/video/7612948948675775750"
+        }
+      ]
+    },
+    {
+      "claim": "手写评论易出错别字、错序，文化水平有限，手写聊天一上午只聊十几句",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "评论高频使用“美女”“花美人更美”“点赞支持”等夸赞话术，并追问对方姓名与所在地",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    }
+  ],
+  "life_domains": [
+    {
+      "domain": "职业/收入",
+      "claim": "多为60岁左右，没啥正经收入、没有退休金；与有正经工作的老社保形成对照",
+      "evidence": [
+        {
+          "index": 163,
+          "url": "https://www.douyin.com/video/7612948948675775750"
+        }
+      ]
+    },
+    {
+      "domain": "金钱/消费",
+      "claim": "生活节俭，衣服少、抽便宜旱烟、喝散篓子、掏20块都费劲；但会被崩养老金、农村自建房",
+      "evidence": [
+        {
+          "index": 163,
+          "url": "https://www.douyin.com/video/7612948948675775750"
+        }
+      ]
+    },
+    {
+      "domain": "社交/网络",
+      "claim": "频繁刷短视频，点赞收藏，手写评论，并可能与网红老嫂子手写聊天",
+      "evidence": [
+        {
+          "index": 163,
+          "url": "https://www.douyin.com/video/7612948948675775750"
+        }
+      ]
+    },
+    {
+      "domain": "代际/经济循环",
+      "claim": "在文案叙述的经济内循环中，老嫂子从老大爷处崩出的钱流向其傻儿子，间接进入骗婚女与彩礼链条",
+      "evidence": [
+        {
+          "index": 161,
+          "url": "https://www.douyin.com/video/7613610834408820006"
+        }
+      ]
+    },
+    {
+      "domain": "娱乐/两性",
+      "claim": "不去红浪漫，也没见过网红老嫂子这一号；其欲望入口主要是短视频中的土欲风形象",
+      "evidence": [
+        {
+          "index": 163,
+          "url": "https://www.douyin.com/video/7612948948675775750"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "event_id": "E001",
+      "title": "被定义为网红老嫂子的单一受众与碾压对象",
+      "description": "文案把网红老嫂子的受众画像收窄为“就只有县城老大爷”，并把崩老大爷描述为纯单方面碾压，程度取决于老嫂子道德感强弱。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 162,
+          "url": "https://www.douyin.com/video/7613591162653281574"
+        },
+        {
+          "index": 163,
+          "url": "https://www.douyin.com/video/7612948948675775750"
+        }
+      ]
+    },
+    {
+      "event_id": "E002",
+      "title": "技术手段与信息误导吸引老大爷",
+      "description": "网红老嫂子用短视频、图片、特效、频繁更新吸引老大爷；在视频上贴“对方是你的通讯录好友”等字样，使老大爷误信。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 163,
+          "url": "https://www.douyin.com/video/7612948948675775750"
+        }
+      ]
+    },
+    {
+      "event_id": "E003",
+      "title": "刷视频、点赞收藏、手写评论并获回复",
+      "description": "老大爷刷短视频、点赞收藏、手写评论；老嫂子对评论回复后，老大爷激动，甚至手写聊天一上午。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 163,
+          "url": "https://www.douyin.com/video/7612948948675775750"
+        }
+      ]
+    },
+    {
+      "event_id": "E004",
+      "title": "临沂老大爷五进白城",
+      "description": "有个临沂的老大爷五进白城，最后一次去时在宾馆里等了三天三夜，硬是没等到老嫂子。",
+      "temporal": "原文明确“五进白城，最后一次”的相对顺序；无具体日期",
+      "chronology_basis": "明示",
+      "evidence": [
+        {
+          "index": 163,
+          "url": "https://www.douyin.com/video/7612948948675775750"
+        }
+      ]
+    },
+    {
+      "event_id": "E005",
+      "title": "被崩养老金和农村自建房",
+      "description": "网红老嫂子能把手头缺钱的压力转化为对老大爷的收割，给老大爷养老金崩干净，农村自建房也崩没；五保户、脑血栓、拄拐者都不放过。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 163,
+          "url": "https://www.douyin.com/video/7612948948675775750"
+        },
+        {
+          "index": 161,
+          "url": "https://www.douyin.com/video/7613610834408820006"
+        }
+      ]
+    },
+    {
+      "event_id": "E006",
+      "title": "进入经济内循环链条",
+      "description": "文案把老嫂子崩老大爷、傻儿子啃老嫂子、骗婚女主攻傻儿子串成清晰的经济内循环路径。",
+      "temporal": "原文明确链条式先后；无日期",
+      "chronology_basis": "明示",
+      "evidence": [
+        {
+          "index": 161,
+          "url": "https://www.douyin.com/video/7613610834408820006"
+        }
+      ]
+    },
+    {
+      "event_id": "E007",
+      "title": "白城喊话被误认为对自己说",
+      "description": "白城老嫂子发视频说“你在哪啊？我在白城等你啊”，老大爷被忽悠后认为她是说给自己听的。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 163,
+          "url": "https://www.douyin.com/video/7612948948675775750"
+        }
+      ]
+    }
+  ],
+  "storylines": [
+    {
+      "title": "网红老嫂子对县城老大爷的单向收割线",
+      "event_ids": [
+        "E001",
+        "E002",
+        "E003",
+        "E005",
+        "E006",
+        "E007"
+      ],
+      "narrative": "文案先限定网红老嫂子的受众画像非常单一，只有县城老大爷；她以短视频、美颜、BGM、频繁更新和评论回复为技术手段，贴出“对方是你的通讯录好友”等信息，让与社会脱节、软件操作不熟的老大爷误信。老大爷刷到后点赞收藏、手写评论，收到回复便激动，生活里除了吃饭睡觉几乎全是老嫂子。随后文案把关系推到收割：老嫂子手头缺钱时，能把老大爷可怜的养老金崩干净，农村自建房也崩没，连五保户、脑血栓、拄拐者都不放过。最后这些钱又被叙述进经济内循环：老嫂子给傻儿子，傻儿子再面对骗婚女。",
+      "unresolved": "具体金额、受害人数、持续时间、个体结局、是否报警、平台与法律处理均未交代。",
+      "evidence": [
+        {
+          "index": 162,
+          "url": "https://www.douyin.com/video/7613591162653281574"
+        },
+        {
+          "index": 163,
+          "url": "https://www.douyin.com/video/7612948948675775750"
+        },
+        {
+          "index": 161,
+          "url": "https://www.douyin.com/video/7613610834408820006"
+        }
+      ]
+    },
+    {
+      "title": "临沂老大爷五进白城",
+      "event_ids": [
+        "E004"
+      ],
+      "narrative": "材料中唯一较具体的个例是临沂老大爷：他五进白城，最后一次去的时候在宾馆里等了三天三夜，硬是没等到网红老嫂子。该事件被用来展示老嫂子对老大爷的吸引和拿捏。",
+      "unresolved": "临沂老大爷的姓名、年龄、家庭、是否花钱、后续去向，以及他是否与老嫂子真正建立联系，原文均未交代。",
+      "evidence": [
+        {
+          "index": 163,
+          "url": "https://www.douyin.com/video/7612948948675775750"
+        }
+      ]
+    }
+  ],
+  "relationships": [
+    {
+      "target": "网红老嫂子",
+      "relation": "其主要受众与收割对象；老嫂子对老大爷被描述为纯单方面碾压",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 162,
+          "url": "https://www.douyin.com/video/7613591162653281574"
+        },
+        {
+          "index": 163,
+          "url": "https://www.douyin.com/video/7612948948675775750"
+        }
+      ]
+    },
+    {
+      "target": "县城傻儿子",
+      "relation": "经济内循环上游：老嫂子从老大爷处崩出的钱流向其傻儿子",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 161,
+          "url": "https://www.douyin.com/video/7613610834408820006"
+        }
+      ]
+    },
+    {
+      "target": "县城骗婚女",
+      "relation": "间接下游：在文案链条中，骗婚女又主攻傻儿子",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 161,
+          "url": "https://www.douyin.com/video/7613610834408820006"
+        }
+      ]
+    },
+    {
+      "target": "县城老社保",
+      "relation": "对照群体：老社保有正经工作，老大爷不是",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 163,
+          "url": "https://www.douyin.com/video/7612948948675775750"
+        }
+      ]
+    },
+    {
+      "target": "婆罗门",
+      "relation": "对照群体：婆罗门见过大场面，老大爷不是",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 163,
+          "url": "https://www.douyin.com/video/7612948948675775750"
+        }
+      ]
+    },
+    {
+      "target": "临沂老大爷",
+      "relation": "被归入县城老大爷群体的具体案例",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 163,
+          "url": "https://www.douyin.com/video/7612948948675775750"
+        }
+      ]
+    },
+    {
+      "target": "红浪漫",
+      "relation": "未进入的消费场景，作为其消费能力与经历的对比",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 163,
+          "url": "https://www.douyin.com/video/7612948948675775750"
+        }
+      ]
+    }
+  ],
+  "speech_habits": [
+    {
+      "claim": "手写评论，容易出现错别字或错序，文化水平有限",
+      "evidence": [
+        {
+          "index": 163,
+          "url": "https://www.douyin.com/video/7612948948675775750"
+        }
+      ]
+    },
+    {
+      "claim": "评论和问候中高频使用“美女”“花美人更美”“点赞支持”等夸赞话术",
+      "evidence": [
+        {
+          "index": 163,
+          "url": "https://www.douyin.com/video/7612948948675775750"
+        }
+      ]
+    },
+    {
+      "claim": "会追问对方身份与位置，并把对方当作可私下联系的人",
+      "evidence": [
+        {
+          "index": 163,
+          "url": "https://www.douyin.com/video/7612948948675775750"
+        }
+      ]
+    },
+    {
+      "claim": "手写回复很慢，互动效率低",
+      "evidence": [
+        {
+          "index": 163,
+          "url": "https://www.douyin.com/video/7612948948675775750"
+        }
+      ]
+    },
+    {
+      "claim": "会把视频中的公开喊话当成对自己的私人传话",
+      "evidence": [
+        {
+          "index": 163,
+          "url": "https://www.douyin.com/video/7612948948675775750"
+        }
+      ]
+    }
+  ],
+  "contradictions": [
+    {
+      "issue": "县城老大爷的经济能力：生活节俭、收入低，却又能被崩出养老金和自建房",
+      "versions": [
+        {
+          "claim": "没啥正经收入、没有退休金，衣服一年买不了两件，掏20块都费劲",
+          "evidence": [
+            {
+              "index": 163,
+              "url": "https://www.douyin.com/video/7612948948675775750"
+            }
+          ]
+        },
+        {
+          "claim": "养老金能被崩干净，农村自建房能被崩没",
+          "evidence": [
+            {
+              "index": 163,
+              "url": "https://www.douyin.com/video/7612948948675775750"
+            }
+          ]
+        }
+      ],
+      "resolution": "保留并列：原文未给个体财务状况，只能确认其现金流/消费低但可能有养老金、自建房或积蓄可被榨取。"
+    },
+    {
+      "issue": "临沂老大爷五进白城是个例，还是足以代表整个县城老大爷群体",
+      "versions": [
+        {
+          "claim": "具体个例：有个临沂老大爷五进白城，最后一次等三天三夜未等到",
+          "evidence": [
+            {
+              "index": 163,
+              "url": "https://www.douyin.com/video/7612948948675775750"
+            }
+          ]
+        },
+        {
+          "claim": "总体论述：网红老嫂子对县城老大爷是纯单方面碾压",
+          "evidence": [
+            {
+              "index": 163,
+              "url": "https://www.douyin.com/video/7612948948675775750"
+            }
+          ]
+        }
+      ],
+      "resolution": "保留并列：个例被用于证明总体吸引力与收割，但原文未说明此类个例在群体中的占比。"
+    },
+    {
+      "issue": "“县城老大爷”是否等同于所有老年男性或其他县城老年角色",
+      "versions": [
+        {
+          "claim": "文本将其限定为网红老嫂子的受众，并明确不等于老社保、婆罗门",
+          "evidence": [
+            {
+              "index": 163,
+              "url": "https://www.douyin.com/video/7612948948675775750"
+            }
+          ]
+        },
+        {
+          "claim": "具体案例仍被称作老大爷，但材料只给出临沂一例，未给统一身份定义",
+          "evidence": [
+            {
+              "index": 163,
+              "url": "https://www.douyin.com/video/7612948948675775750"
+            }
+          ]
+        }
+      ],
+      "resolution": "保留边界：应作为受网红老嫂子吸引的县城老年男性群像原型，不与其他篇的老社保、老骚包等角色强行合并。"
+    }
+  ],
+  "gaps": [
+    "县城老大爷的真实姓名、具体年龄、地域分布和人数。",
+    "其家庭结构、子女、配偶、是否确为五保户、有无养老金或自建房等个体信息。",
+    "被崩金额、持续时间、是否自愿、是否报警、是否维权及后续结果。",
+    "临沂老大爷的姓名、后续、是否花钱、是否与老嫂子建立联系。",
+    "网红老嫂子的具体身份、动机、道德感强弱及其在其他平台的运营方式。",
+    "平台、监管或法律对此类互动的处理与边界。",
+    "县城老大爷与县城老社保、婆罗门、老骚包等角色的具体区隔标准。"
+  ],
+  "creative_expansions": [],
+  "source_coverage": [
+    {
+      "index": 161,
+      "role": "提供经济内循环链条：网红老嫂子从县城老大爷处崩钱，钱流向傻儿子，傻儿子再被骗婚女主攻；并给出五保户老大爷被崩到没地方住的例子。",
+      "url": "https://www.douyin.com/video/7613610834408820006"
+    },
+    {
+      "index": 162,
+      "role": "明确网红老嫂子的兴趣画像非常单一，只有县城老大爷；将崩老大爷描述为碾压局，并提供其与傻儿子的上下关系。",
+      "url": "https://www.douyin.com/video/7613591162653281574"
+    },
+    {
+      "index": 163,
+      "role": "核心材料，详细描述县城老大爷的年龄、收入、生活节俭、社会脱节、软件操作不熟、刷视频、手写评论、被“通讯录好友”和白城喊话误导、被崩养老金和自建房，以及临沂老大爷五进白城的具体案例。",
+      "url": "https://www.douyin.com/video/7612948948675775750"
+    }
+  ]
+}

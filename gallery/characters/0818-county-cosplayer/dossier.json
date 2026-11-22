@@ -1,0 +1,435 @@
+{
+  "name": "县城cosplay",
+  "nature": "原型/复合群像；文本中为县城年轻女性亚群体标签，非具名自然人。主要证据为127、136、253篇中的并称、分类与竞争性描述，缺少独立成篇故事；与县城小jk、小太妹等边界不清，学历和命运方向有不同表述。",
+  "overview": "县城cosplay是文案中与县城小jk、小太妹、小汉服、小洛丽塔并称的县城年轻女性亚群体标签，非具名个人。127篇把它与小jk合称“第三类女孩”，称颜值比较一般、学历止步中专、过往交友经历不堪，但年轻好哄、情绪价值拉满、低成本可链接，要的不多、崇拜另一半，容易结婚，并称是县城王漫妮最大敌人。253篇又把它与小太妹、小jk并列，称会被县城瑜伽裤打得溃不成军、消失匿迹，并说小太妹和cosplay相当于没有学历、中考落榜居多、家庭状况一定不怎么样；136篇仅作“小jk小cosplay小汉服、小洛丽塔”并列提及。学历、群体边界与命运方向存在不同版本，须并列保留。",
+  "identity": [
+    {
+      "claim": "是县城年轻女性亚群体标签，常与县城小jk并称，不是具名个体",
+      "evidence": [
+        {
+          "index": 127,
+          "url": "https://www.douyin.com/video/7634806168099526885"
+        },
+        {
+          "index": 253,
+          "url": "https://www.douyin.com/video/7537305087186603290"
+        }
+      ]
+    },
+    {
+      "claim": "被描述为学历止步于中专；另一篇称相当于没有学历、中考落榜居多",
+      "evidence": [
+        {
+          "index": 127,
+          "url": "https://www.douyin.com/video/7634806168099526885"
+        },
+        {
+          "index": 253,
+          "url": "https://www.douyin.com/video/7537305087186603290"
+        }
+      ]
+    },
+    {
+      "claim": "家庭状况被描述为一定不怎么样",
+      "evidence": [
+        {
+          "index": 253,
+          "url": "https://www.douyin.com/video/7537305087186603290"
+        }
+      ]
+    },
+    {
+      "claim": "颜值被描述为比较一般，但胜在年轻",
+      "evidence": [
+        {
+          "index": 127,
+          "url": "https://www.douyin.com/video/7634806168099526885"
+        }
+      ]
+    }
+  ],
+  "traits": [
+    {
+      "claim": "年轻、好哄、情绪价值拉满、不用花太多钱就能链接上",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 127,
+          "url": "https://www.douyin.com/video/7634806168099526885"
+        }
+      ]
+    },
+    {
+      "claim": "要的东西不多，崇拜另一半，容易把关系发展下去并结婚",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 127,
+          "url": "https://www.douyin.com/video/7634806168099526885"
+        }
+      ]
+    },
+    {
+      "claim": "在县域女性群体战局中被预测会被县城瑜伽裤击败、消失匿迹",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 253,
+          "url": "https://www.douyin.com/video/7537305087186603290"
+        }
+      ]
+    },
+    {
+      "claim": "在文化输出方面被描述为遭县城瑜伽裤降维打击",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 253,
+          "url": "https://www.douyin.com/video/7537305087186603290"
+        }
+      ]
+    },
+    {
+      "claim": "年轻、好哄、情绪价值拉满、不用花太多钱就能链接上。",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "要的东西不多，崇拜另一半，哪怕对方月薪5000也非常崇拜，容易把关系发展下去并结婚。",
+      "kind": "欲望",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "颜值被描述为比较一般，但胜在年轻。",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "在县域女性群体战局中被预测会被县城瑜伽裤以摧枯拉朽之势击败、消失匿迹。",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "在文化输出方面被描述为遭县城瑜伽裤降维打击。",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "家庭状况被描述为“一定不怎么样”。",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "过往交友经历被描述为“比较不堪”。",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "学历版本一：学历止步于中专；版本二：相当于没有学历、中考落榜居多，并列保留。",
+      "kind": "矛盾",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "群体边界版本一：与县城小jk合称“第三类女孩”；版本二：与小太妹、小jk并列；版本三：与小jk、小汉服、小洛丽塔并列，文本未说明是否同一批人。",
+      "kind": "矛盾",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "命运方向版本一：很容易把婚结了；版本二：被县城瑜伽裤打得溃不成军、最终消失匿迹，未交代先后或因果。",
+      "kind": "矛盾",
+      "certainty": "文本推断",
+      "evidence": []
+    }
+  ],
+  "life_domains": [
+    {
+      "domain": "婚恋",
+      "claim": "被归入县城婚恋市场中“好哄、低成本可链接、容易结婚”的年轻女性类型",
+      "evidence": [
+        {
+          "index": 127,
+          "url": "https://www.douyin.com/video/7634806168099526885"
+        }
+      ]
+    },
+    {
+      "domain": "社交/群体竞争",
+      "claim": "被放在县城小太妹、小jk、小汉服、小洛丽塔等女性亚群体中并列比较，并与县城瑜伽裤形成竞争/被压制关系",
+      "evidence": [
+        {
+          "index": 253,
+          "url": "https://www.douyin.com/video/7537305087186603290"
+        },
+        {
+          "index": 136,
+          "url": "https://www.douyin.com/video/7627797057612418338"
+        }
+      ]
+    },
+    {
+      "domain": "身份标签",
+      "claim": "常与小jk合并称呼，作为县城年轻女性亚文化标签存在",
+      "evidence": [
+        {
+          "index": 127,
+          "url": "https://www.douyin.com/video/7634806168099526885"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "event_id": "E001",
+      "title": "被列为“第三类女孩”",
+      "description": "第127篇把“县城小jk和县城cosplay”列为最值得谈的第三类女孩，并描述其颜值、学历、交友经历、年轻好哄、低成本可链接和容易结婚等特征。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 127,
+          "url": "https://www.douyin.com/video/7634806168099526885"
+        }
+      ]
+    },
+    {
+      "event_id": "E002",
+      "title": "被置于县域女性群体战局预测中",
+      "description": "第253篇预测县城瑜伽裤将迎来强化，并把县城小太妹、县城cosplay、县城小jk列为会被打得溃不成军、最终消失匿迹的群体。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 253,
+          "url": "https://www.douyin.com/video/7537305087186603290"
+        }
+      ]
+    },
+    {
+      "event_id": "E003",
+      "title": "作为并列群体出现在小jk叙事中",
+      "description": "第136篇在小jk被县城斯丹康拿捏的叙事里，将小cosplay与小jk、小汉服、小洛丽塔并列提及，但没有单独展开cosplay的行为和结果。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 136,
+          "url": "https://www.douyin.com/video/7627797057612418338"
+        }
+      ]
+    }
+  ],
+  "storylines": [
+    {
+      "title": "县城婚恋市场中可链接、易结婚的第三类女孩",
+      "event_ids": [
+        "E001"
+      ],
+      "narrative": "第127篇把县城cosplay与小jk并列为第三类女孩。先描述其颜值比较一般、学历止步中专、过往交友经历不堪；再称其年轻、好哄、情绪价值拉满、不用花太多钱就能链接；又说其不像县城王漫妮那样挑挑拣拣，崇拜另一半，哪怕对方月薪5000也非常崇拜，最后称因此很容易把婚结了。",
+      "unresolved": "没有交代该群体具体的职业、收入、婚后生活、离婚或长期关系结果，也未说明与县城小jk是否完全同一批人。",
+      "evidence": [
+        {
+          "index": 127,
+          "url": "https://www.douyin.com/video/7634806168099526885"
+        }
+      ]
+    },
+    {
+      "title": "在县域女性群体战局中被瑜伽裤击败的预测",
+      "event_ids": [
+        "E002"
+      ],
+      "narrative": "第253篇先预测县城瑜伽裤群体将迎来版本强化，随后称小太妹、cosplay、小jk会被县城瑜伽裤以摧枯拉朽之势打得溃不成军，最终消失匿迹。文本同时称小太妹和cosplay相当于没有学历、中考落榜居多、家庭状况一定不怎么样。",
+      "unresolved": "该结果是作者对群体战局的预测，并非已发生事件；文本没有交代cosplay群体是否真的被收编、消失或转型。",
+      "evidence": [
+        {
+          "index": 253,
+          "url": "https://www.douyin.com/video/7537305087186603290"
+        }
+      ]
+    }
+  ],
+  "relationships": [
+    {
+      "target": "县城瑜伽裤",
+      "relation": "被描绘为竞争/压制关系，文本预测其会被县城瑜伽裤击败、消失匿迹",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 253,
+          "url": "https://www.douyin.com/video/7537305087186603290"
+        }
+      ]
+    },
+    {
+      "target": "县城小jk",
+      "relation": "经常并称，第127篇合称“第三类”，第253篇并列，边界未说明",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 127,
+          "url": "https://www.douyin.com/video/7634806168099526885"
+        },
+        {
+          "index": 253,
+          "url": "https://www.douyin.com/video/7537305087186603290"
+        }
+      ]
+    },
+    {
+      "target": "县城小太妹",
+      "relation": "在县域女性群体叙述中并列比较",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 253,
+          "url": "https://www.douyin.com/video/7537305087186603290"
+        }
+      ]
+    },
+    {
+      "target": "小汉服、小洛丽塔",
+      "relation": "作为并列出现的同类年轻女性亚群体标签",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 136,
+          "url": "https://www.douyin.com/video/7627797057612418338"
+        }
+      ]
+    },
+    {
+      "target": "县城王漫妮",
+      "relation": "第127篇称县城cosplay这类人是县城王漫妮最大的敌人",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 127,
+          "url": "https://www.douyin.com/video/7634806168099526885"
+        }
+      ]
+    }
+  ],
+  "speech_habits": [],
+  "contradictions": [
+    {
+      "issue": "学历表述不同",
+      "versions": [
+        {
+          "claim": "学历止步于中专",
+          "evidence": [
+            {
+              "index": 127,
+              "url": "https://www.douyin.com/video/7634806168099526885"
+            }
+          ]
+        },
+        {
+          "claim": "相当于没有学历，中考落榜居多",
+          "evidence": [
+            {
+              "index": 253,
+              "url": "https://www.douyin.com/video/7537305087186603290"
+            }
+          ]
+        }
+      ],
+      "resolution": "保留并列，不擅自合并为同一学历结论。"
+    },
+    {
+      "issue": "与小jk、小太妹的群体边界不清",
+      "versions": [
+        {
+          "claim": "与县城小jk合称第三类女孩",
+          "evidence": [
+            {
+              "index": 127,
+              "url": "https://www.douyin.com/video/7634806168099526885"
+            }
+          ]
+        },
+        {
+          "claim": "与小太妹、小jk并列",
+          "evidence": [
+            {
+              "index": 253,
+              "url": "https://www.douyin.com/video/7537305087186603290"
+            }
+          ]
+        },
+        {
+          "claim": "与小jk、小汉服、小洛丽塔并列",
+          "evidence": [
+            {
+              "index": 136,
+              "url": "https://www.douyin.com/video/7627797057612418338"
+            }
+          ]
+        }
+      ],
+      "resolution": "文本没有说明这些标签是否指同一批人，均作为并列版本保留。"
+    },
+    {
+      "issue": "命运方向不同",
+      "versions": [
+        {
+          "claim": "容易把婚结了",
+          "evidence": [
+            {
+              "index": 127,
+              "url": "https://www.douyin.com/video/7634806168099526885"
+            }
+          ]
+        },
+        {
+          "claim": "被县城瑜伽裤打得溃不成军、最终消失匿迹",
+          "evidence": [
+            {
+              "index": 253,
+              "url": "https://www.douyin.com/video/7537305087186603290"
+            }
+          ]
+        }
+      ],
+      "resolution": "保留并列；一处讲婚恋可链接，一处讲群体竞争预测，未交代二者先后或因果关系。"
+    }
+  ],
+  "gaps": [
+    "缺少独立于并列叙述之外的县城cosplay个人故事。",
+    "缺少该群体具体年龄范围、职业、收入、消费、家庭背景细节。",
+    "缺少该群体的直接语言、话术或对话样本。",
+    "缺少与具体男性角色、具体婚恋对象的明确关系。",
+    "未说明县城cosplay与县城小jk、小太妹是否完全同义。",
+    "未交代第253篇预测的击败、消失或收编是否在后续文本中发生。"
+  ],
+  "creative_expansions": [],
+  "source_coverage": [
+    {
+      "index": 127,
+      "role": "提供目标作为“第三类女孩”的核心身份材料：与小jk并称、颜值学历、交友经历、好哄、低成本可链接、崇拜另一半、容易结婚，以及与县城王漫妮的关系。",
+      "url": "https://www.douyin.com/video/7634806168099526885"
+    },
+    {
+      "index": 136,
+      "role": "提供目标与小jk、小汉服、小洛丽塔并列出现的边界材料，但未单独展开县城cosplay。",
+      "url": "https://www.douyin.com/video/7627797057612418338"
+    },
+    {
+      "index": 253,
+      "role": "提供目标在县域女性群体战局中的竞争位置、学历家庭表述、被县城瑜伽裤压制并消失匿迹的预测，以及文化输出层面的比较。",
+      "url": "https://www.douyin.com/video/7537305087186603290"
+    }
+  ]
+}

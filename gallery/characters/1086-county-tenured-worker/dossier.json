@@ -1,0 +1,466 @@
+{
+  "name": "县城有编制职工",
+  "nature": "原型/复合群像。“县城有编制职工”是县城就业者中以“带编”为标识的泛称，不是具体自然人。原文把它与“不带编的”并列为县城两种工作之一，用以讨论失业风险、工资稳定性、KPI、长期保障和社会认同；其内部年龄、性别、单位、岗位、收入均未统一，不能与带编铁娘子、躺编00后、编二代、老社保等具体角色合并。核心证据在第23篇，其余篇目为同类补充与版本矛盾。",
+  "overview": "第23篇把县城工作分为带编和不带编两类，称带编的根本不担心失业，县城工作没有KPI。第20篇补充带编工作本身就丢不了，惹急了会撂挑子。第572篇把该群体写成体制内拿死工资，但工资准点到账、对未来确定、老了不怕失业，手里有10万敢花20万。第233篇把保障延伸到40岁、50岁、60岁，并称编制主要给下一代用。第37篇强调编制能让爹妈高兴、相亲被认可、孩子老师面前受尊重、乡里乡亲有面子。第456篇则称有些地区公务员发不出工资，质疑编制含金量，并说考编主要是一种信仰；这些版本并列保留，各段叙述按出处并列呈现。",
+  "identity": [
+    {
+      "claim": "县城工作体系中的“带编”一类，与“不带编的”并列为两种工作之一。",
+      "evidence": [
+        {
+          "index": 23,
+          "url": "https://www.douyin.com/video/7694925361536200165"
+        }
+      ]
+    },
+    {
+      "claim": "职业保障上被描述为不担心失业。",
+      "evidence": [
+        {
+          "index": 23,
+          "url": "https://www.douyin.com/video/7694925361536200165"
+        }
+      ]
+    },
+    {
+      "claim": "被描述为体制内拿死工资的工作者。",
+      "evidence": [
+        {
+          "index": 572,
+          "url": "https://www.douyin.com/video/7138784739695086879"
+        }
+      ]
+    },
+    {
+      "claim": "编制在县城评价体系中被赋予家庭、相亲和社会认同。",
+      "evidence": [
+        {
+          "index": 37,
+          "url": "https://www.douyin.com/video/7686768342103715429"
+        }
+      ]
+    }
+  ],
+  "traits": [
+    {
+      "claim": "工作稳定，带编工作被描述为丢不了，不担心失业。",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 23,
+          "url": "https://www.douyin.com/video/7694925361536200165"
+        },
+        {
+          "index": 20,
+          "url": "https://www.douyin.com/video/7696047368970595771"
+        }
+      ]
+    },
+    {
+      "claim": "县城工作被描述为没有KPI压力。",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 23,
+          "url": "https://www.douyin.com/video/7694925361536200165"
+        }
+      ]
+    },
+    {
+      "claim": "对未来确定，工资准点到账，老了也不怕失业，因此敢花钱。",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 572,
+          "url": "https://www.douyin.com/video/7138784739695086879"
+        }
+      ]
+    },
+    {
+      "claim": "年龄增长后仍被描述为有工作和养老保障。",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 233,
+          "url": "https://www.douyin.com/video/7565399420146683193"
+        }
+      ]
+    },
+    {
+      "claim": "被社会评价体系赋予面子和被尊重感。",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 37,
+          "url": "https://www.douyin.com/video/7686768342103715429"
+        }
+      ]
+    },
+    {
+      "claim": "县城工作被分为“带编的”和“不带编的”两类，本角色属于带编一类。",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "带编工作被描述为不担心失业、本身就丢不了，惹急了会撂挑子。",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "县城工作被描述为没有KPI，多数人连KPI是什么都不知道。",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "体制内工作的人绝大多数拿死工资，但工资准点到账、对未来确定，老了也不怕失业。",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "因为对未来确定，手里有10万敢花20万。",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "编制不会在40岁工作能力下降时辞退、50岁年迈体衰时抛弃、60岁需要子女养老，退休后仍发一份比子女高的工资。",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "编制能带来社会认同：让爹妈高兴、相亲市场被认可、孩子老师面前被尊重、乡里乡亲有面子。",
+      "kind": "动机",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "第23、572、233篇称带编不担心失业、工资准点到账、长期有保障；第456篇又称有些地区公务员发不出工资，并质疑编制含金量。",
+      "kind": "矛盾",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "第572、233篇把编制写成稳定保障；第456篇称考编主要是一种信仰，不是为了稳定。",
+      "kind": "矛盾",
+      "certainty": "文本推断",
+      "evidence": []
+    }
+  ],
+  "life_domains": [
+    {
+      "domain": "职业",
+      "claim": "在县城就业体系中属于带编一类，被描述为不担心失业、没有KPI。",
+      "evidence": [
+        {
+          "index": 23,
+          "url": "https://www.douyin.com/video/7694925361536200165"
+        }
+      ]
+    },
+    {
+      "domain": "金钱",
+      "claim": "被描述为拿死工资，但工资准点到账、对未来确定，因此消费敢花。",
+      "evidence": [
+        {
+          "index": 572,
+          "url": "https://www.douyin.com/video/7138784739695086879"
+        }
+      ]
+    },
+    {
+      "domain": "社交/婚恋",
+      "claim": "编制在县城社会中被视为家庭认可和相亲优势。",
+      "evidence": [
+        {
+          "index": 37,
+          "url": "https://www.douyin.com/video/7686768342103715429"
+        }
+      ]
+    },
+    {
+      "domain": "保障",
+      "claim": "编制被描述为能跨越中年、老年阶段持续提供保障。",
+      "evidence": [
+        {
+          "index": 233,
+          "url": "https://www.douyin.com/video/7565399420146683193"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "event_id": "E001",
+      "title": "提出县城工作二分法",
+      "description": "文案把县城工作分为带编和不带编两类，确立该角色的分类位置。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 23,
+          "url": "https://www.douyin.com/video/7694925361536200165"
+        }
+      ]
+    },
+    {
+      "event_id": "E002",
+      "title": "描述带编者不担心失业",
+      "description": "文案称带编的根本不担心失业，并与不带编者并列比较。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 23,
+          "url": "https://www.douyin.com/video/7694925361536200165"
+        }
+      ]
+    },
+    {
+      "event_id": "E003",
+      "title": "提出县城工作没有KPI",
+      "description": "文案称县城里的工作根本没有KPI，多数人不知道KPI是什么。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 23,
+          "url": "https://www.douyin.com/video/7694925361536200165"
+        }
+      ]
+    },
+    {
+      "event_id": "E004",
+      "title": "补充带编工作丢不了",
+      "description": "另一篇文案称带编的工作本身就丢不了，强化其稳定设定。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 20,
+          "url": "https://www.douyin.com/video/7696047368970595771"
+        }
+      ]
+    },
+    {
+      "event_id": "E005",
+      "title": "描述体制内工资准点到账与未来确定",
+      "description": "文案称体制内工作的人拿死工资，但工资准点到账、不害怕、老了也不怕失业。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 572,
+          "url": "https://www.douyin.com/video/7138784739695086879"
+        }
+      ]
+    },
+    {
+      "event_id": "E006",
+      "title": "说明编制在中年以后的保障",
+      "description": "文案称编制不会在40岁辞退、50岁抛弃、60岁需要子女养老。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 233,
+          "url": "https://www.douyin.com/video/7565399420146683193"
+        }
+      ]
+    }
+  ],
+  "storylines": [
+    {
+      "title": "县城带编工作的稳定叙事",
+      "event_ids": [
+        "E001",
+        "E002",
+        "E003",
+        "E004",
+        "E005",
+        "E006"
+      ],
+      "narrative": "文案先把县城工作分为带编和不带编两类，随后称带编者不担心失业，县城工作也没有KPI。另一篇补充带编工作“本身就丢不了”。第572篇进一步把它描述为体制内拿死工资，但工资准点到账、对未来确定、老了也不怕失业，甚至手里有10万敢花20万。第233篇把保障延伸到40岁、50岁、60岁。这个叙事没有具体人物入职、工作日常或结果，只是对该类工作稳定性的连续描述。",
+      "unresolved": "原文没有交代该角色的具体年龄、性别、单位、岗位、收入水平、日常工作内容、是否真正经历过失业风险，也没有交代其家庭、婚恋和消费细节。",
+      "evidence": [
+        {
+          "index": 23,
+          "url": "https://www.douyin.com/video/7694925361536200165"
+        },
+        {
+          "index": 20,
+          "url": "https://www.douyin.com/video/7696047368970595771"
+        },
+        {
+          "index": 572,
+          "url": "https://www.douyin.com/video/7138784739695086879"
+        },
+        {
+          "index": 233,
+          "url": "https://www.douyin.com/video/7565399420146683193"
+        }
+      ]
+    }
+  ],
+  "relationships": [
+    {
+      "target": "不带编的",
+      "relation": "同为县城工作两种类型之一，工作保障被对照描述。",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 23,
+          "url": "https://www.douyin.com/video/7694925361536200165"
+        }
+      ]
+    },
+    {
+      "target": "体制内工作的人",
+      "relation": "全库中作为同一类保障性就业者的补充称呼。",
+      "certainty": "文本推断",
+      "evidence": [
+        {
+          "index": 572,
+          "url": "https://www.douyin.com/video/7138784739695086879"
+        }
+      ]
+    },
+    {
+      "target": "躺编00后",
+      "relation": "同为编制相关角色，但属不同具体角色，不能合并。",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 170,
+          "url": "https://www.douyin.com/video/7606986587697099185"
+        }
+      ]
+    },
+    {
+      "target": "带编铁娘子",
+      "relation": "同为带编女性角色，但属不同具体角色，不能合并。",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 21,
+          "url": "https://www.douyin.com/video/7695750815688046501"
+        }
+      ]
+    }
+  ],
+  "speech_habits": [],
+  "contradictions": [
+    {
+      "issue": "县城带编者是否绝对不担心失业、工资是否始终稳定",
+      "versions": [
+        {
+          "claim": "第23篇称带编的根本不担心失业；第572篇称工资准点到账、老了也不怕失业；第233篇称编制在40岁、50岁、60岁仍有保障。",
+          "evidence": [
+            {
+              "index": 23,
+              "url": "https://www.douyin.com/video/7694925361536200165"
+            },
+            {
+              "index": 572,
+              "url": "https://www.douyin.com/video/7138784739695086879"
+            }
+          ]
+        },
+        {
+          "claim": "第456篇称有些地区的公务员发不出工资，并讨论编制含金量是否受影响。",
+          "evidence": [
+            {
+              "index": 456,
+              "url": "https://www.douyin.com/video/7284484967281790244"
+            }
+          ]
+        }
+      ],
+      "resolution": "保留并列，不擅自合并或选定。"
+    },
+    {
+      "issue": "编制被理解为稳定保障还是信仰/面子",
+      "versions": [
+        {
+          "claim": "第572篇、第233篇强调工资准点到账、长期保障和不怕失业。",
+          "evidence": [
+            {
+              "index": 572,
+              "url": "https://www.douyin.com/video/7138784739695086879"
+            }
+          ]
+        },
+        {
+          "claim": "第456篇称考编主要是一种信仰。",
+          "evidence": [
+            {
+              "index": 456,
+              "url": "https://www.douyin.com/video/7284484967281790244"
+            }
+          ]
+        }
+      ],
+      "resolution": "保留并列，不擅自合并或选定。"
+    }
+  ],
+  "gaps": [
+    "具体年龄、性别、学历、单位、岗位和行政编/事业编归属未交代。",
+    "具体收入数额、福利待遇和是否经历过降薪、欠薪未交代。",
+    "日常工作内容、是否真没有KPI、工作强度和晋升情况未交代。",
+    "家庭、婚恋、消费、社交生活的具体表现未交代。",
+    "该群体是否有人辞职、后悔、摆烂或利用编制办私事，原文未展开。",
+    "原文未交代该角色面对“有些地区公务员发不出工资”时的实际反应，也未交代欠薪是否影响其“不担心失业”的判断。",
+    "原文未交代带编与不带编两类工作在收入、福利上的具体差距。"
+  ],
+  "creative_expansions": [],
+  "source_coverage": [
+    {
+      "index": 23,
+      "role": "核心材料：提出县城工作分带编和不带编，称带编不担心失业、县城工作没有KPI。",
+      "url": "https://www.douyin.com/video/7694925361536200165"
+    },
+    {
+      "index": 19,
+      "role": "补充材料：称带编工作本身就丢不了。",
+      "url": "https://www.douyin.com/video/7696839233395416185"
+    },
+    {
+      "index": 572,
+      "role": "补充材料：描述体制内拿死工资、工资准点到账、未来确定、敢花钱。",
+      "url": "https://www.douyin.com/video/7138784739695086879"
+    },
+    {
+      "index": 233,
+      "role": "补充材料：说明编制在中年以后仍提供保障。",
+      "url": "https://www.douyin.com/video/7565399420146683193"
+    },
+    {
+      "index": 37,
+      "role": "补充材料：说明编制在家庭、相亲和社会评价中的认同价值。",
+      "url": "https://www.douyin.com/video/7686768342103715429"
+    },
+    {
+      "index": 456,
+      "role": "矛盾材料：提出有些地区公务员发不出工资，质疑编制含金量。",
+      "url": "https://www.douyin.com/video/7284484967281790244"
+    },
+    {
+      "index": 21,
+      "role": "边界材料：带编铁娘子是相关但不同的具体角色。",
+      "url": "https://www.douyin.com/video/7695750815688046501"
+    },
+    {
+      "index": 170,
+      "role": "边界材料：躺编00后是相关但不同的具体角色。",
+      "url": "https://www.douyin.com/video/7606986587697099185"
+    }
+  ]
+}

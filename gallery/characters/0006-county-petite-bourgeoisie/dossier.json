@@ -1,0 +1,1086 @@
+{
+  "name": "县城小布尔乔亚",
+  "nature": "原型；复合群像。不是单一自然人，也呈现各篇作品中的角色设定。由多篇县城文案反复建构：月入约2万到8万、约占县城人口1%的高收入者，职业含销冠、婚庆司仪、美容店女老板、教培校长等；父母多为工人、农民、个体户、小商小贩。文本另分出男性/女性子类，并有重复建档条目，边界需按篇目保留。",
+  "overview": "县城小布尔乔亚是县城叙事中的高收入复合原型：靠自己与人脉做到月入2万到8万，被视为家族第一代摸到中产的人，急于用住房、汽车、品牌、旅行、文艺趣味证明有钱、有魅力、有品味，并与葱姜蒜划清界限。多篇又写其内耗、焦虑、不松弛，收入提升即消费升级，存款未必多；想获葱姜蒜认同却常被贬低。婚恋版本并列：最会权衡、恋爱归恋爱结婚归结婚；在编制压倒一切的相亲体系中受挫；也可能与瑜伽裤相互成全。另有版本称其比体制内男性自在，同时又称其最压抑；有版本称其低调不炫耀，同时又称其极度渴望展示。男性子类爱研究车，女性子类重出片；重复条目与子类边界按出处并列呈现。",
+  "identity": [
+    {
+      "claim": "县城非主流高收入群体，月入约2万到8万，占县城人口约1%",
+      "evidence": [
+        {
+          "index": 207,
+          "url": "https://www.douyin.com/video/7582623409314549046"
+        },
+        {
+          "index": 183,
+          "url": "https://www.douyin.com/video/7597102590869949702"
+        }
+      ]
+    },
+    {
+      "claim": "职业多集中在销售、婚庆、美容、教培等靠能力与人脉赚钱的行业",
+      "evidence": [
+        {
+          "index": 207,
+          "url": "https://www.douyin.com/video/7582623409314549046"
+        }
+      ]
+    },
+    {
+      "claim": "家庭背景多不是婆罗门或富裕家庭，父母难提供大额经济帮衬",
+      "evidence": [
+        {
+          "index": 183,
+          "url": "https://www.douyin.com/video/7597102590869949702"
+        }
+      ]
+    },
+    {
+      "claim": "被描述为家族中第一代接近中产、处于阶层半跃迁状态的人",
+      "evidence": [
+        {
+          "index": 107,
+          "url": "https://www.douyin.com/video/7648547489775648613"
+        },
+        {
+          "index": 115,
+          "url": "https://www.douyin.com/video/7643824127509368127"
+        }
+      ]
+    },
+    {
+      "claim": "学历未必出彩，但靠能力、人脉和行业机会做出较高收入",
+      "evidence": [
+        {
+          "index": 183,
+          "url": "https://www.douyin.com/video/7597102590869949702"
+        }
+      ]
+    },
+    {
+      "claim": "事业多处于上升期，赚钱但耗费时间精力",
+      "evidence": [
+        {
+          "index": 198,
+          "url": "https://www.douyin.com/video/7587831651384757538"
+        }
+      ]
+    },
+    {
+      "claim": "消费能力可触及三十万元级新车等县城较高档消费",
+      "evidence": [
+        {
+          "index": 131,
+          "url": "https://www.douyin.com/video/7631235496923925760"
+        }
+      ]
+    }
+  ],
+  "traits": [
+    {
+      "claim": "核心特征是太想证明自己，尤其是证明有钱、有魅力、有品味",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 42,
+          "url": "https://www.douyin.com/video/7684920195781481381"
+        },
+        {
+          "index": 205,
+          "url": "https://www.douyin.com/video/7583676385651068196"
+        }
+      ]
+    },
+    {
+      "claim": "试图用符号化消费与县城普通人划清界限",
+      "kind": "动机",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 107,
+          "url": "https://www.douyin.com/video/7648547489775648613"
+        },
+        {
+          "index": 42,
+          "url": "https://www.douyin.com/video/7684920195781481381"
+        }
+      ]
+    },
+    {
+      "claim": "通过消费证明有钱，反而使想证明的钱被花掉，存款未必多",
+      "kind": "矛盾",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 79,
+          "url": "https://www.douyin.com/video/7662945071273189093"
+        },
+        {
+          "index": 42,
+          "url": "https://www.douyin.com/video/7684920195781481381"
+        }
+      ]
+    },
+    {
+      "claim": "想获得葱姜蒜等群体的认同，却常遭遇不认同",
+      "kind": "恐惧",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 107,
+          "url": "https://www.douyin.com/video/7648547489775648613"
+        },
+        {
+          "index": 205,
+          "url": "https://www.douyin.com/video/7583676385651068196"
+        }
+      ]
+    },
+    {
+      "claim": "被描述为县城里最内耗、压抑、不松弛的人群之一",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 42,
+          "url": "https://www.douyin.com/video/7684920195781481381"
+        },
+        {
+          "index": 74,
+          "url": "https://www.douyin.com/video/7668509239753149925"
+        }
+      ]
+    },
+    {
+      "claim": "旅行被当成输出和展示，而非输入和体验",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 74,
+          "url": "https://www.douyin.com/video/7668509239753149925"
+        }
+      ]
+    },
+    {
+      "claim": "有按价格给景点分级、追逐排面的倾向",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 74,
+          "url": "https://www.douyin.com/video/7668509239753149925"
+        }
+      ]
+    },
+    {
+      "claim": "男性小布尔乔亚热衷于研究车和车际排面",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 74,
+          "url": "https://www.douyin.com/video/7668509239753149925"
+        }
+      ]
+    },
+    {
+      "claim": "想证明自己有魅力，渴望异性吸引与认可",
+      "kind": "欲望",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 42,
+          "url": "https://www.douyin.com/video/7684920195781481381"
+        }
+      ]
+    },
+    {
+      "claim": "想证明自己的品味和认知，与小众文艺、金句式表达绑定",
+      "kind": "欲望",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 42,
+          "url": "https://www.douyin.com/video/7684920195781481381"
+        }
+      ]
+    },
+    {
+      "claim": "有习得性自我压抑，攒钱和享受之间拧巴",
+      "kind": "矛盾",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 87,
+          "url": "https://www.douyin.com/video/7658207183385005363"
+        }
+      ]
+    },
+    {
+      "claim": "内心自卑与自得并存，容易陷入比较",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 207,
+          "url": "https://www.douyin.com/video/7582623409314549046"
+        }
+      ]
+    },
+    {
+      "claim": "核心是太想证明自己，尤其证明有钱、有魅力、有品味。",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "用符号化消费与县城普通人/葱姜蒜划清界限。",
+      "kind": "动机",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "通过花钱证明有钱，反而把钱花掉，存款未必多；一边大把赚钱一边大手大脚花钱。",
+      "kind": "矛盾",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "渴望葱姜蒜认同，却常遭不认同和打压。",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "被写成县城里最内耗、压抑、不松弛的人之一，焦虑迷茫睡不着。",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "旅行是输出和展示，不是输入体验；按价格给景点分级。",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "男性小布尔乔亚热衷研究车和车际排面。",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "想证明自己有魅力，渴望异性吸引与认可。",
+      "kind": "欲望",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "想证明品味和认知，绑定小众文艺、导演作家与金句式表达。",
+      "kind": "欲望",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "有习得性自我压抑，喜欢攒钱，在二三百元短袖上反复叩问自己。",
+      "kind": "矛盾",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "内心自卑与自得并存，容易比较。",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "一版称其不像土大款明晃晃炫耀、不动声色；另一版称其非常想要展现自己、穷极一生证明三件事，两版并列。",
+      "kind": "矛盾",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "一版称其比县城体制内男性自在很多；另一版称其最内耗压抑焦虑，两版并列。",
+      "kind": "矛盾",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "婚恋一版称最会权衡、恋爱归恋爱结婚归结婚；一版称相亲屡屡受挫；一版称与瑜伽裤相互成全，三版并列。",
+      "kind": "矛盾",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "消费一版称收入提升即升级、赚一万花八千；一版称喜欢攒钱、习得性自我压抑，两版并列。",
+      "kind": "矛盾",
+      "certainty": "文本推断",
+      "evidence": []
+    }
+  ],
+  "life_domains": [
+    {
+      "domain": "职业与收入",
+      "claim": "靠自身能力与人脉在县城做到较高收入，职业多为销售、婚庆、美容、教培等服务或生意型岗位",
+      "evidence": [
+        {
+          "index": 207,
+          "url": "https://www.douyin.com/video/7582623409314549046"
+        }
+      ]
+    },
+    {
+      "domain": "金钱与消费",
+      "claim": "收入提升后容易换房换车、买品牌与爆款，消费升级明显，却未必攒下钱",
+      "evidence": [
+        {
+          "index": 79,
+          "url": "https://www.douyin.com/video/7662945071273189093"
+        },
+        {
+          "index": 183,
+          "url": "https://www.douyin.com/video/7597102590869949702"
+        }
+      ]
+    },
+    {
+      "domain": "家庭",
+      "claim": "父母帮衬有限，收入改善后会通过买房、接父母同住回报家庭",
+      "evidence": [
+        {
+          "index": 183,
+          "url": "https://www.douyin.com/video/7597102590869949702"
+        }
+      ]
+    },
+    {
+      "domain": "婚恋",
+      "claim": "婚恋上被描述为会权衡利弊，恋爱与结婚分得清；也可能与瑜伽裤相互成全",
+      "evidence": [
+        {
+          "index": 126,
+          "url": "https://www.douyin.com/video/7637424592269282661"
+        },
+        {
+          "index": 119,
+          "url": "https://www.douyin.com/video/7641878629400637669"
+        }
+      ]
+    },
+    {
+      "domain": "社交与评价",
+      "claim": "会试图用大城市的经济社会逻辑在县城社交中寻求认同，但常与葱姜蒜的评价体系冲突",
+      "evidence": [
+        {
+          "index": 107,
+          "url": "https://www.douyin.com/video/7648547489775648613"
+        },
+        {
+          "index": 205,
+          "url": "https://www.douyin.com/video/7583676385651068196"
+        }
+      ]
+    },
+    {
+      "domain": "生活方式与爱好",
+      "claim": "追逐旅行、出片、露营、骑行、摄影、车等中产化生活方式，用展示维持身份感",
+      "evidence": [
+        {
+          "index": 74,
+          "url": "https://www.douyin.com/video/7668509239753149925"
+        },
+        {
+          "index": 207,
+          "url": "https://www.douyin.com/video/7582623409314549046"
+        }
+      ]
+    },
+    {
+      "domain": "阶层与认同",
+      "claim": "处于阶层半跃迁，向上比较编二代等对象时容易挫败",
+      "evidence": [
+        {
+          "index": 115,
+          "url": "https://www.douyin.com/video/7643824127509368127"
+        },
+        {
+          "index": 183,
+          "url": "https://www.douyin.com/video/7597102590869949702"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "event_id": "E001",
+      "title": "靠自身能力在县城做到月入2万到8万",
+      "description": "文本反复设定小布尔乔亚收入高于县城大多数，多靠能力与人脉打拼，职业包括销冠、司仪、美容店老板、教培校长等，事业处于上升期。",
+      "temporal": "顺序不明；原文未给出统一人生先后",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 183,
+          "url": "https://www.douyin.com/video/7597102590869949702"
+        },
+        {
+          "index": 207,
+          "url": "https://www.douyin.com/video/7582623409314549046"
+        },
+        {
+          "index": 198,
+          "url": "https://www.douyin.com/video/7587831651384757538"
+        }
+      ]
+    },
+    {
+      "event_id": "E002",
+      "title": "收入改善后启动面子消费与身份展示",
+      "description": "文本称其一有机会就换房换车、买品牌、买爆款，用消费证明自己很棒、有钱、有排面。",
+      "temporal": "原文称“一旦有机会了”，为文本内部先后，非完整时间线",
+      "chronology_basis": "明示",
+      "evidence": [
+        {
+          "index": 183,
+          "url": "https://www.douyin.com/video/7597102590869949702"
+        },
+        {
+          "index": 79,
+          "url": "https://www.douyin.com/video/7662945071273189093"
+        },
+        {
+          "index": 42,
+          "url": "https://www.douyin.com/video/7684920195781481381"
+        }
+      ]
+    },
+    {
+      "event_id": "E003",
+      "title": "把旅行和户外当成出片与展示",
+      "description": "文本写小布尔乔亚旅行不是为了输入，而是为了输出、出片、发朋友圈和短视频，并按价格给景点分级。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 74,
+          "url": "https://www.douyin.com/video/7668509239753149925"
+        }
+      ]
+    },
+    {
+      "event_id": "E004",
+      "title": "在社交与酒桌上用大城市逻辑寻求认同",
+      "description": "小布尔乔亚试图用大城市的经济社会逻辑在县城社交与酒桌中寻求认同，但葱姜蒜听不懂、不认同，甚至出口打压。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 107,
+          "url": "https://www.douyin.com/video/7648547489775648613"
+        },
+        {
+          "index": 205,
+          "url": "https://www.douyin.com/video/7583676385651068196"
+        }
+      ]
+    },
+    {
+      "event_id": "E005",
+      "title": "与编二代比较后心态崩",
+      "description": "文本称小布尔乔亚努力达到某个高度后，回头一看编二代早已在该高度上，甚至由父母全款支持，因而产生强烈挫败。",
+      "temporal": "原文写“一旦遇到编二代”，触发顺序明示",
+      "chronology_basis": "明示",
+      "evidence": [
+        {
+          "index": 183,
+          "url": "https://www.douyin.com/video/7597102590869949702"
+        }
+      ]
+    },
+    {
+      "event_id": "E006",
+      "title": "在县城相亲评价体系中受挫",
+      "description": "文本以县城小布尔乔亚相亲屡屡受挫引出县城相亲评价体系，称编制压倒一切，其收入高并不必然在相亲中占优。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 199,
+          "url": "https://www.douyin.com/video/7586683557188242703"
+        }
+      ]
+    },
+    {
+      "event_id": "E007",
+      "title": "与县城瑜伽裤形成婚恋与消费组合",
+      "description": "文本认为小布尔乔亚和瑜伽裤在消费、圈层、生活方式上相互成全，只要小布尔乔亚收入能扛住，婚姻就扛得住。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 119,
+          "url": "https://www.douyin.com/video/7641878629400637669"
+        }
+      ]
+    },
+    {
+      "event_id": "E008",
+      "title": "用分享生活反向刺激小工贼与周围人",
+      "description": "文本称小布尔乔亚不宜像土大款一样直接炫耀，而是分享日常小幸运、爱好、提车买房，让奋斗者和周围人心理失衡。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 167,
+          "url": "https://www.douyin.com/video/7609679563001515318"
+        }
+      ]
+    },
+    {
+      "event_id": "E009",
+      "title": "追逐品牌爆款后遭遇假货和同款普及",
+      "description": "文本写小布尔乔亚买大牌爆款来区分身份，但第二年满街假货、菜市场大妈和年轻人都在穿，符号区隔被消解。",
+      "temporal": "原文有“第二年”的先后",
+      "chronology_basis": "明示",
+      "evidence": [
+        {
+          "index": 207,
+          "url": "https://www.douyin.com/video/7582623409314549046"
+        }
+      ]
+    },
+    {
+      "event_id": "E010",
+      "title": "购买三十万元级新车或被认为有能力购买",
+      "description": "文本把小布尔乔亚列为县城里少数可能购买三十万元新车的人群，并称其事业上升期无暇健身。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 131,
+          "url": "https://www.douyin.com/video/7631235496923925760"
+        },
+        {
+          "index": 198,
+          "url": "https://www.douyin.com/video/7587831651384757538"
+        }
+      ]
+    }
+  ],
+  "storylines": [
+    {
+      "title": "县城小布尔乔亚的自我证明循环",
+      "event_ids": [
+        "E001",
+        "E002",
+        "E003",
+        "E004",
+        "E005",
+        "E006",
+        "E007",
+        "E008",
+        "E009",
+        "E010"
+      ],
+      "narrative": "文案从收入开始：小布尔乔亚靠自身能力与人脉在县城拿到月入2万到8万，成为家族中第一代摸到中产的人。随后发展出一套自我证明方式：换房换车、买品牌、旅行出片、研究车、发朋友圈分享小幸运，试图以消费和品味同县城普通人、葱姜蒜划清界限。冲突随之出现：他们想得到葱姜蒜认同，却在酒桌与评价体系中被否定；与编二代比较时更感到挫败；相亲中编制压倒一切，收入优势未必奏效。消费升级与存款焦虑并存，越证明有钱越可能把钱花掉。文本给出的较稳定结果是，他们可与县城瑜伽裤相互成全，只要收入扛住，婚姻就扛得住；但整体仍被描述为焦虑、内耗、不松弛。",
+      "unresolved": "原文没有交代具体个体姓名、统一年龄、性别比例、收入上限与下限、所有小布尔乔亚是否都经历同样路径，也没有交代每个人最终婚姻与财富结局。",
+      "evidence": [
+        {
+          "index": 183,
+          "url": "https://www.douyin.com/video/7597102590869949702"
+        },
+        {
+          "index": 107,
+          "url": "https://www.douyin.com/video/7648547489775648613"
+        },
+        {
+          "index": 42,
+          "url": "https://www.douyin.com/video/7684920195781481381"
+        },
+        {
+          "index": 119,
+          "url": "https://www.douyin.com/video/7641878629400637669"
+        }
+      ]
+    }
+  ],
+  "relationships": [
+    {
+      "target": "县城葱姜蒜",
+      "relation": "一生之敌与认同对象并存：小布尔乔亚想划清界限，又渴望其认同，却常被葱姜蒜贬低、打压",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 107,
+          "url": "https://www.douyin.com/video/7648547489775648613"
+        },
+        {
+          "index": 205,
+          "url": "https://www.douyin.com/video/7583676385651068196"
+        }
+      ]
+    },
+    {
+      "target": "县城编二代",
+      "relation": "向上比较对象与“最严厉的父亲”，使小布尔乔亚因家庭托举差距而挫败",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 183,
+          "url": "https://www.douyin.com/video/7597102590869949702"
+        }
+      ]
+    },
+    {
+      "target": "县城瑜伽裤",
+      "relation": "消费、生活方式和圈层追求相近，可能相互吸引、相互成全并进入婚姻",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 119,
+          "url": "https://www.douyin.com/video/7641878629400637669"
+        }
+      ]
+    },
+    {
+      "target": "县城小工贼",
+      "relation": "小布尔乔亚是县城小工贼的梦想参照与“最严厉的父亲”，其分享生活会让奋斗者心态失衡",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 167,
+          "url": "https://www.douyin.com/video/7609679563001515318"
+        }
+      ]
+    },
+    {
+      "target": "县城体制内男性",
+      "relation": "对照群体：小布尔乔亚提新车会让体制内男性羡慕，且文本称小布尔乔亚活得比体制内男性自在很多",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 184,
+          "url": "https://www.douyin.com/video/7596671206527438086"
+        }
+      ]
+    },
+    {
+      "target": "县城女文青",
+      "relation": "文艺趣味相近、容易被视为同圈层，但经济能力和收入存在明显差距",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 178,
+          "url": "https://www.douyin.com/video/7601345616412708146"
+        }
+      ]
+    },
+    {
+      "target": "县城骗婚女",
+      "relation": "骗婚女被认为难以崩到小布尔乔亚等上层圈子对象",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 161,
+          "url": "https://www.douyin.com/video/7613610834408820006"
+        }
+      ]
+    },
+    {
+      "target": "县城小布尔乔亚的父母",
+      "relation": "父母多为工人、农民、个体户、小商小贩，难以提供太多帮衬；子女赚钱后会回报",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 183,
+          "url": "https://www.douyin.com/video/7597102590869949702"
+        }
+      ]
+    },
+    {
+      "target": "县城好大哥/土大款",
+      "relation": "同处县城排面与消费生态，但小布尔乔亚被描述为不像土大款那样明晃晃炫耀，而是不动声色",
+      "certainty": "文本推断",
+      "evidence": [
+        {
+          "index": 167,
+          "url": "https://www.douyin.com/video/7609679563001515318"
+        }
+      ]
+    }
+  ],
+  "speech_habits": [
+    {
+      "claim": "表达上追求金句、文艺腔和宿命感",
+      "evidence": [
+        {
+          "index": 42,
+          "url": "https://www.douyin.com/video/7684920195781481381"
+        }
+      ]
+    },
+    {
+      "claim": "用导演、作家、小众文化符号彰显品味与认知",
+      "evidence": [
+        {
+          "index": 42,
+          "url": "https://www.douyin.com/video/7684920195781481381"
+        }
+      ]
+    },
+    {
+      "claim": "在县城社交中倾向于搬用大城市的经济社会逻辑来证明自己",
+      "evidence": [
+        {
+          "index": 107,
+          "url": "https://www.douyin.com/video/7648547489775648613"
+        }
+      ]
+    },
+    {
+      "claim": "男性小布尔乔亚在网络上爱争论车际排面",
+      "evidence": [
+        {
+          "index": 74,
+          "url": "https://www.douyin.com/video/7668509239753149925"
+        }
+      ]
+    },
+    {
+      "claim": "分享生活时讲求“日常小幸运”和不经意展示",
+      "evidence": [
+        {
+          "index": 167,
+          "url": "https://www.douyin.com/video/7609679563001515318"
+        }
+      ]
+    }
+  ],
+  "contradictions": [
+    {
+      "issue": "收入高与存款少/攒不下钱并存",
+      "versions": [
+        {
+          "claim": "文本称其在县城月入2万到8万，属于高收入",
+          "evidence": [
+            {
+              "index": 183,
+              "url": "https://www.douyin.com/video/7597102590869949702"
+            }
+          ]
+        },
+        {
+          "claim": "文本又称其通过消费证明有钱，钱被花掉，兜里没有多少存款，难攒钱",
+          "evidence": [
+            {
+              "index": 79,
+              "url": "https://www.douyin.com/video/7662945071273189093"
+            },
+            {
+              "index": 42,
+              "url": "https://www.douyin.com/video/7684920195781481381"
+            }
+          ]
+        }
+      ],
+      "resolution": "保留并列：文本按不同篇目分别强调其高收入与消费导致难攒钱，按出处并列呈现。"
+    },
+    {
+      "issue": "想低调不炫耀与极度渴望展示、证明自己并存",
+      "versions": [
+        {
+          "claim": "文本称其不像土大款那样明晃晃炫耀，不动声色",
+          "evidence": [
+            {
+              "index": 167,
+              "url": "https://www.douyin.com/video/7609679563001515318"
+            }
+          ]
+        },
+        {
+          "claim": "文本又称其穷极一生证明自己有钱、魅力、品味，非常想要展现自己",
+          "evidence": [
+            {
+              "index": 42,
+              "url": "https://www.douyin.com/video/7684920195781481381"
+            },
+            {
+              "index": 207,
+              "url": "https://www.douyin.com/video/7582623409314549046"
+            }
+          ]
+        }
+      ],
+      "resolution": "保留并列：一版强调外显方式含蓄，一版强调内在动机仍是强烈自我证明。"
+    },
+    {
+      "issue": "想与葱姜蒜划清界限，又渴望葱姜蒜认同",
+      "versions": [
+        {
+          "claim": "小布尔乔亚想用符号消费与葱姜蒜划清界限",
+          "evidence": [
+            {
+              "index": 107,
+              "url": "https://www.douyin.com/video/7648547489775648613"
+            }
+          ]
+        },
+        {
+          "claim": "小布尔乔亚又试图获得葱姜蒜认同，却常被否定",
+          "evidence": [
+            {
+              "index": 205,
+              "url": "https://www.douyin.com/video/7583676385651068196"
+            },
+            {
+              "index": 176,
+              "url": "https://www.douyin.com/video/7601752625796713779"
+            }
+          ]
+        }
+      ],
+      "resolution": "保留并列：文本把这种错位写成其核心困境，不强行判定其真实态度。"
+    },
+    {
+      "issue": "婚恋上精明权衡、不容易被拿捏，与相亲受挫、和瑜伽裤相互成全并存",
+      "versions": [
+        {
+          "claim": "文本称其最会权衡利弊，恋爱归恋爱，结婚归结婚",
+          "evidence": [
+            {
+              "index": 126,
+              "url": "https://www.douyin.com/video/7637424592269282661"
+            }
+          ]
+        },
+        {
+          "claim": "文本又称其在县城相亲评价体系中屡屡受挫",
+          "evidence": [
+            {
+              "index": 199,
+              "url": "https://www.douyin.com/video/7586683557188242703"
+            }
+          ]
+        },
+        {
+          "claim": "文本另称其与瑜伽裤能相互成全，收入扛住则婚姻扛住",
+          "evidence": [
+            {
+              "index": 119,
+              "url": "https://www.douyin.com/video/7641878629400637669"
+            }
+          ]
+        }
+      ],
+      "resolution": "保留并列：婚恋材料按不同对象和不同篇目呈现，不能合成统一婚恋结局。"
+    },
+    {
+      "issue": "比体制内男性自在，与最内耗压抑焦虑并存",
+      "versions": [
+        {
+          "claim": "文本称小布尔乔亚虽拧巴，却比县城体制内男性活得自在很多",
+          "evidence": [
+            {
+              "index": 184,
+              "url": "https://www.douyin.com/video/7596671206527438086"
+            }
+          ]
+        },
+        {
+          "claim": "文本又称其为县城里最内耗、最压抑、最不松弛的人，焦虑迷茫睡不着",
+          "evidence": [
+            {
+              "index": 42,
+              "url": "https://www.douyin.com/video/7684920195781481381"
+            },
+            {
+              "index": 74,
+              "url": "https://www.douyin.com/video/7668509239753149925"
+            }
+          ]
+        }
+      ],
+      "resolution": "保留并列：一处是相对体制内男性的比较判断，一处是对其自身状态的绝对化描述。"
+    },
+    {
+      "issue": "消费升级与习得性自我压抑、攒钱并存",
+      "versions": [
+        {
+          "claim": "收入提升后马上消费升级，赚一万花八千，赚两万花一万六",
+          "evidence": [
+            {
+              "index": 79,
+              "url": "https://www.douyin.com/video/7662945071273189093"
+            }
+          ]
+        },
+        {
+          "claim": "同时又喜欢攒钱，在二三百元短袖上反复叩问自己，形成习得性自我压抑",
+          "evidence": [
+            {
+              "index": 87,
+              "url": "https://www.douyin.com/video/7658207183385005363"
+            }
+          ]
+        }
+      ],
+      "resolution": "保留并列：文本呈现其消费与节俭的双重面向，不擅自统一为单一消费人格。"
+    }
+  ],
+  "gaps": [
+    "缺少具体姓名、年龄、性别比例和统一家庭结构。",
+    "缺少收入2万到8万之外更精确的职业分布与收入来源说明。",
+    "缺少所有小布尔乔亚是否都经历同样消费升级、相亲受挫和认同冲突的说明。",
+    "缺少其与县城小黄毛、县城老社保等角色的直接关系材料。",
+    "缺少个人最终财富、婚姻、精神状态的明确结局。",
+    "缺少不同文本中“小布尔乔亚”所指究竟是同一群人还是多个复合原型的边界说明。"
+  ],
+  "creative_expansions": [],
+  "source_coverage": [
+    {
+      "index": 2,
+      "role": "把小布尔乔亚列为一赚点小钱就全花在面子上、贷款硬干五六E、穿品牌怕别人不知道有点小钱的角色。",
+      "url": "https://www.douyin.com/video/7708234522315230473"
+    },
+    {
+      "index": 42,
+      "role": "核心材料：小布尔乔亚想证明有钱、魅力、品味认知，消费、文艺、金句、内耗与不松弛。",
+      "url": "https://www.douyin.com/video/7684920195781481381"
+    },
+    {
+      "index": 51,
+      "role": "提供婚恋材料：小布尔乔亚娶县城瑜伽裤，家庭经济蒸蒸日上，感情较可能维持。",
+      "url": "https://www.douyin.com/video/7680388351061973361"
+    },
+    {
+      "index": 74,
+      "role": "提供旅行出片、景点分级、男性研究车等生活方式材料。",
+      "url": "https://www.douyin.com/video/7668509239753149925"
+    },
+    {
+      "index": 79,
+      "role": "提供收入提升后立即消费升级、难攒下钱的材料。",
+      "url": "https://www.douyin.com/video/7662945071273189093"
+    },
+    {
+      "index": 87,
+      "role": "提供高收入小布尔乔亚也会习得性自我压抑、喜欢攒钱的材料。",
+      "url": "https://www.douyin.com/video/7658207183385005363"
+    },
+    {
+      "index": 101,
+      "role": "提供其BBA与异性吸引、并非靠个人魅力而是财富工作家庭发力的对照材料。",
+      "url": "https://www.douyin.com/video/7651520151568813358"
+    },
+    {
+      "index": 107,
+      "role": "核心材料：一生之敌是葱姜蒜、第一代摸到中产、符号化区分身份、认同错位、社会逻辑不被理解。",
+      "url": "https://www.douyin.com/video/7648547489775648613"
+    },
+    {
+      "index": 113,
+      "role": "提供高收入仍焦虑、不幸福的反差材料。",
+      "url": "https://www.douyin.com/video/7644796017133896933"
+    },
+    {
+      "index": 115,
+      "role": "核心材料：最拧巴男性之一，阶层半跃迁、焦虑、消费与身份困境。",
+      "url": "https://www.douyin.com/video/7643824127509368127"
+    },
+    {
+      "index": 116,
+      "role": "提供“小布尔乔亚的精致矫情”这一人物设定概括。",
+      "url": "https://www.douyin.com/video/7643277690203589923"
+    },
+    {
+      "index": 119,
+      "role": "提供与瑜伽裤相互成全、收入扛住则婚姻扛得住的婚恋组合材料。",
+      "url": "https://www.douyin.com/video/7641878629400637669"
+    },
+    {
+      "index": 126,
+      "role": "提供其最会权衡利弊、恋爱归恋爱结婚归结婚、不易被捞好处的材料。",
+      "url": "https://www.douyin.com/video/7637424592269282661"
+    },
+    {
+      "index": 131,
+      "role": "提供其属于可能购买三十万元级新车的人群材料。",
+      "url": "https://www.douyin.com/video/7631235496923925760"
+    },
+    {
+      "index": 153,
+      "role": "提供平替服饰可穿出“县城小布尔乔亚气质”、行政秀气风格的材料。",
+      "url": "https://www.douyin.com/video/7618857294381468937"
+    },
+    {
+      "index": 158,
+      "role": "提供建议其晚两年扩张和消费升级、先沉淀的材料。",
+      "url": "https://www.douyin.com/video/7616215560183284154"
+    },
+    {
+      "index": 161,
+      "role": "提供骗婚女难以崩到小布尔乔亚等对象的材料。",
+      "url": "https://www.douyin.com/video/7613610834408820006"
+    },
+    {
+      "index": 167,
+      "role": "核心材料：小工贼最严厉的父亲、其分享生活刺激奋斗者、低调不动的展示方式。",
+      "url": "https://www.douyin.com/video/7609679563001515318"
+    },
+    {
+      "index": 176,
+      "role": "提供葱姜蒜对其出身和运气的贬低材料。",
+      "url": "https://www.douyin.com/video/7601752625796713779"
+    },
+    {
+      "index": 178,
+      "role": "提供与女文青圈层错觉、收入差距的材料。",
+      "url": "https://www.douyin.com/video/7601345616412708146"
+    },
+    {
+      "index": 179,
+      "role": "提供其牙黄牙臭也会被归入县城葱姜蒜的外部评价材料。",
+      "url": "https://www.douyin.com/video/7600967880855019771"
+    },
+    {
+      "index": 180,
+      "role": "提供年少缺钱、成年后攒钱与面子消费、弥补童年缺憾的材料。",
+      "url": "https://www.douyin.com/video/7600069250975419690"
+    },
+    {
+      "index": 183,
+      "role": "核心材料：编二代是其最严厉父亲，家庭起点、打拼收入、消费升级、回报父母、与编二代比较挫败。",
+      "url": "https://www.douyin.com/video/7597102590869949702"
+    },
+    {
+      "index": 184,
+      "role": "提供与县城体制内男性对照：提新车引发羡慕、被称活得更自在。",
+      "url": "https://www.douyin.com/video/7596671206527438086"
+    },
+    {
+      "index": 198,
+      "role": "提供事业上升期、赚钱费时间精力、无暇健身的材料。",
+      "url": "https://www.douyin.com/video/7587831651384757538"
+    },
+    {
+      "index": 199,
+      "role": "提供相亲受挫、县城相亲评价体系编制压倒一切的材料。",
+      "url": "https://www.douyin.com/video/7586683557188242703"
+    },
+    {
+      "index": 205,
+      "role": "核心材料：执念是太想证明自己、无法在葱姜蒜评价体系里证明、好大哥才能干服葱姜蒜。",
+      "url": "https://www.douyin.com/video/7583676385651068196"
+    },
+    {
+      "index": 207,
+      "role": "核心材料：县城月入2万到8万真空区、约占1%、职业构成、第六衣食住行尴尬、品牌爆款被假货消解、想展现自己。",
+      "url": "https://www.douyin.com/video/7582623409314549046"
+    },
+    {
+      "index": 297,
+      "role": "提供小布尔乔亚生活方式被资本打造、带滤镜消费文化的材料。",
+      "url": "https://www.douyin.com/video/7488001889150274831"
+    }
+  ]
+}

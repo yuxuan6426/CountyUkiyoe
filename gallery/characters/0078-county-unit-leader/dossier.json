@@ -1,0 +1,581 @@
+{
+  "name": "县城单位领导",
+  "nature": "复合原型/群像角色。由第33、168、220、286篇中的“领导”功能位拼合，无固定姓名、年龄、职级和连续生平；不同篇中的领导可能并非同一自然人，各段叙述按出处并列呈现。",
+  "overview": "县城单位领导是第33、168、220、286篇中“领导”功能位拼合出的复合原型，无固定姓名、年龄、职级与连续生平。常见场景是开会、分派任务、安排加班、管理运转和评价下属；会借“为你好”口吻介入下属家事，也会因小公贼式下属的讨好与积极表现重燃升迁期待、严抓管理，把躺编青年当反面典型。另一版本中他“什么权利都没有”，面对盯考勤举报、敢劳动仲裁、持法考证或靠写材料晋升的下属无可奈何甚至反过来巴结；对家庭背景深、父母有人脉、从不加班的编制青年则印象良好并分配轻松易出成绩的工作。权力强弱与对不加班青年的态度均存在并列版本，四篇中的“领导”不能确认为同一自然人。",
+  "identity": [
+    {
+      "claim": "县城单位中的领导，出现在开会、单位管理、任务安排和评价下属等场景中。",
+      "evidence": [
+        {
+          "index": 33,
+          "url": "https://www.douyin.com/video/7688294065229685157"
+        },
+        {
+          "index": 168,
+          "url": "https://www.douyin.com/video/7609198062229764005"
+        },
+        {
+          "index": 286,
+          "url": "https://www.douyin.com/video/7503950426107088165"
+        }
+      ]
+    },
+    {
+      "claim": "在原文明示的某个版本中，这一领导被描述为“什么权利都没有”，却仍接受下属送礼和讨好。",
+      "evidence": [
+        {
+          "index": 168,
+          "url": "https://www.douyin.com/video/7609198062229764005"
+        }
+      ]
+    },
+    {
+      "claim": "其管理行为可涉及安排超出正常工作量的任务与加班。",
+      "evidence": [
+        {
+          "index": 168,
+          "url": "https://www.douyin.com/video/7609198062229764005"
+        },
+        {
+          "index": 220,
+          "url": "https://www.douyin.com/video/7573718655175888134"
+        }
+      ]
+    },
+    {
+      "claim": "对小县城里父母有人脉、自身带编的青年，会分配轻松且容易出成绩的工作并保持好印象。",
+      "evidence": [
+        {
+          "index": 286,
+          "url": "https://www.douyin.com/video/7503950426107088165"
+        }
+      ]
+    }
+  ],
+  "traits": [
+    {
+      "claim": "会借关心下属家事的口吻施加工作压力，文本称这实际上是嘲讽和批判。",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 33,
+          "url": "https://www.douyin.com/video/7688294065229685157"
+        }
+      ]
+    },
+    {
+      "claim": "有升迁和政绩冲动，容易被积极下属的表现激活。",
+      "kind": "动机",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 168,
+          "url": "https://www.douyin.com/video/7609198062229764005"
+        }
+      ]
+    },
+    {
+      "claim": "接受积极下属的送礼和讨好，原本被打压的领导架子会被重新勾回。",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 168,
+          "url": "https://www.douyin.com/video/7609198062229764005"
+        }
+      ]
+    },
+    {
+      "claim": "会以积极下属为参照，对不积极、躺平的下属变得不顺眼。",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 168,
+          "url": "https://www.douyin.com/video/7609198062229764005"
+        }
+      ]
+    },
+    {
+      "claim": "面对强硬、有底气或具备稀缺技能的下属时，权威会受到制约，甚至会反过来巴结。",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 220,
+          "url": "https://www.douyin.com/video/7573718655175888134"
+        }
+      ]
+    },
+    {
+      "claim": "对家庭背景深、父母有人脉、从不加班的下属，也可能保持良好印象并给予轻松工作。",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 286,
+          "url": "https://www.douyin.com/video/7503950426107088165"
+        }
+      ]
+    },
+    {
+      "claim": "存在“自己原本准备躺平，却被积极下属带起节奏”的反差。",
+      "kind": "矛盾",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 168,
+          "url": "https://www.douyin.com/video/7609198062229764005"
+        }
+      ]
+    },
+    {
+      "claim": "权力大小存在不同版本：一面能严抓管理、安排超额工作，另一面被称“什么权利都没有”且对强硬下属无可奈何。",
+      "kind": "矛盾",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "对不加班年轻人的态度存在不同版本：对有人脉背景者印象很好，对小公贼来后的躺编00后却当反面典型。",
+      "kind": "矛盾",
+      "certainty": "文本推断",
+      "evidence": []
+    }
+  ],
+  "life_domains": [
+    {
+      "domain": "职业/权力",
+      "claim": "负责单位管理运转，安排工作与加班，并对下属形成评价。",
+      "evidence": [
+        {
+          "index": 168,
+          "url": "https://www.douyin.com/video/7609198062229764005"
+        },
+        {
+          "index": 286,
+          "url": "https://www.douyin.com/video/7503950426107088165"
+        }
+      ]
+    },
+    {
+      "domain": "人情/送礼",
+      "claim": "接受小公贼式下属的送礼、点头哈腰和讨好，并因此恢复领导架子。",
+      "evidence": [
+        {
+          "index": 168,
+          "url": "https://www.douyin.com/video/7609198062229764005"
+        }
+      ]
+    },
+    {
+      "domain": "下属家庭/评价",
+      "claim": "会把下属家事纳入单位会议场景，并以关心口吻施压。",
+      "evidence": [
+        {
+          "index": 33,
+          "url": "https://www.douyin.com/video/7688294065229685157"
+        }
+      ]
+    },
+    {
+      "domain": "单位资源分配",
+      "claim": "对有家庭背景、父母有人脉的下属，可分配最轻松且最容易出成绩的工作。",
+      "evidence": [
+        {
+          "index": 286,
+          "url": "https://www.douyin.com/video/7503950426107088165"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "event_id": "E001",
+      "title": "开会拍肩提醒处理家事",
+      "description": "在单位开会场景中，领导拍拍被称“老刘”的人的肩膀，提醒其把家事处理好、不要影响工作；文本判断这表面关心，实际是嘲讽和批判。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 33,
+          "url": "https://www.douyin.com/video/7688294065229685157"
+        }
+      ]
+    },
+    {
+      "event_id": "E002",
+      "title": "受小公贼刺激重燃升迁期待",
+      "description": "领导本来也准备躺平，看到小公贼积极干活后立刻蹦起来，怀疑自己要被提拔，于是开始严抓单位管理，要求自己干出成绩。",
+      "temporal": "原文以“本来/一看”呈现相对先后",
+      "chronology_basis": "明示",
+      "evidence": [
+        {
+          "index": 168,
+          "url": "https://www.douyin.com/video/7609198062229764005"
+        }
+      ]
+    },
+    {
+      "event_id": "E003",
+      "title": "接受小公贼送礼讨好",
+      "description": "作为被小公贼讨好的领导，他一年收对方两遍礼，接受点头哈腰和毕恭毕敬；原本被打压下去的领导架子三天又被勾回来。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 168,
+          "url": "https://www.douyin.com/video/7609198062229764005"
+        }
+      ]
+    },
+    {
+      "event_id": "E004",
+      "title": "对躺编00后态度转变",
+      "description": "小公贼来之前，领导觉得躺编00后虽不怎么努力，但好歹是单位中间力量，不会吹胡子瞪眼；小公贼一来，他就怎么看对方怎么不顺眼。",
+      "temporal": "原文以小公贼来前/来后呈现先后",
+      "chronology_basis": "明示",
+      "evidence": [
+        {
+          "index": 168,
+          "url": "https://www.douyin.com/video/7609198062229764005"
+        }
+      ]
+    },
+    {
+      "event_id": "E005",
+      "title": "安排超额工作并批评",
+      "description": "单位领导给员工安排一大堆完全超出正常工作量的活；在小公贼出现后，环境进一步变化，躺编青年被开会当反面典型、天天被指着鼻子批评。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 168,
+          "url": "https://www.douyin.com/video/7609198062229764005"
+        }
+      ]
+    },
+    {
+      "event_id": "E006",
+      "title": "被“不要命”的下属反制",
+      "description": "一个下属被查考勤后，反手盯死领导作息，早退一分钟就举报，加班后追着要钱，少一分钟都走劳动仲裁，使领导难以奈何。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 220,
+          "url": "https://www.douyin.com/video/7573718655175888134"
+        }
+      ]
+    },
+    {
+      "event_id": "E007",
+      "title": "面对法考证同事无可奈何",
+      "description": "另一位同事考取法律职业资格证后，面对不合理加班直接拒绝，领导无可奈何，因为对方有随时撂挑子去当律师的底气。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 220,
+          "url": "https://www.douyin.com/video/7573718655175888134"
+        }
+      ]
+    },
+    {
+      "event_id": "E008",
+      "title": "反过来巴结写材料的人",
+      "description": "一个靠写材料一路晋升的人，谁都拦不住，领导反过来巴结他。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 220,
+          "url": "https://www.douyin.com/video/7573718655175888134"
+        }
+      ]
+    },
+    {
+      "event_id": "E009",
+      "title": "对有背景不加班青年印象良好",
+      "description": "家庭背景深、父母有人脉的编制青年，在单位里没有人欺负，工作最轻松也最容易出成绩；即便从不参与加班，领导对他印象也非常好。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 286,
+          "url": "https://www.douyin.com/video/7503950426107088165"
+        }
+      ]
+    }
+  ],
+  "storylines": [
+    {
+      "title": "小公贼激活领导，躺编00后遭殃",
+      "event_ids": [
+        "E002",
+        "E003",
+        "E004",
+        "E005"
+      ],
+      "narrative": "开始是领导原本准备躺平，单位维持一种低强度状态。后来小公贼出现，主动干活、讨好送礼，领导受到刺激，重燃升迁期待，开始严抓管理和运转，领导架子也重新回来。冲突落在原本还能被当作中间力量的躺编00后身上：领导越看越不顺眼，将其作为反面典型，单位环境变得难以躺平。",
+      "unresolved": "领导是否真的被提拔、小公贼后来是否继续得势，以及躺编00后的最终处境，原文都没有交代。",
+      "evidence": [
+        {
+          "index": 168,
+          "url": "https://www.douyin.com/video/7609198062229764005"
+        }
+      ]
+    },
+    {
+      "title": "不同底气下属面前的权威分化",
+      "event_ids": [
+        "E006",
+        "E007",
+        "E008",
+        "E009"
+      ],
+      "narrative": "同一位“县城单位领导”在不同下属面前呈现不同权威：对不要命、敢举报和追加班费的人无可奈何；对考取法考证、随时能去当律师的人无可奈何；对靠写材料晋升的人反过来巴结；对家庭背景深、父母有人脉、从不加班的编制青年则印象良好，并分配轻松易出成绩的工作。由此形成一条“权力看对象”的文本线。",
+      "unresolved": "这些下属的姓名、后续发展、领导区别对待的具体标准没有说明。",
+      "evidence": [
+        {
+          "index": 220,
+          "url": "https://www.douyin.com/video/7573718655175888134"
+        },
+        {
+          "index": 286,
+          "url": "https://www.douyin.com/video/7503950426107088165"
+        }
+      ]
+    },
+    {
+      "title": "借关心家事施压",
+      "event_ids": [
+        "E001"
+      ],
+      "narrative": "在单位开会场景中，领导以拍肩和提醒处理家事的方式介入下属私人生活，表面是关心，文本判定为嘲讽和批判。这是一个单独的场景片段，未形成完整前因后果。",
+      "unresolved": "该下属家事的具体内容、后续处理及其与领导的关系没有交代。",
+      "evidence": [
+        {
+          "index": 33,
+          "url": "https://www.douyin.com/video/7688294065229685157"
+        }
+      ]
+    }
+  ],
+  "relationships": [
+    {
+      "target": "被称“老刘”的开会者/下属",
+      "relation": "被领导以关心家事为名施压",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 33,
+          "url": "https://www.douyin.com/video/7688294065229685157"
+        }
+      ]
+    },
+    {
+      "target": "县城小公贼",
+      "relation": "被其讨好、送礼，并因其积极表现重燃升迁期待、严抓管理",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 168,
+          "url": "https://www.douyin.com/video/7609198062229764005"
+        }
+      ]
+    },
+    {
+      "target": "躺编00后",
+      "relation": "从被视为单位中间力量，到被看不顺眼、当反面典型和批评",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 168,
+          "url": "https://www.douyin.com/video/7609198062229764005"
+        }
+      ]
+    },
+    {
+      "target": "不要命的下属/哥们",
+      "relation": "被其盯考勤、举报早退、追加班费，领导难以奈何",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 220,
+          "url": "https://www.douyin.com/video/7573718655175888134"
+        }
+      ]
+    },
+    {
+      "target": "考取法考证的同事",
+      "relation": "对方拒绝不合理加班，领导无可奈何",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 220,
+          "url": "https://www.douyin.com/video/7573718655175888134"
+        }
+      ]
+    },
+    {
+      "target": "靠写材料晋升的哥们",
+      "relation": "领导反过来巴结他",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 220,
+          "url": "https://www.douyin.com/video/7573718655175888134"
+        }
+      ]
+    },
+    {
+      "target": "家庭背景好的编制青年",
+      "relation": "领导分配轻松且易出成绩的工作，并对其不加班保持好印象",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 286,
+          "url": "https://www.douyin.com/video/7503950426107088165"
+        }
+      ]
+    },
+    {
+      "target": "单位员工/下属（泛）",
+      "relation": "被安排超出正常量的工作，并接受领导管理评价",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 168,
+          "url": "https://www.douyin.com/video/7609198062229764005"
+        }
+      ]
+    }
+  ],
+  "speech_habits": [
+    {
+      "claim": "用关心下属家事的口吻施加工作压力。",
+      "evidence": [
+        {
+          "index": 33,
+          "url": "https://www.douyin.com/video/7688294065229685157"
+        }
+      ]
+    },
+    {
+      "claim": "在管理动员中强调“严抓管理”和“干出成绩”。",
+      "evidence": [
+        {
+          "index": 168,
+          "url": "https://www.douyin.com/video/7609198062229764005"
+        }
+      ]
+    },
+    {
+      "claim": "会以反面典型、指着鼻子批评等方式向不积极下属施压。",
+      "evidence": [
+        {
+          "index": 168,
+          "url": "https://www.douyin.com/video/7609198062229764005"
+        }
+      ]
+    },
+    {
+      "claim": "面对有底气或稀缺技能的下属时，管理话语难以生效，只能无可奈何或转而巴结。",
+      "evidence": [
+        {
+          "index": 220,
+          "url": "https://www.douyin.com/video/7573718655175888134"
+        }
+      ]
+    }
+  ],
+  "contradictions": [
+    {
+      "issue": "权力大小出现不同版本",
+      "versions": [
+        {
+          "claim": "版本一：能够严抓管理运转、安排超额工作并评价下属。",
+          "evidence": [
+            {
+              "index": 168,
+              "url": "https://www.douyin.com/video/7609198062229764005"
+            }
+          ]
+        },
+        {
+          "claim": "版本二：被称为“什么权利都没有的一个领导”，且面对强硬下属时无可奈何。",
+          "evidence": [
+            {
+              "index": 168,
+              "url": "https://www.douyin.com/video/7609198062229764005"
+            },
+            {
+              "index": 220,
+              "url": "https://www.douyin.com/video/7573718655175888134"
+            }
+          ]
+        }
+      ],
+      "resolution": "保留并列：文本中的“领导”是功能位复合形象，不同篇目给出的权力强弱并不一致，不能擅自合并为单一职级和权限。"
+    },
+    {
+      "issue": "对不加班年轻人的态度出现不同版本",
+      "versions": [
+        {
+          "claim": "版本一：对从不参与加班的编制青年印象非常好。",
+          "evidence": [
+            {
+              "index": 286,
+              "url": "https://www.douyin.com/video/7503950426107088165"
+            }
+          ]
+        },
+        {
+          "claim": "版本二：小公贼来后，对躺编00后怎么看怎么不顺眼，并当反面典型。",
+          "evidence": [
+            {
+              "index": 168,
+              "url": "https://www.douyin.com/video/7609198062229764005"
+            }
+          ]
+        }
+      ],
+      "resolution": "保留并列，不擅自判定为同一情境；可能因家庭背景、是否出现小公贼、对象不同而分化。"
+    }
+  ],
+  "gaps": [
+    "领导的姓名、年龄、性别、具体单位、职级、是否带编、任职时间均未交代。",
+    "其实际权力范围和升迁结果没有说明。",
+    "四篇中出现或提到的“领导”是否同一自然人，无法确认。",
+    "领导与小公贼、躺编00后、法考证同事、写材料哥们的具体关系时长和后续结果未交代。",
+    "领导对普通下属与有背景下属区别分配工作的具体标准未说明。",
+    "其家庭、私人生活、日常经历等材料在文本中缺失。",
+    "领导收礼后是否实际为小公贼谋取升迁或调动，未交代。",
+    "领导对法考证同事、写材料者在事件之后的长期态度，未交代。",
+    "领导在会议之外如何评价普通下属，未交代。"
+  ],
+  "creative_expansions": [],
+  "source_coverage": [
+    {
+      "index": 33,
+      "role": "提供领导在单位开会场景中拍肩、借关心下属家事施压，并被文本判定为嘲讽批判的材料。",
+      "url": "https://www.douyin.com/video/7688294065229685157"
+    },
+    {
+      "index": 168,
+      "role": "提供领导原本准备躺平、受小公贼刺激后严抓管理、接受送礼、恢复领导架子、对躺编00后态度转变及安排超额工作的材料。",
+      "url": "https://www.douyin.com/video/7609198062229764005"
+    },
+    {
+      "index": 220,
+      "role": "提供领导面对不要命下属、法考证同事、写材料晋升者时权威受制或反过来巴结的材料。",
+      "url": "https://www.douyin.com/video/7573718655175888134"
+    },
+    {
+      "index": 286,
+      "role": "提供领导对家庭背景深、父母有人脉、不参与加班的编制青年印象良好并分配轻松易出成绩工作的材料。",
+      "url": "https://www.douyin.com/video/7503950426107088165"
+    }
+  ]
+}

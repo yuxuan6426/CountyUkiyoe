@@ -1,0 +1,985 @@
+{
+  "name": "县城王漫妮",
+  "nature": "原型/复合群像/具名叙事角色。部分篇目明示她是电视剧《三十而已》王漫妮的低配版；多篇文案共同塑造，职业、收入、婚配对象与结局均存在并列版本，按出处并列呈现，也呈现各篇作品中的角色设定。",
+  "overview": "县城王漫妮是县城婚恋叙事中反复出现的女性原型，常被定义为《三十而已》王漫妮的低配版。家庭背景普通：母亲做针线活、父亲做保安，自己二本、弟弟大专（另有“世代贫农”版本）。她靠美颜、精致社交内容和高端消费场景包装自己，收入与消费割裂。自认颜值中上甚至顶美，择偶要求高，重视全款车房、彩礼与对方经济实力，嘴上却说要求不高。三十有三后因父母催婚恐慌，优质男意兴阑珊。婚配结局多版本并存：可能嫁给县城领导的男司机，可能嫁给县城末代少爷，也可能被离异好闺蜜和老骚包影响而彻底剩下，并成为杀猪盘重点目标。职业收入同样多版本：月薪4300、奢侈品销售主管巅峰1万7后被炒到6700、导购/前台等到手3千以内。",
+  "identity": [
+    {
+      "claim": "被明确设定为电视剧《三十而已》王漫妮的低配版，家庭背景一般。",
+      "evidence": [
+        {
+          "index": 13,
+          "url": "https://www.douyin.com/video/7700400421937377939"
+        }
+      ]
+    },
+    {
+      "claim": "部分篇目中，家庭为母亲做针线活、父亲做保安，自己二本，弟弟读大专。",
+      "evidence": [
+        {
+          "index": 13,
+          "url": "https://www.douyin.com/video/7700400421937377939"
+        }
+      ]
+    },
+    {
+      "claim": "部分篇目中，她工作七八年，一月工资4300。",
+      "evidence": [
+        {
+          "index": 13,
+          "url": "https://www.douyin.com/video/7700400421937377939"
+        }
+      ]
+    },
+    {
+      "claim": "另一版本中，她做奢侈品销售主管，巅峰工资17000，被炒后降到6700。",
+      "evidence": [
+        {
+          "index": 134,
+          "url": "https://www.douyin.com/video/7629625893589208370"
+        }
+      ]
+    },
+    {
+      "claim": "另一版本中，这类人的工作包括服装店导购、美容院前台、美甲店学徒、小公司行政文员等，扣五险一金后一个月到手3千以内。",
+      "evidence": [
+        {
+          "index": 137,
+          "url": "https://www.douyin.com/video/7627001079901388218"
+        }
+      ]
+    },
+    {
+      "claim": "文案将教师、护士、银行女列为县城大龄剩女最集中的三个职业重灾区，并以此分析县城王漫妮类女性。",
+      "evidence": [
+        {
+          "index": 128,
+          "url": "https://www.douyin.com/video/7634402011164740910"
+        }
+      ]
+    },
+    {
+      "claim": "在大龄未婚设定中，她最后被说成彻底剩下，并成为杀猪盘重点目标客户。",
+      "evidence": [
+        {
+          "index": 108,
+          "url": "https://www.douyin.com/video/7648176182773731813"
+        },
+        {
+          "index": 117,
+          "url": "https://www.douyin.com/video/7643337371110411520"
+        }
+      ]
+    }
+  ],
+  "traits": [
+    {
+      "claim": "核心欲望：向往精致高端生活，并用社交媒体内容包装自己。",
+      "kind": "欲望",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 13,
+          "url": "https://www.douyin.com/video/7700400421937377939"
+        }
+      ]
+    },
+    {
+      "claim": "动机：穷极半生都想证明自己嫁得比别人好。",
+      "kind": "动机",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 117,
+          "url": "https://www.douyin.com/video/7643337371110411520"
+        }
+      ]
+    },
+    {
+      "claim": "择偶要求高，挑挑选选，要求对方全款车房。",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 127,
+          "url": "https://www.douyin.com/video/7634806168099526885"
+        }
+      ]
+    },
+    {
+      "claim": "自我形象：认为自己颜值足以嫁入婆罗门，甚至自认顶美。",
+      "kind": "自我形象",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 59,
+          "url": "https://www.douyin.com/video/7674841224112803429"
+        }
+      ]
+    },
+    {
+      "claim": "矛盾：自我认知评价与真实婚恋市场反馈不匹配。",
+      "kind": "矛盾",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 117,
+          "url": "https://www.douyin.com/video/7643337371110411520"
+        }
+      ]
+    },
+    {
+      "claim": "被描述为婚恋市场上的精致利己主义者，要找能吊打别人老公的老公。",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 13,
+          "url": "https://www.douyin.com/video/7700400421937377939"
+        }
+      ]
+    },
+    {
+      "claim": "利用高冷精致单身人设吸引商务豪登，并运用欲擒故纵技巧。",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 137,
+          "url": "https://www.douyin.com/video/7627001079901388218"
+        }
+      ]
+    },
+    {
+      "claim": "收入与消费完全割裂，能力与野心不对等。",
+      "kind": "矛盾",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 137,
+          "url": "https://www.douyin.com/video/7627001079901388218"
+        }
+      ]
+    },
+    {
+      "claim": "容易受离异好闺蜜和老骚包影响，在剩女道路上越走越远。",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 108,
+          "url": "https://www.douyin.com/video/7648176182773731813"
+        }
+      ]
+    },
+    {
+      "claim": "存在年龄恐慌，三十有三时因父母催婚而恐慌不安。",
+      "kind": "恐惧",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 13,
+          "url": "https://www.douyin.com/video/7700400421937377939"
+        }
+      ]
+    },
+    {
+      "claim": "在末代少爷版本中，她把婚姻当作持续性的承诺。",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 59,
+          "url": "https://www.douyin.com/video/7674841224112803429"
+        }
+      ]
+    },
+    {
+      "claim": "被描述为没落地，活在彩虹屁里面。",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 137,
+          "url": "https://www.douyin.com/video/7627001079901388218"
+        }
+      ]
+    },
+    {
+      "claim": "一方面嫌弃渣男，一方面又向往对方的别墅、游艇、大飞机。",
+      "kind": "矛盾",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 134,
+          "url": "https://www.douyin.com/video/7629625893589208370"
+        }
+      ]
+    },
+    {
+      "claim": "向往精致高端生活，并用社交媒体内容包装自己。",
+      "kind": "欲望",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "穷极半生都想证明自己嫁得比别人好。",
+      "kind": "动机",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "自认颜值中上甚至顶美，认为自己足以嫁入婆罗门。",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "自我认知评价与真实婚恋市场反馈不匹配。",
+      "kind": "矛盾",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "三十有三时因父母催婚而恐慌不安。",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "在末代少爷版本中把婚姻当作持续性的承诺。",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "嘴上说自己要求不高，实际择偶标准高。",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "对追求者爱答不理、回复慢，对方不理她时又反过来主动暧昧。",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "对几百块礼物瞧不上，并会向闺蜜吐槽。",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    }
+  ],
+  "life_domains": [
+    {
+      "domain": "家庭",
+      "claim": "家庭背景普通，母亲做针线活，父亲做保安，弟弟读大专。",
+      "evidence": [
+        {
+          "index": 13,
+          "url": "https://www.douyin.com/video/7700400421937377939"
+        }
+      ]
+    },
+    {
+      "domain": "职业",
+      "claim": "职业收入存在多个版本：月薪4300、奢侈品销售主管巅峰1万7后被炒到6700、导购等到手3千以内。",
+      "evidence": [
+        {
+          "index": 13,
+          "url": "https://www.douyin.com/video/7700400421937377939"
+        },
+        {
+          "index": 134,
+          "url": "https://www.douyin.com/video/7629625893589208370"
+        },
+        {
+          "index": 137,
+          "url": "https://www.douyin.com/video/7627001079901388218"
+        }
+      ]
+    },
+    {
+      "domain": "金钱/消费",
+      "claim": "朋友圈呈现网红店、奢侈品边角、大牌护肤品等精致消费形象，但自己买奢侈品要办分期。",
+      "evidence": [
+        {
+          "index": 137,
+          "url": "https://www.douyin.com/video/7627001079901388218"
+        },
+        {
+          "index": 134,
+          "url": "https://www.douyin.com/video/7629625893589208370"
+        }
+      ]
+    },
+    {
+      "domain": "婚恋",
+      "claim": "择偶对象被认为应是同龄异性前5%的存在，要求房车彩礼等物质条件。",
+      "evidence": [
+        {
+          "index": 117,
+          "url": "https://www.douyin.com/video/7643337371110411520"
+        },
+        {
+          "index": 127,
+          "url": "https://www.douyin.com/video/7634806168099526885"
+        }
+      ]
+    },
+    {
+      "domain": "社交",
+      "claim": "身边重要角色是离异好闺蜜和跪舔她的老骚包。",
+      "evidence": [
+        {
+          "index": 108,
+          "url": "https://www.douyin.com/video/7648176182773731813"
+        }
+      ]
+    },
+    {
+      "domain": "评价体系",
+      "claim": "从小得到正面评价，认为自己颜值、收入起码中上。",
+      "evidence": [
+        {
+          "index": 117,
+          "url": "https://www.douyin.com/video/7643337371110411520"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "event_id": "E001",
+      "title": "社交媒体精致包装",
+      "description": "她用艺术展、烘焙、三亚、外滩等精致内容包装高端形象，让月入8000的男生觉得高不可攀，自己也逐渐迷失三观。",
+      "temporal": "原文未给具体年份，作为三十有三之前的阶段叙述",
+      "chronology_basis": "明示（阶段描述）",
+      "evidence": [
+        {
+          "index": 13,
+          "url": "https://www.douyin.com/video/7700400421937377939"
+        }
+      ]
+    },
+    {
+      "event_id": "E002",
+      "title": "三十有三的婚恋恐慌",
+      "description": "年龄来到三十有三，父母催婚，她自己恐慌不安；优质男已对她意兴阑珊。",
+      "temporal": "原文以“直到她自己的年龄来到了三十有三”标示后续阶段",
+      "chronology_basis": "明示",
+      "evidence": [
+        {
+          "index": 13,
+          "url": "https://www.douyin.com/video/7700400421937377939"
+        }
+      ]
+    },
+    {
+      "event_id": "E003",
+      "title": "成为婚恋市场精致利己者",
+      "description": "她大龄未婚，被描述为精致利己主义者，要找一个能吊打别人老公的老公。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 13,
+          "url": "https://www.douyin.com/video/7700400421937377939"
+        }
+      ]
+    },
+    {
+      "event_id": "E004",
+      "title": "离异闺蜜与老骚包夹击",
+      "description": "资深王漫妮周围有离异好闺蜜和跪舔她的老骚包，二人被视为一生之敌，使她在剩女不归路越走越远，最后彻底剩下。",
+      "temporal": "顺序不明",
+      "chronology_basis": "明示（因果描述）",
+      "evidence": [
+        {
+          "index": 108,
+          "url": "https://www.douyin.com/video/7648176182773731813"
+        }
+      ]
+    },
+    {
+      "event_id": "E005",
+      "title": "司机版婚配：遇到领导的男司机",
+      "description": "年龄压力下她立足现状，找差强人意男性度过余生，可能遇到县城领导的男司机；双方一见面都给自己拉高估值。",
+      "temporal": "原文在三十有三后叙述",
+      "chronology_basis": "明示",
+      "evidence": [
+        {
+          "index": 13,
+          "url": "https://www.douyin.com/video/7700400421937377939"
+        }
+      ]
+    },
+    {
+      "event_id": "E006",
+      "title": "司机版后果：职业花期短与散伙",
+      "description": "司机职业花期短，一旦角色变动婚姻就失去前提；两人天花板已定，散伙可能性最大。",
+      "temporal": "婚后阶段，原文未给具体时长",
+      "chronology_basis": "明示",
+      "evidence": [
+        {
+          "index": 13,
+          "url": "https://www.douyin.com/video/7700400421937377939"
+        }
+      ]
+    },
+    {
+      "event_id": "E007",
+      "title": "末代少爷版婚配：妥协与预期",
+      "description": "她高估颜值对婚姻的加成，三十多岁不得不妥协；房车彩礼不妥协，只妥协男方工作收入，嫁给眼下条件加未来预期。",
+      "temporal": "三十多岁阶段，原文未给具体年份",
+      "chronology_basis": "明示",
+      "evidence": [
+        {
+          "index": 59,
+          "url": "https://www.douyin.com/video/7674841224112803429"
+        }
+      ]
+    },
+    {
+      "event_id": "E008",
+      "title": "末代少爷版后果：断供后三年五年崩盘",
+      "description": "若末代少爷父母婚后断供，小家三年内现颓势、五年内基本崩盘；双方对婚姻理解错位，王漫妮把婚姻当持续承诺。",
+      "temporal": "婚后阶段",
+      "chronology_basis": "明示",
+      "evidence": [
+        {
+          "index": 59,
+          "url": "https://www.douyin.com/video/7674841224112803429"
+        }
+      ]
+    },
+    {
+      "event_id": "E009",
+      "title": "高冷人设吸引商务豪登",
+      "description": "她收入和消费割裂，想用高冷精致单身人设吸引商务豪登，欲擒故纵，想靠人设和画饼让对方疯狂付出。",
+      "temporal": "顺序不明",
+      "chronology_basis": "明示（特征描述）",
+      "evidence": [
+        {
+          "index": 137,
+          "url": "https://www.douyin.com/video/7627001079901388218"
+        }
+      ]
+    },
+    {
+      "event_id": "E010",
+      "title": "成为杀猪盘目标",
+      "description": "因自我认知与婚恋市场反馈不匹配，她成为杀猪盘重点目标客户；穷极半生想证明嫁得比别人好，实际没嫁明白。",
+      "temporal": "顺序不明",
+      "chronology_basis": "明示（因果描述）",
+      "evidence": [
+        {
+          "index": 117,
+          "url": "https://www.douyin.com/video/7643337371110411520"
+        }
+      ]
+    },
+    {
+      "event_id": "E011",
+      "title": "被年轻竞争者挤压",
+      "description": "她挑挑选选、要全款车房；00后姑娘主动钳压90后甚至80后男生，使县城王漫妮没得挑。",
+      "temporal": "顺序不明",
+      "chronology_basis": "明示（市场描述）",
+      "evidence": [
+        {
+          "index": 127,
+          "url": "https://www.douyin.com/video/7634806168099526885"
+        }
+      ]
+    },
+    {
+      "event_id": "E012",
+      "title": "看不上县城公务员",
+      "description": "电视剧王漫妮当柜姐接触富二代后，回县城相亲时看不上公务员。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 156,
+          "url": "https://www.douyin.com/video/7616204819259078501"
+        }
+      ]
+    },
+    {
+      "event_id": "E013",
+      "title": "熬成老嫂子",
+      "description": "35岁前租四五十平单间，被想入非非的老登夸赞，维持精致单身人设，盼天降梁正贤，最后熬成老嫂子。",
+      "temporal": "35岁前及之后，原文未给具体年份",
+      "chronology_basis": "明示",
+      "evidence": [
+        {
+          "index": 137,
+          "url": "https://www.douyin.com/video/7627001079901388218"
+        }
+      ]
+    }
+  ],
+  "storylines": [
+    {
+      "title": "精致包装—年龄恐慌—司机版婚配",
+      "event_ids": [
+        "E001",
+        "E002",
+        "E003",
+        "E005",
+        "E006"
+      ],
+      "narrative": "她先在社交媒体上用精致生活包装高端形象，让月入8000男生觉得高不可攀。年龄到三十有三后，父母催婚，她恐慌不安，优质男意兴阑珊。她仍不甘心，却在现实中立足现状找差强人意男性，可能遇到县城领导的男司机。双方一见面都拉高估值，结婚时已是价值最高点；司机职业花期短，一旦角色变动，婚姻失去前提，散伙可能性最大。",
+      "unresolved": "原文没有交代她是否真的与男司机离婚、是否有孩子、最终落到什么生活状态。",
+      "evidence": [
+        {
+          "index": 13,
+          "url": "https://www.douyin.com/video/7700400421937377939"
+        }
+      ]
+    },
+    {
+      "title": "末代少爷版婚配与断供崩盘",
+      "event_ids": [
+        "E007",
+        "E008"
+      ],
+      "narrative": "她高估颜值对婚姻的加成，三十多岁时不得不妥协。房车彩礼不妥协，唯独妥协男方工作收入，于是嫁给眼下条件加未来预期的县城末代少爷。男方不怎么会赚钱却会花钱，父母一断供就撸网贷；双方对婚姻理解错位，王漫妮把婚姻当持续承诺，末代少爷家庭把婚姻当一次性投资。若父母断供，小家三年现颓势、五年基本崩盘。",
+      "unresolved": "原文没有交代断供是否发生、婚姻是否最终离婚、孩子与财产如何处理。",
+      "evidence": [
+        {
+          "index": 59,
+          "url": "https://www.douyin.com/video/7674841224112803429"
+        }
+      ]
+    },
+    {
+      "title": "闺蜜老骚包影响下的剩女化",
+      "event_ids": [
+        "E004",
+        "E010",
+        "E011"
+      ],
+      "narrative": "资深王漫妮周围有两个重要角色：离异好闺蜜和跪舔她的老骚包。二人看似左膀右臂，实则一生之敌，使她在剩女不归路越走越远，最后彻底剩下。她因自我认知与婚恋市场反馈不匹配，成为杀猪盘重点目标；穷极半生想证明嫁得比别人好，实际没嫁明白。同时，她挑挑选选要全款车房，又被00后姑娘主动竞争挤压，没得挑。",
+      "unresolved": "她最终是否结婚、是否被诈骗、是否调整择偶标准，原文没有统一结果。",
+      "evidence": [
+        {
+          "index": 108,
+          "url": "https://www.douyin.com/video/7648176182773731813"
+        },
+        {
+          "index": 117,
+          "url": "https://www.douyin.com/video/7643337371110411520"
+        },
+        {
+          "index": 127,
+          "url": "https://www.douyin.com/video/7634806168099526885"
+        }
+      ]
+    },
+    {
+      "title": "高冷人设吸引商务豪登",
+      "event_ids": [
+        "E009",
+        "E013"
+      ],
+      "narrative": "她收入和消费割裂，想用高冷精致单身人设吸引商务豪登，运用欲擒故纵技巧，想既不出卖肉体又不付出劳动，靠人设和画饼让别人付出。若一直等不到结果，35岁前租四五十平单间，被老登夸赞，维持精致单身人设，盼天降梁正贤，最后熬成老嫂子。",
+      "unresolved": "原文没有交代商务豪登是否真的被她吸引、她是否成功获得转移支付。",
+      "evidence": [
+        {
+          "index": 137,
+          "url": "https://www.douyin.com/video/7627001079901388218"
+        }
+      ]
+    }
+  ],
+  "relationships": [
+    {
+      "target": "县城领导的男司机",
+      "relation": "部分版本中的相亲对象与婚姻伴侣；文本称二人合体后容易散伙。",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 13,
+          "url": "https://www.douyin.com/video/7700400421937377939"
+        }
+      ]
+    },
+    {
+      "target": "县城末代少爷",
+      "relation": "部分版本中的婚姻伴侣；二人组合被列为最容易崩盘的婚姻之一。",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 59,
+          "url": "https://www.douyin.com/video/7674841224112803429"
+        }
+      ]
+    },
+    {
+      "target": "县城离异好闺蜜",
+      "relation": "好闺蜜、精神影响者，也是文本所说的一生之敌。",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 108,
+          "url": "https://www.douyin.com/video/7648176182773731813"
+        }
+      ]
+    },
+    {
+      "target": "县城老骚包",
+      "relation": "跪舔她的老骚包，也是文本所说的一生之敌；另一篇称其为县城王漫妮最严厉的父亲。",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 108,
+          "url": "https://www.douyin.com/video/7648176182773731813"
+        },
+        {
+          "index": 134,
+          "url": "https://www.douyin.com/video/7629625893589208370"
+        }
+      ]
+    },
+    {
+      "target": "老妈、老爸、弟弟",
+      "relation": "家庭成员：母亲做针线活，父亲做保安，弟弟读大专。",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 13,
+          "url": "https://www.douyin.com/video/7700400421937377939"
+        }
+      ]
+    },
+    {
+      "target": "梁正贤",
+      "relation": "电视剧《三十而已》中与她谈过的人物，文案用作类比。",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 137,
+          "url": "https://www.douyin.com/video/7627001079901388218"
+        }
+      ]
+    },
+    {
+      "target": "县城公务员",
+      "relation": "她回县城相亲时看不上公务员。",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 156,
+          "url": "https://www.douyin.com/video/7616204819259078501"
+        }
+      ]
+    },
+    {
+      "target": "县城小JK和县城cosplay",
+      "relation": "择偶竞争者；00后姑娘主动钳压90后甚至80后男生，使县城王漫妮没得挑。",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 127,
+          "url": "https://www.douyin.com/video/7634806168099526885"
+        }
+      ]
+    },
+    {
+      "target": "商务豪登",
+      "relation": "希望吸引并让对方疯狂付出的对象。",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 137,
+          "url": "https://www.douyin.com/video/7627001079901388218"
+        }
+      ]
+    },
+    {
+      "target": "县城末代少爷的父母",
+      "relation": "部分版本中的公婆；婚后若断供，小家三年现颓势、五年基本崩盘。",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 59,
+          "url": "https://www.douyin.com/video/7674841224112803429"
+        }
+      ]
+    }
+  ],
+  "speech_habits": [
+    {
+      "claim": "嘴上说自己要求不高，只找一个差不多的男的过日子。",
+      "evidence": [
+        {
+          "index": 117,
+          "url": "https://www.douyin.com/video/7643337371110411520"
+        }
+      ]
+    },
+    {
+      "claim": "社交媒体表达以精致高端为主。",
+      "evidence": [
+        {
+          "index": 13,
+          "url": "https://www.douyin.com/video/7700400421937377939"
+        }
+      ]
+    },
+    {
+      "claim": "对追求者爱答不理、回复慢，对方不理她时又反过来主动暧昧。",
+      "evidence": [
+        {
+          "index": 137,
+          "url": "https://www.douyin.com/video/7627001079901388218"
+        }
+      ]
+    },
+    {
+      "claim": "对几百块礼物瞧不上，并会向闺蜜吐槽。",
+      "evidence": [
+        {
+          "index": 137,
+          "url": "https://www.douyin.com/video/7627001079901388218"
+        }
+      ]
+    },
+    {
+      "claim": "会表达对县城公务员工资低的看法。",
+      "evidence": [
+        {
+          "index": 134,
+          "url": "https://www.douyin.com/video/7629625893589208370"
+        }
+      ]
+    }
+  ],
+  "contradictions": [
+    {
+      "issue": "婚配对象与结局不同：有版本嫁给领导男司机，有版本嫁给末代少爷，有版本最后彻底剩下并成为杀猪盘目标。",
+      "versions": [
+        {
+          "claim": "嫁给县城领导的男司机",
+          "evidence": [
+            {
+              "index": 13,
+              "url": "https://www.douyin.com/video/7700400421937377939"
+            }
+          ]
+        },
+        {
+          "claim": "嫁给县城末代少爷",
+          "evidence": [
+            {
+              "index": 59,
+              "url": "https://www.douyin.com/video/7674841224112803429"
+            }
+          ]
+        },
+        {
+          "claim": "最后彻底剩下",
+          "evidence": [
+            {
+              "index": 108,
+              "url": "https://www.douyin.com/video/7648176182773731813"
+            }
+          ]
+        }
+      ],
+      "resolution": "保留并列，不擅自合并或选定。"
+    },
+    {
+      "issue": "职业收入版本不同：月薪4300、奢侈品销售主管巅峰1万7后被炒到6700、导购等到手3千以内。",
+      "versions": [
+        {
+          "claim": "月薪4300",
+          "evidence": [
+            {
+              "index": 13,
+              "url": "https://www.douyin.com/video/7700400421937377939"
+            }
+          ]
+        },
+        {
+          "claim": "奢侈品销售主管，巅峰1万7，后被炒到6700",
+          "evidence": [
+            {
+              "index": 134,
+              "url": "https://www.douyin.com/video/7629625893589208370"
+            }
+          ]
+        },
+        {
+          "claim": "导购、前台等，到手3千以内",
+          "evidence": [
+            {
+              "index": 137,
+              "url": "https://www.douyin.com/video/7627001079901388218"
+            }
+          ]
+        }
+      ],
+      "resolution": "保留并列，不擅自合并或选定。"
+    },
+    {
+      "issue": "自我评价与外部反馈冲突：她自认顶美、条件中上，但婚恋市场反馈与其认知不匹配。",
+      "versions": [
+        {
+          "claim": "自认顶美",
+          "evidence": [
+            {
+              "index": 59,
+              "url": "https://www.douyin.com/video/7674841224112803429"
+            }
+          ]
+        },
+        {
+          "claim": "自我认知与婚恋市场反馈不匹配",
+          "evidence": [
+            {
+              "index": 117,
+              "url": "https://www.douyin.com/video/7643337371110411520"
+            }
+          ]
+        }
+      ],
+      "resolution": "这是文本明确呈现的矛盾，并列保留。"
+    },
+    {
+      "issue": "外形描述不同：有版本说身材不怎么出众、腿稍微有点弯；有版本强调其颜值中上、自认顶美。",
+      "versions": [
+        {
+          "claim": "身材不怎么出众，腿稍微有点弯",
+          "evidence": [
+            {
+              "index": 13,
+              "url": "https://www.douyin.com/video/7700400421937377939"
+            }
+          ]
+        },
+        {
+          "claim": "自认颜值中上甚至顶美",
+          "evidence": [
+            {
+              "index": 117,
+              "url": "https://www.douyin.com/video/7643337371110411520"
+            }
+          ]
+        }
+      ],
+      "resolution": "保留并列，按出处并列呈现。"
+    },
+    {
+      "issue": "家庭背景描述不同：有版本家庭背景一般，母亲做针线活、父亲做保安；有版本说其家世代贫农。",
+      "versions": [
+        {
+          "claim": "家庭背景一般",
+          "evidence": [
+            {
+              "index": 13,
+              "url": "https://www.douyin.com/video/7700400421937377939"
+            }
+          ]
+        },
+        {
+          "claim": "家世代贫农",
+          "evidence": [
+            {
+              "index": 137,
+              "url": "https://www.douyin.com/video/7627001079901388218"
+            }
+          ]
+        }
+      ],
+      "resolution": "保留并列，不擅自统一。"
+    },
+    {
+      "issue": "老骚包的角色定位不同：既被称为一生之敌，也被称为县城王漫妮最严厉的父亲。",
+      "versions": [
+        {
+          "claim": "一生之敌",
+          "evidence": [
+            {
+              "index": 108,
+              "url": "https://www.douyin.com/video/7648176182773731813"
+            }
+          ]
+        },
+        {
+          "claim": "最严厉的父亲",
+          "evidence": [
+            {
+              "index": 134,
+              "url": "https://www.douyin.com/video/7629625893589208370"
+            }
+          ]
+        }
+      ],
+      "resolution": "保留并列，不合并角色功能。"
+    }
+  ],
+  "gaps": [
+    "原文未给出县城王漫妮的真实姓名、确切年龄、出生地和完整家庭谱系。",
+    "不同版本之间是否为同一人、时间先后如何，原文没有交代。",
+    "她最终是否结婚、离婚、生育，是否有稳定职业和收入，原文没有统一结局。",
+    "与领导男司机、末代少爷、商务豪登、梁正贤等人的关系是否真实发生、持续多久，原文未完整交代。",
+    "杀猪盘目标客户之后是否实际被骗、被骗金额与结果，原文未交代。",
+    "教师、护士、银行女三个职业重灾区与她个人经历之间的具体对应关系，原文未逐一落实。",
+    "月薪4300、奢侈品销售主管、到手3千以内三个职业收入版本之间的先后关系，原文未交代。"
+  ],
+  "creative_expansions": [],
+  "source_coverage": [
+    {
+      "index": 5,
+      "role": "提供与“最优解女孩”对照的材料：她说王漫妮老想着找好的，最后砸自己手里。",
+      "url": "https://www.douyin.com/video/7706479503548491001"
+    },
+    {
+      "index": 13,
+      "role": "核心篇目：低配版设定、家庭职业、社交媒体精致包装、三十有三婚恋恐慌、与领导男司机婚配及散伙逻辑。",
+      "url": "https://www.douyin.com/video/7700400421937377939"
+    },
+    {
+      "index": 59,
+      "role": "核心篇目：县城王漫妮嫁给末代少爷的版本、颜值高估、妥协与断供崩盘逻辑。",
+      "url": "https://www.douyin.com/video/7674841224112803429"
+    },
+    {
+      "index": 108,
+      "role": "核心篇目：离异好闺蜜与老骚包作为两个一生之敌，推动其成为大龄剩女。",
+      "url": "https://www.douyin.com/video/7648176182773731813"
+    },
+    {
+      "index": 117,
+      "role": "核心篇目：拧巴、自我认知与婚恋市场反馈不匹配、想找前5%对象、成为杀猪盘目标。",
+      "url": "https://www.douyin.com/video/7643337371110411520"
+    },
+    {
+      "index": 127,
+      "role": "补充择偶市场：挑挑选选要全款车房，被00后姑娘挤压，没得挑。",
+      "url": "https://www.douyin.com/video/7634806168099526885"
+    },
+    {
+      "index": 128,
+      "role": "补充大龄剩女重灾区：教师、护士、银行女及特殊圈层、经历、环境导致的问题。",
+      "url": "https://www.douyin.com/video/7634402011164740910"
+    },
+    {
+      "index": 134,
+      "role": "补充自我定位、奢侈品销售主管收入版本、买奢侈品分期、向往渣男物质、老骚包为最严厉父亲。",
+      "url": "https://www.douyin.com/video/7629625893589208370"
+    },
+    {
+      "index": 137,
+      "role": "核心篇目：结局最惨、收入消费割裂、能力野心不对等、高冷人设吸商务豪登、熬成老嫂子。",
+      "url": "https://www.douyin.com/video/7627001079901388218"
+    },
+    {
+      "index": 156,
+      "role": "全库补充：电视剧王漫妮做柜姐接触富二代后，回县城相亲看不上公务员。",
+      "url": "https://www.douyin.com/video/7616204819259078501"
+    }
+  ]
+}

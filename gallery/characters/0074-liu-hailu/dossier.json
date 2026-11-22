@@ -1,0 +1,548 @@
+{
+  "name": "县城刘海露",
+  "nature": "具名叙事角色。刘海露是博主初中同学、北京互联网大厂程序员，月入4万多。跨#187、#221、#245、#253四篇由博主转述，非连续传记，呈现各篇作品中的角色设定。原文未交代其年龄、外貌、家庭、具体公司等，仅以几个生活片段和评价呈现。",
+  "overview": "刘海露是博主在县城叙事中提到的初中同学，北京互联网大厂程序员，月入4万多，被称为“北京互联网大厂纯种牛马”，每天加班到半夜两点半。去年春节回村与“我们”做SPA时，他接工作电话后着急回去开视频会议，直接从技师手里夺过精油往自己身上抹，一边抹一边用sop、落地、push等职场话术安排工作。他回村过年时被认为一点排面都没有，在社交消费中被当作ATM机和NPC；去红浪漫以为音乐老师拿他当VIP，最后发现对方只是利用他完成KPI。他一年休息一段时间时直接出国旅行，不是冰岛就是挪威。在县城评价中，月入4万的刘海露仍被列为“在瑜伽裤的心里都是贫困户”，与李宝库、赵铁柱、陆国富并列，只有好大哥的行为模式被认为迎合瑜伽裤。另有#253标题列其名，正文小太妹纹身字样为“至死不渝，刘海露”。原文未交代其后续、具体公司、婚姻等。",
+  "identity": [
+    {
+      "claim": "博主的初中同学。",
+      "evidence": [
+        {
+          "index": 187,
+          "url": "https://www.douyin.com/video/7595620503361015049"
+        },
+        {
+          "index": 221,
+          "url": "https://www.douyin.com/video/7573729054419864868"
+        }
+      ]
+    },
+    {
+      "claim": "北京互联网大厂程序员，月入4万多。",
+      "evidence": [
+        {
+          "index": 187,
+          "url": "https://www.douyin.com/video/7595620503361015049"
+        },
+        {
+          "index": 245,
+          "url": "https://www.douyin.com/video/7547314317717212457"
+        }
+      ]
+    },
+    {
+      "claim": "文本中显示名有“刘海露”，同篇标题写作“刘海露”。",
+      "evidence": [
+        {
+          "index": 253,
+          "url": "https://www.douyin.com/video/7537305087186603290"
+        }
+      ]
+    }
+  ],
+  "traits": [
+    {
+      "claim": "高收入：大厂程序员，月入4万多。",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 187,
+          "url": "https://www.douyin.com/video/7595620503361015049"
+        },
+        {
+          "index": 245,
+          "url": "https://www.douyin.com/video/7547314317717212457"
+        }
+      ]
+    },
+    {
+      "claim": "工作繁忙：被称为北京互联网大厂纯种牛马，每天加班到半夜两点半。",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 221,
+          "url": "https://www.douyin.com/video/7573729054419864868"
+        }
+      ]
+    },
+    {
+      "claim": "私人休闲常被工作打断：做SPA时接工作电话，赶回去开视频会议。",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 221,
+          "url": "https://www.douyin.com/video/7573729054419864868"
+        }
+      ]
+    },
+    {
+      "claim": "使用职场话术处理工作沟通。",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 221,
+          "url": "https://www.douyin.com/video/7573729054419864868"
+        }
+      ]
+    },
+    {
+      "claim": "回村过年时在高收入之外仍被认为没有排面。",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 187,
+          "url": "https://www.douyin.com/video/7595620503361015049"
+        }
+      ]
+    },
+    {
+      "claim": "在县城社交与消费场景中被当作ATM机和NPC，去红浪漫被音乐老师利用完成KPI。",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 187,
+          "url": "https://www.douyin.com/video/7595620503361015049"
+        }
+      ]
+    },
+    {
+      "claim": "休息时会选择出国旅行，去冰岛或挪威。",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 221,
+          "url": "https://www.douyin.com/video/7573729054419864868"
+        }
+      ]
+    },
+    {
+      "claim": "博主的初中同学，被博主在县城叙事中转述。",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "北京互联网大厂程序员，月入4万多。",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "被称为“北京互联网大厂纯种牛马”，每天加班到半夜两点半，没空扯虚无主义的蛋。",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "工作侵入私人休闲：去年春节回家与“我们”做SPA时接电话，着急回去开视频会议，从技师手里夺过精油往自己身上抹。",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "接工作电话时使用职场/流程话术，如sop、落地、push、时间线、体感、卡点。",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "一年休息一段时间时直接出国旅行，不是冰岛就是挪威。",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "回村过年时一点排面都没有。",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "在县城社交/消费中被当作ATM机和NPC；去红浪漫以为音乐老师拿他当VIP，最后发现对方只是利用他完成KPI。",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "高收入与县城排面/吸引力评价不一致：月入4万多，却回村过年没排面，且在瑜伽裤心里是“贫困户”；原文未解释原因。",
+      "kind": "矛盾",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "名字用字存在版本：索引显示名/别名含“刘海露”，原文正文与标题均写作“刘海露”；原文未解释差异。",
+      "kind": "矛盾",
+      "certainty": "文本推断",
+      "evidence": []
+    }
+  ],
+  "life_domains": [
+    {
+      "domain": "职业",
+      "claim": "在北京互联网大厂做程序员，月入4万多，常加班到半夜两点半，工作电话会侵入私人休闲。",
+      "evidence": [
+        {
+          "index": 187,
+          "url": "https://www.douyin.com/video/7595620503361015049"
+        },
+        {
+          "index": 221,
+          "url": "https://www.douyin.com/video/7573729054419864868"
+        }
+      ]
+    },
+    {
+      "domain": "社交/面子",
+      "claim": "回村过年没有排面，并被朋友当作ATM机和NPC；在红浪漫以为被当VIP，实则被音乐老师利用完成KPI。",
+      "evidence": [
+        {
+          "index": 187,
+          "url": "https://www.douyin.com/video/7595620503361015049"
+        }
+      ]
+    },
+    {
+      "domain": "消费/休闲",
+      "claim": "有去红浪漫、做SPA、出国旅行的消费/休闲场景；休息时去冰岛或挪威。",
+      "evidence": [
+        {
+          "index": 187,
+          "url": "https://www.douyin.com/video/7595620503361015049"
+        },
+        {
+          "index": 221,
+          "url": "https://www.douyin.com/video/7573729054419864868"
+        }
+      ]
+    },
+    {
+      "domain": "婚恋/评价",
+      "claim": "在县城“瑜伽裤”相关评价体系中，月入4万的刘海露与李宝库、赵铁柱、陆国富并列，仍被看作贫困户；只有好大哥被认为迎合瑜伽裤。",
+      "evidence": [
+        {
+          "index": 245,
+          "url": "https://www.douyin.com/video/7547314317717212457"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "event_id": "E001",
+      "title": "回村过年没排面，红浪漫被音乐老师利用",
+      "description": "原文称刘海露是大厂程序员、月入4万多，但回村过年一点排面都没有；他被当作ATM机和NPC；去红浪漫时以为音乐老师拿他当VIP，最后发现对方只是利用他完成KPI。",
+      "temporal": "原文明确“回村过年的时候”；红浪漫发生顺序不明。",
+      "chronology_basis": "明示",
+      "evidence": [
+        {
+          "index": 187,
+          "url": "https://www.douyin.com/video/7595620503361015049"
+        }
+      ]
+    },
+    {
+      "event_id": "E002",
+      "title": "去年春节做SPA时被工作电话叫回",
+      "description": "去年春节回家，刘海露与“我们”一块做SPA；一个电话打来，他着急回去开视频会议，直接从技师手里夺过精油往自己身上抹，并一边安排工作进行。",
+      "temporal": "原文明确“去年春节的时候”。",
+      "chronology_basis": "明示",
+      "evidence": [
+        {
+          "index": 221,
+          "url": "https://www.douyin.com/video/7573729054419864868"
+        }
+      ]
+    },
+    {
+      "event_id": "E003",
+      "title": "休息时出国旅行",
+      "description": "原文说刘海露一年就休息那么一段时间，但他直接出国旅行，不是冰岛就是挪威。",
+      "temporal": "原文只明示“一年就休息那么一段时间”，未给具体年份；顺序不明。",
+      "chronology_basis": "明示",
+      "evidence": [
+        {
+          "index": 221,
+          "url": "https://www.douyin.com/video/7573729054419864868"
+        }
+      ]
+    },
+    {
+      "event_id": "E004",
+      "title": "小太妹纹身中出现名字",
+      "description": "在讨论小太妹发布内容时，原文称其照片中唯一能看清的是身上纹身“至死不渝，刘海露”；同篇标题写作“刘海露”。",
+      "temporal": "顺序不明。",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 253,
+          "url": "https://www.douyin.com/video/7537305087186603290"
+        }
+      ]
+    },
+    {
+      "event_id": "E005",
+      "title": "被列入“瑜伽裤心里都是贫困户”的评价",
+      "description": "在关于好大哥与瑜伽裤的评述中，原文把月入4万的刘海露与李宝库、赵铁柱、陆国富并列，称在瑜伽裤心里都是贫困户。",
+      "temporal": "顺序不明。",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 245,
+          "url": "https://www.douyin.com/video/7547314317717212457"
+        }
+      ]
+    }
+  ],
+  "storylines": [
+    {
+      "title": "高收入大厂程序员回村与红浪漫遭遇",
+      "event_ids": [
+        "E001"
+      ],
+      "narrative": "开始：原文称刘海露是博主初中同学、大厂程序员、月入4万多。发展：他回村过年时一点排面都没有，被当作ATM机和NPC。冲突：他以为红浪漫音乐老师拿他当VIP，最后发现对方只是利用他完成KPI。结果：原文未交代刘海露是否知晓、如何反应或后续。",
+      "unresolved": "红浪漫的具体经过、消费金额、他是否知情及后续，原文均未交代。",
+      "evidence": [
+        {
+          "index": 187,
+          "url": "https://www.douyin.com/video/7595620503361015049"
+        }
+      ]
+    },
+    {
+      "title": "大厂牛马的工作侵入与出国休息",
+      "event_ids": [
+        "E002",
+        "E003"
+      ],
+      "narrative": "开始：刘海露被描述为北京互联网大厂纯种牛马，每天加班到半夜两点半。发展：去年春节回家做SPA时，他因一个工作电话着急回去开视频会议，从技师手里夺过精油自己抹。另一面：他一年休息一段时间时直接出国旅行，不是冰岛就是挪威。冲突：休闲与工作被强烈并置，但原文未写结果。",
+      "unresolved": "具体公司、职位、旅行次数、是否长期如此，原文未交代。",
+      "evidence": [
+        {
+          "index": 221,
+          "url": "https://www.douyin.com/video/7573729054419864868"
+        }
+      ]
+    },
+    {
+      "title": "县城评价体系中的“贫困户”位置",
+      "event_ids": [
+        "E005"
+      ],
+      "narrative": "在关于好大哥的评述中，原文称体制内李宝库、开熟食店赵铁柱、开理发店陆国富、月入4万的刘海露，在瑜伽裤的心里都是贫困户；只有好大哥的行为模式完美迎合瑜伽裤。刘海露的高收入并未在此评价体系中转化为优势。",
+      "unresolved": "这一评价的具体发生场景、是否有对应相亲或择偶事件，原文未交代。",
+      "evidence": [
+        {
+          "index": 245,
+          "url": "https://www.douyin.com/video/7547314317717212457"
+        }
+      ]
+    },
+    {
+      "title": "小太妹纹身中的名字",
+      "event_ids": [
+        "E004"
+      ],
+      "narrative": "在讨论小太妹发布模糊照片与卡点视频时，原文称整张图里唯一能看清的是纹身“至死不渝，刘海露”；同篇标题写作“刘海露”。原文没有交代两人关系、纹身缘由或后续。",
+      "unresolved": "刘海露与小太妹的关系、纹身是否真实、标题异写原因，原文均未交代。",
+      "evidence": [
+        {
+          "index": 253,
+          "url": "https://www.douyin.com/video/7537305087186603290"
+        }
+      ]
+    }
+  ],
+  "relationships": [
+    {
+      "target": "写手一条城（博主本人）",
+      "relation": "初中同学。",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 187,
+          "url": "https://www.douyin.com/video/7595620503361015049"
+        },
+        {
+          "index": 221,
+          "url": "https://www.douyin.com/video/7573729054419864868"
+        }
+      ]
+    },
+    {
+      "target": "朋友",
+      "relation": "在回村过年/社交中被朋友当作ATM机和NPC。",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 187,
+          "url": "https://www.douyin.com/video/7595620503361015049"
+        }
+      ]
+    },
+    {
+      "target": "红浪漫音乐老师",
+      "relation": "他以为对方拿他当VIP，最后发现对方只是利用他完成KPI。",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 187,
+          "url": "https://www.douyin.com/video/7595620503361015049"
+        }
+      ]
+    },
+    {
+      "target": "县城瑜伽裤",
+      "relation": "在其评价体系中，月入4万的刘海露仍被列为贫困户。",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 245,
+          "url": "https://www.douyin.com/video/7547314317717212457"
+        }
+      ]
+    },
+    {
+      "target": "县城好大哥",
+      "relation": "在择偶吸引力评述中被拿来与好大哥对比，评价低于好大哥。",
+      "certainty": "文本推断",
+      "evidence": [
+        {
+          "index": 245,
+          "url": "https://www.douyin.com/video/7547314317717212457"
+        }
+      ]
+    },
+    {
+      "target": "李宝库、赵铁柱、陆国富",
+      "relation": "同篇并列比较对象。",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 245,
+          "url": "https://www.douyin.com/video/7547314317717212457"
+        }
+      ]
+    },
+    {
+      "target": "小太妹",
+      "relation": "其纹身字样出现“至死不渝，刘海露”。",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 253,
+          "url": "https://www.douyin.com/video/7537305087186603290"
+        }
+      ]
+    }
+  ],
+  "speech_habits": [
+    {
+      "claim": "接工作电话时使用职场/流程话术，如sop、落地、push、时间线等。",
+      "evidence": [
+        {
+          "index": 221,
+          "url": "https://www.douyin.com/video/7573729054419864868"
+        }
+      ]
+    },
+    {
+      "claim": "做SPA被工作电话打断时，一边往身上抹精油一边继续安排工作进度。",
+      "evidence": [
+        {
+          "index": 221,
+          "url": "https://www.douyin.com/video/7573729054419864868"
+        }
+      ]
+    }
+  ],
+  "contradictions": [
+    {
+      "issue": "名字写法出现不同版本。",
+      "versions": [
+        {
+          "claim": "正文写作“刘海露”。",
+          "evidence": [
+            {
+              "index": 253,
+              "url": "https://www.douyin.com/video/7537305087186603290"
+            }
+          ]
+        }
+      ],
+      "resolution": "保留并列，不擅自合并或选定；原文未解释异写原因。"
+    },
+    {
+      "issue": "高收入与县城排面/吸引力评价不一致。",
+      "versions": [
+        {
+          "claim": "刘海露是北京互联网大厂程序员，月入4万多。",
+          "evidence": [
+            {
+              "index": 187,
+              "url": "https://www.douyin.com/video/7595620503361015049"
+            },
+            {
+              "index": 245,
+              "url": "https://www.douyin.com/video/7547314317717212457"
+            }
+          ]
+        },
+        {
+          "claim": "回村过年一点排面都没有，在瑜伽裤心里仍是贫困户。",
+          "evidence": [
+            {
+              "index": 187,
+              "url": "https://www.douyin.com/video/7595620503361015049"
+            },
+            {
+              "index": 245,
+              "url": "https://www.douyin.com/video/7547314317717212457"
+            }
+          ]
+        }
+      ],
+      "resolution": "保留并列；原文显示这是不同评价体系中的结果，但未解释其原因。"
+    }
+  ],
+  "gaps": [
+    "年龄、真实姓名、籍贯、家庭情况、婚姻状况、外貌等原文未交代。",
+    "具体公司、岗位、工作内容、收入是否长期稳定，原文未交代。",
+    "为何回村过年没有排面、为何被当ATM机和NPC，原文未展开。",
+    "红浪漫消费的具体经过、金额、他是否知情及后续，原文未交代。",
+    "去年春节SPA事件后是否真的赶回开会、会议内容，原文未交代。",
+    "冰岛/挪威旅行的次数、时间、同行者，原文未交代。",
+    "在瑜伽裤心里被评为“贫困户”的具体标准与场景，原文未交代。",
+    "小太妹纹身“至死不渝，刘海露”的缘由、两人关系，原文未交代。",
+    "刘海露与博主除初中同学外的其他交往，原文未交代。",
+    "刘海露对“没排面”“被当ATM机”的态度或反应，原文未交代。"
+  ],
+  "creative_expansions": [],
+  "source_coverage": [
+    {
+      "index": 187,
+      "role": "提供：博主初中同学、大厂程序员、月入4万多、回村过年无排面、被当ATM机和NPC、红浪漫音乐老师利用他完成KPI。",
+      "url": "https://www.douyin.com/video/7595620503361015049"
+    },
+    {
+      "index": 221,
+      "role": "提供：北京互联网大厂纯种牛马、每天加班到半夜两点半、去年春节SPA被电话叫回、职场话术、冰岛或挪威旅行。",
+      "url": "https://www.douyin.com/video/7573729054419864868"
+    },
+    {
+      "index": 245,
+      "role": "提供：与李宝库、赵铁柱、陆国富并列，月入4万仍被说成在瑜伽裤心里是贫困户；好大哥被拿来对比。",
+      "url": "https://www.douyin.com/video/7547314317717212457"
+    },
+    {
+      "index": 253,
+      "role": "提供：标题异写“刘海露”、正文小太妹纹身“至死不渝，刘海露”。",
+      "url": "https://www.douyin.com/video/7537305087186603290"
+    }
+  ]
+}

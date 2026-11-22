@@ -1,0 +1,1528 @@
+{
+  "name": "县城瑜伽裤",
+  "nature": "复合群像/原型，不是单一自然人。以“瑜伽裤/马卡龙糖果色瑜伽裤/外五县瑜伽裤/瑜伽裤妹妹/商K瑜伽裤妹妹”等称呼在604条文案中反复出现的县城年轻女性群像。文本中职业、学历、年龄、经济来源、婚恋状态和道德评价互相矛盾，必须按不同版本并列，按出处并列呈现。",
+  "overview": "“县城瑜伽裤”是博主以运动穿搭命名的县城年轻女性复合群像。原文明示她们多被想象为年轻、外向、注重身材与穿搭的人，常穿马卡龙糖果色瑜伽裤，出现在露营、爬山、骑行、短视频、朋友圈、酒局、商K、相亲和婚恋叙事中。她们有时被写成向上进攻好大哥、编二代、小布尔乔亚的“性别资本”获利者，有时被写成商K有偿陪侍、按台费交易的工作者，有时又被写成收入不高却靠包装维持富贵人设、滤镜碎后反差巨大的对象。文本对她们的评价并存：既说“真实、可爱、坦荡、奔放热烈”，也说“慕强、重结果、擅长进攻、崩人”。这些版本彼此冲突，应分别保留。",
+  "identity": [
+    {
+      "claim": "以“瑜伽裤/外五县瑜伽裤/马卡龙糖果色瑜伽裤/瑜伽裤妹妹”等穿搭符号命名的县城年轻女性群像。",
+      "evidence": [
+        {
+          "index": 1,
+          "url": "https://www.douyin.com/video/7555437898573548810"
+        },
+        {
+          "index": 5,
+          "url": "https://www.douyin.com/video/7706479503548491001"
+        },
+        {
+          "index": 127,
+          "url": "https://www.douyin.com/video/7634806168099526885"
+        }
+      ]
+    },
+    {
+      "claim": "年龄多被放在年轻段，原文称能在县城穿瑜伽裤说明年龄40往下，并出现“穿瑜伽裤的00后”。",
+      "evidence": [
+        {
+          "index": 127,
+          "url": "https://www.douyin.com/video/7634806168099526885"
+        },
+        {
+          "index": 338,
+          "url": "https://www.douyin.com/video/7411778687638539559"
+        }
+      ]
+    },
+    {
+      "claim": "学历与职业在不同版本中不一致：一类被说成正在考研、考编、考教师，第一学历至少大专；另一类被说成中专、小jk、小cosplay。",
+      "evidence": [
+        {
+          "index": 253,
+          "url": "https://www.douyin.com/video/7537305087186603290"
+        },
+        {
+          "index": 127,
+          "url": "https://www.douyin.com/video/7634806168099526885"
+        }
+      ]
+    },
+    {
+      "claim": "部分版本中她们从事商K/红浪漫有偿陪侍，工作是工作，生活是生活，按台费结清。",
+      "evidence": [
+        {
+          "index": 311,
+          "url": "https://www.douyin.com/video/7477243977935211802"
+        }
+      ]
+    },
+    {
+      "claim": "部分版本中收入不高，却靠朋友圈、短视频和修图包装出高消费富贵人设。",
+      "evidence": [
+        {
+          "index": 253,
+          "url": "https://www.douyin.com/video/7537305087186603290"
+        },
+        {
+          "index": 238,
+          "url": "https://www.douyin.com/video/7558860638852795684"
+        }
+      ]
+    },
+    {
+      "claim": "座驾与消费符号被反复提及，但并非统一真实资产：有“泡水奔驰C”，也有低配帕萨特被解读为隐藏实力。",
+      "evidence": [
+        {
+          "index": 198,
+          "url": "https://www.douyin.com/video/7587831651384757538"
+        },
+        {
+          "index": 332,
+          "url": "https://www.douyin.com/video/7437739559913327884"
+        }
+      ]
+    }
+  ],
+  "traits": [
+    {
+      "claim": "以瑜伽裤、身体曲线、运动风穿搭作为群体标志和吸引力工具。",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 140,
+          "url": "https://www.douyin.com/video/7626426845415689512"
+        },
+        {
+          "index": 228,
+          "url": "https://www.douyin.com/video/7569620647459015962"
+        }
+      ]
+    },
+    {
+      "claim": "爱好看似广泛，实则核心是穿瑜伽裤拍照、出片、发朋友圈。",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 140,
+          "url": "https://www.douyin.com/video/7626426845415689512"
+        }
+      ]
+    },
+    {
+      "claim": "追求被夸赞、被关注、众星捧月式的情绪价值。",
+      "kind": "欲望",
+      "certainty": "文本推断",
+      "evidence": [
+        {
+          "index": 245,
+          "url": "https://www.douyin.com/video/7547314317717212457"
+        },
+        {
+          "index": 137,
+          "url": "https://www.douyin.com/video/7627001079901388218"
+        }
+      ]
+    },
+    {
+      "claim": "慕强、重结果，倾向于被已经取得经济成果或能展示排面的男性吸引。",
+      "kind": "动机",
+      "certainty": "文本推断",
+      "evidence": [
+        {
+          "index": 294,
+          "url": "https://www.douyin.com/video/7492821775407942912"
+        }
+      ]
+    },
+    {
+      "claim": "被描绘为会向上进攻好大哥、编二代、小布尔乔亚，而不向葱姜蒜进攻。",
+      "kind": "动机",
+      "certainty": "文本推断",
+      "evidence": [
+        {
+          "index": 176,
+          "url": "https://www.douyin.com/video/7601752625796713779"
+        }
+      ]
+    },
+    {
+      "claim": "擅长包装自我，常通过修图、短视频、朋友圈制造高于真实收入的生活观感。",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 253,
+          "url": "https://www.douyin.com/video/7537305087186603290"
+        },
+        {
+          "index": 213,
+          "url": "https://www.douyin.com/video/7578062613863599401"
+        }
+      ]
+    },
+    {
+      "claim": "对好大哥可百依百顺、接受供养，但婚姻关系被写成不能共苦、资金链一断就崩。",
+      "kind": "矛盾",
+      "certainty": "文本推断",
+      "evidence": [
+        {
+          "index": 184,
+          "url": "https://www.douyin.com/video/7596671206527438086"
+        },
+        {
+          "index": 122,
+          "url": "https://www.douyin.com/video/7640860283352163429"
+        }
+      ]
+    },
+    {
+      "claim": "被同时写成独立女性人设与依赖男性消费/按次计费工作的矛盾体。",
+      "kind": "矛盾",
+      "certainty": "文本推断",
+      "evidence": [
+        {
+          "index": 253,
+          "url": "https://www.douyin.com/video/7537305087186603290"
+        },
+        {
+          "index": 347,
+          "url": "https://www.douyin.com/video/7394843094925020425"
+        }
+      ]
+    },
+    {
+      "claim": "有“真实坦荡、奔放热烈”的正面版本，也有“会崩人、擅长拿捏”的负面版本。",
+      "kind": "矛盾",
+      "certainty": "文本推断",
+      "evidence": [
+        {
+          "index": 137,
+          "url": "https://www.douyin.com/video/7627001079901388218"
+        },
+        {
+          "index": 170,
+          "url": "https://www.douyin.com/video/7606986587697099185"
+        }
+      ]
+    },
+    {
+      "claim": "以瑜伽裤、身体曲线、运动风穿搭作为群体标志和吸引力工具（#140、#228）。",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "爱好看似广泛，核心是穿瑜伽裤拍照、出片、发朋友圈（#140）。",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "追求被夸赞、被关注、众星捧月式的情绪价值（#245、#137）。",
+      "kind": "欲望",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "慕强、重结果，倾向被已取得经济成果或能展示排面的男性吸引（#294）。",
+      "kind": "动机",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "被描绘为向上进攻好大哥、编二代、小布尔乔亚，不向葱姜蒜进攻（#176）。",
+      "kind": "动机",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "擅长包装自我，通过修图、短视频、朋友圈制造高于真实收入的生活观感（#253、#213）。",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "消费符号包括露露瑜伽裤、萨洛蒙、始祖鸟、星巴克、香奈儿/迪奥、豪车副驾、苹果手机等（#150）。",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "对好大哥可百依百顺、接受供养，但婚姻被写成不能共苦，资金链一断就崩（#184、#122）。",
+      "kind": "矛盾",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "独立女性人设与依赖男性消费/按次计费工作并存（#253、#347）。",
+      "kind": "矛盾",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "有“真实坦荡、奔放热烈”的正面版本，也有“会崩人、擅长拿捏”的负面版本（#137、#170）。",
+      "kind": "矛盾",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "学历与职业版本不统一：考研考编考教师、第一学历至少大专；小jk/cosplay学历止步中专；商K有偿陪侍（#253、#127、#311）。",
+      "kind": "矛盾",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "与好大哥的婚姻既被写成“不结婚堪称绝配”，又被写成结婚后最容易崩盘（#122）。",
+      "kind": "矛盾",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "看起来有钱既被写成真实消费能力，又被写成靠包装、滤镜和修图（#238、#156）。",
+      "kind": "矛盾",
+      "certainty": "文本推断",
+      "evidence": []
+    }
+  ],
+  "life_domains": [
+    {
+      "domain": "职业",
+      "claim": "职业版本不统一：有商K/红浪漫有偿陪侍，有美甲店主理人，有前台，有正在考研考编考教师，也有短视频擦边包装者。",
+      "evidence": [
+        {
+          "index": 213,
+          "url": "https://www.douyin.com/video/7578062613863599401"
+        },
+        {
+          "index": 253,
+          "url": "https://www.douyin.com/video/7537305087186603290"
+        }
+      ]
+    },
+    {
+      "domain": "金钱",
+      "claim": "金钱来源在文本中包括好大哥消费、转账、商K台费、直播打赏、自身工作与包装出来的富贵人设。",
+      "evidence": [
+        {
+          "index": 245,
+          "url": "https://www.douyin.com/video/7547314317717212457"
+        },
+        {
+          "index": 281,
+          "url": "https://www.douyin.com/video/7506899267122924827"
+        },
+        {
+          "index": 238,
+          "url": "https://www.douyin.com/video/7558860638852795684"
+        }
+      ]
+    },
+    {
+      "domain": "婚恋",
+      "claim": "被分别放入与好大哥、编二代、小布尔乔亚的婚恋组合；有的版本写婚配能维持，有的写最容易崩盘。",
+      "evidence": [
+        {
+          "index": 119,
+          "url": "https://www.douyin.com/video/7641878629400637669"
+        },
+        {
+          "index": 122,
+          "url": "https://www.douyin.com/video/7640860283352163429"
+        },
+        {
+          "index": 182,
+          "url": "https://www.douyin.com/video/7598559726875593984"
+        }
+      ]
+    },
+    {
+      "domain": "社交",
+      "claim": "出现在酒局、商K、露营、爬山、骑行、小酒吧、台球厅等县城社交与消费场景中。",
+      "evidence": [
+        {
+          "index": 99,
+          "url": "https://www.douyin.com/video/7651465150829985253"
+        },
+        {
+          "index": 140,
+          "url": "https://www.douyin.com/video/7626426845415689512"
+        },
+        {
+          "index": 272,
+          "url": "https://www.douyin.com/video/7513981015489072438"
+        }
+      ]
+    },
+    {
+      "domain": "消费",
+      "claim": "消费符号包括露露瑜伽裤、萨洛蒙、始祖鸟、星巴克、香奈儿/迪奥、豪车副驾、苹果手机等。",
+      "evidence": [
+        {
+          "index": 150,
+          "url": "https://www.douyin.com/video/7620848609910738218"
+        }
+      ]
+    },
+    {
+      "domain": "权力/评价",
+      "claim": "在婚恋评价中，编制、座驾、消费排面被当作判断男性实力和自身择偶加分的标准。",
+      "evidence": [
+        {
+          "index": 332,
+          "url": "https://www.douyin.com/video/7437739559913327884"
+        },
+        {
+          "index": 333,
+          "url": "https://www.douyin.com/video/7437293667808759097"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "event_id": "E001",
+      "title": "台州三门探访与“穿台州鸟能否拿捏瑜伽裤”的提问",
+      "description": "博主到浙江台州三门县看冲锋衣工厂，提出“穿台州鸟能不能拿捏县城瑜伽裤”的问题，并得出结论：瑜伽裤妹看的是好表、新手机和低调节制的好大哥气质。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 1,
+          "url": "https://www.douyin.com/video/7555437898573548810"
+        }
+      ]
+    },
+    {
+      "event_id": "E002",
+      "title": "陆国富对瑜伽裤妹妹吹嘘开店并邀请当店长",
+      "description": "原文写道陆国富对瑜伽裤妹妹说自己要投资开新店，还让人来当店长，实际兜里没钱、话费都靠人充。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 45,
+          "url": "https://www.douyin.com/video/7683421956008557434"
+        }
+      ]
+    },
+    {
+      "event_id": "E003",
+      "title": "博主换车后瑜伽裤妹妹拒绝越来越委婉",
+      "description": "博主称在县城里换了好车之后，瑜伽裤妹妹拒绝他时都越来越委婉，说明座驾影响对方态度。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 80,
+          "url": "https://www.douyin.com/video/7662329144269387365"
+        }
+      ]
+    },
+    {
+      "event_id": "E004",
+      "title": "编二代被瑜伽裤崩到资产负数、离婚娶瑜伽裤",
+      "description": "原文称编二代遇到瑜伽裤后，认识俩月资产崩成负数，征信崩成黑户，夫妻关系崩坏，仍执迷不悟要离婚娶瑜伽裤。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 182,
+          "url": "https://www.douyin.com/video/7598559726875593984"
+        }
+      ]
+    },
+    {
+      "event_id": "E005",
+      "title": "好大哥副驾驶坐着瑜伽裤，与红浪漫音乐老师形成对照",
+      "description": "原文写路虎揽胜或奔驰S副驾驶上坐着瑜伽裤妹妹，同时好大哥又是红浪漫之王，说明好大哥同时消费长期关系与付费陪伴。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 166,
+          "url": "https://www.douyin.com/video/7611363917939428662"
+        }
+      ]
+    },
+    {
+      "event_id": "E006",
+      "title": "商K瑜伽裤按台费交易，越界会被拒",
+      "description": "原文写商K瑜伽裤妹妹明白工作是工作、生活是生活，台费一结、票子一数，再摸一下就会急。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 311,
+          "url": "https://www.douyin.com/video/7477243977935211802"
+        }
+      ]
+    },
+    {
+      "event_id": "E007",
+      "title": "博主加县城瑜伽裤妹妹，朋友圈富贵人设后索要20元红包",
+      "description": "博主加了一个县城瑜伽裤妹妹，朋友圈全是保时捷、古驰、下午茶，但对方自称前台被炒、吃不上饭，向博主要20元红包。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 213,
+          "url": "https://www.douyin.com/video/7578062613863599401"
+        }
+      ]
+    },
+    {
+      "event_id": "E008",
+      "title": "保时捷富二代谈过多个瑜伽裤，分手后她们要求新对象座驾不低于保时捷",
+      "description": "原文称一个开保时捷的富二代跟好几个瑜伽裤妹妹谈过，之后这些妹妹找男友标准都变成座驾不低于保时捷，并影响闺蜜圈。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 156,
+          "url": "https://www.douyin.com/video/7616204819259078501"
+        }
+      ]
+    },
+    {
+      "event_id": "E009",
+      "title": "瑜伽裤坐好大哥路虎副驾驶自认高人一等",
+      "description": "在“老社保再婚找美娇妻”的对照中，原文写县城瑜伽裤跟好大哥在一起觉得有面子，坐路虎揽胜行政副驾驶也觉得高人一等。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 7,
+          "url": "https://www.douyin.com/video/7705279705377332089"
+        }
+      ]
+    },
+    {
+      "event_id": "E010",
+      "title": "好大哥与瑜伽裤结婚后离婚，双方都不要孩子",
+      "description": "原文写好大哥跟瑜伽裤一拍即合，结婚后谁都不干家务、不带孩子、不想以后，离婚后有的都不要孩子。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 279,
+          "url": "https://www.douyin.com/video/7508793566555163940"
+        }
+      ]
+    },
+    {
+      "event_id": "E011",
+      "title": "露营、爬山等户外活动中穿马卡龙瑜伽裤出片",
+      "description": "原文称瑜伽裤不喜欢运动本身，而是喜欢穿瑜伽裤拍照；露营时穿瑜伽裤、摆外卖、拍照出片。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 140,
+          "url": "https://www.douyin.com/video/7626426845415689512"
+        }
+      ]
+    },
+    {
+      "event_id": "E012",
+      "title": "编制被当作拿捏瑜伽裤的加分项",
+      "description": "原文写低配帕萨特加编制会被瑜伽裤解读为隐藏实力、清廉低调，编制对瑜伽裤的拿捏不逊于豪车。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 332,
+          "url": "https://www.douyin.com/video/7437739559913327884"
+        }
+      ]
+    },
+    {
+      "event_id": "E013",
+      "title": "上豪车后与炸街小摩托划清界限",
+      "description": "原文写瑜伽裤妹妹踏上豪车那一刻，会自觉和曾经的炸街小摩托划清界限，对爆改小电驴嗤之以鼻。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 333,
+          "url": "https://www.douyin.com/video/7437293667808759097"
+        }
+      ]
+    },
+    {
+      "event_id": "E014",
+      "title": "短视频滤镜与现实面基反差",
+      "description": "原文把刷房琪视频比作刷瑜伽裤视频，称滤镜破碎后，现实中的瑜伽裤与视频里又长又直、又圆又大的形象反差巨大。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 293,
+          "url": "https://www.douyin.com/video/7493565175715433768"
+        }
+      ]
+    },
+    {
+      "event_id": "E015",
+      "title": "小布尔乔亚与瑜伽裤婚配，收入扛住婚姻就扛得住",
+      "description": "原文认为小布尔乔亚和瑜伽裤相互成全，只要小布尔乔亚收入能扛住，婚姻就能扛住。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 119,
+          "url": "https://www.douyin.com/video/7641878629400637669"
+        }
+      ]
+    },
+    {
+      "event_id": "E016",
+      "title": "好大哥与瑜伽裤婚姻不能共苦，容易崩盘",
+      "description": "原文把好大哥和瑜伽裤列为最容易崩盘婚姻之一，认为两人只能有福同享，不能有难同当。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 122,
+          "url": "https://www.douyin.com/video/7640860283352163429"
+        }
+      ]
+    },
+    {
+      "event_id": "E017",
+      "title": "瑜伽裤开始跟好大哥甩脸子，三天被拉黑",
+      "description": "原文写但凡瑜伽裤妹妹开始跟好大哥甩脸子，不出三天她就会被拉黑。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 239,
+          "url": "https://www.douyin.com/video/7557694507702160682"
+        }
+      ]
+    },
+    {
+      "event_id": "E018",
+      "title": "约瑜伽裤被视为高消费行为",
+      "description": "原文调侃约瑜伽裤妹妹要开奔驰C、送礼、吃日料牛排、去小酒吧，一晚消费高。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 272,
+          "url": "https://www.douyin.com/video/7513981015489072438"
+        }
+      ]
+    },
+    {
+      "event_id": "E019",
+      "title": "瑜伽裤不拒绝露营，成为约见方式",
+      "description": "原文称露营是任何一个县城瑜伽裤都不会拒绝的户外活动，并教人借装备、摆盘、看落日。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 246,
+          "url": "https://www.douyin.com/video/7546821362627988793"
+        }
+      ]
+    },
+    {
+      "event_id": "E020",
+      "title": "返乡时女伴首选瑜伽裤",
+      "description": "原文教人过年返乡租女伴，称女伴首选瑜伽裤，越接地气越好，穿马卡龙糖果色瑜伽裤、配貂和金手镯。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 326,
+          "url": "https://www.douyin.com/video/7452715094250769715"
+        }
+      ]
+    },
+    {
+      "event_id": "E021",
+      "title": "外五县瑜伽裤见假大哥开泡水奔驰C跑路",
+      "description": "原文在“如何鉴别假大哥”中写，若被识破，外五县瑜伽裤会收起假璐璐、开着泡水奔驰C直接跑路。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 198,
+          "url": "https://www.douyin.com/video/7587831651384757538"
+        }
+      ]
+    },
+    {
+      "event_id": "E022",
+      "title": "春夏秋三季葱姜蒜可拿捏瑜伽裤",
+      "description": "原文写春夏秋这三个季节，县城葱姜蒜发挥好的时候，经常可以拿捏到县城瑜伽裤。",
+      "temporal": "原文明确时间：春夏秋",
+      "chronology_basis": "明示",
+      "evidence": [
+        {
+          "index": 210,
+          "url": "https://www.douyin.com/video/7579264195695267106"
+        }
+      ]
+    },
+    {
+      "event_id": "E023",
+      "title": "瑜伽裤在短视频中擦边但设置“拒私聊”筛选",
+      "description": "原文分析一小部分女性发擦边视频却写“拒私聊”，是为了筛选，只让有实力的哥哥连接。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 238,
+          "url": "https://www.douyin.com/video/7558860638852795684"
+        }
+      ]
+    },
+    {
+      "event_id": "E024",
+      "title": "瑜伽裤学历以考研考编考教师为主，形成女性群体分层",
+      "description": "原文预测县城瑜伽裤将在女性群体混战中版本强化，学历以考研、考编、考教师为主，会收编小太妹、cosplay等。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 253,
+          "url": "https://www.douyin.com/video/7537305087186603290"
+        }
+      ]
+    }
+  ],
+  "storylines": [
+    {
+      "title": "好大哥—瑜伽裤的炫耀型关系与资金链崩盘",
+      "event_ids": [
+        "E005",
+        "E009",
+        "E010",
+        "E016",
+        "E017"
+      ],
+      "narrative": "文本把瑜伽裤与好大哥写成最常配对的关系：好大哥舍得砸钱、路虎揽胜副驾驶、包、貂、金镯子、旅行与下午茶；瑜伽裤愿意陪伴、被供养，也觉得有面子。但同一批文本又说好大哥骨子里对瑜伽裤是鄙夷和欲望，不是精神崇拜；结婚后两人不能共苦，不做家务、不带孩子、不研究以后，资金链一断关系就崩。开始是消费与排面，发展是短期绚烂，冲突是钱与责任，结果在原文中多被写成崩盘、离婚或拉黑。",
+      "unresolved": "瑜伽裤与好大哥是否领证、是否生育、离婚后各自生活如何，原文没有统一交代。",
+      "evidence": [
+        {
+          "index": 166,
+          "url": "https://www.douyin.com/video/7611363917939428662"
+        },
+        {
+          "index": 7,
+          "url": "https://www.douyin.com/video/7705279705377332089"
+        },
+        {
+          "index": 279,
+          "url": "https://www.douyin.com/video/7508793566555163940"
+        },
+        {
+          "index": 122,
+          "url": "https://www.douyin.com/video/7640860283352163429"
+        },
+        {
+          "index": 239,
+          "url": "https://www.douyin.com/video/7557694507702160682"
+        }
+      ]
+    },
+    {
+      "title": "编二代—瑜伽裤的猎杀与崩盘",
+      "event_ids": [
+        "E004"
+      ],
+      "narrative": "原文把瑜伽裤写成“县城编二代最严厉的父亲”。编二代年轻、家庭条件好、被父母管束压抑，遇到瑜伽裤后，认识两个月资产崩成负数、征信崩成黑户、夫妻关系崩坏，却仍执迷不悟要离婚娶瑜伽裤。瑜伽裤被写成对人性、自身魅力和男女关系非常熟练的人，能拿捏编二代甚至好大哥。",
+      "unresolved": "编二代最终是否真的离婚、是否娶了瑜伽裤、后续财产如何，原文没有完整结局。",
+      "evidence": [
+        {
+          "index": 182,
+          "url": "https://www.douyin.com/video/7598559726875593984"
+        }
+      ]
+    },
+    {
+      "title": "商K瑜伽裤的工作与交易线",
+      "event_ids": [
+        "E006"
+      ],
+      "narrative": "在商K/红浪漫场景中，瑜伽裤妹妹被写成有偿陪侍工作者：工作是工作，生活是生活；台费结清，票子一数，交易结束，再越界就会急。客人会用文学、电影、灵魂知己话术包装关系，但文本同时强调“不能上头”“这是工作”。这条线与婚恋、恋爱线并存，却性质不同。",
+      "unresolved": "商K瑜伽裤的日常身份、是否另有职业、是否与婚恋对象重叠，原文没有说明。",
+      "evidence": [
+        {
+          "index": 311,
+          "url": "https://www.douyin.com/video/7477243977935211802"
+        }
+      ]
+    },
+    {
+      "title": "小布尔乔亚—瑜伽裤的消费婚配线",
+      "event_ids": [
+        "E015"
+      ],
+      "narrative": "原文认为小布尔乔亚和瑜伽裤才可能相互成全：两人都身在县城但消费和追求超越县城，都重视符号、仪式感和圈层文化，瑜伽裤的消费和仪式感需要有点认知、有点钱且持续赚钱的人承接。只要小布尔乔亚收入扛住，婚姻就扛得住。",
+      "unresolved": "这条线没有具体人物结局，也没有说明收入下滑后会怎样。",
+      "evidence": [
+        {
+          "index": 119,
+          "url": "https://www.douyin.com/video/7641878629400637669"
+        }
+      ]
+    },
+    {
+      "title": "短视频滤镜—现实反差线",
+      "event_ids": [
+        "E007",
+        "E014",
+        "E023"
+      ],
+      "narrative": "瑜伽裤在短视频和朋友圈中被写成能通过滤镜、修图、定位、品牌符号制造高消费人设：保时捷方向盘、古驰包、下午茶、马卡龙瑜伽裤、萨洛蒙、Lululemon。但现实面基或加微信后，滤镜会碎：可能是五短身材、可能自称前台被炒、可能只要20元红包。原文用“刷房琪视频=刷瑜伽裤视频”类比这种包装与空洞。",
+      "unresolved": "哪些瑜伽裤是真实高消费、哪些是包装，原文没有逐个核实。",
+      "evidence": [
+        {
+          "index": 213,
+          "url": "https://www.douyin.com/video/7578062613863599401"
+        },
+        {
+          "index": 293,
+          "url": "https://www.douyin.com/video/7493565175715433768"
+        },
+        {
+          "index": 238,
+          "url": "https://www.douyin.com/video/7558860638852795684"
+        }
+      ]
+    },
+    {
+      "title": "向上进攻与筛选跨界灯",
+      "event_ids": [
+        "E001",
+        "E008",
+        "E012",
+        "E013",
+        "E024"
+      ],
+      "narrative": "文本反复写瑜伽裤向上进攻：只进攻好大哥、编二代、小布尔乔亚，离葱姜蒜老远；她们用对方座驾、编制、衣服、手机、消费判断实力。前男友开保时捷后，新对象座驾不能低于保时捷；低配帕萨特加编制会被解读为隐藏实力；豪车、靓号、编制、小众户外品牌都能成为拿捏点。最终她们在文本中被概括为四处筛选“跨界灯”。",
+      "unresolved": "她们选择伴侣的最终标准、是否成功、婚后是否满意，原文没有统一答案。",
+      "evidence": [
+        {
+          "index": 1,
+          "url": "https://www.douyin.com/video/7555437898573548810"
+        },
+        {
+          "index": 156,
+          "url": "https://www.douyin.com/video/7616204819259078501"
+        },
+        {
+          "index": 332,
+          "url": "https://www.douyin.com/video/7437739559913327884"
+        },
+        {
+          "index": 333,
+          "url": "https://www.douyin.com/video/7437293667808759097"
+        },
+        {
+          "index": 253,
+          "url": "https://www.douyin.com/video/7537305087186603290"
+        }
+      ]
+    }
+  ],
+  "relationships": [
+    {
+      "target": "县城好大哥",
+      "relation": "最常被配对的关系。原文写好大哥舍得花钱、豪车副驾驶、包、貂、金镯子，瑜伽裤接受供养并觉得有面子；也写好大哥骨子里鄙夷瑜伽裤，婚姻不能共苦，资金链断裂就崩。",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 245,
+          "url": "https://www.douyin.com/video/7547314317717212457"
+        },
+        {
+          "index": 119,
+          "url": "https://www.douyin.com/video/7641878629400637669"
+        },
+        {
+          "index": 122,
+          "url": "https://www.douyin.com/video/7640860283352163429"
+        }
+      ]
+    },
+    {
+      "target": "县城编二代",
+      "relation": "被写成能崩编二代的人：认识俩月资产崩负数、征信黑户、夫妻形同陌路，编二代仍要离婚娶瑜伽裤。",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 182,
+          "url": "https://www.douyin.com/video/7598559726875593984"
+        }
+      ]
+    },
+    {
+      "target": "县城小布尔乔亚",
+      "relation": "被写成相互吸引、可能婚配的组合：都重视消费符号、圈层文化和仪式感，收入扛住婚姻就扛得住。",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 119,
+          "url": "https://www.douyin.com/video/7641878629400637669"
+        }
+      ]
+    },
+    {
+      "target": "县城葱姜蒜",
+      "relation": "瑜伽裤被写成向上进攻，离葱姜蒜老远，对葱姜蒜缺乏兴趣；但春夏秋三季葱姜蒜发挥好时也能拿捏瑜伽裤。",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 176,
+          "url": "https://www.douyin.com/video/7601752625796713779"
+        },
+        {
+          "index": 210,
+          "url": "https://www.douyin.com/video/7579264195695267106"
+        }
+      ]
+    },
+    {
+      "target": "红浪漫音乐老师",
+      "relation": "被比较对象：原文说瑜伽裤论身材、颜值、气质、学识都吊打红浪漫音乐老师。",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 166,
+          "url": "https://www.douyin.com/video/7611363917939428662"
+        }
+      ]
+    },
+    {
+      "target": "陆国富",
+      "relation": "在不同故事中，陆国富向瑜伽裤妹妹吹嘘开店并邀其当店长；在商K场景中，两个瑜伽裤妹妹把陆国富强行拉进门。",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 45,
+          "url": "https://www.douyin.com/video/7683421956008557434"
+        },
+        {
+          "index": 259,
+          "url": "https://www.douyin.com/video/7530502570838723890"
+        }
+      ]
+    },
+    {
+      "target": "写手一条城（博主本人）",
+      "relation": "博主反复以观察者、被拒绝者、被私信者、加微信者身份出现：没有瑜伽裤来崩他；换车后拒绝越来越委婉；加了一个瑜伽裤妹妹后被要20元红包。",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 153,
+          "url": "https://www.douyin.com/video/7618857294381468937"
+        },
+        {
+          "index": 213,
+          "url": "https://www.douyin.com/video/7578062613863599401"
+        }
+      ]
+    },
+    {
+      "target": "行政小贵妇",
+      "relation": "被并列比较：瑜伽裤偏运动，行政小贵妇偏商务；县城瑜伽裤可以跟她掰手腕，但气质方向不同。",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 111,
+          "url": "https://www.douyin.com/video/7646644426245645755"
+        }
+      ]
+    },
+    {
+      "target": "县城小太妹、小cosplay、小jk",
+      "relation": "被写成女性群体竞争中的版本强化者，可能收编或挤压小太妹、cosplay、小jk的空间。",
+      "certainty": "文本推断",
+      "evidence": [
+        {
+          "index": 253,
+          "url": "https://www.douyin.com/video/7537305087186603290"
+        }
+      ]
+    }
+  ],
+  "speech_habits": [
+    {
+      "claim": "在朋友圈和短视频中发布精致高消费内容，配定位、照片、滤镜和文案，制造富贵人设。",
+      "evidence": [
+        {
+          "index": 253,
+          "url": "https://www.douyin.com/video/7537305087186603290"
+        },
+        {
+          "index": 213,
+          "url": "https://www.douyin.com/video/7578062613863599401"
+        }
+      ]
+    },
+    {
+      "claim": "用“拒私聊”“私信不回复”等话术筛选可连接对象。",
+      "evidence": [
+        {
+          "index": 238,
+          "url": "https://www.douyin.com/video/7558860638852795684"
+        }
+      ]
+    },
+    {
+      "claim": "对好大哥可表现得顺从，对葱姜蒜则用冷淡、斜眼、蔑视姿态。",
+      "evidence": [
+        {
+          "index": 184,
+          "url": "https://www.douyin.com/video/7596671206527438086"
+        },
+        {
+          "index": 176,
+          "url": "https://www.douyin.com/video/7601752625796713779"
+        }
+      ]
+    },
+    {
+      "claim": "在商K场景中强调“工作是工作，生活是生活”，用交易边界处理越界行为。",
+      "evidence": [
+        {
+          "index": 311,
+          "url": "https://www.douyin.com/video/7477243977935211802"
+        }
+      ]
+    },
+    {
+      "claim": "在约会场景中会用浪漫、落日、文学等话术被拿捏或回应。",
+      "evidence": [
+        {
+          "index": 246,
+          "url": "https://www.douyin.com/video/7546821362627988793"
+        }
+      ]
+    }
+  ],
+  "contradictions": [
+    {
+      "issue": "瑜伽裤到底是独立女性还是依赖男性供养/有偿陪侍？",
+      "versions": [
+        {
+          "claim": "独立女性版本：自己赚钱自己花，强调独立女性人设。",
+          "evidence": [
+            {
+              "index": 253,
+              "url": "https://www.douyin.com/video/7537305087186603290"
+            }
+          ]
+        },
+        {
+          "claim": "被供养版本：需要好大哥供养，按台费交易，花小钱陪两个小时。",
+          "evidence": [
+            {
+              "index": 184,
+              "url": "https://www.douyin.com/video/7596671206527438086"
+            },
+            {
+              "index": 347,
+              "url": "https://www.douyin.com/video/7394843094925020425"
+            }
+          ]
+        }
+      ],
+      "resolution": "保留并列，不擅自合并。文本中“独立女性人设”与“被供养/按次计费”是不同版本，不能互相否定。"
+    },
+    {
+      "issue": "瑜伽裤的学历与职业到底是什么？",
+      "versions": [
+        {
+          "claim": "正在考研、考编、考教师，第一学历至少大专。",
+          "evidence": [
+            {
+              "index": 253,
+              "url": "https://www.douyin.com/video/7537305087186603290"
+            }
+          ]
+        },
+        {
+          "claim": "小jk、小cosplay、颜值一般、学历止步中专。",
+          "evidence": [
+            {
+              "index": 127,
+              "url": "https://www.douyin.com/video/7634806168099526885"
+            }
+          ]
+        },
+        {
+          "claim": "商K有偿陪侍，工作是工作，生活是生活。",
+          "evidence": [
+            {
+              "index": 311,
+              "url": "https://www.douyin.com/video/7477243977935211802"
+            }
+          ]
+        }
+      ],
+      "resolution": "保留并列。该角色是群像，职业和学历不统一。"
+    },
+    {
+      "issue": "瑜伽裤对好大哥是什么态度？",
+      "versions": [
+        {
+          "claim": "百依百顺、需要供养、被拿捏。",
+          "evidence": [
+            {
+              "index": 184,
+              "url": "https://www.douyin.com/video/7596671206527438086"
+            }
+          ]
+        },
+        {
+          "claim": "好大哥骨子里对瑜伽裤是鄙夷和欲望，而瑜伽裤也不能与好大哥共苦。",
+          "evidence": [
+            {
+              "index": 119,
+              "url": "https://www.douyin.com/video/7641878629400637669"
+            },
+            {
+              "index": 122,
+              "url": "https://www.douyin.com/video/7640860283352163429"
+            }
+          ]
+        }
+      ],
+      "resolution": "保留并列。顺从版本和鄙夷/崩盘版本同时存在。"
+    },
+    {
+      "issue": "瑜伽裤与好大哥的婚姻是绝配还是最容易崩盘？",
+      "versions": [
+        {
+          "claim": "只要不结婚堪称绝配，好大哥出手阔绰，瑜伽裤会撒娇来事。",
+          "evidence": [
+            {
+              "index": 122,
+              "url": "https://www.douyin.com/video/7640860283352163429"
+            }
+          ]
+        },
+        {
+          "claim": "结婚后容易崩盘，只能同甘不能共苦。",
+          "evidence": [
+            {
+              "index": 122,
+              "url": "https://www.douyin.com/video/7640860283352163429"
+            }
+          ]
+        }
+      ],
+      "resolution": "保留并列：恋爱/短期关系版本与婚姻版本不同。"
+    },
+    {
+      "issue": "瑜伽裤是真实坦荡还是包装崩人？",
+      "versions": [
+        {
+          "claim": "真实可爱，有清晰自我认知。",
+          "evidence": [
+            {
+              "index": 137,
+              "url": "https://www.douyin.com/video/7627001079901388218"
+            }
+          ]
+        },
+        {
+          "claim": "擅长进攻、极具魅力、逮谁崩谁。",
+          "evidence": [
+            {
+              "index": 170,
+              "url": "https://www.douyin.com/video/7606986587697099185"
+            }
+          ]
+        },
+        {
+          "claim": "靠包装、滤镜、修图维持富贵人设。",
+          "evidence": [
+            {
+              "index": 238,
+              "url": "https://www.douyin.com/video/7558860638852795684"
+            }
+          ]
+        }
+      ],
+      "resolution": "保留并列。正面、负面、包装版本分属不同文案语境。"
+    }
+  ],
+  "gaps": [
+    "没有统一的真实姓名、年龄、家庭背景、职业和收入来源。",
+    "“考研考编考教师”的瑜伽裤、“商K有偿陪侍”的瑜伽裤、“短视频擦边包装”的瑜伽裤、“美甲店主理人/前台”的瑜伽裤是否同一群体，原文没有说明。",
+    "瑜伽裤自己的第一人称完整叙述很少，多为博主、追求者、好大哥、编二代、小布尔乔亚视角。",
+    "与好大哥、编二代、小布尔乔亚结婚后的具体结局、是否生育、是否离婚、离婚后生活，原文缺少完整交代。",
+    "商K有偿陪侍与日常婚恋对象之间的边界不清。",
+    "哪些高消费、豪车、奢侈品是真实拥有，哪些是包装、滤镜或前男友资源，原文未核实。",
+    "瑜伽裤与好大哥是否领证、是否生育、离婚后各自生活如何，原文没有统一交代。"
+  ],
+  "creative_expansions": [],
+  "source_coverage": [
+    {
+      "index": 1,
+      "role": "以“穿台州鸟能否拿捏县城瑜伽裤”引出瑜伽裤对好表、新手机、静奢气质的关注。",
+      "url": "https://www.douyin.com/video/7555437898573548810"
+    },
+    {
+      "index": 5,
+      "role": "在“最优解女孩”中称外五县瑜伽裤被县城好大哥精准拿捏。",
+      "url": "https://www.douyin.com/video/7706479503548491001"
+    },
+    {
+      "index": 7,
+      "role": "用瑜伽裤与好大哥、路虎副驾驶作比较，说明其面子感。",
+      "url": "https://www.douyin.com/video/7705279705377332089"
+    },
+    {
+      "index": 45,
+      "role": "陆国富向瑜伽裤妹妹吹嘘开店并邀其当店长。",
+      "url": "https://www.douyin.com/video/7683421956008557434"
+    },
+    {
+      "index": 51,
+      "role": "提出“小布尔乔亚娶了个县城瑜伽裤”的婚配句式。",
+      "url": "https://www.douyin.com/video/7680388351061973361"
+    },
+    {
+      "index": 80,
+      "role": "博主称换车后瑜伽裤妹妹拒绝越来越委婉，说明座驾影响。来源。",
+      "url": "https://www.douyin.com/video/7662329144269387365"
+    },
+    {
+      "index": 97,
+      "role": "称县城瑜伽裤和行政小贵妇可能对提升魅力的男性产生情愫。",
+      "url": "https://www.douyin.com/video/7653082203291545786"
+    },
+    {
+      "index": 99,
+      "role": "把“贴身棒场的瑜伽裤”列为县城酒局人物之一。",
+      "url": "https://www.douyin.com/video/7651465150829985253"
+    },
+    {
+      "index": 100,
+      "role": "以“看瑜伽裤短视频”“前压瑜伽裤”作为本能欲望例子。",
+      "url": "https://www.douyin.com/video/7652002005212286217"
+    },
+    {
+      "index": 107,
+      "role": "小布尔乔亚曾追逐马卡龙糖果色瑜伽裤，瑜伽裤对其表述不认同。",
+      "url": "https://www.douyin.com/video/7648547489775648613"
+    },
+    {
+      "index": 111,
+      "role": "行政小贵妇与瑜伽裤比较，瑜伽裤偏运动。",
+      "url": "https://www.douyin.com/video/7646644426245645755"
+    },
+    {
+      "index": 115,
+      "role": "小布尔乔亚喜欢取瑜伽裤，精致生活更费钱；瑜伽裤给博主发私信。",
+      "url": "https://www.douyin.com/video/7643824127509368127"
+    },
+    {
+      "index": 119,
+      "role": "小布尔乔亚与瑜伽裤婚配，收入扛住婚姻就扛得住。",
+      "url": "https://www.douyin.com/video/7641878629400637669"
+    },
+    {
+      "index": 122,
+      "role": "好大哥与瑜伽裤婚姻组合：不结婚绝配，结婚易崩，不能共苦。",
+      "url": "https://www.douyin.com/video/7640860283352163429"
+    },
+    {
+      "index": 127,
+      "role": "第二类“县城瑜伽裤美女，马卡龙糖果色”，强调年轻、外向、单身可撩、会带人玩。",
+      "url": "https://www.douyin.com/video/7634806168099526885"
+    },
+    {
+      "index": 130,
+      "role": "互联网使用指南中把擦边瑜伽裤作为娱乐观看与穿搭评论对象。",
+      "url": "https://www.douyin.com/video/7632948253264284955"
+    },
+    {
+      "index": 137,
+      "role": "为王漫妮类女性作对照，称瑜伽裤真实坦荡、清楚自己在做什么。",
+      "url": "https://www.douyin.com/video/7627001079901388218"
+    },
+    {
+      "index": 140,
+      "role": "核心篇章：瑜伽裤最喜欢的不是运动，是穿瑜伽裤拍照出片。",
+      "url": "https://www.douyin.com/video/7626426845415689512"
+    },
+    {
+      "index": 145,
+      "role": "结尾称“县城里面瑜伽裤和好大哥才是真正的爱情”。",
+      "url": "https://www.douyin.com/video/7623070673635691791"
+    },
+    {
+      "index": 150,
+      "role": "对照小贵妇，称瑜伽裤崩异性、做性别资本变现，穿露露、萨洛蒙、星巴克、香奈儿/迪奥。",
+      "url": "https://www.douyin.com/video/7620848609910738218"
+    },
+    {
+      "index": 153,
+      "role": "瑜伽裤最爱崩的OOTD：判断商鸟等高端户外服饰，博主称没有瑜伽裤来崩他。",
+      "url": "https://www.douyin.com/video/7618857294381468937"
+    },
+    {
+      "index": 154,
+      "role": "瑜伽裤喜欢崩的“登”：在老登、中登、小登之间筛选跨界灯。",
+      "url": "https://www.douyin.com/video/7618592764283931910"
+    },
+    {
+      "index": 156,
+      "role": "保时捷富二代谈过多个瑜伽裤，分手后她们要求新对象座驾不低于保时捷。",
+      "url": "https://www.douyin.com/video/7616204819259078501"
+    },
+    {
+      "index": 159,
+      "role": "西格玛男人语境中，给欧米伽男人一个瑜伽裤妹妹就会上当。",
+      "url": "https://www.douyin.com/video/7615836826859905445"
+    },
+    {
+      "index": 166,
+      "role": "好大哥副驾驶坐着瑜伽裤，同时红浪漫之王身份形成对照。",
+      "url": "https://www.douyin.com/video/7611363917939428662"
+    },
+    {
+      "index": 170,
+      "role": "称瑜伽裤擅长进攻、极具魅力、势如破竹、逮谁崩谁。",
+      "url": "https://www.douyin.com/video/7606986587697099185"
+    },
+    {
+      "index": 176,
+      "role": "瑜伽裤向上进攻好大哥、边二代、小布尔乔亚，对葱姜蒜冷淡。",
+      "url": "https://www.douyin.com/video/7601752625796713779"
+    },
+    {
+      "index": 182,
+      "role": "核心篇章：瑜伽裤是编二代最严厉的父亲，能崩资产、征信、婚姻。",
+      "url": "https://www.douyin.com/video/7598559726875593984"
+    },
+    {
+      "index": 184,
+      "role": "体制内男性压抑语境中，瑜伽裤对好大哥百依百顺，需要供养，摸不清好大哥真实实力。",
+      "url": "https://www.douyin.com/video/7596671206527438086"
+    },
+    {
+      "index": 198,
+      "role": "鉴别假大哥时，外五县瑜伽裤会收起假璐璐、开泡水奔驰C跑路。",
+      "url": "https://www.douyin.com/video/7587831651384757538"
+    },
+    {
+      "index": 210,
+      "role": "春夏秋三季，葱姜蒜发挥好时能拿捏瑜伽裤。",
+      "url": "https://www.douyin.com/video/7579264195695267106"
+    },
+    {
+      "index": 213,
+      "role": "博主加县城瑜伽裤妹妹，朋友圈保时捷古驰下午茶，实际索要20元红包。",
+      "url": "https://www.douyin.com/video/7578062613863599401"
+    },
+    {
+      "index": 217,
+      "role": "女文青消失语境中，县城瑜伽裤和厚黑丝直接攻击男性肉体本能。",
+      "url": "https://www.douyin.com/video/7575789135542226230"
+    },
+    {
+      "index": 228,
+      "role": "搞对象学瑜伽裤：用身材和消费展示吸引异性，约到24个瑜伽裤。",
+      "url": "https://www.douyin.com/video/7569620647459015962"
+    },
+    {
+      "index": 229,
+      "role": "穿fake能否拿捏瑜伽裤：fake需要座驾、消费段位衬托。",
+      "url": "https://www.douyin.com/video/7569136454010473766"
+    },
+    {
+      "index": 232,
+      "role": "以瑜伽裤看好大哥作类比，强调其看重财富来源而非道德过程。",
+      "url": "https://www.douyin.com/video/7566290882354236730"
+    },
+    {
+      "index": 238,
+      "role": "擦边视频、拒私聊筛选；瑜伽裤看起来有钱靠包装；一条瑜伽裤背后有100条瑜伽裤。",
+      "url": "https://www.douyin.com/video/7558860638852795684"
+    },
+    {
+      "index": 239,
+      "role": "瑜伽裤跟好大哥甩脸子，不出三天被拉黑。",
+      "url": "https://www.douyin.com/video/7557694507702160682"
+    },
+    {
+      "index": 244,
+      "role": "好大哥形象吸引县城瑜伽裤。",
+      "url": "https://www.douyin.com/video/7550332400253947178"
+    },
+    {
+      "index": 245,
+      "role": "核心篇章：没有人能在拿捏瑜伽裤方面凌驾于好大哥，好大哥下血本，短暂关系绚烂。",
+      "url": "https://www.douyin.com/video/7547314317717212457"
+    },
+    {
+      "index": 246,
+      "role": "预算200假装好大哥：用咖啡、露营、落日话术拿捏瑜伽裤。",
+      "url": "https://www.douyin.com/video/7546821362627988793"
+    },
+    {
+      "index": 247,
+      "role": "称好大哥跟瑜伽裤双向奔赴，反而更像爱情。",
+      "url": "https://www.douyin.com/video/7545444691488460090"
+    },
+    {
+      "index": 253,
+      "role": "预测瑜伽裤版本强化，学历以考研考编考教师为主，强调独立女性人设和文化输出。",
+      "url": "https://www.douyin.com/video/7537305087186603290"
+    },
+    {
+      "index": 255,
+      "role": "拿捏瑜伽裤是贷款买豪车、珍惜欲望的动机之一。",
+      "url": "https://www.douyin.com/video/7536865763911568691"
+    },
+    {
+      "index": 258,
+      "role": "月入2800男性用碎屏红米给瑜伽裤妹妹苹果16 Pro Max扫码。",
+      "url": "https://www.douyin.com/video/7531214700705549618"
+    },
+    {
+      "index": 259,
+      "role": "两个瑜伽裤妹妹在红浪漫门口把陆国富强行拉进去。",
+      "url": "https://www.douyin.com/video/7530502570838723890"
+    },
+    {
+      "index": 262,
+      "role": "县城瑜伽裤与马尔代夫比基尼比较，被视为折中、巧妙、更有说服力。",
+      "url": "https://www.douyin.com/video/7527946727798607140"
+    },
+    {
+      "index": 264,
+      "role": "拿捏瑜伽裤是排面的一部分；送瑜伽裤妹妹回家需氛围灯；相亲姑娘穿瑜伽裤。",
+      "url": "https://www.douyin.com/video/7524153080632315175"
+    },
+    {
+      "index": 266,
+      "role": "豪车、Lululemon、苹果手机可使县城瑜伽裤迷得走不动道。",
+      "url": "https://www.douyin.com/video/7520205533916269860"
+    },
+    {
+      "index": 270,
+      "role": "瑜伽裤妹妹只能带来片刻欢愉，久处后索然无味。",
+      "url": "https://www.douyin.com/video/7516537184850152745"
+    },
+    {
+      "index": 272,
+      "role": "约瑜伽裤需奔驰C、日料牛排、小酒吧，且酒量大。",
+      "url": "https://www.douyin.com/video/7513981015489072438"
+    },
+    {
+      "index": 275,
+      "role": "拿捏小太妹时以瑜伽裤妹妹对圆脸络腮胡小哥扭动为反例。",
+      "url": "https://www.douyin.com/video/7511383000542727478"
+    },
+    {
+      "index": 279,
+      "role": "好大哥与瑜伽裤一拍即合，离婚后有的都不要孩子。",
+      "url": "https://www.douyin.com/video/7508793566555163940"
+    },
+    {
+      "index": 281,
+      "role": "老实人、直播间打赏者最容易给瑜伽裤掏38万8。",
+      "url": "https://www.douyin.com/video/7506899267122924827"
+    },
+    {
+      "index": 282,
+      "role": "手机靓号可吸引瑜伽裤，靓号短信、豪车、小酒吧构成拿捏流程。",
+      "url": "https://www.douyin.com/video/7506181914735234340"
+    },
+    {
+      "index": 288,
+      "role": "旅游装排面时，瑜伽裤是受众；露营现场可能没有几条瑜伽裤。",
+      "url": "https://www.douyin.com/video/7500998499288157497"
+    },
+    {
+      "index": 292,
+      "role": "假装好大哥技术分析，目标是让县城瑜伽裤如痴如醉。",
+      "url": "https://www.douyin.com/video/7496150188306877730"
+    },
+    {
+      "index": 293,
+      "role": "把刷房琪视频等同于刷瑜伽裤视频，强调滤镜厚、面基反差大。",
+      "url": "https://www.douyin.com/video/7493565175715433768"
+    },
+    {
+      "index": 294,
+      "role": "把社会比作巨大瑜伽裤：慕强、重结果、迷恋好大哥和小黄毛。",
+      "url": "https://www.douyin.com/video/7492821775407942912"
+    },
+    {
+      "index": 296,
+      "role": "称人生尽头是县城，爱情尽头是瑜伽裤，考编后可拿捏瑜伽裤。",
+      "url": "https://www.douyin.com/video/7489731528767900968"
+    },
+    {
+      "index": 300,
+      "role": "好大哥与瑜伽裤发展长期关系，但免费长期关系最贵。",
+      "url": "https://www.douyin.com/video/7485405109145373990"
+    },
+    {
+      "index": 304,
+      "role": "以网上瑜伽裤一批一批、见面都懵逼类比滤镜落差。",
+      "url": "https://www.douyin.com/video/7483176758443871500"
+    },
+    {
+      "index": 309,
+      "role": "商K瑜伽裤女性被文学话术包装成灵魂知己，提醒自己工作是工作不能上头。",
+      "url": "https://www.douyin.com/video/7477990380806393127"
+    },
+    {
+      "index": 311,
+      "role": "商K瑜伽裤妹妹工作生活分开，台费结清，越界会急。",
+      "url": "https://www.douyin.com/video/7477243977935211802"
+    },
+    {
+      "index": 315,
+      "role": "被设为通过深情一吻检测口臭反应的对象。",
+      "url": "https://www.douyin.com/video/7475279543620668732"
+    },
+    {
+      "index": 321,
+      "role": "春节拜年场合有瑜伽裤出没，可能暧昧互动、相约吃喝酒吧。",
+      "url": "https://www.douyin.com/video/7465157009491430697"
+    },
+    {
+      "index": 326,
+      "role": "返乡女伴首选瑜伽裤，越接地气越好，穿马卡龙糖果色瑜伽裤配貂和金镯子。",
+      "url": "https://www.douyin.com/video/7452715094250769715"
+    },
+    {
+      "index": 327,
+      "role": "装叉失败分析中，县城瑜伽裤是炫车行为的主要受众，易被豪车外表唬住。",
+      "url": "https://www.douyin.com/video/7451237539765144859"
+    },
+    {
+      "index": 332,
+      "role": "编制对瑜伽裤的拿捏不逊于豪车，低配帕萨特会被解读为隐藏实力。",
+      "url": "https://www.douyin.com/video/7437739559913327884"
+    },
+    {
+      "index": 333,
+      "role": "如何拿捏县城瑜伽裤：豪车、小众车型、编制、公文包、安全第一。",
+      "url": "https://www.douyin.com/video/7437293667808759097"
+    },
+    {
+      "index": 338,
+      "role": "霸总剧语境中，霸道总裁应喜欢年轻貌美大长腿、穿瑜伽裤的00后。",
+      "url": "https://www.douyin.com/video/7411778687638539559"
+    },
+    {
+      "index": 347,
+      "role": "奥运会热度低语境中，花小钱找瑜伽妹妹陪两小时、按次计费。",
+      "url": "https://www.douyin.com/video/7394843094925020425"
+    }
+  ]
+}

@@ -1,0 +1,961 @@
+{
+  "name": "县城体制内男性",
+  "nature": "复合群像/原型，不是单一自然人的连续传记。核心依据为147、184、199三篇，辅以104、332、417、543、572、578、585、37、47、233、115等篇；文本以“县城体制内男性”“体制内中年男性”“有编的人”等称谓出现。“李宝库”等只是举例，不当作该群像的固定姓名；也不对应现实人物。",
+  "overview": "县城体制内男性被写成一群有编制、收入稳定、早八晚五的县城男性。考编上岸是最高光时刻，婚后真实幸福指数却被写得很差：晋升空间小，工资几千，生活重复，35岁后觉得人生没盼头，又没有裸辞决心，因而压抑、虚无、内耗。相亲市场上编制压倒一切，有编大杀四方，也让父母有面子、让外界误以为有灰色收入；但文本又说多数人只拿死工资。婚后家庭地位偏低，妻子不畏惧他；单位里40岁前常处下位，干活背锅讨好上级，亲戚大小事又来消耗。文本建议他们发展健身、钓鱼、摄影等长期爱好分散精力；若爱好被限制，可能扭曲成“老骚包”。他们被写为保守内敛，向往瑜伽裤的刺激却不敢放纵，羡慕好大哥、小黄毛的潇洒，人生平坦却缺精彩。",
+  "identity": [
+    {
+      "claim": "有编制、职业和收入稳定，生活规律重复，工资多被写成几千元。",
+      "evidence": [
+        {
+          "index": 184,
+          "url": "https://www.douyin.com/video/7596671206527438086"
+        },
+        {
+          "index": 147,
+          "url": "https://www.douyin.com/video/7622336491993320756"
+        },
+        {
+          "index": 578,
+          "url": "https://www.douyin.com/video/7109401165070191909"
+        }
+      ]
+    },
+    {
+      "claim": "考编上岸被描述为人生最高光时刻，此后在事业上多走下坡路。",
+      "evidence": [
+        {
+          "index": 184,
+          "url": "https://www.douyin.com/video/7596671206527438086"
+        }
+      ]
+    },
+    {
+      "claim": "在县城相亲评价体系里，编制是压倒性优势，“有编大杀四方”。",
+      "evidence": [
+        {
+          "index": 199,
+          "url": "https://www.douyin.com/video/7586683557188242703"
+        },
+        {
+          "index": 585,
+          "url": "https://www.douyin.com/video/7099766213445700871"
+        }
+      ]
+    },
+    {
+      "claim": "文本中的编制内人并非一类：至少列出刚上岸的躺编00后、县城编二代等分层。",
+      "evidence": [
+        {
+          "index": 104,
+          "url": "https://www.douyin.com/video/7648106609897426191"
+        }
+      ]
+    }
+  ],
+  "traits": [
+    {
+      "claim": "稳定、重复、无失业风险，但晋升和涨薪空间有限，35岁后容易觉得人生没有盼头。",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 147,
+          "url": "https://www.douyin.com/video/7622336491993320756"
+        },
+        {
+          "index": 184,
+          "url": "https://www.douyin.com/video/7596671206527438086"
+        }
+      ]
+    },
+    {
+      "claim": "压抑、虚无、内耗严重，容易纠结无用之事，家庭和单位中的真实体验都差。",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 184,
+          "url": "https://www.douyin.com/video/7596671206527438086"
+        }
+      ]
+    },
+    {
+      "claim": "保守内敛，不敢放纵；向往刺激、新鲜感，却缺少接触和行动的勇气。",
+      "kind": "矛盾",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 199,
+          "url": "https://www.douyin.com/video/7586683557188242703"
+        }
+      ]
+    },
+    {
+      "claim": "欲望：羡慕好大哥、小黄毛的潇洒，向往瑜伽裤、年轻异性，但常被写成只能暗中压抑。",
+      "kind": "欲望",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 199,
+          "url": "https://www.douyin.com/video/7586683557188242703"
+        },
+        {
+          "index": 184,
+          "url": "https://www.douyin.com/video/7596671206527438086"
+        }
+      ]
+    },
+    {
+      "claim": "恐惧与动机：害怕没有奔头、害怕被压抑到扭曲，因此需要极致爱好来分散精力和注意力。",
+      "kind": "动机",
+      "certainty": "文本推断",
+      "evidence": [
+        {
+          "index": 147,
+          "url": "https://www.douyin.com/video/7622336491993320756"
+        }
+      ]
+    },
+    {
+      "claim": "矛盾：外界认为他们风光、有钱、稳定；文本又说他们死工资、压抑、家庭地位低。",
+      "kind": "矛盾",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 585,
+          "url": "https://www.douyin.com/video/7099766213445700871"
+        },
+        {
+          "index": 572,
+          "url": "https://www.douyin.com/video/7138784739695086879"
+        },
+        {
+          "index": 184,
+          "url": "https://www.douyin.com/video/7596671206527438086"
+        }
+      ]
+    },
+    {
+      "claim": "有编制、职业和收入稳定，生活规律重复，工资多被写成几千元。",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "考编上岸被描述为人生最高光时刻，此后在事业上多走下坡路。",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "多数头衔含金量低，实际话语权有限，被讽刺为约等于遥控器电池管理员。",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "羡慕好大哥、小黄毛的潇洒，向往瑜伽裤、年轻异性，但常被写成只能暗中压抑。",
+      "kind": "欲望",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "害怕没有奔头、害怕被压抑到扭曲，因此需要极致爱好来分散精力和注意力。",
+      "kind": "动机",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "外界认为他们风光、有钱、稳定，甚至“编制等于自带百万存款”；文本又说他们拿死工资、压抑、家庭地位低。",
+      "kind": "矛盾",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "编制在相亲市场压倒一切、有编大杀四方；同时他们因平淡、保守、缺刺激被瑜伽裤视作乏味，可能被当接盘侠。",
+      "kind": "矛盾",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "文本既建议他们发展健身、钓鱼、摄影等极致爱好，又说爱好被限制、钱被管住后会压抑扭曲成“老骚包”。",
+      "kind": "矛盾",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "编制内并非一类：文本至少分出刚上岸的躺编00后、县城编二代等层次，其地位甚至不如躺平00后。",
+      "kind": "矛盾",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "羡慕好大哥和小黄毛的潇洒",
+      "kind": "欲望",
+      "certainty": "文本推断",
+      "evidence": [
+        {
+          "index": 199,
+          "url": "https://www.douyin.com/video/7586683557188242703"
+        }
+      ]
+    }
+  ],
+  "life_domains": [
+    {
+      "domain": "职业",
+      "claim": "工作稳定但晋升空间小；40岁前在单位常处下位，需要讨好上级、干活背锅。",
+      "evidence": [
+        {
+          "index": 184,
+          "url": "https://www.douyin.com/video/7596671206527438086"
+        },
+        {
+          "index": 147,
+          "url": "https://www.douyin.com/video/7622336491993320756"
+        }
+      ]
+    },
+    {
+      "domain": "家庭",
+      "claim": "婚后真实幸福指数差，家庭地位低；妻子多也体制内，不畏惧他，孩子、父母、老丈人却从这份编制中得益。",
+      "evidence": [
+        {
+          "index": 184,
+          "url": "https://www.douyin.com/video/7596671206527438086"
+        }
+      ]
+    },
+    {
+      "domain": "金钱",
+      "claim": "拿死工资，收入不高；但外界常不相信真实收入，以为有福利和灰色收入。",
+      "evidence": [
+        {
+          "index": 572,
+          "url": "https://www.douyin.com/video/7138784739695086879"
+        },
+        {
+          "index": 585,
+          "url": "https://www.douyin.com/video/7099766213445700871"
+        }
+      ]
+    },
+    {
+      "domain": "婚恋",
+      "claim": "在相亲市场有编制是硬通货；但文本也写他们因平淡、缺刺激而被瑜伽裤视作乏味，可能被当接盘侠。",
+      "evidence": [
+        {
+          "index": 199,
+          "url": "https://www.douyin.com/video/7586683557188242703"
+        }
+      ]
+    },
+    {
+      "domain": "社交/人情",
+      "claim": "小县城亲戚人情消耗大，亲戚大小事都找他打听、解释；编内酒局饭局也常躲不掉。",
+      "evidence": [
+        {
+          "index": 184,
+          "url": "https://www.douyin.com/video/7596671206527438086"
+        },
+        {
+          "index": 104,
+          "url": "https://www.douyin.com/video/7648106609897426191"
+        }
+      ]
+    },
+    {
+      "domain": "消费/面子",
+      "claim": "编制带来社会地位和面子，家长择婿、相亲、父母炫耀都看重编制；外界也常高估其经济实力。",
+      "evidence": [
+        {
+          "index": 543,
+          "url": "https://www.douyin.com/video/7211339416944659749"
+        },
+        {
+          "index": 585,
+          "url": "https://www.douyin.com/video/7099766213445700871"
+        },
+        {
+          "index": 572,
+          "url": "https://www.douyin.com/video/7138784739695086879"
+        }
+      ]
+    },
+    {
+      "domain": "权力",
+      "claim": "多数头衔含金量低，实际话语权有限，被讽刺为约等于遥控器电池管理员。",
+      "evidence": [
+        {
+          "index": 184,
+          "url": "https://www.douyin.com/video/7596671206527438086"
+        },
+        {
+          "index": 417,
+          "url": "https://www.douyin.com/video/7311348095764204836"
+        }
+      ]
+    },
+    {
+      "domain": "爱好",
+      "claim": "文本建议其发展健身、钓鱼、摄影等长期爱好来分散精力；被限制后可能转为老骚包化。",
+      "evidence": [
+        {
+          "index": 147,
+          "url": "https://www.douyin.com/video/7622336491993320756"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "event_id": "E001",
+      "title": "考编上岸",
+      "description": "文本称县城体制内男性最高光的时刻就是考编上岸；此后事业上多被描述为下坡路。",
+      "temporal": "原文明确时间：考编上岸的时候",
+      "chronology_basis": "明示",
+      "evidence": [
+        {
+          "index": 184,
+          "url": "https://www.douyin.com/video/7596671206527438086"
+        }
+      ]
+    },
+    {
+      "event_id": "E002",
+      "title": "在县城相亲市场因编制占优",
+      "description": "编制在县城相亲评价中压倒一切，有编大杀四方，没编被pass；女方家庭也常把编制视为稳定和面子。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 199,
+          "url": "https://www.douyin.com/video/7586683557188242703"
+        },
+        {
+          "index": 585,
+          "url": "https://www.douyin.com/video/7099766213445700871"
+        },
+        {
+          "index": 543,
+          "url": "https://www.douyin.com/video/7211339416944659749"
+        }
+      ]
+    },
+    {
+      "event_id": "E003",
+      "title": "婚后幸福指数被写成很差",
+      "description": "婚后事业无望、经济无大变化、家庭关系稳定但内心压抑；家庭地位低，妻子不畏惧他。",
+      "temporal": "原文明确时间：婚后",
+      "chronology_basis": "明示",
+      "evidence": [
+        {
+          "index": 184,
+          "url": "https://www.douyin.com/video/7596671206527438086"
+        }
+      ]
+    },
+    {
+      "event_id": "E004",
+      "title": "35岁后的人生局限感",
+      "description": "文本称人一旦活到35岁会重新理解人生；县城体制内男性职业收入稳定、生活重复，容易觉得这辈子就这么回事。",
+      "temporal": "原文明确时间：35岁",
+      "chronology_basis": "明示",
+      "evidence": [
+        {
+          "index": 147,
+          "url": "https://www.douyin.com/video/7622336491993320756"
+        }
+      ]
+    },
+    {
+      "event_id": "E005",
+      "title": "发展长期极致爱好",
+      "description": "文本建议体制内中年男性发展健身、跑步、写作、骑行、钓鱼、摄影等长期爱好，以分散精力、维持奔头。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 147,
+          "url": "https://www.douyin.com/video/7622336491993320756"
+        }
+      ]
+    },
+    {
+      "event_id": "E006",
+      "title": "爱好被限制后压抑扭曲",
+      "description": "若妻子限制其爱好并管住钱，其精力无处释放，文本称可能沾染不良习气，甚至压抑扭曲成县城老骚包。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 147,
+          "url": "https://www.douyin.com/video/7622336491993320756"
+        }
+      ]
+    },
+    {
+      "event_id": "E007",
+      "title": "单位中的下位者状态",
+      "description": "40岁前晋升机会少，常讨好上级、多干活、多背锅，地位甚至不如躺平00后。",
+      "temporal": "原文明确时间：至少40岁之前",
+      "chronology_basis": "明示",
+      "evidence": [
+        {
+          "index": 184,
+          "url": "https://www.douyin.com/video/7596671206527438086"
+        }
+      ]
+    },
+    {
+      "event_id": "E008",
+      "title": "家庭中被妻子审视和嫌弃",
+      "description": "妻子最了解其真实水平，因多也体制内而不需要讨好他；嫌弃其收入、形象、不洗澡等，他不敢轻易反驳。",
+      "temporal": "婚后，顺序不明",
+      "chronology_basis": "明示",
+      "evidence": [
+        {
+          "index": 184,
+          "url": "https://www.douyin.com/video/7596671206527438086"
+        }
+      ]
+    },
+    {
+      "event_id": "E009",
+      "title": "被亲戚人情事务消耗",
+      "description": "小县城沾亲带故，亲戚三轮车被扣、买肉臭了、打架撕坏羽绒服等都来找他打听、解释。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 184,
+          "url": "https://www.douyin.com/video/7596671206527438086"
+        }
+      ]
+    },
+    {
+      "event_id": "E010",
+      "title": "婚恋中向往刺激却不敢放纵",
+      "description": "相亲对象多是银行、医院、学校、办事大厅等正式穿着者；他看到瑜伽裤、小jk等会心动，但被写为保守、不敢搭讪和放纵。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 199,
+          "url": "https://www.douyin.com/video/7586683557188242703"
+        }
+      ]
+    },
+    {
+      "event_id": "E011",
+      "title": "编内酒局饭局身不由己",
+      "description": "文本写到县城编二代/编内人要应付上酒局、长辈饭局、同事团建，酒桌上只看酒能否撑住场面。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 104,
+          "url": "https://www.douyin.com/video/7648106609897426191"
+        }
+      ]
+    },
+    {
+      "event_id": "E012",
+      "title": "真实收入对外说不清",
+      "description": "体制内人说自己真实收入，对方往往不信，认为还有福利、灰色收入；文本称多数只是死工资。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 572,
+          "url": "https://www.douyin.com/video/7138784739695086879"
+        }
+      ]
+    },
+    {
+      "event_id": "E013",
+      "title": "无欲无求的体制内生存法",
+      "description": "文本称体制内最“牛逼”的未必是当官的，而是不想当官、无欲无求、脸皮厚、内心强大的人；这种人谁也拿捏不了。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 417,
+          "url": "https://www.douyin.com/video/7311348095764204836"
+        }
+      ]
+    },
+    {
+      "title": "孩子享受最好教育资源",
+      "desc": "孩子能享受到最好的教育资源，并得到他的陪伴",
+      "time": "未交代",
+      "evidence": [
+        {
+          "index": 184,
+          "url": "https://www.douyin.com/video/7596671206527438086"
+        }
+      ]
+    }
+  ],
+  "storylines": [
+    {
+      "title": "从考编上岸到婚后压抑的县城体制内男性",
+      "event_ids": [
+        "E001",
+        "E002",
+        "E003",
+        "E004",
+        "E007",
+        "E008",
+        "E009",
+        "E010"
+      ],
+      "narrative": "文本把考编上岸写成这类男性最高光的时刻，编制又让其在县城相亲市场大杀四方。但婚后真实幸福指数被写得很差：事业晋升空间小，35岁后觉得人生没有盼头，单位里40岁前处在下位，家庭中妻子不畏惧他甚至嫌弃他，亲戚人情又持续消耗。他向往瑜伽裤、新鲜感和刺激，却保守内敛，不敢搭讪、不敢放纵，于是形成稳定而压抑的一生。",
+      "unresolved": "原文没有给出具体个人的婚龄、是否升职、是否离婚、是否真的越轨等后续。",
+      "evidence": [
+        {
+          "index": 184,
+          "url": "https://www.douyin.com/video/7596671206527438086"
+        },
+        {
+          "index": 199,
+          "url": "https://www.douyin.com/video/7586683557188242703"
+        }
+      ]
+    },
+    {
+      "title": "稳定生活、长期爱好与“老骚包化”的分叉",
+      "event_ids": [
+        "E004",
+        "E005",
+        "E006"
+      ],
+      "narrative": "文本认为县城体制内中年男性事业没有盼头，又无裸辞决心，必须有长期甚至极致的爱好来分散精力。若爱好被限制、钱也被管住，精力无处释放，就可能沾染不良习气，压抑扭曲成“老骚包”。",
+      "unresolved": "原文没有说明这种转化在群体中的比例，也没有给出具体个人结局。",
+      "evidence": [
+        {
+          "index": 147,
+          "url": "https://www.douyin.com/video/7622336491993320756"
+        }
+      ]
+    },
+    {
+      "title": "编制光环与死工资的落差",
+      "event_ids": [
+        "E002",
+        "E012",
+        "E013"
+      ],
+      "narrative": "在县城评价体系里，编制等于社会地位、面子和相亲优势，外界甚至会认为有编的人自带百万存款、有灰色收入。但文本又说多数体制内人拿死工资，收入说不清；另有一类无欲无求者，靠不想当官、脸皮厚来活得潇洒。",
+      "unresolved": "原文没有统一说明不同地区、不同层级编制男性的实际收入和福利。",
+      "evidence": [
+        {
+          "index": 585,
+          "url": "https://www.douyin.com/video/7099766213445700871"
+        },
+        {
+          "index": 572,
+          "url": "https://www.douyin.com/video/7138784739695086879"
+        },
+        {
+          "index": 417,
+          "url": "https://www.douyin.com/video/7311348095764204836"
+        }
+      ]
+    }
+  ],
+  "relationships": [
+    {
+      "target": "妻子",
+      "relation": "夫妻；妻子多也体制内，不需要讨好他，常嫌弃其收入、形象，他不敢轻易反驳；文本还建议妻子支持其长期爱好。",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 184,
+          "url": "https://www.douyin.com/video/7596671206527438086"
+        },
+        {
+          "index": 147,
+          "url": "https://www.douyin.com/video/7622336491993320756"
+        }
+      ]
+    },
+    {
+      "target": "孩子",
+      "relation": "父亲；孩子被写成能享受较好教育资源，并得到其陪伴。",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 184,
+          "url": "https://www.douyin.com/video/7596671206527438086"
+        }
+      ]
+    },
+    {
+      "target": "父母与老丈人",
+      "relation": "子女、女婿；因他在体制内而感觉有靠山。",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 184,
+          "url": "https://www.douyin.com/video/7596671206527438086"
+        }
+      ]
+    },
+    {
+      "target": "亲戚",
+      "relation": "亲戚常找他打听、解释、解决大小事，他从中得不到好处。",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 184,
+          "url": "https://www.douyin.com/video/7596671206527438086"
+        }
+      ]
+    },
+    {
+      "target": "单位领导/上级",
+      "relation": "下属；40岁前晋升机会少，讨好上级、干活背锅，地位甚至不如躺平00后。",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 184,
+          "url": "https://www.douyin.com/video/7596671206527438086"
+        }
+      ]
+    },
+    {
+      "target": "单位年轻女性/小姑娘",
+      "relation": "压抑后的风险对象：若管得太死，部分中年男性会言语聊骚、动手动脚；同时文本又写单位小姑娘稍热情就可能让他被仙人跳。",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 147,
+          "url": "https://www.douyin.com/video/7622336491993320756"
+        },
+        {
+          "index": 184,
+          "url": "https://www.douyin.com/video/7596671206527438086"
+        }
+      ]
+    },
+    {
+      "target": "县城好大哥",
+      "relation": "对照与羡慕对象；文本写体制内男性看到好大哥搂瑜伽裤会后悔老婆娶得早，也羡慕其潇洒。",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 184,
+          "url": "https://www.douyin.com/video/7596671206527438086"
+        },
+        {
+          "index": 199,
+          "url": "https://www.douyin.com/video/7586683557188242703"
+        }
+      ]
+    },
+    {
+      "target": "县城小黄毛",
+      "relation": "对照与羡慕对象；被写成潇洒、敢放纵的另一极。",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 199,
+          "url": "https://www.douyin.com/video/7586683557188242703"
+        }
+      ]
+    },
+    {
+      "target": "县城瑜伽裤",
+      "relation": "欲望和婚恋想象对象；在相亲市场他可能被看重编制，也可能被视为平淡乏味、接盘侠。",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 199,
+          "url": "https://www.douyin.com/video/7586683557188242703"
+        }
+      ]
+    },
+    {
+      "target": "县城老骚包",
+      "relation": "转化关系：爱好被限制、精力无处释放后，文本称压抑扭曲可能变成老骚包。",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 147,
+          "url": "https://www.douyin.com/video/7622336491993320756"
+        }
+      ]
+    },
+    {
+      "target": "县城编二代/躺编00后",
+      "relation": "同属编制内的不同层次或对照角色；文本说其单位地位还不如躺平00后。",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 104,
+          "url": "https://www.douyin.com/video/7648106609897426191"
+        },
+        {
+          "index": 184,
+          "url": "https://www.douyin.com/video/7596671206527438086"
+        }
+      ]
+    },
+    {
+      "claim": "大小事都来找他打听、解释：三轮车被扣、买肉臭了、打架撕坏羽绒服",
+      "target": "二叔、三舅、四姨夫",
+      "relation": "亲戚",
+      "evidence": [
+        {
+          "index": 184,
+          "url": "https://www.douyin.com/video/7596671206527438086"
+        }
+      ]
+    }
+  ],
+  "speech_habits": [
+    {
+      "claim": "社会评价中常以“哪个单位”“有没有编制”来定位人，编制成为身份标签。",
+      "evidence": [
+        {
+          "index": 585,
+          "url": "https://www.douyin.com/video/7099766213445700871"
+        }
+      ]
+    },
+    {
+      "claim": "喜欢摆出体制内做派，讲措辞、复盘别人一句话，甚至cosplay“人民的名义”。",
+      "evidence": [
+        {
+          "index": 115,
+          "url": "https://www.douyin.com/video/7643824127509368127"
+        },
+        {
+          "index": 184,
+          "url": "https://www.douyin.com/video/7596671206527438086"
+        }
+      ]
+    },
+    {
+      "claim": "在编内酒局上吹场面、认牌子，关心酒能否撑住圈子里的面子。",
+      "evidence": [
+        {
+          "index": 104,
+          "url": "https://www.douyin.com/video/7648106609897426191"
+        }
+      ]
+    },
+    {
+      "claim": "对同性年轻人爱用打压、说教口吻，指其眼高手低、太年轻、张扬会栽跟头。",
+      "evidence": [
+        {
+          "index": 147,
+          "url": "https://www.douyin.com/video/7622336491993320756"
+        }
+      ]
+    },
+    {
+      "claim": "谈收入时容易陷入“你不实在”“肯定有灰色收入”的争论。",
+      "evidence": [
+        {
+          "index": 572,
+          "url": "https://www.douyin.com/video/7138784739695086879"
+        }
+      ]
+    }
+  ],
+  "contradictions": [
+    {
+      "issue": "编制男性到底是有钱/自带百万存款，还是多数只拿死工资？",
+      "versions": [
+        {
+          "claim": "外界评价把编制等同于高地位、百万存款、隐性福利。",
+          "evidence": [
+            {
+              "index": 585,
+              "url": "https://www.douyin.com/video/7099766213445700871"
+            },
+            {
+              "index": 572,
+              "url": "https://www.douyin.com/video/7138784739695086879"
+            }
+          ]
+        },
+        {
+          "claim": "文本又称体制内多数拿死工资，收入不高且不被人相信。",
+          "evidence": [
+            {
+              "index": 572,
+              "url": "https://www.douyin.com/video/7138784739695086879"
+            },
+            {
+              "index": 184,
+              "url": "https://www.douyin.com/video/7596671206527438086"
+            }
+          ]
+        }
+      ],
+      "resolution": "保留并列：文本既呈现社会对编制的财富想象，也自述多数体制内男性收入有限；两者不合并。"
+    },
+    {
+      "issue": "编制在婚恋中到底是优势还是劣势？",
+      "versions": [
+        {
+          "claim": "编制在县城相亲市场压倒一切，有编大杀四方，家长也偏爱公务员。",
+          "evidence": [
+            {
+              "index": 199,
+              "url": "https://www.douyin.com/video/7586683557188242703"
+            },
+            {
+              "index": 543,
+              "url": "https://www.douyin.com/video/7211339416944659749"
+            }
+          ]
+        },
+        {
+          "claim": "体制内男性因平淡、保守、缺刺激，被瑜伽裤视为乏味，甚至被当接盘侠。",
+          "evidence": [
+            {
+              "index": 199,
+              "url": "https://www.douyin.com/video/7586683557188242703"
+            }
+          ]
+        }
+      ],
+      "resolution": "保留并列：编制可带来相亲准入和社会认可，但不等于被欲望对象真正青睐。"
+    },
+    {
+      "issue": "体制内生活是稳定风光，还是压抑虚无？",
+      "versions": [
+        {
+          "claim": "社会观感是吃穿不愁、工资稳定、受人尊重、相亲大杀四方。",
+          "evidence": [
+            {
+              "index": 184,
+              "url": "https://www.douyin.com/video/7596671206527438086"
+            },
+            {
+              "index": 585,
+              "url": "https://www.douyin.com/video/7099766213445700871"
+            }
+          ]
+        },
+        {
+          "claim": "婚后真实幸福指数差，家庭地位低，内心压抑，最痛苦。",
+          "evidence": [
+            {
+              "index": 184,
+              "url": "https://www.douyin.com/video/7596671206527438086"
+            }
+          ]
+        }
+      ],
+      "resolution": "保留并列：文本把社会观感与内在体验明确分开。"
+    },
+    {
+      "issue": "他们会被写成发展极致爱好，还是可能变成老骚包？",
+      "versions": [
+        {
+          "claim": "文本建议其发展健身、钓鱼、摄影等极致爱好，以分散精力。",
+          "evidence": [
+            {
+              "index": 147,
+              "url": "https://www.douyin.com/video/7622336491993320756"
+            }
+          ]
+        },
+        {
+          "claim": "若爱好被限制、钱被管住，压抑扭曲后可能变成县城老骚包。",
+          "evidence": [
+            {
+              "index": 147,
+              "url": "https://www.douyin.com/video/7622336491993320756"
+            }
+          ]
+        }
+      ],
+      "resolution": "保留并列：爱好是文本给出的出路，老骚包化是同一压力的另一种后果。"
+    }
+  ],
+  "gaps": [
+    "原文没有给“县城体制内男性”统一的具体年龄、婚龄、地区、职级和收入数字，只有“几千块”“四五千”等模糊表述。",
+    "是否所有体制内男性都有妻子、孩子，是否都经历家庭地位低与亲戚人情消耗，原文未统一说明。",
+    "“编一代”“编二代”“躺编00后”“异地乡镇编衣带”等分层与目标群体的边界未被原文完全统一。",
+    "“李宝库”等只是举例角色，不能作为该复合群像的固定姓名或连续传记对象。",
+    "体制内男性转变成“老骚包”的比例、过程、后果，原文没有数据或具体结局。",
+    "“编一代”“编二代”“躺编00后”“异地乡镇编一代”等分层与目标群体的边界未被原文完全统一。",
+    "原文未交代这类人具体的单位名称、职务级别、所在地区及其实际收入构成。",
+    "原文未说明他们是否真的越轨、离婚、升职或辞职，也未给出任何个人结局。",
+    "“无欲无求”“脸皮厚”的体制内生存法与“压抑内耗”的写法并存，原文未说明二者各占多少。"
+  ],
+  "creative_expansions": [],
+  "source_coverage": [
+    {
+      "index": 147,
+      "role": "集中描述县城体制内中年男性35岁后的压抑、无晋升空间、无裸辞决心、需要发展极致爱好，以及爱好被限制后可能扭曲成老骚包；也写到妻子应支持其爱好。",
+      "url": "https://www.douyin.com/video/7622336491993320756"
+    },
+    {
+      "index": 184,
+      "role": "核心单篇，系统呈现县城体制内男性婚后幸福指数差、事业虚无、家庭地位低、单位下位、人情消耗、外表油腻、欲望压抑和“唯独自己痛苦”。",
+      "url": "https://www.douyin.com/video/7596671206527438086"
+    },
+    {
+      "index": 199,
+      "role": "在县城评价体系中说明编制在相亲市场压倒一切，同时写体制内男性失意于平淡、缺刺激、向往瑜伽裤、羡慕好大哥小黄毛、保守内敛且不敢放纵。",
+      "url": "https://www.douyin.com/video/7586683557188242703"
+    },
+    {
+      "index": 104,
+      "role": "补充编制内分层（躺编00后、编二代）与编内酒局饭局人情，写其躲不掉应酬、在意酒能否撑场面。",
+      "url": "https://www.douyin.com/video/7648106609897426191"
+    },
+    {
+      "index": 332,
+      "role": "补充编制在婚恋评价中的“精神压制”与面子作用，写编制可带来隐藏实力、清正廉洁等想象。",
+      "url": "https://www.douyin.com/video/7437739559913327884"
+    },
+    {
+      "index": 417,
+      "role": "补充体制内另一种生存策略：不当官、无欲无求、脸皮厚、内心强大、不想升职的人反而最难被拿捏。",
+      "url": "https://www.douyin.com/video/7311348095764204836"
+    },
+    {
+      "index": 543,
+      "role": "补充家长择婿偏好公务员、体制内50岁后风光、级别职称和退休金等长期综合性价比。",
+      "url": "https://www.douyin.com/video/7211339416944659749"
+    },
+    {
+      "index": 572,
+      "role": "补充体制内真实收入不被外界相信、多数拿死工资、却因未来确定而敢花钱的消费心态。",
+      "url": "https://www.douyin.com/video/7138784739695086879"
+    },
+    {
+      "index": 578,
+      "role": "补充选择编制被写成选择躺平、向往稳定与早八晚五周末双休的动机。",
+      "url": "https://www.douyin.com/video/7109401165070191909"
+    },
+    {
+      "index": 585,
+      "role": "补充编制社会地位、编制歧视、相亲优势、编制等于百万存款、父母面子和单位福利叙事。",
+      "url": "https://www.douyin.com/video/7099766213445700871"
+    },
+    {
+      "index": 37,
+      "role": "补充编制被视为社会认同、相亲认可、父母高兴和面子共识。",
+      "url": "https://www.douyin.com/video/7686768342103715429"
+    },
+    {
+      "index": 47,
+      "role": "补充县城编制对部分人而言是奢侈选择，意味着放弃物质生活丰富可能性、少年气和风险勇气。",
+      "url": "https://www.douyin.com/video/7682638122002711013"
+    },
+    {
+      "index": 233,
+      "role": "补充编制被理解为给下一代用的长期保障：40岁后、50岁后、退休后仍有稳定收入与子女依靠。",
+      "url": "https://www.douyin.com/video/7565399420146683193"
+    }
+  ]
+}

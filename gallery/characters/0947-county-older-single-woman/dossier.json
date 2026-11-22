@@ -1,0 +1,849 @@
+{
+  "name": "县城大龄剩女",
+  "nature": "复合群像/原型，不是单一自然人。跨多篇文案以“大龄剩女”“县城的大龄剩女”“县城大龄剩女这帮人”称呼或直接论述的县城婚恋群体；篇目间职业、年龄、行为存在差异。编纂说明：以明确出现“大龄剩女”或直接论述该群体的文本为主，不把县城王漫妮、最优解女孩等相邻角色强行合并。",
+  "overview": "县城大龄剩女是文案中反复出现的婚恋群像，被放在县城相亲市场核心矛盾里：县城大龄剩男被说在农村，农村大龄剩女又被县城大龄剩男娶走，最后只剩农村大龄剩男和县城大龄剩女，两个群体难以在相亲市场碰面。多版本并存：一版说她们条件属县城第一梯队、职业集中于女老师、女护士、银行女职工及部分女小布尔乔亚，随时可解决婚姻问题；另一版说她们要求高、表面不卡条件而内心按总分筛选，以熟人婚配为参照把“开保时捷”变成对标要求，再用彩礼、礼物、节日惊喜代偿。年龄增长后不降要求，反把年龄算作沉没成本；35岁后资源减少仍死撑价格，可能砸在手里。社媒夸赞捧杀使部分人自认优质单身女，要求超过可匹配水平后易被骗子或杀猪盘收割。原文未交代具体个体的最终婚育结局。",
+  "identity": [
+    {
+      "claim": "被文案称为县城婚恋市场最突出、最尖锐的问题之一",
+      "evidence": [
+        {
+          "index": 144,
+          "url": "https://www.douyin.com/video/7623454368314002723"
+        }
+      ]
+    },
+    {
+      "claim": "职业群像集中在教师、护士、银行女",
+      "evidence": [
+        {
+          "index": 128,
+          "url": "https://www.douyin.com/video/7634402011164740910"
+        }
+      ]
+    },
+    {
+      "claim": "还包括女老师、女护士、银行女职员和部分女小布尔乔亚",
+      "evidence": [
+        {
+          "index": 144,
+          "url": "https://www.douyin.com/video/7623454368314002723"
+        }
+      ]
+    },
+    {
+      "claim": "条件被说成县城第一梯队",
+      "evidence": [
+        {
+          "index": 144,
+          "url": "https://www.douyin.com/video/7623454368314002723"
+        }
+      ]
+    },
+    {
+      "claim": "年龄上被放在二三十岁未婚、或35岁以上被红娘拒收资料等阶段",
+      "evidence": [
+        {
+          "index": 231,
+          "url": "https://www.douyin.com/video/7566662956328950650"
+        },
+        {
+          "index": 383,
+          "url": "https://www.douyin.com/video/7344689922873249033"
+        }
+      ]
+    }
+  ],
+  "traits": [
+    {
+      "claim": "择偶要求不低，且年龄越大要求越苛刻",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 144,
+          "url": "https://www.douyin.com/video/7623454368314002723"
+        },
+        {
+          "index": 231,
+          "url": "https://www.douyin.com/video/7566662956328950650"
+        }
+      ]
+    },
+    {
+      "claim": "表面门槛低，内心是浮动的高总分",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 144,
+          "url": "https://www.douyin.com/video/7623454368314002723"
+        }
+      ]
+    },
+    {
+      "claim": "以熟人婚配为参照，形成攀比和外卷",
+      "kind": "动机",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 144,
+          "url": "https://www.douyin.com/video/7623454368314002723"
+        }
+      ]
+    },
+    {
+      "claim": "把未达标的物质条件变成对标要求，再用彩礼、礼物、情绪照顾等代偿",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 144,
+          "url": "https://www.douyin.com/video/7623454368314002723"
+        }
+      ]
+    },
+    {
+      "claim": "自我认知偏差：自认优质单身女，而非大龄剩女",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 231,
+          "url": "https://www.douyin.com/video/7566662956328950650"
+        },
+        {
+          "index": 583,
+          "url": "https://www.douyin.com/video/7101261593094278413"
+        }
+      ]
+    },
+    {
+      "claim": "内心深处知道有价无市，却不愿降价抛售，宁可死撑价格",
+      "kind": "矛盾",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 383,
+          "url": "https://www.douyin.com/video/7344689922873249033"
+        }
+      ]
+    },
+    {
+      "claim": "把年龄增长算作沉没成本，要求反而更高",
+      "kind": "动机",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 231,
+          "url": "https://www.douyin.com/video/7566662956328950650"
+        }
+      ]
+    },
+    {
+      "claim": "社交媒体上的夸赞和捧杀会使其失去自我判断",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 231,
+          "url": "https://www.douyin.com/video/7566662956328950650"
+        },
+        {
+          "index": 583,
+          "url": "https://www.douyin.com/video/7101261593094278413"
+        }
+      ]
+    },
+    {
+      "claim": "容易因要求超过自身可匹配水平而遭遇骗子或杀猪盘",
+      "kind": "恐惧",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 523,
+          "url": "https://www.douyin.com/video/7220985330827169081"
+        }
+      ]
+    },
+    {
+      "claim": "把外向、旅行、烘焙、户外、穿搭、瑜伽等当成优势，但这些对结婚不算优势",
+      "kind": "矛盾",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 144,
+          "url": "https://www.douyin.com/video/7623454368314002723"
+        }
+      ]
+    },
+    {
+      "claim": "被现实拷打后可能直接放弃相亲，或在错过最高点后饥不择食",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 231,
+          "url": "https://www.douyin.com/video/7566662956328950650"
+        },
+        {
+          "index": 35,
+          "url": "https://www.douyin.com/video/7687488459165967461"
+        }
+      ]
+    },
+    {
+      "claim": "择偶要求不低，且年龄越大要求越苛刻，相亲开局直接问房、车、彩礼。",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "表面门槛低，嘴上说要求不高，实际按浮动的高总分筛选，达到表面条件不等于被录取。",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "以熟人婚配为参照形成攀比和外卷，一个女老师谈开保时捷对象，两个月内扩散为群体内心设定。",
+      "kind": "动机",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "把未达标的物质条件变成对标要求，再用多要彩礼、买包、节日惊喜等方式代偿。",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "自我认知偏差，自认优质单身女、颜值中上、比同龄人显年轻，而非外界所称大龄剩女。",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "内心深处知道有价无市，却不愿降价抛售，宁可死撑价格等可能出现的高价买者。",
+      "kind": "矛盾",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "把年龄增长算作沉没成本，认为寻觅多年后应得到比25岁对象价格更好的。",
+      "kind": "动机",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "社交媒体上的夸赞和捧杀会使其失去自我判断，逐渐迷失对自己的判断力。",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "择偶标准超过自身可匹配水平，容易被骗子或杀猪盘收割。",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "把外向、旅行、烘焙、户外、穿搭、瑜伽当成优势，但这些对结婚不算优势。",
+      "kind": "矛盾",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "被现实拷打后可能直接放弃相亲；或错过最高点后被反复比较，最后饥不择食选择条件较差者。",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    }
+  ],
+  "life_domains": [
+    {
+      "domain": "婚恋/相亲",
+      "claim": "被放在县城相亲市场核心矛盾中，与农村大龄剩男成为婚恋剩余两端，难以碰面",
+      "evidence": [
+        {
+          "index": 144,
+          "url": "https://www.douyin.com/video/7623454368314002723"
+        },
+        {
+          "index": 383,
+          "url": "https://www.douyin.com/video/7344689922873249033"
+        }
+      ]
+    },
+    {
+      "domain": "职业/阶层",
+      "claim": "职业群像集中于教师、护士、银行女，条件被说成第一梯队",
+      "evidence": [
+        {
+          "index": 128,
+          "url": "https://www.douyin.com/video/7634402011164740910"
+        },
+        {
+          "index": 144,
+          "url": "https://www.douyin.com/video/7623454368314002723"
+        }
+      ]
+    },
+    {
+      "domain": "社交/攀比",
+      "claim": "熟人社会中的同事、闺蜜、群体消息会迅速抬高择偶参照",
+      "evidence": [
+        {
+          "index": 144,
+          "url": "https://www.douyin.com/video/7623454368314002723"
+        },
+        {
+          "index": 231,
+          "url": "https://www.douyin.com/video/7566662956328950650"
+        }
+      ]
+    },
+    {
+      "domain": "金钱/消费与代偿",
+      "claim": "物质要求以车房彩礼、礼物、节日惊喜等形式出现，未达标则扣分或后补",
+      "evidence": [
+        {
+          "index": 231,
+          "url": "https://www.douyin.com/video/7566662956328950650"
+        },
+        {
+          "index": 144,
+          "url": "https://www.douyin.com/video/7623454368314002723"
+        }
+      ]
+    },
+    {
+      "domain": "心理/自我认知",
+      "claim": "被夸赞后自认中上、显年轻、优质，逐渐失去判断力",
+      "evidence": [
+        {
+          "index": 231,
+          "url": "https://www.douyin.com/video/7566662956328950650"
+        },
+        {
+          "index": 583,
+          "url": "https://www.douyin.com/video/7101261593094278413"
+        }
+      ]
+    },
+    {
+      "domain": "诈骗/风险",
+      "claim": "择偶期待超过自身匹配水平，容易被骗子精准收割",
+      "evidence": [
+        {
+          "index": 523,
+          "url": "https://www.douyin.com/video/7220985330827169081"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "event_id": "E001",
+      "title": "县城大龄剩女与农村大龄剩男成为剩余两端",
+      "description": "文案称县城大龄剩男娶走农村大龄剩女后，只剩农村大龄剩男和县城大龄剩女，而这两个群体在相亲市场没有机会碰面。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 144,
+          "url": "https://www.douyin.com/video/7623454368314002723"
+        }
+      ]
+    },
+    {
+      "event_id": "E002",
+      "title": "保时捷对标要求在熟人圈扩散",
+      "description": "一个女老师谈开保时捷对象后，消息很快传遍县城未婚女老师及类似条件女公务员、女事业编、银行女职工，找对象内心设定都变成得开保时捷。",
+      "temporal": "原文明确：不出一个月、不出两个月",
+      "chronology_basis": "明示",
+      "evidence": [
+        {
+          "index": 144,
+          "url": "https://www.douyin.com/video/7623454368314002723"
+        }
+      ]
+    },
+    {
+      "event_id": "E003",
+      "title": "表面不卡条件，实际按总分筛选",
+      "description": "文案称她们表面上不卡编制、父母退休、学历等条件，但达到条件不等于被录取，内心另有总分要求。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 144,
+          "url": "https://www.douyin.com/video/7623454368314002723"
+        }
+      ]
+    },
+    {
+      "event_id": "E004",
+      "title": "年龄增长后要求更苛刻，35岁后资源减少并放弃相亲",
+      "description": "年龄增长被算作沉没成本，25岁、35岁被拿来做比较，要求更苛刻；35岁开外介绍减少、社交媒体只剩较差对象，最后可能直接放弃相亲。",
+      "temporal": "原文明确年龄阶段：25、35岁",
+      "chronology_basis": "明示",
+      "evidence": [
+        {
+          "index": 231,
+          "url": "https://www.douyin.com/video/7566662956328950650"
+        }
+      ]
+    },
+    {
+      "event_id": "E005",
+      "title": "社交媒体夸赞导致自我定位为优质单身女",
+      "description": "只要女性发足够多照片视频，就会有异性搭讪夸赞；被夸久了会对自己失去概念，把大龄剩女身份理解成优质单身女。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 130,
+          "url": "https://www.douyin.com/video/7632948253264284955"
+        },
+        {
+          "index": 231,
+          "url": "https://www.douyin.com/video/7566662956328950650"
+        }
+      ]
+    },
+    {
+      "event_id": "E006",
+      "title": "知道有价无市仍死撑价格，最后可能砸手里",
+      "description": "文案认为大多数大龄剩女知道有价无市，但不降价抛售，而是死撑价格等高价买者，最终可能像农村大龄剩男一样砸在手里。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 383,
+          "url": "https://www.douyin.com/video/7344689922873249033"
+        }
+      ]
+    },
+    {
+      "event_id": "E007",
+      "title": "被骗子或杀猪盘收割",
+      "description": "由于对另一半标准远高于自身可匹配水平，文案称只有骗子才能满足其择偶要求，因而容易被杀猪盘收割。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 523,
+          "url": "https://www.douyin.com/video/7220985330827169081"
+        }
+      ]
+    },
+    {
+      "event_id": "E008",
+      "title": "教师、护士、银行女成为职业重灾区",
+      "description": "文案称县城70%以上大龄剩女来自教师、护士、银行女，这三类职业分别对应自我认知失准、性格缺陷、异性资源匮乏等问题。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 128,
+          "url": "https://www.douyin.com/video/7634402011164740910"
+        }
+      ]
+    },
+    {
+      "event_id": "E009",
+      "title": "女老师错过最高点后可能饥不择食",
+      "description": "女老师在比较和年龄压力下错过最高点，最后不再比较而急于摆脱单身困境，可能饥不择食选择条件比较差的人。",
+      "temporal": "原文明确：错过最高点后、最后",
+      "chronology_basis": "明示",
+      "evidence": [
+        {
+          "index": 35,
+          "url": "https://www.douyin.com/video/7687488459165967461"
+        }
+      ]
+    }
+  ],
+  "storylines": [
+    {
+      "title": "高预期与攀比把县城大龄剩女留在相亲市场",
+      "event_ids": [
+        "E001",
+        "E002",
+        "E003",
+        "E008"
+      ],
+      "narrative": "县城相亲市场里，大龄剩女被说成突出问题；农村大龄剩男和县城大龄剩女成为难以碰面的两端。她们条件多在第一梯队，但熟人社会的攀比会把某个人的婚配结果变成群体参照，例如开保时捷。表面说不卡条件，实际按综合总分筛选；职业又集中在教师、护士、银行女，使自我认知、性格和异性资源问题叠加。冲突是：条件不差，却因期望和参照过高而难以录取眼前对象。原文没有交代她们最终是否结婚。",
+      "unresolved": "具体个体最终是否结婚、是否降低要求、婚后结果如何，原文未交代。",
+      "evidence": [
+        {
+          "index": 144,
+          "url": "https://www.douyin.com/video/7623454368314002723"
+        },
+        {
+          "index": 128,
+          "url": "https://www.douyin.com/video/7634402011164740910"
+        }
+      ]
+    },
+    {
+      "title": "年龄增长不降价，直至砸手里或遇骗子",
+      "event_ids": [
+        "E004",
+        "E005",
+        "E006",
+        "E007"
+      ],
+      "narrative": "年龄增长后，文案称她们把年龄算作沉没成本，要求不降反升；社交媒体上的夸赞又使其自认优质。35岁后介绍资源和市场评价下降，但她们仍死撑价格等高价买者，可能砸在手里。同时，因为择偶标准超过自身可匹配水平，容易被骗子或杀猪盘收割。冲突是自我定位与婚恋市场反馈不匹配，原文只给出可能结果，没有给出统一结局。",
+      "unresolved": "她们何时、是否意识到现实，是否最终降价或退出婚恋，原文没有统一答案。",
+      "evidence": [
+        {
+          "index": 231,
+          "url": "https://www.douyin.com/video/7566662956328950650"
+        },
+        {
+          "index": 130,
+          "url": "https://www.douyin.com/video/7632948253264284955"
+        },
+        {
+          "index": 383,
+          "url": "https://www.douyin.com/video/7344689922873249033"
+        },
+        {
+          "index": 523,
+          "url": "https://www.douyin.com/video/7220985330827169081"
+        }
+      ]
+    },
+    {
+      "title": "职业重灾区与女老师的错过路径",
+      "event_ids": [
+        "E008",
+        "E009"
+      ],
+      "narrative": "教师、护士、银行女被列为大龄剩女主要来源。女老师处在比较密切的学校圈层中，容易以同事婚配为参照；一旦错过最高点，被反复比较下去，最后可能急于摆脱单身而饥不择食。冲突在于职业体面与婚恋选择空间、性格变化之间的拉扯。",
+      "unresolved": "各职业具体人数、个体经历和最终选择，原文未展开。",
+      "evidence": [
+        {
+          "index": 128,
+          "url": "https://www.douyin.com/video/7634402011164740910"
+        },
+        {
+          "index": 35,
+          "url": "https://www.douyin.com/video/7687488459165967461"
+        }
+      ]
+    }
+  ],
+  "relationships": [
+    {
+      "target": "农村大龄剩男",
+      "relation": "婚恋市场剩余两端，文案称双方难以在相亲市场碰面",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 144,
+          "url": "https://www.douyin.com/video/7623454368314002723"
+        }
+      ]
+    },
+    {
+      "target": "县城女老师、女护士、银行女职工",
+      "relation": "县城大龄剩女的主要职业构成和重灾区",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 128,
+          "url": "https://www.douyin.com/video/7634402011164740910"
+        }
+      ]
+    },
+    {
+      "target": "县城小布尔乔亚",
+      "relation": "文案称县城大龄剩女看不上县城小布尔乔亚",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 144,
+          "url": "https://www.douyin.com/video/7623454368314002723"
+        }
+      ]
+    },
+    {
+      "target": "开保时捷的男性/保时捷对象",
+      "relation": "被熟人婚配抬高成对标要求",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 144,
+          "url": "https://www.douyin.com/video/7623454368314002723"
+        }
+      ]
+    },
+    {
+      "target": "社交媒体上的夸赞者、老登、舔狗",
+      "relation": "制造被追求和被夸赞的幻觉，使自我认知失准",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 130,
+          "url": "https://www.douyin.com/video/7632948253264284955"
+        },
+        {
+          "index": 231,
+          "url": "https://www.douyin.com/video/7566662956328950650"
+        }
+      ]
+    },
+    {
+      "target": "杀猪盘/骗子",
+      "relation": "文案称只有骗子才能满足其择偶要求",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 523,
+          "url": "https://www.douyin.com/video/7220985330827169081"
+        }
+      ]
+    },
+    {
+      "target": "红娘/媒人",
+      "relation": "35岁以上可能被红娘拒收资料",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 383,
+          "url": "https://www.douyin.com/video/7344689922873249033"
+        }
+      ]
+    },
+    {
+      "target": "县城王漫妮",
+      "relation": "相邻/交叉称呼：篇目标题以县城王漫妮为题，正文称县城大龄剩女多来自三类职业",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 128,
+          "url": "https://www.douyin.com/video/7634402011164740910"
+        }
+      ]
+    },
+    {
+      "target": "闺蜜/周围已婚同龄人",
+      "relation": "闺蜜结婚带来危机感和比较压力",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 231,
+          "url": "https://www.douyin.com/video/7566662956328950650"
+        }
+      ]
+    }
+  ],
+  "speech_habits": [
+    {
+      "claim": "口头强调自己要求不高",
+      "evidence": [
+        {
+          "index": 144,
+          "url": "https://www.douyin.com/video/7623454368314002723"
+        }
+      ]
+    },
+    {
+      "claim": "相亲时直接问房、车、彩礼等条件",
+      "evidence": [
+        {
+          "index": 231,
+          "url": "https://www.douyin.com/video/7566662956328950650"
+        }
+      ]
+    },
+    {
+      "claim": "用熟人婚配结果作为对标说法",
+      "evidence": [
+        {
+          "index": 144,
+          "url": "https://www.douyin.com/video/7623454368314002723"
+        }
+      ]
+    },
+    {
+      "claim": "用外向、旅行、烘焙、户外、穿搭、瑜伽等包装自身优势",
+      "evidence": [
+        {
+          "index": 144,
+          "url": "https://www.douyin.com/video/7623454368314002723"
+        }
+      ]
+    },
+    {
+      "claim": "强调自己显年轻、颜值中上",
+      "evidence": [
+        {
+          "index": 231,
+          "url": "https://www.douyin.com/video/7566662956328950650"
+        },
+        {
+          "index": 583,
+          "url": "https://www.douyin.com/video/7101261593094278413"
+        }
+      ]
+    },
+    {
+      "claim": "最后可能不降要求，直接放弃相亲",
+      "evidence": [
+        {
+          "index": 231,
+          "url": "https://www.douyin.com/video/7566662956328950650"
+        }
+      ]
+    }
+  ],
+  "contradictions": [
+    {
+      "issue": "口头要求低与内心高总分",
+      "versions": [
+        {
+          "claim": "她们嘴上说自己要求不高",
+          "evidence": [
+            {
+              "index": 144,
+              "url": "https://www.douyin.com/video/7623454368314002723"
+            }
+          ]
+        },
+        {
+          "claim": "实际达到表面条件不等于录取，内心另有总分要求",
+          "evidence": [
+            {
+              "index": 144,
+              "url": "https://www.douyin.com/video/7623454368314002723"
+            }
+          ]
+        }
+      ],
+      "resolution": "原文并列呈现：口头门槛低和实际综合筛选高同时存在，按出处并列呈现。"
+    },
+    {
+      "issue": "条件第一梯队与找不到心仪对象",
+      "versions": [
+        {
+          "claim": "条件是县城第一梯队",
+          "evidence": [
+            {
+              "index": 144,
+              "url": "https://www.douyin.com/video/7623454368314002723"
+            }
+          ]
+        },
+        {
+          "claim": "价值观和期望值决定她们找不到心仪的另一半",
+          "evidence": [
+            {
+              "index": 144,
+              "url": "https://www.douyin.com/video/7623454368314002723"
+            }
+          ]
+        }
+      ],
+      "resolution": "保留并列：客观条件与主观期望、市场反馈之间存在矛盾。"
+    },
+    {
+      "issue": "知道有价无市与死撑价格",
+      "versions": [
+        {
+          "claim": "大多数知道自己有价无市",
+          "evidence": [
+            {
+              "index": 383,
+              "url": "https://www.douyin.com/video/7344689922873249033"
+            }
+          ]
+        },
+        {
+          "claim": "仍死撑价格等高价买者，可能砸手里",
+          "evidence": [
+            {
+              "index": 383,
+              "url": "https://www.douyin.com/video/7344689922873249033"
+            }
+          ]
+        }
+      ],
+      "resolution": "原文呈现为认知与行为的矛盾，不擅自判定她们最终会否妥协。"
+    },
+    {
+      "issue": "自认优质单身女与被称为大龄剩女",
+      "versions": [
+        {
+          "claim": "她觉得自己是优质单身女",
+          "evidence": [
+            {
+              "index": 231,
+              "url": "https://www.douyin.com/video/7566662956328950650"
+            }
+          ]
+        },
+        {
+          "claim": "被外界归为大龄剩女且要求苛刻",
+          "evidence": [
+            {
+              "index": 231,
+              "url": "https://www.douyin.com/video/7566662956328950650"
+            }
+          ]
+        }
+      ],
+      "resolution": "不同视角并存：自我评价与外部评价不一致。"
+    }
+  ],
+  "gaps": [
+    "原文没有给出县城大龄剩女的具体人数、年龄分布、婚史、收入、存款和家庭背景。",
+    "原文没有统一交代她们最终是否结婚、是否降低要求、是否后悔、是否生育。",
+    "原文没有明确县城大龄剩女与县城王漫妮、最优解女孩等相邻角色之间的身份边界。",
+    "各职业重灾区中教师、护士、银行女的具体个体经历和结果，原文多为类型化描述。"
+  ],
+  "creative_expansions": [],
+  "source_coverage": [
+    {
+      "index": 144,
+      "role": "核心篇：界定县城大龄剩女问题、职业构成、条件第一梯队、攀比、保时捷对标、口头要求与总分筛选。",
+      "url": "https://www.douyin.com/video/7623454368314002723"
+    },
+    {
+      "index": 128,
+      "role": "补充职业重灾区：70%以上来自教师、护士、银行女，三类职业对应三类问题。",
+      "url": "https://www.douyin.com/video/7634402011164740910"
+    },
+    {
+      "index": 231,
+      "role": "补充年龄增长后要求更苛刻、社媒夸赞捧杀、优质单身女自认、35岁后放弃相亲。",
+      "url": "https://www.douyin.com/video/7566662956328950650"
+    },
+    {
+      "index": 383,
+      "role": "补充有价无市、死撑价格、砸在手里、红娘拒收资料。",
+      "url": "https://www.douyin.com/video/7344689922873249033"
+    },
+    {
+      "index": 419,
+      "role": "补充择偶误区：要求对方方方面面优于自己、短板对长板、最终反问为什么要找她。",
+      "url": "https://www.douyin.com/video/7308391967673683254"
+    },
+    {
+      "index": 523,
+      "role": "补充杀猪盘逻辑：只有骗子才能满足择偶要求。",
+      "url": "https://www.douyin.com/video/7220985330827169081"
+    },
+    {
+      "index": 35,
+      "role": "补充女老师路径：错过最高点、被比较下去、最后饥不择食选择条件比较差。",
+      "url": "https://www.douyin.com/video/7687488459165967461"
+    },
+    {
+      "index": 541,
+      "role": "补充捧杀与自我认知失准：多数女生自认颜值中上、显年轻、失去判断力。",
+      "url": "https://www.douyin.com/video/7211907355292749093"
+    }
+  ]
+}

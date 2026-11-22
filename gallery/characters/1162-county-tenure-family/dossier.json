@@ -1,0 +1,1371 @@
+{
+  "name": "县城编制家庭",
+  "nature": "复合群像/原型。由多篇文案中父母带编、子女考编或带编、婚配看含编率、代际扶持等家庭片段拼合，不是单一自然人，也没有连续传记。它既被写成父母有编的“体制世家”、含编率100%的婚配顶层，也被写成替子女梭哈车房彩礼的后援团，以及把子女管到发型衣着、使编二代压抑的一代。",
+  "overview": "县城编制家庭不是某一户人家，而是多篇文案拼出的家庭类型：父母带编，子女被期待考编或已入编，相亲按家庭含编率排序，父母省吃俭用把积蓄梭哈在子女的房车彩礼上。它同时是体制世家、婚配市场顶层、编二代的后援团与代际工程的执行者。版本并不统一：有时被写成“不算大富大贵但绝对体面”，父母月月进账、车房全款、以单位名称换面子；有时被写成一年全算七八万、年轻最缺钱时拿不出钱的清贫者；有时被写成管到发型衣着、让编二代压抑的家长。子女一侧同样两版并存：过得比同龄人爽，与内心从未释放。原文没有统一评价，不能拼成一户人家的连续传记。\n\n【合并说明】892 县城全员带编家庭：复合群像/原型，不是单一自然人；核心定义出自#145，另有#126、#286、#305、#415等同类描述补充。其身份由家庭成员的编制状态、编制类别与单位名称共同界定，并处在县城相亲评价体系顶层；各文本是否指向同一户具体家庭，原文未确认。",
+  "identity": [
+    {
+      "claim": "父母通常都有编制，家庭含编率高，构成“体制世家”或“编二代”家庭",
+      "evidence": [
+        {
+          "index": 305,
+          "url": "https://www.douyin.com/video/7482393384854883641"
+        },
+        {
+          "index": 454,
+          "url": "https://www.douyin.com/video/7286132924796144950"
+        },
+        {
+          "index": 145,
+          "url": "https://www.douyin.com/video/7623070673635691791"
+        }
+      ]
+    },
+    {
+      "claim": "子女多被期待考编，或正在考编、已入编，家庭支持其全职备考",
+      "evidence": [
+        {
+          "index": 575,
+          "url": "https://www.douyin.com/video/7117953200484830500"
+        },
+        {
+          "index": 454,
+          "url": "https://www.douyin.com/video/7286132924796144950"
+        },
+        {
+          "index": 305,
+          "url": "https://www.douyin.com/video/7482393384854883641"
+        }
+      ]
+    },
+    {
+      "claim": "主要存在于县城/山东县城语境，是地方评价体系中的家庭单位",
+      "evidence": [
+        {
+          "index": 585,
+          "url": "https://www.douyin.com/video/7099766213445700871"
+        },
+        {
+          "index": 573,
+          "url": "https://www.douyin.com/video/7126095188300270861"
+        },
+        {
+          "index": 415,
+          "url": "https://www.douyin.com/video/7312837773948390668"
+        }
+      ]
+    },
+    {
+      "claim": "家庭有稳定收入和代际资产，能提供车房、彩礼等扶持",
+      "evidence": [
+        {
+          "index": 573,
+          "url": "https://www.douyin.com/video/7126095188300270861"
+        },
+        {
+          "index": 286,
+          "url": "https://www.douyin.com/video/7503950426107088165"
+        },
+        {
+          "index": 183,
+          "url": "https://www.douyin.com/video/7597102590869949702"
+        }
+      ]
+    },
+    {
+      "claim": "在婚配市场中以编制、含编率作为门槛，体制内外、编一代编二代存在分层",
+      "evidence": [
+        {
+          "index": 145,
+          "url": "https://www.douyin.com/video/7623070673635691791"
+        },
+        {
+          "index": 305,
+          "url": "https://www.douyin.com/video/7482393384854883641"
+        },
+        {
+          "index": 415,
+          "url": "https://www.douyin.com/video/7312837773948390668"
+        }
+      ]
+    }
+  ],
+  "traits": [
+    {
+      "claim": "把编制视为家庭资产、信仰和代际工程，而非单纯职业",
+      "kind": "动机",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 37,
+          "url": "https://www.douyin.com/video/7686768342103715429"
+        },
+        {
+          "index": 233,
+          "url": "https://www.douyin.com/video/7565399420146683193"
+        },
+        {
+          "index": 456,
+          "url": "https://www.douyin.com/video/7284484967281790244"
+        }
+      ]
+    },
+    {
+      "claim": "高度重视社会评价、面子和乡里乡亲的认可",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 37,
+          "url": "https://www.douyin.com/video/7686768342103715429"
+        },
+        {
+          "index": 585,
+          "url": "https://www.douyin.com/video/7099766213445700871"
+        },
+        {
+          "index": 573,
+          "url": "https://www.douyin.com/video/7126095188300270861"
+        }
+      ]
+    },
+    {
+      "claim": "追求稳定、抗风险，把编制当作家庭安全底线",
+      "kind": "动机",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 233,
+          "url": "https://www.douyin.com/video/7565399420146683193"
+        },
+        {
+          "index": 47,
+          "url": "https://www.douyin.com/video/7682638122002711013"
+        },
+        {
+          "index": 305,
+          "url": "https://www.douyin.com/video/7482393384854883641"
+        }
+      ]
+    },
+    {
+      "claim": "代际扶持极强，父母为子女入编、结婚、买房车彩礼持续输血",
+      "kind": "行为",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 37,
+          "url": "https://www.douyin.com/video/7686768342103715429"
+        },
+        {
+          "index": 182,
+          "url": "https://www.douyin.com/video/7598559726875593984"
+        },
+        {
+          "index": 171,
+          "url": "https://www.douyin.com/video/7606559660540571557"
+        }
+      ]
+    },
+    {
+      "claim": "重视子女教育和陪伴，体制内工作被认为有时间、有条件辅导孩子",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 37,
+          "url": "https://www.douyin.com/video/7686768342103715429"
+        },
+        {
+          "index": 233,
+          "url": "https://www.douyin.com/video/7565399420146683193"
+        },
+        {
+          "index": 183,
+          "url": "https://www.douyin.com/video/7597102590869949702"
+        }
+      ]
+    },
+    {
+      "claim": "对子女有控制、管束的一面，编二代被写成压抑、依赖父母",
+      "kind": "矛盾",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 105,
+          "url": "https://www.douyin.com/video/7649231017782122737"
+        },
+        {
+          "index": 183,
+          "url": "https://www.douyin.com/video/7597102590869949702"
+        }
+      ]
+    },
+    {
+      "claim": "年轻收入低、年老工资高，钱更多花到孩子和下一代身上",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 37,
+          "url": "https://www.douyin.com/video/7686768342103715429"
+        },
+        {
+          "index": 182,
+          "url": "https://www.douyin.com/video/7598559726875593984"
+        }
+      ]
+    },
+    {
+      "claim": "编制家庭倾向早婚多生，并把孩子继续送进考编路径",
+      "kind": "欲望",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 233,
+          "url": "https://www.douyin.com/video/7565399420146683193"
+        },
+        {
+          "index": 415,
+          "url": "https://www.douyin.com/video/7312837773948390668"
+        },
+        {
+          "index": 411,
+          "url": "https://www.douyin.com/video/7316027577792007451"
+        }
+      ]
+    },
+    {
+      "claim": "高度重视社会评价、面子和乡里乡亲的认可，父母以“我儿子/儿媳妇在什么局”介绍子女",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "倾向早婚多生，并把孩子继续送进考编路径",
+      "kind": "欲望",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "编二代“过得一个比一个爽，因为爹妈这大半辈子全为他奋斗了，一把给他梭哈了”，与“现实接触一下这些人，你会发现他们反而都很压抑”两版并列，原文未统一",
+      "kind": "矛盾",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "编制“一年全算下来无非七八万”“就是你最需要钱的时候，它不给你多少钱”，与编制家庭子女“男的开保时捷卡宴，女的开宝马GT6”“编制等于自带百万存款”两版并列",
+      "kind": "矛盾",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "父母“没事，孩子你考就行，我养你”式供养支持，与“这帮人纯纯是爹妈硬喂出来的胖子”式管束控制两版并列",
+      "kind": "矛盾",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "编制“不是给自己考的，很大程度上就是给下一代考的”，与“一个编制能让爹妈都高兴，能在相亲市场上被认可”的面子功能并列，原文未做取舍",
+      "kind": "矛盾",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "婚配核心筛选标准是家庭含编率，而非收入或存款。（县城全员带编家庭版）",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 145,
+          "url": "https://www.douyin.com/video/7623070673635691791"
+        }
+      ]
+    },
+    {
+      "claim": "在县城共识中，编制带来的地位可以压过更高月收入。（县城全员带编家庭版）",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 145,
+          "url": "https://www.douyin.com/video/7623070673635691791"
+        }
+      ]
+    },
+    {
+      "claim": "多数具体职务的实际权限有限，评价高位不等于实际办事能力强。（县城全员带编家庭版）",
+      "kind": "矛盾",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 145,
+          "url": "https://www.douyin.com/video/7623070673635691791"
+        }
+      ]
+    },
+    {
+      "claim": "欲望是维持编制闭环，只找带编对象，没编一律免谈。（县城全员带编家庭版）",
+      "kind": "欲望",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 305,
+          "url": "https://www.douyin.com/video/7482393384854883641"
+        }
+      ]
+    },
+    {
+      "claim": "动机是代际复制：父母有编，孩子考编，孩子再找带编配偶。（县城全员带编家庭版）",
+      "kind": "动机",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 415,
+          "url": "https://www.douyin.com/video/7312837773948390668"
+        }
+      ]
+    },
+    {
+      "claim": "自我形象是体面、稳定、让人羡慕的县城顶层家庭。（县城全员带编家庭版）",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 415,
+          "url": "https://www.douyin.com/video/7312837773948390668"
+        }
+      ]
+    },
+    {
+      "claim": "恐惧与排斥集中在“没编”上，没编被视为不通婚对象。（县城全员带编家庭版）",
+      "kind": "恐惧",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 305,
+          "url": "https://www.douyin.com/video/7482393384854883641"
+        }
+      ]
+    },
+    {
+      "claim": "县城相亲不先卡收入或存款，关键是看一个家庭的含编率（#145）。（县城全员带编家庭版）",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "含编率100%的家庭被称“傲视群雄”，在评价体系中处最高层（#145）。（县城全员带编家庭版）",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "编制共识带来的地位可压过更高月收入：“你一个月赚2万不一定有他牛”（#145）。（县城全员带编家庭版）",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "同等含编率下继续卡行政编/事业编，单位名称带“局”更受认可（#145）。（县城全员带编家庭版）",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "对“没编”的排斥表现为“没编的和有编的是不通婚的”（#305）。（县城全员带编家庭版）",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "维持编制闭环，只找带编对象，没编一律免谈（#305）。（县城全员带编家庭版）",
+      "kind": "欲望",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "代际复制：父母有编，孩子考编，孩子找带编媳妇，生二胎，两个孩子又准备考编（#415）。（县城全员带编家庭版）",
+      "kind": "动机",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "自我形象是体面、稳定、让人羡慕的县城顶层家庭（#415）。（县城全员带编家庭版）",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "家庭稳定性被描述为叠加父母退休金与代际托举，六口人月入四五万（#286）。（县城全员带编家庭版）",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "评价高位不等于实际权限与收入：体制内95%以上职务被比作空调遥控器电池管理员，一天下来不如卖烤冷面赚得多（#145）。（县城全员带编家庭版）",
+      "kind": "矛盾",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "“相亲不卡收入”与“六口人月入四五万”并存：前者是筛选标准，后者是部分家庭经济图景，原文未统一（#145/#286）。（县城全员带编家庭版）",
+      "kind": "矛盾",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "行政编自认高事业编一头，理由只是理论上失业率更低，原文未证明实际差异（#145）。（县城全员带编家庭版）",
+      "kind": "矛盾",
+      "certainty": "文本推断",
+      "evidence": []
+    }
+  ],
+  "life_domains": [
+    {
+      "domain": "家庭/代际",
+      "claim": "父母有编，子女考编或带编；父母把积蓄、人脉、陪伴投向子女，形成两代人接力",
+      "evidence": [
+        {
+          "index": 37,
+          "url": "https://www.douyin.com/video/7686768342103715429"
+        },
+        {
+          "index": 305,
+          "url": "https://www.douyin.com/video/7482393384854883641"
+        },
+        {
+          "index": 286,
+          "url": "https://www.douyin.com/video/7503950426107088165"
+        }
+      ]
+    },
+    {
+      "domain": "职业/编制",
+      "claim": "体制内工作被赋予稳定性、退休保障和家庭安全功能，工资未必高",
+      "evidence": [
+        {
+          "index": 47,
+          "url": "https://www.douyin.com/video/7682638122002711013"
+        },
+        {
+          "index": 233,
+          "url": "https://www.douyin.com/video/7565399420146683193"
+        },
+        {
+          "index": 456,
+          "url": "https://www.douyin.com/video/7284484967281790244"
+        }
+      ]
+    },
+    {
+      "domain": "婚恋",
+      "claim": "相亲不只看个人收入，更看家庭含编率；编一代、编二代、三编二编一编家庭分层",
+      "evidence": [
+        {
+          "index": 145,
+          "url": "https://www.douyin.com/video/7623070673635691791"
+        },
+        {
+          "index": 119,
+          "url": "https://www.douyin.com/video/7641878629400637669"
+        }
+      ]
+    },
+    {
+      "domain": "社交/面子",
+      "claim": "编制家庭在亲戚、乡邻、婚恋和单位语境中获得认可，父母以子女单位自豪",
+      "evidence": [
+        {
+          "index": 585,
+          "url": "https://www.douyin.com/video/7099766213445700871"
+        },
+        {
+          "index": 573,
+          "url": "https://www.douyin.com/video/7126095188300270861"
+        },
+        {
+          "index": 364,
+          "url": "https://www.douyin.com/video/7379276852789087525"
+        }
+      ]
+    },
+    {
+      "domain": "金钱/消费",
+      "claim": "家庭敢花钱、敢开好车、敢在婚事上梭哈，因为编制提供稳定预期；但长辈对自己节俭",
+      "evidence": [
+        {
+          "index": 573,
+          "url": "https://www.douyin.com/video/7126095188300270861"
+        },
+        {
+          "index": 171,
+          "url": "https://www.douyin.com/video/7606559660540571557"
+        },
+        {
+          "index": 183,
+          "url": "https://www.douyin.com/video/7597102590869949702"
+        }
+      ]
+    },
+    {
+      "domain": "教育",
+      "claim": "编制家庭被认为更有时间陪伴、纠正学习、请家教、全职备考，为下一代卷学历或考编提供条件",
+      "evidence": [
+        {
+          "index": 183,
+          "url": "https://www.douyin.com/video/7597102590869949702"
+        },
+        {
+          "index": 37,
+          "url": "https://www.douyin.com/video/7686768342103715429"
+        },
+        {
+          "index": 286,
+          "url": "https://www.douyin.com/video/7503950426107088165"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "event_id": "E001",
+      "title": "父母期待并推动子女考编",
+      "description": "编制家庭中，父母从小灌输考公务员、考编的观念，把回家考编视为子女最大期待，甚至说考就行、我养你。",
+      "temporal": "顺序不明；各篇独立叙述",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 575,
+          "url": "https://www.douyin.com/video/7117953200484830500"
+        }
+      ]
+    },
+    {
+      "event_id": "E002",
+      "title": "家庭扶持子女全职备考",
+      "description": "大学毕业后，编二代或体制世家子女在家中、书房或付费自习室全职备考，家庭提供吃住、资金和数年时间。",
+      "temporal": "顺序不明；各篇独立叙述",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 454,
+          "url": "https://www.douyin.com/video/7286132924796144950"
+        },
+        {
+          "index": 305,
+          "url": "https://www.douyin.com/video/7482393384854883641"
+        },
+        {
+          "index": 286,
+          "url": "https://www.douyin.com/video/7503950426107088165"
+        }
+      ]
+    },
+    {
+      "event_id": "E003",
+      "title": "子女入编后家庭获得面子和庆祝",
+      "description": "子女考上编制后，父母幸福感增强，亲戚朋友祝贺，家庭在社交中抬得起头，并以单位、岗位作为谈资。",
+      "temporal": "顺序不明；各篇独立叙述",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 585,
+          "url": "https://www.douyin.com/video/7099766213445700871"
+        },
+        {
+          "index": 408,
+          "url": "https://www.douyin.com/video/7318029441685327140"
+        },
+        {
+          "index": 573,
+          "url": "https://www.douyin.com/video/7126095188300270861"
+        }
+      ]
+    },
+    {
+      "event_id": "E004",
+      "title": "父母为子女结婚梭哈车房彩礼",
+      "description": "长辈省吃俭用多年，把积蓄在子女结婚时集中花掉，买车买房、备彩礼，把编二代推到本县同龄人难以企及的物质高度。",
+      "temporal": "顺序不明；各篇独立叙述",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 37,
+          "url": "https://www.douyin.com/video/7686768342103715429"
+        },
+        {
+          "index": 183,
+          "url": "https://www.douyin.com/video/7597102590869949702"
+        },
+        {
+          "index": 182,
+          "url": "https://www.douyin.com/video/7598559726875593984"
+        }
+      ]
+    },
+    {
+      "event_id": "E005",
+      "title": "编制家庭在相亲中看含编率",
+      "description": "县城相亲不只看个人收入，而看家庭含编率；编一代与编二代、全编家庭与单编家庭之间形成分层，体制内外不通婚。",
+      "temporal": "顺序不明；各篇独立叙述",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 145,
+          "url": "https://www.douyin.com/video/7623070673635691791"
+        },
+        {
+          "index": 305,
+          "url": "https://www.douyin.com/video/7482393384854883641"
+        }
+      ]
+    },
+    {
+      "event_id": "E006",
+      "title": "编二代对编二代的婚姻组合",
+      "description": "两个带编家庭结合，工资稳定、不会暴富也不会落难，双方父母积蓄继续砸到小家庭，形成全款车房的开局。",
+      "temporal": "顺序不明；各篇独立叙述",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 119,
+          "url": "https://www.douyin.com/video/7641878629400637669"
+        }
+      ]
+    },
+    {
+      "event_id": "E007",
+      "title": "编制家庭用时间、教育、财力培养下一代",
+      "description": "体制内父母被认为有稳定时间、有财力找家教、能纠正学习，为孩子提供良好成长环境和人生引导。",
+      "temporal": "顺序不明；各篇独立叙述",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 37,
+          "url": "https://www.douyin.com/video/7686768342103715429"
+        },
+        {
+          "index": 183,
+          "url": "https://www.douyin.com/video/7597102590869949702"
+        },
+        {
+          "index": 286,
+          "url": "https://www.douyin.com/video/7503950426107088165"
+        }
+      ]
+    },
+    {
+      "event_id": "E008",
+      "title": "编二代被管束并产生压抑感",
+      "description": "编二代从小被父母管束，物质基础由父辈打好，但文本也写他们压抑、依赖父母、缺少刺激和自主性。",
+      "temporal": "顺序不明；各篇独立叙述",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 105,
+          "url": "https://www.douyin.com/video/7649231017782122737"
+        },
+        {
+          "index": 183,
+          "url": "https://www.douyin.com/video/7597102590869949702"
+        }
+      ]
+    },
+    {
+      "event_id": "E009",
+      "title": "编制家庭子女以车、手机、穿搭展示排面",
+      "description": "带编家庭子女常被写成开BBA、用好手机、穿大牌，生活水平不完全依赖本人工资，而依赖父母扶持。",
+      "temporal": "顺序不明；各篇独立叙述",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 573,
+          "url": "https://www.douyin.com/video/7126095188300270861"
+        },
+        {
+          "index": 286,
+          "url": "https://www.douyin.com/video/7503950426107088165"
+        },
+        {
+          "index": 63,
+          "url": "https://www.douyin.com/video/7672967248591803237"
+        }
+      ]
+    },
+    {
+      "event_id": "E010",
+      "title": "两代人路径：第一代考编，第二代再卷学历或继续考编",
+      "description": "文本把编制家庭看作两代人接力：第一代考编提供稳定环境和陪伴，第二代卷学历拿结果，或继续被安排考编。",
+      "temporal": "顺序不明；各篇独立叙述",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 37,
+          "url": "https://www.douyin.com/video/7686768342103715429"
+        },
+        {
+          "index": 411,
+          "url": "https://www.douyin.com/video/7316027577792007451"
+        }
+      ]
+    },
+    {
+      "event_id": "E011",
+      "title": "编制家庭倾向早婚多生并继续安排下一代",
+      "description": "县城体制内家庭被认为更倾向于早结婚、多生娃，并把子女继续送进考编路径，形成家族编制延续。",
+      "temporal": "顺序不明；各篇独立叙述",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 233,
+          "url": "https://www.douyin.com/video/7565399420146683193"
+        },
+        {
+          "index": 415,
+          "url": "https://www.douyin.com/video/7312837773948390668"
+        }
+      ]
+    },
+    {
+      "event_id": "E012",
+      "title": "老社保式长辈省吃俭用给子女买车买房",
+      "description": "编制家庭长辈对自己节俭，几乎不做大宗消费，唯独给编二代买车买房这一项奢侈品式支出。",
+      "temporal": "顺序不明；各篇独立叙述",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 171,
+          "url": "https://www.douyin.com/video/7606559660540571557"
+        },
+        {
+          "index": 182,
+          "url": "https://www.douyin.com/video/7598559726875593984"
+        }
+      ]
+    },
+    {
+      "event_id": "E013",
+      "title": "没有编制的家庭在评价体系中受轻视",
+      "description": "在山东/县城评价体系里，有编制的工作和临时工被区分，家里没有几个带编的人会被瞧不起。",
+      "temporal": "顺序不明；各篇独立叙述",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 585,
+          "url": "https://www.douyin.com/video/7099766213445700871"
+        },
+        {
+          "index": 364,
+          "url": "https://www.douyin.com/video/7379276852789087525"
+        }
+      ]
+    },
+    {
+      "event_id": "E014",
+      "title": "考编被家庭当成任务和脸面",
+      "description": "父母把子女的结婚和工作当成两大任务，孩子考编图高兴、图脸面，考编成功后家庭社交形象提升。",
+      "temporal": "顺序不明；各篇独立叙述",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 573,
+          "url": "https://www.douyin.com/video/7126095188300270861"
+        },
+        {
+          "index": 454,
+          "url": "https://www.douyin.com/video/7286132924796144950"
+        }
+      ]
+    },
+    {
+      "title": "含编率成为县城相亲顶层指标（县城全员带编家庭版）",
+      "desc": "",
+      "time": "",
+      "evidence": [
+        {
+          "index": 145,
+          "url": "https://www.douyin.com/video/7623070673635691791"
+        }
+      ]
+    },
+    {
+      "title": "同等含编率继续内部分层（县城全员带编家庭版）",
+      "desc": "",
+      "time": "",
+      "evidence": [
+        {
+          "index": 145,
+          "url": "https://www.douyin.com/video/7623070673635691791"
+        }
+      ]
+    },
+    {
+      "title": "婚配排斥链形成（县城全员带编家庭版）",
+      "desc": "",
+      "time": "",
+      "evidence": [
+        {
+          "index": 145,
+          "url": "https://www.douyin.com/video/7623070673635691791"
+        }
+      ]
+    },
+    {
+      "title": "体制世家只找带编对象（县城全员带编家庭版）",
+      "desc": "",
+      "time": "",
+      "evidence": [
+        {
+          "index": 305,
+          "url": "https://www.douyin.com/video/7482393384854883641"
+        }
+      ]
+    },
+    {
+      "title": "编制家庭代际复制图景（县城全员带编家庭版）",
+      "desc": "",
+      "time": "",
+      "evidence": [
+        {
+          "index": 415,
+          "url": "https://www.douyin.com/video/7312837773948390668"
+        }
+      ]
+    },
+    {
+      "title": "六口人收入与退休金叠加（县城全员带编家庭版）",
+      "desc": "",
+      "time": "",
+      "evidence": [
+        {
+          "index": 286,
+          "url": "https://www.douyin.com/video/7503950426107088165"
+        }
+      ]
+    },
+    {
+      "title": "评价高位与实际含金量冲突（县城全员带编家庭版）",
+      "desc": "",
+      "time": "",
+      "evidence": [
+        {
+          "index": 145,
+          "url": "https://www.douyin.com/video/7623070673635691791"
+        }
+      ]
+    }
+  ],
+  "storylines": [
+    {
+      "title": "一条编制家庭的代际接力线",
+      "event_ids": [
+        "E001",
+        "E002",
+        "E003",
+        "E005",
+        "E006",
+        "E010",
+        "E011",
+        "E014"
+      ],
+      "narrative": "父母有编，从小向子女灌输考编；子女大学毕业后回家全职备考；入编后父母在亲戚乡邻面前扬眉吐气，相亲市场上被认可，进而找带编对象；两人生二胎，孩子继续准备考编。与此同时，父母把结婚和工作视为自己的两大任务，考编被当成家庭脸面。文本没有给出某一家人的具体姓名和完整时间表，但这一路径在37、305、415、454、575、585等多篇中被反复叙述。",
+      "unresolved": "没有交代具体家庭成员如何选择、是否每个人都能上岸、若考不上会怎样，也没有统一的时间顺序。",
+      "evidence": [
+        {
+          "index": 575,
+          "url": "https://www.douyin.com/video/7117953200484830500"
+        },
+        {
+          "index": 454,
+          "url": "https://www.douyin.com/video/7286132924796144950"
+        },
+        {
+          "index": 415,
+          "url": "https://www.douyin.com/video/7312837773948390668"
+        },
+        {
+          "index": 37,
+          "url": "https://www.douyin.com/video/7686768342103715429"
+        }
+      ]
+    },
+    {
+      "title": "一条编制家庭的婚配含编率线",
+      "event_ids": [
+        "E005",
+        "E006",
+        "E003",
+        "E011"
+      ],
+      "narrative": "县城相亲被写成不卡收入、卡含编率。体制内外不通婚，编一代和编二代不通婚，三编、两编、一编家庭层次不同，含编率100%的家庭傲视群雄。两个编二代结合后，工资稳定、家庭开局全款车房，双方父母继续提供支撑。这条线体现编制作为婚配门槛和家庭资产。",
+      "unresolved": "原文没有说明非编家庭与编制家庭如何相处、感情因素占多大比重，也没有具体个体的结局。",
+      "evidence": [
+        {
+          "index": 145,
+          "url": "https://www.douyin.com/video/7623070673635691791"
+        },
+        {
+          "index": 119,
+          "url": "https://www.douyin.com/video/7641878629400637669"
+        }
+      ]
+    },
+    {
+      "title": "一条代际梭哈与编二代依赖线",
+      "event_ids": [
+        "E004",
+        "E007",
+        "E008",
+        "E009",
+        "E012"
+      ],
+      "narrative": "编制家庭长辈年轻时工资不高，省吃俭用攒下几十万上百万；等子女结婚时，把积蓄一把梭哈在房子、车子、彩礼上。编二代因此有全款车房、开好车、穿大牌，物质基础由父辈打好；但文本也写他们被父母管束、压抑、依赖父母，缺少自主性和刺激。",
+      "unresolved": "原文没有说明这种代际扶持是否让编二代真正独立，也没有交代父母晚年与子女关系如何。",
+      "evidence": [
+        {
+          "index": 183,
+          "url": "https://www.douyin.com/video/7597102590869949702"
+        },
+        {
+          "index": 105,
+          "url": "https://www.douyin.com/video/7649231017782122737"
+        },
+        {
+          "index": 171,
+          "url": "https://www.douyin.com/video/7606559660540571557"
+        }
+      ]
+    }
+  ],
+  "relationships": [
+    {
+      "target": "县城编二代",
+      "relation": "父母/子女；家庭资源供养、管束与期待对象",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 37,
+          "url": "https://www.douyin.com/video/7686768342103715429"
+        },
+        {
+          "index": 183,
+          "url": "https://www.douyin.com/video/7597102590869949702"
+        }
+      ]
+    },
+    {
+      "target": "正在考编/县城考编者",
+      "relation": "家庭成员；被父母期待、供养、催促考编",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 575,
+          "url": "https://www.douyin.com/video/7117953200484830500"
+        },
+        {
+          "index": 454,
+          "url": "https://www.douyin.com/video/7286132924796144950"
+        }
+      ]
+    },
+    {
+      "target": "县城老社保",
+      "relation": "父母/长辈；攒钱并在子女结婚时梭哈",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 182,
+          "url": "https://www.douyin.com/video/7598559726875593984"
+        },
+        {
+          "index": 171,
+          "url": "https://www.douyin.com/video/7606559660540571557"
+        }
+      ]
+    },
+    {
+      "target": "体制内人员",
+      "relation": "家庭成员/同圈层；以编制构成家庭含编率",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 145,
+          "url": "https://www.douyin.com/video/7623070673635691791"
+        },
+        {
+          "index": 585,
+          "url": "https://www.douyin.com/video/7099766213445700871"
+        }
+      ]
+    },
+    {
+      "target": "带编对象/带编媳妇",
+      "relation": "婚配对象；编制家庭的理想婚姻选择",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 415,
+          "url": "https://www.douyin.com/video/7312837773948390668"
+        },
+        {
+          "index": 305,
+          "url": "https://www.douyin.com/video/7482393384854883641"
+        }
+      ]
+    },
+    {
+      "target": "县城末代少爷",
+      "relation": "婚姻组合中的另一方；带编铁娘子与末代少爷形成婚姻搭配",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 54,
+          "url": "https://www.douyin.com/video/7677265836126499813"
+        }
+      ]
+    },
+    {
+      "text": "县城行政编（县城全员带编家庭版）"
+    },
+    {
+      "text": "县城事业编（县城全员带编家庭版）"
+    },
+    {
+      "text": "编一代（县城全员带编家庭版）"
+    },
+    {
+      "text": "编二代（县城全员带编家庭版）"
+    },
+    {
+      "text": "体制外（县城全员带编家庭版）"
+    },
+    {
+      "text": "县城葱姜蒜（县城全员带编家庭版）"
+    }
+  ],
+  "speech_habits": [
+    {
+      "claim": "长辈常用“哪个单位”“有没有编”来衡量人和家庭",
+      "evidence": [
+        {
+          "index": 585,
+          "url": "https://www.douyin.com/video/7099766213445700871"
+        },
+        {
+          "index": 364,
+          "url": "https://www.douyin.com/video/7379276852789087525"
+        }
+      ]
+    },
+    {
+      "claim": "父母以“我儿子/儿媳妇在什么局”介绍子女，突出单位而不突出工资",
+      "evidence": [
+        {
+          "index": 573,
+          "url": "https://www.douyin.com/video/7126095188300270861"
+        },
+        {
+          "index": 575,
+          "url": "https://www.douyin.com/video/7117953200484830500"
+        }
+      ]
+    },
+    {
+      "claim": "对外谦虚话术是“赚的不多，就是稳定点”",
+      "evidence": [
+        {
+          "index": 585,
+          "url": "https://www.douyin.com/video/7099766213445700871"
+        }
+      ]
+    },
+    {
+      "claim": "劝子女考编时会说“你考就行，我养你”",
+      "evidence": [
+        {
+          "index": 575,
+          "url": "https://www.douyin.com/video/7117953200484830500"
+        }
+      ]
+    },
+    {
+      "claim": "把入编说成得道升仙、骄傲大事",
+      "evidence": [
+        {
+          "index": 454,
+          "url": "https://www.douyin.com/video/7286132924796144950"
+        },
+        {
+          "index": 585,
+          "url": "https://www.douyin.com/video/7099766213445700871"
+        }
+      ]
+    }
+  ],
+  "contradictions": [
+    {
+      "issue": "编二代在编制家庭中到底幸福还是压抑",
+      "versions": [
+        {
+          "claim": "编二代过得爽，父母梭哈车房彩礼，生活高于同龄人",
+          "evidence": [
+            {
+              "index": 37,
+              "url": "https://www.douyin.com/video/7686768342103715429"
+            }
+          ]
+        },
+        {
+          "claim": "编二代被父辈打好物质基础，但现实接触后反而很压抑",
+          "evidence": [
+            {
+              "index": 105,
+              "url": "https://www.douyin.com/video/7649231017782122737"
+            }
+          ]
+        }
+      ],
+      "resolution": "保留并列：不同文案分别强调物质受惠和精神压抑，未统一。"
+    },
+    {
+      "issue": "编制家庭富裕还是工资低",
+      "versions": [
+        {
+          "claim": "编制工资不高，一年全算下来七八万，年轻需要钱时给不了多少",
+          "evidence": [
+            {
+              "index": 47,
+              "url": "https://www.douyin.com/video/7682638122002711013"
+            },
+            {
+              "index": 37,
+              "url": "https://www.douyin.com/video/7686768342103715429"
+            }
+          ]
+        },
+        {
+          "claim": "编制家庭子女开保时捷、宝马，车房由父母买，编制被说成自带百万存款",
+          "evidence": [
+            {
+              "index": 573,
+              "url": "https://www.douyin.com/video/7126095188300270861"
+            },
+            {
+              "index": 585,
+              "url": "https://www.douyin.com/video/7099766213445700871"
+            }
+          ]
+        }
+      ],
+      "resolution": "保留并列：财富感来自代际支持和稳定预期，不等于本人工资高。"
+    },
+    {
+      "issue": "父母支持考编还是控制子女",
+      "versions": [
+        {
+          "claim": "父母提供吃住、资金和陪伴，支持子女全职备考",
+          "evidence": [
+            {
+              "index": 575,
+              "url": "https://www.douyin.com/video/7117953200484830500"
+            },
+            {
+              "index": 286,
+              "url": "https://www.douyin.com/video/7503950426107088165"
+            }
+          ]
+        },
+        {
+          "claim": "编二代被爹妈硬喂大、被管束，缺少自主性",
+          "evidence": [
+            {
+              "index": 183,
+              "url": "https://www.douyin.com/video/7597102590869949702"
+            }
+          ]
+        }
+      ],
+      "resolution": "保留并列：支持与控制是同一代际关系的两面，原文未做统一评价。"
+    },
+    {
+      "issue": "编制是给下一代还是给父母面子/社会地位",
+      "versions": [
+        {
+          "claim": "编制不是给自己用的，是给下一代用的",
+          "evidence": [
+            {
+              "index": 233,
+              "url": "https://www.douyin.com/video/7565399420146683193"
+            },
+            {
+              "index": 37,
+              "url": "https://www.douyin.com/video/7686768342103715429"
+            }
+          ]
+        },
+        {
+          "claim": "编制也是父母的高兴、相亲认可、老师尊重、乡里乡亲有面子",
+          "evidence": [
+            {
+              "index": 37,
+              "url": "https://www.douyin.com/video/7686768342103715429"
+            },
+            {
+              "index": 585,
+              "url": "https://www.douyin.com/video/7099766213445700871"
+            }
+          ]
+        }
+      ],
+      "resolution": "并列：代际功能与社会评价功能在文本中同时存在。"
+    }
+  ],
+  "gaps": [
+    "缺少具体家庭成员的姓名、年龄、职业、编制类型和地区。",
+    "缺少编制家庭内部经济安排、存款数字、房产数量的具体交代。",
+    "缺少编制家庭子女若考编失败后的完整走向。",
+    "缺少非编家庭与编制家庭婚配失败或成功的具体案例。",
+    "缺少编制家庭内部矛盾如何解决、父母与子女关系最终结局。",
+    "不同文案多为概括角色，不能拼成某个自然人的连续传记。",
+    "山东之外地区差异只有零星提及，未系统展开。",
+    "具体家庭成员姓名、年龄、职业、收入均未交代。（县城全员带编家庭版）",
+    "含编率100%家庭的实际婚配过程、成功或失败案例未展开。（县城全员带编家庭版）",
+    "“含编率100%家庭”“体制世家”“最让人羡慕家庭”“六口人家庭”是否同一群像，原文未明确同一性。（县城全员带编家庭版）",
+    "家庭内部权力关系、消费方式、日常冲突缺少细节。（县城全员带编家庭版）",
+    "不同地区、不同年份下含编率标准是否变化，原文未交代。（县城全员带编家庭版）",
+    "行政编与事业编在实际生活、晋升、婚配中的具体差异缺少实例。（县城全员带编家庭版）"
+  ],
+  "creative_expansions": [],
+  "source_coverage": [
+    {
+      "index": 37,
+      "role": "核心材料：编制给下一代考、父母高兴、相亲认可、编二代、教育陪伴、两代人路径。",
+      "url": "https://www.douyin.com/video/7686768342103715429"
+    },
+    {
+      "index": 145,
+      "role": "含编率与婚配分层：编一代编二代不通婚，100%含编家庭傲视群雄。",
+      "url": "https://www.douyin.com/video/7623070673635691791"
+    },
+    {
+      "index": 182,
+      "role": "老社保为编二代梭哈车房彩礼，父辈帮衬成为责任。",
+      "url": "https://www.douyin.com/video/7598559726875593984"
+    },
+    {
+      "index": 183,
+      "role": "编二代由父母资源硬喂，车房彩礼由父母一次性梭哈。",
+      "url": "https://www.douyin.com/video/7597102590869949702"
+    },
+    {
+      "index": 286,
+      "role": "编制家庭理想形态：父母稳定、全职备考、入编后车房备好、六口人收入高。",
+      "url": "https://www.douyin.com/video/7503950426107088165"
+    },
+    {
+      "index": 305,
+      "role": "体制世家：自己带编、父母带编、只找带编、全职备考。",
+      "url": "https://www.douyin.com/video/7482393384854883641"
+    },
+    {
+      "index": 454,
+      "role": "全职考编的编二代，一家三口入编，完美家庭/上流家庭。",
+      "url": "https://www.douyin.com/video/7286132924796144950"
+    },
+    {
+      "index": 575,
+      "role": "山东父母从小洗脑考公务员、支持全职考编。",
+      "url": "https://www.douyin.com/video/7117953200484830500"
+    },
+    {
+      "index": 585,
+      "role": "编制社会地位、家庭面子、相亲、父母幸福感。",
+      "url": "https://www.douyin.com/video/7099766213445700871"
+    },
+    {
+      "index": 573,
+      "role": "父母给孩子买房车、考编图脸面、父母以单位介绍子女。",
+      "url": "https://www.douyin.com/video/7126095188300270861"
+    },
+    {
+      "index": 415,
+      "role": "最让人羡慕家庭：父母有编、孩子有编、找带编媳妇、生二胎、孩子继续考编。",
+      "url": "https://www.douyin.com/video/7312837773948390668"
+    },
+    {
+      "index": 233,
+      "role": "编制给下一代用、陪伴子女、体制内倾向早婚多生。",
+      "url": "https://www.douyin.com/video/7565399420146683193"
+    },
+    {
+      "index": 105,
+      "role": "编二代物质基础由父辈打，但压抑。",
+      "url": "https://www.douyin.com/video/7649231017782122737"
+    },
+    {
+      "index": 119,
+      "role": "编二代对编二代婚姻稳定，父母资源砸到小家庭。",
+      "url": "https://www.douyin.com/video/7641878629400637669"
+    },
+    {
+      "index": 171,
+      "role": "老社保唯一奢侈消费是给编二代买车买房。",
+      "url": "https://www.douyin.com/video/7606559660540571557"
+    },
+    {
+      "index": 83,
+      "role": "吃时代红利的双编初代老社保与假性中产家庭。",
+      "url": "https://www.douyin.com/video/7660367990240985253"
+    },
+    {
+      "index": 47,
+      "role": "县城编制对编二代/躺平一代的含金量，收入不高。",
+      "url": "https://www.douyin.com/video/7682638122002711013"
+    },
+    {
+      "index": 456,
+      "role": "考编作为信仰、公务员自带光环。",
+      "url": "https://www.douyin.com/video/7284484967281790244"
+    },
+    {
+      "index": 408,
+      "role": "入编后父母亲戚祝贺，家庭幸福感。",
+      "url": "https://www.douyin.com/video/7318029441685327140"
+    },
+    {
+      "index": 364,
+      "role": "山东编制认可，父母以子女单位扬眉吐气。",
+      "url": "https://www.douyin.com/video/7379276852789087525"
+    },
+    {
+      "index": 411,
+      "role": "山东人成熟六步：考编、找带编对象、让孩子考编。",
+      "url": "https://www.douyin.com/video/7316027577792007451"
+    },
+    {
+      "index": 483,
+      "role": "高分考生为编制选公费师范生，考编热情。",
+      "url": "https://www.douyin.com/video/7261634100555943223"
+    },
+    {
+      "index": 104,
+      "role": "县城编制内两类人，编二代从小在圈层长大。",
+      "url": "https://www.douyin.com/video/7648106609897426191"
+    },
+    {
+      "index": 113,
+      "role": "老社保社会地位与家庭捧着他。",
+      "url": "https://www.douyin.com/video/7644796017133896933"
+    },
+    {
+      "index": 225,
+      "role": "县城低薪上班也可由家庭支撑，上班带身份消费属性。",
+      "url": "https://www.douyin.com/video/7571128781901925658"
+    },
+    {
+      "index": 54,
+      "role": "末代少爷娶带编铁娘子，婚姻组合涉及带编家庭。",
+      "url": "https://www.douyin.com/video/7677265836126499813"
+    }
+  ]
+}

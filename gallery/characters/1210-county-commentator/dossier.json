@@ -1,0 +1,511 @@
+{
+  "name": "县城评论员",
+  "nature": "原型/复合群像，不是单一自然人。序号86以“县城里的评论员”称呼县城舆论评判者，执行“不能让人笑话”的熟人社会评价功能；未给统一年龄、职业、性别、人数或组织形式。序号57的村头/饭店情报站只作同一舆论文化旁证，原文未把评论员与所有亲戚、街坊合并为同一人。",
+  "overview": "县城评论员是序号86《县城人最大的执念——不能让人笑话》中反复出现的舆论评判者群像：围绕“不能让人笑话”，审查婚恋年龄（严格卡20~26）、职业选择、跳槽返乡、婚姻忠诚和消费排场，擅长杜撰未知细节，鄙视链随“怎样能笑话你”变化；带编工作是明显例外，因怕以后用得上。序号57补充“笑话别人和不让人笑话”、村头与饭店情报站，属同一舆论文化旁证，但原文未称其为“县城评论员”。评价体系存在“有自己一套逻辑”与“鄙视链不确定、变化”两版本并列；职业评价存在“多数职业都能被笑话”与“带编例外”两版本并列。",
+  "identity": [
+    {
+      "claim": "原文明确以“县城里的评论员”称呼一种擅长点评、杜撰和传播笑话的县城舆论角色。",
+      "evidence": [
+        {
+          "index": 86,
+          "url": "https://www.douyin.com/video/7658283175987842344"
+        }
+      ]
+    },
+    {
+      "claim": "它不是具体职业或年龄身份，而是执行“不能让人笑话”的熟人社会评价功能。",
+      "evidence": [
+        {
+          "index": 86,
+          "url": "https://www.douyin.com/video/7658283175987842344"
+        }
+      ]
+    },
+    {
+      "claim": "它拥有一套自己的逻辑和评价体系，但具体鄙视链可变。",
+      "evidence": [
+        {
+          "index": 86,
+          "url": "https://www.douyin.com/video/7658283175987842344"
+        }
+      ]
+    }
+  ],
+  "traits": [
+    {
+      "claim": "擅长杜撰自己不知道的细节，以此加工对他人的评价。",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 86,
+          "url": "https://www.douyin.com/video/7658283175987842344"
+        }
+      ]
+    },
+    {
+      "claim": "评价标准不稳定，核心不是固定高下，而是怎样能够笑话对方。",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 86,
+          "url": "https://www.douyin.com/video/7658283175987842344"
+        }
+      ]
+    },
+    {
+      "claim": "对婚恋年龄进行严格规训，过早或过晚都可能成为笑料。",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 86,
+          "url": "https://www.douyin.com/video/7658283175987842344"
+        }
+      ]
+    },
+    {
+      "claim": "对多数职业都能找到笑话角度，文员、销售、自媒体、餐饮、创业、摆摊等皆难逃点评。",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 86,
+          "url": "https://www.douyin.com/video/7658283175987842344"
+        }
+      ]
+    },
+    {
+      "claim": "对带编工作有明显例外，不敢轻易笑话，因为怕以后用得上。",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 86,
+          "url": "https://www.douyin.com/video/7658283175987842344"
+        }
+      ]
+    },
+    {
+      "claim": "以“笑话别人”和“不让人笑话”维持熟人社会的评价压力。",
+      "kind": "动机",
+      "certainty": "文本推断",
+      "evidence": [
+        {
+          "index": 57,
+          "url": "https://www.douyin.com/video/7675627007129232497"
+        },
+        {
+          "index": 86,
+          "url": "https://www.douyin.com/video/7658283175987842344"
+        }
+      ]
+    },
+    {
+      "claim": "对婚恋年龄进行严格规训，恋爱年龄须卡在20~26之间，超过27岁没搞对象会被说成更废、没人要、嫁不出去或打光棍。",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "对多数职业都能找到笑话角度，文员、销售、自媒体、餐饮、创业、摆摊、炒股投资等皆难逃点评。",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "评价体系版本一：拥有自己的一套逻辑和评价体系；版本二：鄙视链不确定、变化，完全看怎样能笑话你。两版本并列保留。",
+      "kind": "矛盾",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "职业评价版本一：文员、销售、自媒体、餐饮、创业、摆摊、炒股等都能被笑话；版本二：带编工作成为例外，不能被随便笑话。两版本并列保留。",
+      "kind": "矛盾",
+      "certainty": "文本推断",
+      "evidence": []
+    }
+  ],
+  "life_domains": [
+    {
+      "domain": "婚恋",
+      "claim": "评论员通过年龄、相亲、结婚、离婚、不忠等事项评判当事人是否让人笑话。",
+      "evidence": [
+        {
+          "index": 86,
+          "url": "https://www.douyin.com/video/7658283175987842344"
+        }
+      ]
+    },
+    {
+      "domain": "职业",
+      "claim": "职业选择被纳入笑话体系，跳槽、返乡、干自媒体、做小生意等都可能被贬低。",
+      "evidence": [
+        {
+          "index": 86,
+          "url": "https://www.douyin.com/video/7658283175987842344"
+        }
+      ]
+    },
+    {
+      "domain": "消费与面子",
+      "claim": "要求别人在私底下省钱，在彩礼、旗袍、金货、红白事等可见场合梭哈，以撑住面子。",
+      "evidence": [
+        {
+          "index": 86,
+          "url": "https://www.douyin.com/video/7658283175987842344"
+        }
+      ]
+    },
+    {
+      "domain": "社交与舆论",
+      "claim": "依托街头巷尾情报站、村头情报站和饭店等场所观察、点评和传播笑话。",
+      "evidence": [
+        {
+          "index": 86,
+          "url": "https://www.douyin.com/video/7658283175987842344"
+        },
+        {
+          "index": 57,
+          "url": "https://www.douyin.com/video/7675627007129232497"
+        }
+      ]
+    },
+    {
+      "domain": "权力与体制",
+      "claim": "带编工作被特殊对待，评论员会因潜在利用价值而压下笑话冲动。",
+      "evidence": [
+        {
+          "index": 86,
+          "url": "https://www.douyin.com/video/7658283175987842344"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "event_id": "E001",
+      "title": "审查婚恋年龄并传播笑话",
+      "description": "评论员把恋爱年龄严格卡在20至26岁，超过27岁没搞对象就被说成更废、没人要、嫁不出去或打光棍。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 86,
+          "url": "https://www.douyin.com/video/7658283175987842344"
+        }
+      ]
+    },
+    {
+      "event_id": "E002",
+      "title": "扫描职业并逐项嘲笑",
+      "description": "无论当事人做文员、销售、自媒体、餐饮、创业、摆摊还是炒股投资，评论员都能找到对应笑话点。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 86,
+          "url": "https://www.douyin.com/video/7658283175987842344"
+        }
+      ]
+    },
+    {
+      "event_id": "E003",
+      "title": "解释跳槽和返乡",
+      "description": "小县城频繁跳槽被说成不定性、好高骛远；从大城市离职回县城被说成混不下去、灰溜溜回来。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 86,
+          "url": "https://www.douyin.com/video/7658283175987842344"
+        }
+      ]
+    },
+    {
+      "event_id": "E004",
+      "title": "用舆论压力维持婚姻外壳",
+      "description": "当事人即便知道另一半不忠，也可能为了不让人看笑话而继续维持婚姻，并在关键场合表演恩爱夫妻。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 86,
+          "url": "https://www.douyin.com/video/7658283175987842344"
+        }
+      ]
+    },
+    {
+      "event_id": "E005",
+      "title": "规训可见消费与不可见节省",
+      "description": "评论压力要求人在外人看不到处极度节省，在彩礼、金饰、婚宴、红白事等露脸处大手笔支出。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 86,
+          "url": "https://www.douyin.com/video/7658283175987842344"
+        }
+      ]
+    },
+    {
+      "event_id": "E006",
+      "title": "杜撰细节并制造流动鄙视链",
+      "description": "评论员会编造他不知道的细节，再根据怎样能笑话对方来调整评价标准，使鄙视链随时变化。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 86,
+          "url": "https://www.douyin.com/video/7658283175987842344"
+        }
+      ]
+    },
+    {
+      "event_id": "E007",
+      "title": "对带编人员压下笑话",
+      "description": "多数职业都能被笑话，但带编工作成为例外，因为评论员怕将来有求于对方。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 86,
+          "url": "https://www.douyin.com/video/7658283175987842344"
+        }
+      ]
+    },
+    {
+      "event_id": "E008",
+      "title": "在村头与饭店形成情报站",
+      "description": "村头和饭店成为观察、议论、笑话别人的固定场所，吃饭聚会也承担传播评价的功能。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 57,
+          "url": "https://www.douyin.com/video/7675627007129232497"
+        }
+      ]
+    }
+  ],
+  "storylines": [
+    {
+      "title": "“不能让人笑话”如何组织县城舆论评价",
+      "event_ids": [
+        "E001",
+        "E002",
+        "E003",
+        "E004",
+        "E005",
+        "E006",
+        "E007",
+        "E008"
+      ],
+      "narrative": "故事起点是县城人一生最大的执念：不能让人笑话。评论员作为舆论评判者，先审查年轻人的婚恋年龄，再把职业选择逐项拿去嘲笑，跳槽和返乡也会被重新解释。进入婚姻后，即便关系已经破裂或出现不忠，当事人也可能为了不被看笑话而维持外壳并表演恩爱。消费上则被要求暗暗节省、明面梭哈，把彩礼、金饰、宴席等可见项目撑起来。评论员并不固守一套稳定鄙视链，而是擅长杜撰未知细节，随对象变化调整标准，最终只看怎样能笑话你。唯一明显例外是带编工作，因为他们怕哪天真用着你了。村头与饭店情报站则为这种评价提供了传播场所。",
+      "unresolved": "原文没有交代评论员具体是谁、有多少人、年龄职业如何、是否同一群体，也没有交代其评价标准从何而来、是否受到反制、被评价者的最终结果。",
+      "evidence": [
+        {
+          "index": 86,
+          "url": "https://www.douyin.com/video/7658283175987842344"
+        },
+        {
+          "index": 57,
+          "url": "https://www.douyin.com/video/7675627007129232497"
+        }
+      ]
+    }
+  ],
+  "relationships": [
+    {
+      "target": "县城人",
+      "relation": "以“笑话别人和不让人笑话”相互约束和评价。",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 57,
+          "url": "https://www.douyin.com/video/7675627007129232497"
+        },
+        {
+          "index": 86,
+          "url": "https://www.douyin.com/video/7658283175987842344"
+        }
+      ]
+    },
+    {
+      "target": "街头巷尾的情报站",
+      "relation": "评论员依托此类场所对他人进行点评和传播。",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 86,
+          "url": "https://www.douyin.com/video/7658283175987842344"
+        }
+      ]
+    },
+    {
+      "target": "村头情报站/饭店情报站",
+      "relation": "补充旁证中的观察、议论和笑话别人的固定场所；原文未称其为“县城评论员”。",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 57,
+          "url": "https://www.douyin.com/video/7675627007129232497"
+        }
+      ]
+    },
+    {
+      "target": "大城市离职回县城的人",
+      "relation": "被评论员解释为“大城市混不下去”“灰溜溜回来”。",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 86,
+          "url": "https://www.douyin.com/video/7658283175987842344"
+        }
+      ]
+    },
+    {
+      "target": "频繁跳槽的年轻人",
+      "relation": "被评论为不定性、好高骛远、眼高手低。",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 86,
+          "url": "https://www.douyin.com/video/7658283175987842344"
+        }
+      ]
+    },
+    {
+      "target": "带编工作的人",
+      "relation": "评论员对其有所忌惮，不轻易笑话，因为怕以后用得上。",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 86,
+          "url": "https://www.douyin.com/video/7658283175987842344"
+        }
+      ]
+    },
+    {
+      "target": "结婚与离婚当事人",
+      "relation": "以婚姻是否让人笑话来评判，并迫使当事人维持表面体面。",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 86,
+          "url": "https://www.douyin.com/video/7658283175987842344"
+        }
+      ]
+    }
+  ],
+  "speech_habits": [
+    {
+      "claim": "常用判词式话语给人下定性，如废了、没人要了、嫁不出去、打光棍。",
+      "evidence": [
+        {
+          "index": 86,
+          "url": "https://www.douyin.com/video/7658283175987842344"
+        }
+      ]
+    },
+    {
+      "claim": "善用“你当……他笑话你……”的排比句式，逐项否定职业选择。",
+      "evidence": [
+        {
+          "index": 86,
+          "url": "https://www.douyin.com/video/7658283175987842344"
+        }
+      ]
+    },
+    {
+      "claim": "以“不能让人笑话”作为要求他人改变行为的主要理由。",
+      "evidence": [
+        {
+          "index": 86,
+          "url": "https://www.douyin.com/video/7658283175987842344"
+        }
+      ]
+    },
+    {
+      "claim": "会从零碎行为跳跃到总体人格结论。",
+      "evidence": [
+        {
+          "index": 57,
+          "url": "https://www.douyin.com/video/7675627007129232497"
+        }
+      ]
+    }
+  ],
+  "contradictions": [
+    {
+      "issue": "评论员的评价体系到底是固定的，还是流动的？",
+      "versions": [
+        {
+          "claim": "版本一：拥有自己的一套逻辑和评价体系。",
+          "evidence": [
+            {
+              "index": 86,
+              "url": "https://www.douyin.com/video/7658283175987842344"
+            }
+          ]
+        },
+        {
+          "claim": "版本二：鄙视链不确定、变化，完全看怎样能笑话你。",
+          "evidence": [
+            {
+              "index": 86,
+              "url": "https://www.douyin.com/video/7658283175987842344"
+            }
+          ]
+        }
+      ],
+      "resolution": "保留并列：可理解为目的固定而具体链条可变，但原文并未给出统一解释。"
+    },
+    {
+      "issue": "职业评价是否全都逃不过笑话？",
+      "versions": [
+        {
+          "claim": "版本一：文员、销售、自媒体、餐饮、创业、摆摊、炒股等都能被笑话。",
+          "evidence": [
+            {
+              "index": 86,
+              "url": "https://www.douyin.com/video/7658283175987842344"
+            }
+          ]
+        },
+        {
+          "claim": "版本二：带编工作成为例外，不能被随便笑话。",
+          "evidence": [
+            {
+              "index": 86,
+              "url": "https://www.douyin.com/video/7658283175987842344"
+            }
+          ]
+        }
+      ],
+      "resolution": "保留并列：带编是原文明确列出的例外，但例外的边界和条件未展开。"
+    }
+  ],
+  "gaps": [
+    "评论员的具体年龄、职业、性别、人数和组织形式未交代。",
+    "原文没有说明“县城评论员”是否等于村头情报站、饭店情报站或亲戚朋友，按出处并列呈现。",
+    "评价标准如何形成、为何变化、由谁执行，未交代。",
+    "评论员自身是否也怕被笑话、如何面对他人评价，未交代。",
+    "被评论员点评、杜撰、嘲笑的人是否有反制或结果，未交代。",
+    "没有可确认的连续时间线，事件顺序只能按文档内部论述排列。"
+  ],
+  "creative_expansions": [],
+  "source_coverage": [
+    {
+      "index": 86,
+      "role": "核心文档：明确出现“县城里的评论员”，提供其杜撰细节、评价体系、鄙视链变化、婚恋职业消费评判、带编例外等全部主要材料。",
+      "url": "https://www.douyin.com/video/7658283175987842344"
+    },
+    {
+      "index": 57,
+      "role": "补充旁证：提供“笑话别人和不让人笑话”、村头情报站、饭店情报站等同一舆论文化材料；原文未称“评论员”，故只作旁证，按出处并列呈现。",
+      "url": "https://www.douyin.com/video/7675627007129232497"
+    }
+  ]
+}

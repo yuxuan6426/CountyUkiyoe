@@ -1,0 +1,874 @@
+{
+  "name": "县城公务员",
+  "nature": "原型/复合群像，非具名自然人。由多篇县城文案里“公务员”“体制内公务员”“县城体制内”等表述拼合而成：在县城体制内、有编制，被放在相亲职业鄙视链高位，收入说法从月4000到全算约7000不等；另有一条前公务员辞职自述。编纂说明：仅限文本关于婚恋位置、收入、编制话语与办事话术的片段，呈现各篇作品中的角色设定。",
+  "overview": "文本把县城公务员写成编制序列里的高位者：公务员高于事业编，事业编高于社工，社工高于临时工；相亲看家庭含编率，家长宁选月薪4000的公务员也不要月薪1万的销售；编制在山东被当作信仰，父母从小教“长大了就能当公务员”，中科院博士也去考基层公务员。另一组文本给出相反读数：接触过富二代的王漫妮回县城相亲看不上公务员、嫌工资低；体制内公务员被说成与打螺丝者收入一样；体制内自述月工资4500、全算约7000、拿死工资；还有地区发不出工资、编制含金量被质疑。权力上，一面写“接近权力中心”“我在什么什么局”，一面说95%以上职务等同空调遥控器电池管理员。前公务员辞职做自媒体，则称其为稳定收入和一定社会地位的工作。",
+  "identity": [
+    {
+      "claim": "在县城体制内工作，拥有编制/公务员身份，且在编制序列中被放在高于事业编的位置",
+      "evidence": [
+        {
+          "index": 415,
+          "url": "https://www.douyin.com/video/7312837773948390668"
+        },
+        {
+          "index": 203,
+          "url": "https://www.douyin.com/video/7585173030377131316"
+        }
+      ]
+    },
+    {
+      "claim": "在县城相亲职业鄙视链中，公务员高于事业编，事业编高于社工，社工高于临时工",
+      "evidence": [
+        {
+          "index": 178,
+          "url": "https://www.douyin.com/video/7601345616412708146"
+        }
+      ]
+    },
+    {
+      "claim": "月薪被文本举例为约4000元，家长挑女婿时宁愿选月薪4000的公务员，也不要月薪1万的销售",
+      "evidence": [
+        {
+          "index": 543,
+          "url": "https://www.douyin.com/video/7211339416944659749"
+        }
+      ]
+    },
+    {
+      "claim": "县城体制内月入5000被描述为让父母扬眉吐气",
+      "evidence": [
+        {
+          "index": 364,
+          "url": "https://www.douyin.com/video/7379276852789087525"
+        }
+      ]
+    },
+    {
+      "claim": "收入被描述为与打螺丝的普通劳动者一样，985大学生与送外卖者收入也没有太大区别",
+      "evidence": [
+        {
+          "index": 297,
+          "url": "https://www.douyin.com/video/7488001889150274831"
+        }
+      ]
+    },
+    {
+      "claim": "在山东等地，考公务员被当作父母从小灌输的人生目标，考编被描述为信仰",
+      "evidence": [
+        {
+          "index": 575,
+          "url": "https://www.douyin.com/video/7117953200484830500"
+        }
+      ]
+    },
+    {
+      "claim": "有前公务员辞职做自媒体的个人叙事，称公务员是稳定收入和一定社会地位的工作",
+      "evidence": [
+        {
+          "index": 606,
+          "url": "https://www.douyin.com/video/7070516215327853860"
+        }
+      ]
+    }
+  ],
+  "traits": [
+    {
+      "claim": "职业稳定、有社会地位，但收入不高",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 606,
+          "url": "https://www.douyin.com/video/7070516215327853860"
+        },
+        {
+          "index": 543,
+          "url": "https://www.douyin.com/video/7211339416944659749"
+        }
+      ]
+    },
+    {
+      "claim": "在县城婚恋市场中被认为位置高，高于事业编等职业",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 178,
+          "url": "https://www.douyin.com/video/7601345616412708146"
+        }
+      ]
+    },
+    {
+      "claim": "可能被接触过富裕阶层的人以收入标准看低，被嫌工资太低",
+      "kind": "矛盾",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 134,
+          "url": "https://www.douyin.com/video/7629625893589208370"
+        },
+        {
+          "index": 156,
+          "url": "https://www.douyin.com/video/7616204819259078501"
+        }
+      ]
+    },
+    {
+      "claim": "被期待拥有接近权力中心的社会地位和办事能力",
+      "kind": "自我形象",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 203,
+          "url": "https://www.douyin.com/video/7585173030377131316"
+        },
+        {
+          "index": 456,
+          "url": "https://www.douyin.com/video/7284484967281790244"
+        }
+      ]
+    },
+    {
+      "claim": "体制内自述工资为月4500，全算下来约7000，且多数人拿死工资",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 572,
+          "url": "https://www.douyin.com/video/7138784739695086879"
+        }
+      ]
+    },
+    {
+      "claim": "存在部分地区公务员发不出工资、编制含金量被质疑的恐惧/矛盾",
+      "kind": "恐惧",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 456,
+          "url": "https://www.douyin.com/video/7284484967281790244"
+        }
+      ]
+    },
+    {
+      "claim": "选择编制被描述为选择躺平/稳定，放弃暴富可能",
+      "kind": "动机",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 578,
+          "url": "https://www.douyin.com/video/7109401165070191909"
+        },
+        {
+          "index": 458,
+          "url": "https://www.douyin.com/video/7283163958528249147"
+        }
+      ]
+    },
+    {
+      "claim": "职业稳定、有社会地位，但收入不高（前公务员自述“稳定收入和一定社会地位”，另处举例月薪4000）",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "在县城婚恋与相亲评价中被认为位置高，高于事业编等职业",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "被期待拥有接近权力中心的社会地位和办事能力，会以“我在什么什么局”亮身份",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "体制内自述基本工资月4500，公积金、车补、年终奖、取暖费全算下来约7000，多数人拿死工资",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "文本写到部分地区公务员发不出工资、编制含金量被质疑的处境",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "选择编制被描述为选择一种躺平的方式，放弃暴富可能",
+      "kind": "动机",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "被指向“衣食无忧、旱涝保收”的生活，原文称公务员这份工作绝对可以满足",
+      "kind": "欲望",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "收入版本一：月薪4000—5000，与打螺丝者相近，甚至被县城王漫妮嫌工资太低",
+      "kind": "矛盾",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "收入版本二：各项全算约7000，旁人还会认为“灰色收入多”",
+      "kind": "矛盾",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "收入版本三：有些地区公务员发不出工资，编制含金量遭质疑",
+      "kind": "矛盾",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "婚恋位置版本一：被高看——公务员高于事业编，家长宁选月薪4000公务员不选月薪1万销售",
+      "kind": "矛盾",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "婚恋位置版本二：被看低——接触过富二代的王漫妮回县城相亲看不上公务员",
+      "kind": "矛盾",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "权力版本一：被认为接近权力中心、能办事",
+      "kind": "矛盾",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "权力版本二：体制内95%以上的人职务等同“三年级二班空调遥控器第二节电池管理员”",
+      "kind": "矛盾",
+      "certainty": "文本推断",
+      "evidence": []
+    }
+  ],
+  "life_domains": [
+    {
+      "domain": "职业",
+      "claim": "在县城体制内工作，考编上岸是进入该身份的主要途径；在山东等地被当作父母从小灌输的人生目标",
+      "evidence": [
+        {
+          "index": 575,
+          "url": "https://www.douyin.com/video/7117953200484830500"
+        },
+        {
+          "index": 578,
+          "url": "https://www.douyin.com/video/7109401165070191909"
+        }
+      ]
+    },
+    {
+      "domain": "婚恋",
+      "claim": "县城相亲高度重视编制/含编率，公务员高于事业编，体制内外不通婚",
+      "evidence": [
+        {
+          "index": 203,
+          "url": "https://www.douyin.com/video/7585173030377131316"
+        },
+        {
+          "index": 145,
+          "url": "https://www.douyin.com/video/7623070673635691791"
+        }
+      ]
+    },
+    {
+      "domain": "金钱",
+      "claim": "收入被描述为月4000-5000，与普通劳动者相近；但被认为有隐形福利、稳定退休金",
+      "evidence": [
+        {
+          "index": 543,
+          "url": "https://www.douyin.com/video/7211339416944659749"
+        },
+        {
+          "index": 572,
+          "url": "https://www.douyin.com/video/7138784739695086879"
+        },
+        {
+          "index": 297,
+          "url": "https://www.douyin.com/video/7488001889150274831"
+        }
+      ]
+    },
+    {
+      "domain": "社交",
+      "claim": "在县城人情社会中被认为能办事、有社会地位，话语中会出现“我在什么什么局”式身份展示",
+      "evidence": [
+        {
+          "index": 456,
+          "url": "https://www.douyin.com/video/7284484967281790244"
+        }
+      ]
+    },
+    {
+      "domain": "消费",
+      "claim": "收入不高但消费可能靠家庭支持，出现月薪5000开BBA上班的文本描述",
+      "evidence": [
+        {
+          "index": 286,
+          "url": "https://www.douyin.com/video/7503950426107088165"
+        }
+      ]
+    },
+    {
+      "domain": "权力",
+      "claim": "被描述为接近权力中心，但多数体制内实际职务权力有限",
+      "evidence": [
+        {
+          "index": 203,
+          "url": "https://www.douyin.com/video/7585173030377131316"
+        },
+        {
+          "index": 145,
+          "url": "https://www.douyin.com/video/7623070673635691791"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "event_id": "E001",
+      "title": "王漫妮回县城相亲看不上公务员",
+      "description": "文本描述王漫妮当柜姐接触过富二代之后，回县城相亲时看不上公务员，并认为县城公务员工资太低。",
+      "temporal": "顺序不明，文本论述中的例子",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 156,
+          "url": "https://www.douyin.com/video/7616204819259078501"
+        },
+        {
+          "index": 134,
+          "url": "https://www.douyin.com/video/7629625893589208370"
+        }
+      ]
+    },
+    {
+      "event_id": "E002",
+      "title": "县城相亲鄙视链把公务员排在事业编之上",
+      "description": "文本列出公务员瞧不上事业编，事业编瞧不上社工，社工瞧不上临时工；并说公务员一定高于事业编，事业编觉得自己更接近权力中心。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 178,
+          "url": "https://www.douyin.com/video/7601345616412708146"
+        },
+        {
+          "index": 203,
+          "url": "https://www.douyin.com/video/7585173030377131316"
+        }
+      ]
+    },
+    {
+      "event_id": "E003",
+      "title": "体制内公务员收入被描述为与打螺丝者一样",
+      "description": "文本用县城收入差异有限来说明体制内公务员和打螺丝的收入一样，985大学生与送外卖者收入也没有太大区别。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 297,
+          "url": "https://www.douyin.com/video/7488001889150274831"
+        }
+      ]
+    },
+    {
+      "event_id": "E004",
+      "title": "家长挑女婿宁选月薪4000公务员不选月薪1万销售",
+      "description": "文本讨论家长在挑女婿时偏向月薪4000的公务员，而不是月薪1万的销售，并说月薪4000公务员只能跟月薪20000或30000的销售去比。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 543,
+          "url": "https://www.douyin.com/video/7211339416944659749"
+        }
+      ]
+    },
+    {
+      "event_id": "E005",
+      "title": "前公务员辞职做自媒体",
+      "description": "一个山东人辞掉公务员，离开稳定收入和社会地位的工作，做自媒体后称月收入约为原来的10倍。",
+      "temporal": "原文称2002年第一个工作日写下辞职申请",
+      "chronology_basis": "明示",
+      "evidence": [
+        {
+          "index": 606,
+          "url": "https://www.douyin.com/video/7070516215327853860"
+        }
+      ]
+    },
+    {
+      "event_id": "E006",
+      "title": "体制内人员自述月工资4500，全算约7000",
+      "description": "文本中“我”说在体制内工作时被问工资，回答月4500，全算下来约7000，并称绝大多数体制内工作的人拿死工资。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 572,
+          "url": "https://www.douyin.com/video/7138784739695086879"
+        }
+      ]
+    },
+    {
+      "event_id": "E007",
+      "title": "公务员系统出现发不出工资的讨论",
+      "description": "文本提到有些地区公务员发不出工资，引发对编制含金量的质疑和风凉话。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 456,
+          "url": "https://www.douyin.com/video/7284484967281790244"
+        }
+      ]
+    },
+    {
+      "event_id": "E008",
+      "title": "编制被描述为公务员是天花板",
+      "description": "文本将公务员置于编制内最高位置，事业编次之，国企、医生、律师、银行紧随其后。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 415,
+          "url": "https://www.douyin.com/video/7312837773948390668"
+        }
+      ]
+    },
+    {
+      "event_id": "E009",
+      "title": "山东家庭把“长大当公务员”当作教育目标",
+      "description": "文本自述父母从小告诉他好好学习，长大了就能当公务员；考编被当作信仰，从1000多人中抢到一个工作不是收入问题。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 575,
+          "url": "https://www.douyin.com/video/7117953200484830500"
+        }
+      ]
+    },
+    {
+      "event_id": "E010",
+      "title": "中科院博士考基层公务员",
+      "description": "文本提到已有中科院博士去考基层公务员，说明编制吸引力。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 578,
+          "url": "https://www.douyin.com/video/7109401165070191909"
+        }
+      ]
+    },
+    {
+      "event_id": "E011",
+      "title": "县城体制内相亲看含编率",
+      "description": "文本称县城相亲不卡收入，关键是看家庭含编率，体制内外不通婚，编一代和编二代也不通婚。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 145,
+          "url": "https://www.douyin.com/video/7623070673635691791"
+        }
+      ]
+    },
+    {
+      "event_id": "E012",
+      "title": "编制成为拿捏县城瑜伽裤的加分项",
+      "description": "文本称编制对县城瑜伽裤的拿捏不逊于豪车，会让对方觉得你在隐藏实力。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 332,
+          "url": "https://www.douyin.com/video/7437739559913327884"
+        }
+      ]
+    }
+  ],
+  "storylines": [
+    {
+      "title": "县城公务员：相亲鄙视链高处与实际收入之间的落差",
+      "event_ids": [
+        "E001",
+        "E002",
+        "E003",
+        "E004",
+        "E005",
+        "E006",
+        "E007",
+        "E008",
+        "E009",
+        "E011",
+        "E012"
+      ],
+      "narrative": "文本先给出公务员在县城相亲鄙视链中高于事业编、社工、临时工的位置，并说家长挑女婿宁选月薪4000的公务员也不选月薪1万的销售；编制在山东等地被当作信仰，父母从小教育孩子“长大了就能当公务员”，中科院博士也考基层公务员。但另一个版本里，王漫妮这种接触过富二代的人回县城相亲就看不上公务员，觉得公务员工资太低。收入上，文本又用“体制内公务员和打螺丝的收入一样”来削弱其经济优势，同时体制内自述月工资4500、全算约7000并称拿死工资，有些地区还出现发不出工资的讨论。前公务员辞职做自媒体的叙事则把公务员描述为“稳定收入和一定社会地位”的工作，辞职后收入约为原来十倍。缺的是具体部门、职级、日常工作内容和统一收入数据。",
+      "unresolved": "原文没有交代该原型的具体职级、部门、日常工作内容、不同地区真实收入数据，也没有统一公务员到底是被高看还是被看低。",
+      "evidence": [
+        {
+          "index": 178,
+          "url": "https://www.douyin.com/video/7601345616412708146"
+        },
+        {
+          "index": 543,
+          "url": "https://www.douyin.com/video/7211339416944659749"
+        },
+        {
+          "index": 156,
+          "url": "https://www.douyin.com/video/7616204819259078501"
+        },
+        {
+          "index": 297,
+          "url": "https://www.douyin.com/video/7488001889150274831"
+        },
+        {
+          "index": 572,
+          "url": "https://www.douyin.com/video/7138784739695086879"
+        },
+        {
+          "index": 456,
+          "url": "https://www.douyin.com/video/7284484967281790244"
+        }
+      ]
+    }
+  ],
+  "relationships": [
+    {
+      "target": "县城王漫妮",
+      "relation": "相亲对象；王漫妮被描述为看不上公务员、嫌其工资低",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 156,
+          "url": "https://www.douyin.com/video/7616204819259078501"
+        },
+        {
+          "index": 134,
+          "url": "https://www.douyin.com/video/7629625893589208370"
+        }
+      ]
+    },
+    {
+      "target": "事业编",
+      "relation": "相亲鄙视链中公务员高于事业编",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 178,
+          "url": "https://www.douyin.com/video/7601345616412708146"
+        },
+        {
+          "index": 203,
+          "url": "https://www.douyin.com/video/7585173030377131316"
+        }
+      ]
+    },
+    {
+      "target": "社工",
+      "relation": "公务员高于社工",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 178,
+          "url": "https://www.douyin.com/video/7601345616412708146"
+        }
+      ]
+    },
+    {
+      "target": "临时工",
+      "relation": "公务员高于临时工",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 178,
+          "url": "https://www.douyin.com/video/7601345616412708146"
+        }
+      ]
+    },
+    {
+      "target": "县城女文青",
+      "relation": "女文青在相亲市场遇到的多是县城葱姜蒜，有编的根本不鸟她；公务员属于有编群体",
+      "certainty": "文本推断",
+      "evidence": [
+        {
+          "index": 178,
+          "url": "https://www.douyin.com/video/7601345616412708146"
+        }
+      ]
+    },
+    {
+      "target": "销售",
+      "relation": "被家长拿来与销售比较，月薪4000公务员被认为胜过月薪1万销售",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 543,
+          "url": "https://www.douyin.com/video/7211339416944659749"
+        }
+      ]
+    },
+    {
+      "target": "打螺丝者",
+      "relation": "收入被描述为与打螺丝者一样",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 297,
+          "url": "https://www.douyin.com/video/7488001889150274831"
+        }
+      ]
+    },
+    {
+      "target": "县城瑜伽裤",
+      "relation": "编制被描述为拿捏瑜伽裤的加分项",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 332,
+          "url": "https://www.douyin.com/video/7437739559913327884"
+        }
+      ]
+    }
+  ],
+  "speech_habits": [
+    {
+      "claim": "用“我在什么什么局”表明单位身份，并用“不是不能办，但是原则上不允许”“运作运作”等话术显示办事能力",
+      "evidence": [
+        {
+          "index": 456,
+          "url": "https://www.douyin.com/video/7284484967281790244"
+        }
+      ]
+    },
+    {
+      "claim": "在婚恋介绍中被用“公务员高于事业编”的等级话语比较",
+      "evidence": [
+        {
+          "index": 203,
+          "url": "https://www.douyin.com/video/7585173030377131316"
+        }
+      ]
+    },
+    {
+      "claim": "在山东语境中，父母用“长大了就能当公务员”作为教育话术",
+      "evidence": [
+        {
+          "index": 575,
+          "url": "https://www.douyin.com/video/7117953200484830500"
+        }
+      ]
+    },
+    {
+      "claim": "被质疑收入时，体制内会报出基本工资并补充公积金、车补、年终奖等",
+      "evidence": [
+        {
+          "index": 572,
+          "url": "https://www.douyin.com/video/7138784739695086879"
+        }
+      ]
+    }
+  ],
+  "contradictions": [
+    {
+      "issue": "县城公务员的收入到底高不高",
+      "versions": [
+        {
+          "claim": "月薪4000-5000，与打螺丝者相近，甚至被王漫妮嫌工资低",
+          "evidence": [
+            {
+              "index": 543,
+              "url": "https://www.douyin.com/video/7211339416944659749"
+            },
+            {
+              "index": 297,
+              "url": "https://www.douyin.com/video/7488001889150274831"
+            },
+            {
+              "index": 134,
+              "url": "https://www.douyin.com/video/7629625893589208370"
+            }
+          ]
+        },
+        {
+          "claim": "全算下来约7000，且被认为有灰色收入/福利多",
+          "evidence": [
+            {
+              "index": 572,
+              "url": "https://www.douyin.com/video/7138784739695086879"
+            }
+          ]
+        },
+        {
+          "claim": "有些地区出现公务员发不出工资",
+          "evidence": [
+            {
+              "index": 456,
+              "url": "https://www.douyin.com/video/7284484967281790244"
+            }
+          ]
+        }
+      ],
+      "resolution": "保留并列，不擅自合并或选定"
+    },
+    {
+      "issue": "公务员在婚恋市场是被高看还是被看低",
+      "versions": [
+        {
+          "claim": "被高看：公务员高于事业编，家长宁选月薪4000公务员不选月薪1万销售",
+          "evidence": [
+            {
+              "index": 178,
+              "url": "https://www.douyin.com/video/7601345616412708146"
+            },
+            {
+              "index": 543,
+              "url": "https://www.douyin.com/video/7211339416944659749"
+            }
+          ]
+        },
+        {
+          "claim": "被看低：王漫妮回县城相亲看不上公务员",
+          "evidence": [
+            {
+              "index": 156,
+              "url": "https://www.douyin.com/video/7616204819259078501"
+            }
+          ]
+        }
+      ],
+      "resolution": "保留并列，不擅自合并或选定"
+    },
+    {
+      "issue": "公务员的实际权力与办事能力",
+      "versions": [
+        {
+          "claim": "被认为接近权力中心、能办事",
+          "evidence": [
+            {
+              "index": 203,
+              "url": "https://www.douyin.com/video/7585173030377131316"
+            },
+            {
+              "index": 456,
+              "url": "https://www.douyin.com/video/7284484967281790244"
+            }
+          ]
+        },
+        {
+          "claim": "多数体制内职务实际权限有限",
+          "evidence": [
+            {
+              "index": 145,
+              "url": "https://www.douyin.com/video/7623070673635691791"
+            }
+          ]
+        }
+      ],
+      "resolution": "保留并列，不擅自合并或选定"
+    }
+  ],
+  "gaps": [
+    "原文没有给出该原型的统一年龄、性别、具体职级、部门。",
+    "原文没有说明其日常工作内容、真实到手的工资条、不同地区差异。",
+    "原文没有交代公务员在县城家庭生活中的具体分工。",
+    "原文没有统一的叙事线，很多是片段式提及。",
+    "原文没有说明该原型在县城权力结构中的确切位置与可办事范围。",
+    "原文没有给出该原型的统一年龄、性别、具体职级与部门。",
+    "原文没有说明其日常工作内容、真实到手的工资条与不同地区差异。"
+  ],
+  "creative_expansions": [],
+  "source_coverage": [
+    {
+      "index": 134,
+      "role": "提供王漫妮认为县城公务员工资太低、同时自己买奢侈品办分期的对照材料。",
+      "url": "https://www.douyin.com/video/7629625893589208370"
+    },
+    {
+      "index": 156,
+      "role": "提供王漫妮当柜姐接触富二代后回县城相亲看不上公务员的材料。",
+      "url": "https://www.douyin.com/video/7616204819259078501"
+    },
+    {
+      "index": 178,
+      "role": "提供县城相亲职业鄙视链中公务员高于事业编、社工、临时工的等级材料。",
+      "url": "https://www.douyin.com/video/7601345616412708146"
+    },
+    {
+      "index": 203,
+      "role": "提供公务员高于事业编、事业编更接近权力中心、体制内外不通婚的材料。",
+      "url": "https://www.douyin.com/video/7585173030377131316"
+    },
+    {
+      "index": 297,
+      "role": "提供体制内公务员收入与打螺丝者相同、县城收入差异有限的材料。",
+      "url": "https://www.douyin.com/video/7488001889150274831"
+    },
+    {
+      "index": 145,
+      "role": "提供县城相亲看含编率、体制内外不通婚、编一代编二代不通婚以及体制内职务权限有限的相关材料。",
+      "url": "https://www.douyin.com/video/7623070673635691791"
+    },
+    {
+      "index": 332,
+      "role": "提供编制是拿捏县城瑜伽裤加分项、编制不逊于豪车的材料。",
+      "url": "https://www.douyin.com/video/7437739559913327884"
+    },
+    {
+      "index": 364,
+      "role": "提供县城体制内月入5000让父母扬眉吐气、编制社会认可度高的材料。",
+      "url": "https://www.douyin.com/video/7379276852789087525"
+    },
+    {
+      "index": 415,
+      "role": "提供公务员在编制序列中是天花板、事业编次之的材料。",
+      "url": "https://www.douyin.com/video/7312837773948390668"
+    },
+    {
+      "index": 456,
+      "role": "提供公务员发不出工资的讨论、办事话术以及社会地位感的相关材料。",
+      "url": "https://www.douyin.com/video/7284484967281790244"
+    },
+    {
+      "index": 458,
+      "role": "提供公务员适合追求衣食无忧旱涝保收、但不适合底层翻身的观点材料。",
+      "url": "https://www.douyin.com/video/7283163958528249147"
+    },
+    {
+      "index": 543,
+      "role": "提供家长宁选月薪4000公务员不选月薪1万销售、公务员与销售比较的材料。",
+      "url": "https://www.douyin.com/video/7211339416944659749"
+    },
+    {
+      "index": 572,
+      "role": "提供体制内人员自述月工资4500、全算约7000、拿死工资的材料。",
+      "url": "https://www.douyin.com/video/7138784739695086879"
+    },
+    {
+      "index": 575,
+      "role": "提供山东家庭从小教育孩子当公务员、考编是信仰的材料。",
+      "url": "https://www.douyin.com/video/7117953200484830500"
+    },
+    {
+      "index": 578,
+      "role": "提供中科院博士考基层公务员、选择编制等于选择躺平的材料。",
+      "url": "https://www.douyin.com/video/7109401165070191909"
+    },
+    {
+      "index": 606,
+      "role": "提供前公务员辞职做自媒体、称公务员是稳定收入和一定社会地位工作的材料。",
+      "url": "https://www.douyin.com/video/7070516215327853860"
+    }
+  ]
+}

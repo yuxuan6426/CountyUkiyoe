@@ -1,0 +1,343 @@
+{
+  "name": "北京伪精英（Kevin）",
+  "nature": "单篇角色兼群像原型，仅见于第6条文案，编纂说明：止于该篇。作者在北京CBD国贸写字楼场景中拈出“北京的伪精英”一类人，并以英文名Kevin者为样本，指其与县城假大哥“思路差不多”：靠穿着、设备、咖啡、英文名、口音与中英夹杂话术完成包装，连蒙带骗赚茶水费。原文结尾截断，未构成本人完整传记。",
+  "overview": "Kevin是第6条文案中“北京伪精英”的具名样本。作者站在国贸，看高楼林立、车水马龙，提出“世界是一个巨大的县城”，先述县城假大哥租写字间、摆茶台、挂假字画、拼缝、开七手BBA、拿漏液折叠屏、张口“哪个项目哪块地我帮你运作”，再指北京伪精英“思路差不多”：纯色T恤、卡其裤、勃肯鞋、MacBook、Apple Watch、28元一杯手冲咖啡、英文名Kevin、译制片口音配散装英语，以及case／project／timeline／push／team／full support式话术。随后写到其公司装修高大上、打扫干净，作者自称给他介绍家政并插入58同城推荐。全文在“其实他不一定有那个现”处截断，能力、职位、结局均无交代；文本只确认作者作了高度类比，未逐条证明二者完全一致。",
+  "identity": [
+    {
+      "claim": "北京CBD写字楼里的职场人士，被作者称为“北京的伪精英”，以英文名Kevin出现。",
+      "evidence": [
+        {
+          "index": 6,
+          "url": "https://www.douyin.com/video/7705779053781635449"
+        }
+      ]
+    },
+    {
+      "claim": "有工牌、起英文名，属于写字楼内被作者观察和归类的一类人。",
+      "evidence": [
+        {
+          "index": 6,
+          "url": "https://www.douyin.com/video/7705779053781635449"
+        }
+      ]
+    },
+    {
+      "claim": "消费与办公装备带有明显的都市中产/精英符号：纯色T恤、卡其裤、勃肯鞋、MacBook、Apple Watch、28元一杯手冲咖啡。",
+      "evidence": [
+        {
+          "index": 6,
+          "url": "https://www.douyin.com/video/7705779053781635449"
+        }
+      ]
+    }
+  ],
+  "traits": [
+    {
+      "claim": "外在形象追求简约、体面、都市感，以纯色T恤、卡其裤、勃肯鞋等构成老钱/精英风装扮。",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 6,
+          "url": "https://www.douyin.com/video/7705779053781635449"
+        }
+      ]
+    },
+    {
+      "claim": "习惯用中英夹杂的职场术语进行表达，以case、project、timeline、push、team、full support等词包装工作场景。",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 6,
+          "url": "https://www.douyin.com/video/7705779053781635449"
+        }
+      ]
+    },
+    {
+      "claim": "说话带有“译制片口音”和散装英语，形成一种刻意经营的都市精英腔调。",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 6,
+          "url": "https://www.douyin.com/video/7705779053781635449"
+        }
+      ]
+    },
+    {
+      "claim": "其包装逻辑与县城假大哥相似，即通过外在符号让别人觉得自己有实力。",
+      "kind": "动机",
+      "certainty": "文本推断",
+      "evidence": [
+        {
+          "index": 6,
+          "url": "https://www.douyin.com/video/7705779053781635449"
+        }
+      ]
+    },
+    {
+      "claim": "作者称其为“伪精英”，原文结尾却停在“其实他不一定有那个”，暗示其真实能力或身份可能不匹配外在包装，但未明说缺什么。",
+      "kind": "矛盾",
+      "certainty": "文本推断",
+      "evidence": [
+        {
+          "index": 6,
+          "url": "https://www.douyin.com/video/7705779053781635449"
+        }
+      ]
+    },
+    {
+      "claim": "外在走简约都市路数：纯色T恤、卡其裤、勃肯鞋，配MacBook、Apple Watch与28元一杯手冲咖啡。",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "说话中英夹杂，用case、project、timeline、push、team、full support等词包装工作场景。",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "张口是译制片口音配散装英语，形成被作者识别出的精英腔调。",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "挂工牌、起英文名，以写字楼职场身份示人。",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "与县城假大哥同一套包装逻辑：通过一系列外在符号让别人觉得自己很有实力，连蒙带骗赚一点茶水费。",
+      "kind": "动机",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "被作者称为“伪精英”，结尾却停在“其实他不一定有那个”，暗示包装与真实不匹配，但未说清缺什么。",
+      "kind": "矛盾",
+      "certainty": "文本推断",
+      "evidence": []
+    }
+  ],
+  "life_domains": [
+    {
+      "domain": "职业",
+      "claim": "出现在北京CBD国贸的写字楼环境中，所在公司装修高大上、打扫干净，被作者作为都市职场包装的一部分来描述。",
+      "evidence": [
+        {
+          "index": 6,
+          "url": "https://www.douyin.com/video/7705779053781635449"
+        }
+      ]
+    },
+    {
+      "domain": "消费",
+      "claim": "日常消费和装备包括MacBook、Apple Watch、28元一杯手冲咖啡，以及纯色T恤、卡其裤、勃肯鞋。",
+      "evidence": [
+        {
+          "index": 6,
+          "url": "https://www.douyin.com/video/7705779053781635449"
+        }
+      ]
+    },
+    {
+      "domain": "社交/生活服务",
+      "claim": "家里家政由作者介绍，作者由此推荐58同城家政服务。",
+      "evidence": [
+        {
+          "index": 6,
+          "url": "https://www.douyin.com/video/7705779053781635449"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "event_id": "E001",
+      "title": "在国贸提出“世界是一个巨大的县城”",
+      "description": "作者站在北京CBD国贸，看到高楼林立、车水马龙的景象，提出这里和县城没有太大区别，并引出县城好大哥与北京伪精英的类比。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 6,
+          "url": "https://www.douyin.com/video/7705779053781635449"
+        }
+      ]
+    },
+    {
+      "event_id": "E002",
+      "title": "用Kevin等符号描绘北京伪精英",
+      "description": "作者列举Kevin式人物的穿着、设备、咖啡、英文名、口音和中英夹杂话术，展示其如何以消费与表达包装职场身份。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 6,
+          "url": "https://www.douyin.com/video/7705779053781635449"
+        }
+      ]
+    },
+    {
+      "event_id": "E003",
+      "title": "从公司环境写到家政推荐",
+      "description": "文案由Kevin所在公司的装修和卫生，转到作者曾给他介绍家政，并插入58同城家政服务推荐。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 6,
+          "url": "https://www.douyin.com/video/7705779053781635449"
+        }
+      ]
+    },
+    {
+      "title": "以Kevin为样本描绘北京伪精英",
+      "desc": "列举其穿着、设备、咖啡、英文名、口音与中英夹杂的项目话术，展示其如何包装职场身份",
+      "time": "未交代",
+      "evidence": []
+    },
+    {
+      "title": "从公司环境转到家政推荐",
+      "desc": "写到其公司装修高大上、打扫干净，作者称家政由自己介绍，并插入58同城家政服务推荐",
+      "time": "未交代",
+      "evidence": []
+    }
+  ],
+  "storylines": [
+    {
+      "title": "北京伪精英与县城假大哥的镜像观察",
+      "event_ids": [
+        "E001",
+        "E002",
+        "E003"
+      ],
+      "narrative": "作者在北京CBD国贸看到高楼和车流，提出“世界是一个巨大的县城”，认为北京伪精英与县城假大哥如出一辙。随后用Kevin作例子：穿纯色T恤、卡其裤、勃肯鞋，用MacBook和Apple Watch，喝28元一杯手冲咖啡，英文名叫Kevin，带译制片口音和散装英语，并用case、project、timeline、push、team、full support等中英夹杂话术谈工作。文案又写到这类人公司装修高大上、打扫干净，以及作者曾给其介绍家政，并推荐58同城。故事没有给出Kevin的具体身份、能力和结局，原文在结尾处截断。",
+      "unresolved": "原文在“其实他不一定有那个”处截断，缺少Kevin究竟“没有”什么、他是否真有实力、具体职业与结果；也没有写明其年龄、真实姓名、公司、收入及与作者的具体关系。",
+      "evidence": [
+        {
+          "index": 6,
+          "url": "https://www.douyin.com/video/7705779053781635449"
+        }
+      ]
+    }
+  ],
+  "relationships": [
+    {
+      "target": "县城好大哥/县城假大哥",
+      "relation": "作者认为北京伪精英与县城假大哥“思路差不多”“如出一辙”，都以外在符号和包装让别人觉得自己有实力。",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 6,
+          "url": "https://www.douyin.com/video/7705779053781635449"
+        }
+      ]
+    },
+    {
+      "target": "作者/县城生态观察者",
+      "relation": "观察者与被观察者的关系；作者在写字楼场景中识别并描述Kevin式人物，还称曾给他介绍家政。",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 6,
+          "url": "https://www.douyin.com/video/7705779053781635449"
+        }
+      ]
+    }
+  ],
+  "speech_habits": [
+    {
+      "claim": "中文里夹英文职场词，使用case、project、timeline、push、team、full support等。",
+      "evidence": [
+        {
+          "index": 6,
+          "url": "https://www.douyin.com/video/7705779053781635449"
+        }
+      ]
+    },
+    {
+      "claim": "带译制片口音和散装英语，形成一种被作者观察到的腔调。",
+      "evidence": [
+        {
+          "index": 6,
+          "url": "https://www.douyin.com/video/7705779053781635449"
+        }
+      ]
+    }
+  ],
+  "contradictions": [
+    {
+      "issue": "Kevin被称为“伪精英”，但其真实能力与身份未被说清。",
+      "versions": [
+        {
+          "claim": "作者称北京有“伪精英”，并把Kevin作为例子，突出其外在包装与话术。",
+          "evidence": [
+            {
+              "index": 6,
+              "url": "https://www.douyin.com/video/7705779053781635449"
+            }
+          ]
+        },
+        {
+          "claim": "原文在结尾说“其实他不一定有那个”，但未明说究竟没有什么。",
+          "evidence": [
+            {
+              "index": 6,
+              "url": "https://www.douyin.com/video/7705779053781635449"
+            }
+          ]
+        }
+      ],
+      "resolution": "保留并列：文本明确其为“伪精英”，但未给出真实能力的直接结论；结尾截断，不能补写。"
+    },
+    {
+      "issue": "北京伪精英与县城假大哥是否完全等同。",
+      "versions": [
+        {
+          "claim": "作者把二者放在一起类比，说“思路差不多”。",
+          "evidence": [
+            {
+              "index": 6,
+              "url": "https://www.douyin.com/video/7705779053781635449"
+            }
+          ]
+        },
+        {
+          "claim": "标题又说二者“如出一辙”，但没有逐条说明所有行为完全一致。",
+          "evidence": [
+            {
+              "index": 6,
+              "url": "https://www.douyin.com/video/7705779053781635449"
+            }
+          ]
+        }
+      ],
+      "resolution": "保留并列：只能确认作者做了高度类比，不能扩展为完全同一。"
+    }
+  ],
+  "gaps": [
+    "Kevin的真实姓名、年龄、具体职位、公司名称、收入。",
+    "Kevin究竟“不一定有”什么，原文截断未交代。",
+    "Kevin与作者的实际关系、交往程度、后续结局。",
+    "“北京伪精英”群体的更多个体样本和反例。",
+    "Kevin的真实姓名、年龄、具体职位、公司名称与收入，原文均未交代。",
+    "结尾“其实他不一定有那个”后文截断，究竟“没有”什么未交代。",
+    "Kevin与作者的实际关系、交往程度及后续结局未交代。",
+    "“北京伪精英”群体除Kevin外的更多个体样本与反例未交代。",
+    "原文末句“其实他不一定有那个现”本身被截断，完整表述无法复原。"
+  ],
+  "creative_expansions": [],
+  "source_coverage": [
+    {
+      "index": 6,
+      "role": "唯一提供本角色材料的文案：以北京CBD国贸为场景，提出“世界是一个巨大的县城”，把北京伪精英与县城假大哥类比，并用Kevin的穿着、设备、咖啡、英文名、口音、中英夹杂话术、公司环境和家政推荐来描绘这一原型。",
+      "url": "https://www.douyin.com/video/7705779053781635449"
+    }
+  ]
+}

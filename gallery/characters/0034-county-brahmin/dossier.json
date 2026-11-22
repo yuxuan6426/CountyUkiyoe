@@ -1,0 +1,753 @@
+{
+  "name": "县城婆罗门",
+  "nature": "复合群像/原型。多篇文案中作为概括性角色出现，非单一自然人；不同篇所指范围并不完全一致，编纂说明：包括婚恋优势男性、办事关系群体、消费人上人、占据生意者等。",
+  "overview": "“县城婆罗门”是多篇县城文案中对五线县城里上一代有钱有实力、被视作“人上人”的优势群体的统称。相关文本称其男性择偶要求带编制且漂亮，缺一不可，介绍资源多，不流入相亲市场；在办事语境中需对其客气、毕恭毕敬；又被说成占住县城赚钱买卖。另一面，原文强调全县婆罗门人数少、实际能量没那么大，与县城好大哥相互依存：好大哥送礼、摆平工程纠纷，他们也可能在例行检查前通风，没有好大哥财路会断。消费形象亦有版本变化：过去开BBA、穿一身logo、非茅子不喝，后老同学饭局改喝平价酒，说“钱不好挣，该省省该花花”。还有文本称很多博主口中的婆罗门还没葱姜蒜赚得多，县城相亲更卡家庭含编率；在商k豪车排面场景里被写成“毫无优势”。故适合按出处理解其叙述设定，只能并置各文本设定。",
+  "identity": [
+    {
+      "claim": "上一代有点钱、有点实力的人，就被称作婆罗门。",
+      "evidence": [
+        {
+          "index": 107,
+          "url": "https://www.douyin.com/video/7648547489775648613"
+        }
+      ]
+    },
+    {
+      "claim": "被描述为五线小县城里消费不亚于一线白领的人上人。",
+      "evidence": [
+        {
+          "index": 222,
+          "url": "https://www.douyin.com/video/7573620235488917989"
+        }
+      ]
+    },
+    {
+      "claim": "其男性在婚恋中被设定为：找对象要求带编制且漂亮，缺一不可。",
+      "evidence": [
+        {
+          "index": 35,
+          "url": "https://www.douyin.com/video/7687488459165967461"
+        }
+      ]
+    },
+    {
+      "claim": "在县城办事与关系网络中，是需要被客气、毕恭毕敬对待的群体。",
+      "evidence": [
+        {
+          "index": 85,
+          "url": "https://www.douyin.com/video/7658577363571068169"
+        }
+      ]
+    },
+    {
+      "claim": "被说成占据县城赚钱买卖，普通人创业空间受限。",
+      "evidence": [
+        {
+          "index": 141,
+          "url": "https://www.douyin.com/video/7625514071126756623"
+        }
+      ]
+    },
+    {
+      "claim": "原文又称其人数少、实际能量没有营销号渲染得那么大。",
+      "evidence": [
+        {
+          "index": 180,
+          "url": "https://www.douyin.com/video/7600069250975419690"
+        }
+      ]
+    },
+    {
+      "claim": "在相亲评价中，很多博主口中的婆罗门收入未必高于县城葱姜蒜。",
+      "evidence": [
+        {
+          "index": 145,
+          "url": "https://www.douyin.com/video/7623070673635691791"
+        }
+      ]
+    }
+  ],
+  "traits": [
+    {
+      "claim": "追求收入翻倍、大富大贵、身居高位、出类拔萃，被视为内卷游戏的胜利者。",
+      "kind": "动机/特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 31,
+          "url": "https://www.douyin.com/video/7689100760945414629"
+        }
+      ]
+    },
+    {
+      "claim": "婚恋上偏好带编制且漂亮，且不依赖普通相亲市场流通。",
+      "kind": "欲望/特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 35,
+          "url": "https://www.douyin.com/video/7687488459165967461"
+        }
+      ]
+    },
+    {
+      "claim": "与县城好大哥相互依存，依赖好大哥处理工程纠纷，好大哥也依赖其资源。",
+      "kind": "特征/矛盾",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 180,
+          "url": "https://www.douyin.com/video/7600069250975419690"
+        }
+      ]
+    },
+    {
+      "claim": "可能在例行检查前给好大哥通风，显示关系网络中的相互照应。",
+      "kind": "行为/特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 180,
+          "url": "https://www.douyin.com/video/7600069250975419690"
+        }
+      ]
+    },
+    {
+      "claim": "被营销号夸大为能量巨大，但原文明确反驳这种全能形象。",
+      "kind": "矛盾",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 180,
+          "url": "https://www.douyin.com/video/7600069250975419690"
+        }
+      ]
+    },
+    {
+      "claim": "过去以开BBA、穿一身logo、非茅子不喝展示身份。",
+      "kind": "特征/动机",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 222,
+          "url": "https://www.douyin.com/video/7573620235488917989"
+        }
+      ]
+    },
+    {
+      "claim": "有老同学在饭局上转向“该省省该花花”、重品质不重大牌。",
+      "kind": "特征/矛盾",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 222,
+          "url": "https://www.douyin.com/video/7573620235488917989"
+        }
+      ]
+    },
+    {
+      "claim": "在县城相亲评价中，收入不是首要，家庭含编率更关键。",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 145,
+          "url": "https://www.douyin.com/video/7623070673635691791"
+        }
+      ]
+    },
+    {
+      "claim": "与“县城扫地僧”构成两种人生取向：婆罗门是内卷胜利者，扫地僧可退出游戏。",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 31,
+          "url": "https://www.douyin.com/video/7689100760945414629"
+        }
+      ]
+    },
+    {
+      "claim": "在豪车商k排面场景里，婆罗门会被描述为毫无优势。",
+      "kind": "特征",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 309,
+          "url": "https://www.douyin.com/video/7477990380806393127"
+        }
+      ]
+    },
+    {
+      "claim": "被营销号夸大为能量巨大，但原文明确反驳这种全能形象，强调人数少、实际能量有限。",
+      "kind": "矛盾",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "有老同学在饭局上转向“该省省该花花”、重品质不重大牌；与过去“非贵不喝、喝给别人看”的版本并列。",
+      "kind": "矛盾",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "上一代有点钱、有点实力的人，就被称作婆罗门；同时被描述为五线小县城里消费不亚于一线白领的人上人。",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    },
+    {
+      "claim": "在县城办事与关系网络中，是需要被客气、毕恭毕敬对待的群体；又被说成占据县城赚钱买卖、普通人创业空间受限。",
+      "kind": "特征",
+      "certainty": "文本推断",
+      "evidence": []
+    }
+  ],
+  "life_domains": [
+    {
+      "domain": "婚恋",
+      "claim": "县城婆罗门男性择偶要求带编制且漂亮，介绍资源多，不流入相亲市场；女老师等群体被视为可能嫁入。",
+      "evidence": [
+        {
+          "index": 35,
+          "url": "https://www.douyin.com/video/7687488459165967461"
+        }
+      ]
+    },
+    {
+      "domain": "职业/生意/权力",
+      "claim": "占住县城赚钱买卖，在办事与工程资源中形成关系网络，并与好大哥相互依存。",
+      "evidence": [
+        {
+          "index": 141,
+          "url": "https://www.douyin.com/video/7625514071126756623"
+        },
+        {
+          "index": 180,
+          "url": "https://www.douyin.com/video/7600069250975419690"
+        }
+      ]
+    },
+    {
+      "domain": "金钱/收入",
+      "claim": "被拿来与葱姜蒜比较，原文称很多博主口中的婆罗门还没葱姜蒜赚得多。",
+      "evidence": [
+        {
+          "index": 145,
+          "url": "https://www.douyin.com/video/7623070673635691791"
+        }
+      ]
+    },
+    {
+      "domain": "消费",
+      "claim": "曾在五线县城维持不亚于一线白领的消费，过去非茅子不喝；后出现消费降级和注重品质的说法。",
+      "evidence": [
+        {
+          "index": 222,
+          "url": "https://www.douyin.com/video/7573620235488917989"
+        }
+      ]
+    },
+    {
+      "domain": "社交/面子",
+      "claim": "被视为人上人和内卷胜利者，但在更夸张的豪车排面场景中也可能被压过。",
+      "evidence": [
+        {
+          "index": 222,
+          "url": "https://www.douyin.com/video/7573620235488917989"
+        },
+        {
+          "index": 309,
+          "url": "https://www.douyin.com/video/7477990380806393127"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "event_id": "E001",
+      "title": "博主提出不活成婆罗门，而活成扫地僧",
+      "description": "文案把县城婆罗门当作不应追求的人生目标，并与可直接退出内卷游戏的县城扫地僧对照。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 31,
+          "url": "https://www.douyin.com/video/7689100760945414629"
+        }
+      ]
+    },
+    {
+      "event_id": "E002",
+      "title": "县城婆罗门男性的婚恋筛选",
+      "description": "原文称真正的县城婆罗门男性找对象要求带编制且漂亮，缺一不可；同时介绍资源多，不流入相亲市场。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 35,
+          "url": "https://www.douyin.com/video/7687488459165967461"
+        }
+      ]
+    },
+    {
+      "event_id": "E003",
+      "title": "办事需对婆罗门客气",
+      "description": "文案称在县城想把事情办成，就得对县城那帮婆罗门客气、毕恭毕敬。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 85,
+          "url": "https://www.douyin.com/video/7658577363571068169"
+        }
+      ]
+    },
+    {
+      "event_id": "E004",
+      "title": "婆罗门占住赚钱买卖",
+      "description": "文案将普通人创业机会受限归因于县城婆罗门早已把赚钱买卖占住。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 141,
+          "url": "https://www.douyin.com/video/7625514071126756623"
+        }
+      ]
+    },
+    {
+      "event_id": "E005",
+      "title": "婆罗门与好大哥相互依存",
+      "description": "原文说婆罗门与县城好大哥最多是相互依存；没有好大哥，婆罗门的财路也会断；好大哥过节送礼，检查时可能被通风，工程纠纷也由好大哥摆平。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 180,
+          "url": "https://www.douyin.com/video/7600069250975419690"
+        }
+      ]
+    },
+    {
+      "event_id": "E006",
+      "title": "营销号夸大与实际陨落风险",
+      "description": "原文反驳营销号把婆罗门塑造成县城概念神，强调人数少、实际能量有限，工程款不到账后也可能很快踩上缝纫机。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 180,
+          "url": "https://www.douyin.com/video/7600069250975419690"
+        }
+      ]
+    },
+    {
+      "event_id": "E007",
+      "title": "老同学饭局改喝平价酒",
+      "description": "博主称过去非茅子不喝的婆罗门老同学，在饭局上改喝百元左右的酒，并说钱不好挣，该省省该花花。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 222,
+          "url": "https://www.douyin.com/video/7573620235488917989"
+        }
+      ]
+    },
+    {
+      "event_id": "E008",
+      "title": "相亲评价中的收入反转",
+      "description": "文案称很多博主口中的县城婆罗门还没葱姜蒜赚得多，并说县城相亲不卡收入，关键看家庭含编率。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 145,
+          "url": "https://www.douyin.com/video/7623070673635691791"
+        }
+      ]
+    },
+    {
+      "event_id": "E009",
+      "title": "商k豪车排面比较",
+      "description": "在开老旧吉博力去商k的排面叙事里，县城婆罗门被说成毫无优势，AA建材王哥的路虎揽胜也黯然失色。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 309,
+          "url": "https://www.douyin.com/video/7477990380806393127"
+        }
+      ]
+    },
+    {
+      "event_id": "E010",
+      "title": "小布尔乔亚与婆罗门的分界",
+      "description": "原文称县城小布尔乔亚是家族第一代摸到中产的人，上一代若有钱有实力，就叫婆罗门。",
+      "temporal": "顺序不明",
+      "chronology_basis": "仅文档索引",
+      "evidence": [
+        {
+          "index": 107,
+          "url": "https://www.douyin.com/video/7648547489775648613"
+        }
+      ]
+    }
+  ],
+  "storylines": [
+    {
+      "title": "婚恋高地与介绍资源",
+      "event_ids": [
+        "E002",
+        "E008"
+      ],
+      "narrative": "原文把县城婆罗门男性放在婚恋高地：他们找对象要带编制且漂亮，且由一大堆人介绍，不流入普通相亲市场。与此并列，另一篇又说很多博主口中的婆罗门还没葱姜蒜赚得多，县城相亲不卡收入、更看家庭含编率。开始是婚恋优势设定，冲突在收入与编制评价之间，但原文没有给出具体婚恋结果。",
+      "unresolved": "没有具体人物、婚配结果、女老师是否真的嫁入等后续。",
+      "evidence": [
+        {
+          "index": 35,
+          "url": "https://www.douyin.com/video/7687488459165967461"
+        },
+        {
+          "index": 145,
+          "url": "https://www.douyin.com/video/7623070673635691791"
+        }
+      ]
+    },
+    {
+      "title": "生意、办事与好大哥相互依存",
+      "event_ids": [
+        "E003",
+        "E004",
+        "E005",
+        "E006"
+      ],
+      "narrative": "婆罗门被说成占住赚钱买卖，普通人办事要对他们客气毕恭毕敬。但他们与好大哥并非单向控制，而是相互依存：好大哥过节送礼，检查可能被通风，工程纠纷靠好大哥摆平；没有好大哥，婆罗门财路也断。原文同时反驳营销号夸大，强调人数少、能量有限，工程款不到账后也可能很快陨落。",
+      "unresolved": "缺具体项目、检查、纠纷、落马案例和结局。",
+      "evidence": [
+        {
+          "index": 85,
+          "url": "https://www.douyin.com/video/7658577363571068169"
+        },
+        {
+          "index": 141,
+          "url": "https://www.douyin.com/video/7625514071126756623"
+        },
+        {
+          "index": 180,
+          "url": "https://www.douyin.com/video/7600069250975419690"
+        }
+      ]
+    },
+    {
+      "title": "消费排场到消费降级",
+      "event_ids": [
+        "E007",
+        "E009",
+        "E010"
+      ],
+      "narrative": "婆罗门曾以五线县城消费不亚一线白领、开BBA穿logo、非茅子不喝来展示身份；后来有老同学在饭局改喝平价酒，说钱不好挣，该省省该花花。商k豪车排面场景里，他们又被写成毫无优势。原文没有交代这种转变从何时开始、是否普遍。",
+      "unresolved": "消费降级的时间、范围和最终状态未明。",
+      "evidence": [
+        {
+          "index": 222,
+          "url": "https://www.douyin.com/video/7573620235488917989"
+        },
+        {
+          "index": 309,
+          "url": "https://www.douyin.com/video/7477990380806393127"
+        },
+        {
+          "index": 107,
+          "url": "https://www.douyin.com/video/7648547489775648613"
+        }
+      ]
+    },
+    {
+      "title": "与县城扫地僧的人生取向对照",
+      "event_ids": [
+        "E001"
+      ],
+      "narrative": "博主认为人生目标不应是活成县城婆罗门，而应活成县城扫地僧；婆罗门再厉害，也只是内卷游戏的胜利者，扫地僧则可以退出游戏。",
+      "unresolved": "没有婆罗门本人回应，也没有两种生活选择的实际结局。",
+      "evidence": [
+        {
+          "index": 31,
+          "url": "https://www.douyin.com/video/7689100760945414629"
+        }
+      ]
+    }
+  ],
+  "relationships": [
+    {
+      "target": "县城好大哥",
+      "relation": "相互依存：好大哥送礼、摆平工程纠纷，没有好大哥婆罗门财路会断；检查时也可能提前给好大哥通风。",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 180,
+          "url": "https://www.douyin.com/video/7600069250975419690"
+        }
+      ]
+    },
+    {
+      "target": "县城女老师",
+      "relation": "县城婆罗门男性是女老师婚恋选择中的高阶对象之一；有女老师能嫁入正儿八经婆罗门。",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 35,
+          "url": "https://www.douyin.com/video/7687488459165967461"
+        }
+      ]
+    },
+    {
+      "target": "县城扫地僧",
+      "relation": "两种相对的人生取向：婆罗门是内卷胜利者，扫地僧可退出游戏。",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 31,
+          "url": "https://www.douyin.com/video/7689100760945414629"
+        }
+      ]
+    },
+    {
+      "target": "县城葱姜蒜",
+      "relation": "收入比较对象；原文称很多博主口中的婆罗门还没葱姜蒜赚得多。",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 145,
+          "url": "https://www.douyin.com/video/7623070673635691791"
+        }
+      ]
+    },
+    {
+      "target": "县城小布尔乔亚",
+      "relation": "分界关系：小布尔乔亚是家族第一代摸到中产，上一代有钱有实力就叫婆罗门。",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 107,
+          "url": "https://www.douyin.com/video/7648547489775648613"
+        }
+      ]
+    },
+    {
+      "target": "营销号",
+      "relation": "营销号将其渲染为县城概念神；原文反驳这种夸大。",
+      "certainty": "明示",
+      "evidence": [
+        {
+          "index": 180,
+          "url": "https://www.douyin.com/video/7600069250975419690"
+        }
+      ]
+    }
+  ],
+  "speech_habits": [
+    {
+      "claim": "出现直接引语时，以实在口吻解释消费降级，强调钱不好挣、该省省该花花、重品质不追求大牌。",
+      "evidence": [
+        {
+          "index": 222,
+          "url": "https://www.douyin.com/video/7573620235488917989"
+        }
+      ]
+    }
+  ],
+  "contradictions": [
+    {
+      "issue": "能量与财富形象不一致",
+      "versions": [
+        {
+          "claim": "营销号/一般叙述中，婆罗门低调、能量大、非贵不喝、开BBA穿logo。",
+          "evidence": [
+            {
+              "index": 222,
+              "url": "https://www.douyin.com/video/7573620235488917989"
+            }
+          ]
+        },
+        {
+          "claim": "原文又称人数少、实际能量有限，很多博主口中的婆罗门还没葱姜蒜赚得多。",
+          "evidence": [
+            {
+              "index": 180,
+              "url": "https://www.douyin.com/video/7600069250975419690"
+            },
+            {
+              "index": 145,
+              "url": "https://www.douyin.com/video/7623070673635691791"
+            }
+          ]
+        }
+      ],
+      "resolution": "保留并列，不擅自合并为统一强弱判断。"
+    },
+    {
+      "issue": "消费观不同版本",
+      "versions": [
+        {
+          "claim": "过去开BBA、穿logo、非茅子不喝，是喝给别人看。",
+          "evidence": [
+            {
+              "index": 222,
+              "url": "https://www.douyin.com/video/7573620235488917989"
+            }
+          ]
+        },
+        {
+          "claim": "后来有老同学改喝百元酒，说该省省该花花、重品质不追求大牌。",
+          "evidence": [
+            {
+              "index": 222,
+              "url": "https://www.douyin.com/video/7573620235488917989"
+            }
+          ]
+        }
+      ],
+      "resolution": "保留并列，视为原文给出的前后变化，但不补写具体时间因果。"
+    },
+    {
+      "issue": "与好大哥是否单向掌控",
+      "versions": [
+        {
+          "claim": "很多人认为婆罗门掌握好大哥命脉。",
+          "evidence": [
+            {
+              "index": 180,
+              "url": "https://www.douyin.com/video/7600069250975419690"
+            }
+          ]
+        },
+        {
+          "claim": "原文说二者最多相互依存，没有好大哥婆罗门财路也断。",
+          "evidence": [
+            {
+              "index": 180,
+              "url": "https://www.douyin.com/video/7600069250975419690"
+            }
+          ]
+        }
+      ],
+      "resolution": "保留并列，按原文以相互依存为主。"
+    },
+    {
+      "issue": "“婆罗门”所指范围不统一",
+      "versions": [
+        {
+          "claim": "上一代有钱有实力者。",
+          "evidence": [
+            {
+              "index": 107,
+              "url": "https://www.douyin.com/video/7648547489775648613"
+            }
+          ]
+        },
+        {
+          "claim": "婚恋中要求带编漂亮、介绍资源多的男性。",
+          "evidence": [
+            {
+              "index": 35,
+              "url": "https://www.douyin.com/video/7687488459165967461"
+            }
+          ]
+        },
+        {
+          "claim": "办事时需被客气对待的关系群体。",
+          "evidence": [
+            {
+              "index": 85,
+              "url": "https://www.douyin.com/video/7658577363571068169"
+            }
+          ]
+        },
+        {
+          "claim": "占据赚钱买卖、限制普通人创业的群体。",
+          "evidence": [
+            {
+              "index": 141,
+              "url": "https://www.douyin.com/video/7625514071126756623"
+            }
+          ]
+        },
+        {
+          "claim": "五线县城消费不亚一线白领、后来消费降级的人上人。",
+          "evidence": [
+            {
+              "index": 222,
+              "url": "https://www.douyin.com/video/7573620235488917989"
+            }
+          ]
+        }
+      ],
+      "resolution": "保留并列；这些可能是复合群像的不同侧面，不是同一自然人的连续设定。"
+    }
+  ],
+  "gaps": [
+    "缺具体姓名、年龄、单位、家庭结构和个人收支。",
+    "缺“县城婆罗门”这一称呼的明确统一定义与边界。",
+    "缺婆罗门本人的完整自述，只有老同学一句消费观引语。",
+    "缺婚恋筛选后的具体婚配结果。",
+    "缺与好大哥利益往来、检查通风、工程纠纷的具体案例。",
+    "缺消费降级发生的时间、范围和是否普遍。",
+    "缺“婆罗门陨落”的正式结果。",
+    "缺其与编二代、厂二代、小布尔乔亚之间关系的系统说明。"
+  ],
+  "creative_expansions": [],
+  "source_coverage": [
+    {
+      "index": 31,
+      "role": "把县城婆罗门与县城扫地僧对照，提供“内卷游戏胜利者”的定位。",
+      "url": "https://www.douyin.com/video/7689100760945414629"
+    },
+    {
+      "index": 35,
+      "role": "提供婚恋筛选标准：带编制、漂亮，且介绍资源多、不流入相亲市场。",
+      "url": "https://www.douyin.com/video/7687488459165967461"
+    },
+    {
+      "index": 61,
+      "role": "把婆罗门与刀枪炮、假大哥真富少、编二代龙虎豹并列，作为县城幸福论中的列举对象。",
+      "url": "https://www.douyin.com/video/7673802651855671739"
+    },
+    {
+      "index": 85,
+      "role": "提供办事语境：想办成事需对县城那帮婆罗门客气、毕恭毕敬。",
+      "url": "https://www.douyin.com/video/7658577363571068169"
+    },
+    {
+      "index": 107,
+      "role": "提供与小布尔乔亚的分界：上一代有钱有实力即称婆罗门。",
+      "url": "https://www.douyin.com/video/7648547489775648613"
+    },
+    {
+      "index": 141,
+      "role": "提供生意资源定位：县城婆罗门占住赚钱买卖。",
+      "url": "https://www.douyin.com/video/7625514071126756623"
+    },
+    {
+      "index": 145,
+      "role": "提供收入反转与相亲评价：很多博主口中的婆罗门没葱姜蒜赚得多，相亲更卡含编率。",
+      "url": "https://www.douyin.com/video/7623070673635691791"
+    },
+    {
+      "index": 180,
+      "role": "集中提供与好大哥相互依存、人数少能量有限、检查通风、工程纠纷、陨落风险等矛盾信息。",
+      "url": "https://www.douyin.com/video/7600069250975419690"
+    },
+    {
+      "index": 222,
+      "role": "提供消费形象与消费降级：五线县城消费不亚一线白领、开BBA穿logo、非茅子不喝，后改喝平价酒。",
+      "url": "https://www.douyin.com/video/7573620235488917989"
+    },
+    {
+      "index": 309,
+      "role": "提供排面比较场景：在老旧吉博力/商k叙事中，县城婆罗门被写成毫无优势。",
+      "url": "https://www.douyin.com/video/7477990380806393127"
+    }
+  ]
+}
