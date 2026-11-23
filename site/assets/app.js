@@ -7,7 +7,10 @@ const $ = s=>document.querySelector(s);
 const esc = s=>String(s??'').replace(/[&<>"']/g,m=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[m]));
 let limit = 24, onlySaved = false;
 let saved = new Set();
-try{ saved = new Set(JSON.parse(localStorage.getItem('county-saved-v2')||'[]')); }catch(e){}
+try {
+  const values = JSON.parse(localStorage.getItem('county-saved-v2') || '[]');
+  if (Array.isArray(values)) saved = new Set(values.filter(slug => bySlug.has(slug)));
+} catch {}
 const savedBtn = $('#savedBtn');
 const persist=()=>{ try{localStorage.setItem('county-saved-v2',JSON.stringify([...saved]));}catch(e){}
   $('#savedCount').textContent=saved.size;
@@ -15,21 +18,10 @@ const persist=()=>{ try{localStorage.setItem('county-saved-v2',JSON.stringify([.
 
 function art(c){return c.image?`<img src="${esc(c.image)}" alt="${esc(c.name)}的原创虚构人物插画" loading="lazy" width="768" height="1024">`:`<div class="pending"><strong>形象待绘制</strong><small>人物档案已编号</small></div>`}
 
-const storyTags = new Set(['A','BLOCKQUOTE','BR','CODE','DEL','DIV','EM','H1','H2','H3','H4','H5','H6','HR','LI','OL','P','PRE','STRONG','TABLE','TBODY','TD','TH','THEAD','TR','UL']);
-const sourceUrl = /^https:\/\/www\.douyin\.com\/video\/\d{18,20}$/;
 function renderMarkdown(text){
   const template=document.createElement('template');
   template.innerHTML=marked.parse(text);
-  template.content.querySelectorAll('*').forEach(element=>{
-    if(!storyTags.has(element.tagName)){element.remove();return;}
-    const href=element.getAttribute('href')||'';
-    [...element.attributes].forEach(attribute=>element.removeAttribute(attribute.name));
-    if(element.tagName==='A'&&sourceUrl.test(href)){
-      element.href=href;
-      element.target='_blank';
-      element.rel='noopener noreferrer';
-    }
-  });
+  sanitizeMarkdown(template.content);
   return template;
 }
 
@@ -92,7 +84,7 @@ function group(title,items,c,isStory,note){
     if(typeof it==='string')return `<li>${esc(it)}</li>`;
     const t=it.title||it.issue||it.domain||it.target||it.name||it.label||'';
     const d=it.description||it.narrative||it.desc||it.claim||it.relation||it.resolution||it.text||it.detail||it.content||it.summary||it.role||'';
-    const refs=(it.url?[it]:it.evidence||[]).filter(ref=>sourceUrl.test(ref.url));
+    const refs=(it.url?[it]:it.evidence||[]).filter(ref=>isSourceUrl(ref.url));
     const links=refs.map(ref=>`<a href="${esc(ref.url)}" target="_blank" rel="noopener noreferrer">作品 ${esc(ref.index)}</a>`);
     return `<li>${t?`<strong>${esc(t)}</strong>`:''}${d?`<p>${esc(d)}</p>`:''}${links.length?`<span class="cites">${links.join(' · ')}</span>`:''}</li>`;
   }).join('');
