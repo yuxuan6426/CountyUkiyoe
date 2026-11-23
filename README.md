@@ -14,7 +14,7 @@
 python site/preview.py
 ```
 
-打开 [本地图鉴](http://127.0.0.1:8102/)。Codex 中可运行同名项目的「启动图鉴预览」动作。用 `python site/build.py --output dist` 生成一份静态网站。GitHub Actions 使用同一构建入口部署 GitHub Pages。
+打开 [本地图鉴](http://127.0.0.1:8102/)。预览构建在临时目录，退出服务器时清理。用 `python site/build.py --output dist` 生成一份可发布的静态网站，再构建时指定一个空的输出目录。GitHub Actions 使用同一构建入口部署 GitHub Pages。
 
 ## 内容与许可
 
