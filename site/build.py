@@ -13,6 +13,7 @@ GALLERY = ROOT / 'gallery'
 DOUYIN = re.compile(r'https://www\.douyin\.com/video/\d{18,20}')
 SLUG = re.compile(r'\d{4}-[a-z0-9-]+')
 IMAGE = re.compile(r'(?:variants/)?[a-z0-9-]+\.jpg')
+PAGES_ROOT = 'https://yuxuan6426.github.io/'
 
 
 def read_json(path):
@@ -26,10 +27,10 @@ def asset(directory, name):
     return path
 
 
-def build(output):
+def build(output, platform='wiki'):
     data = read_json(GALLERY / 'index.json')
     public_cards = []
-    staged_assets = [SITE / 'assets' / name for name in ('app.js', 'style.css', 'marked.min.js')]
+    staged_assets = [SITE / 'assets' / name for name in ('app.js', 'style.css', 'marked.min.js', 'character-entry.js')]
     seen = set()
     variant_count = 0
     for card in data['cards']:
@@ -67,12 +68,19 @@ def build(output):
     payload = json.dumps({'meta': data['meta'], 'cards': public_cards}, ensure_ascii=False, separators=(',', ':'))
     (output / 'site/data.js').write_text('window.COUNTY_DATA=' + payload + ';\n', encoding='utf-8')
     shell = (SITE / 'shell.html').read_text(encoding='utf-8')
+    if platform == 'pages':
+        shell = shell.replace('https://card.yuxuan.wiki/', PAGES_ROOT + 'CountyUkiyoe-Play/')
+        shell = shell.replace('https://quiz.yuxuan.wiki/', PAGES_ROOT + 'CountyUkiyoe-Quiz/')
     (output / 'site/index.html').write_text(shell, encoding='utf-8')
+    character = shell.replace('</body>', '<script src="assets/character-entry.js"></script>\n</body>')
+    (output / 'site/character.html').write_text(character, encoding='utf-8')
     print(f'Built {len(public_cards)} character cards and {variant_count} variant images.')
 
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument('--output', type=Path, default=ROOT, help='empty directory for the static site')
+    parser.add_argument('--platform', choices=('wiki', 'pages'), default='wiki',
+                        help='deployment used for links to the quiz and card sites')
     args = parser.parse_args()
-    build(args.output.resolve())
+    build(args.output.resolve(), args.platform)
